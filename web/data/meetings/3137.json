@@ -1,0 +1,101 @@
+{
+  "meetingId": "3137",
+  "announcement": {
+    "heading": "20. Sitzung des Werkausschusses",
+    "sessionNumber": 20,
+    "date": "2023-04-20",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Hallenbad Langenzenn; hier: Sachstandsbericht Urheberrecht"
+      },
+      {
+        "number": "2.",
+        "title": "Sachstandsbericht „Erneuerung der Wasserleitung Hochbehälter\""
+      },
+      {
+        "number": "3.",
+        "title": "Wirtschafts- und Investitionsplan 2023 Stadtwerke Langenzenn"
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.1.",
+        "title": "Termin Stadtwerke Klausur"
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "13. April 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "20. Sitzung des Werkausschusses",
+    "sessionNumber": 20,
+    "date": "2023-04-20",
+    "startTime": "16:00",
+    "endTime": "17:50",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Hallenbad Langenzenn; hier: Sachstandsbericht Urheberrecht",
+        "facts": "Dem Werkausschuss wird die Problematik „Urheberrecht“ bei der Sanierung des Hallenbades Langenzenn durch einen Rechtsanwalt vorgestellt. Es wird über den bisherigen Sachstand und die Notwendigkeit der Anpassung der bisherigen Planerverträge berichtet. Des Weiteren wird die Anpassung des TGA-Planervertrages, der Abschluss eines Architektenvertrags sowie das weitere mögliche Vorgehen erläutert.\n\nDer Sachstandsbericht ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Sachstandsbericht „Erneuerung der Wasserleitung Hochbehälter\"",
+        "facts": "Die Arbeiten für die Erneuerung der für die Versorgung von Langenzenn mit Trinkwasser so wichtigen Wasserleitung vom Hochbehälter zum Ortsnetz Langenzenn haben am Montag, dem 13.03.2023 wie geplant begonnen. Als erster Schritt wurden im Bereich der Fußgängertreppe zwischen Weinbergstraße und Bergstraße Suchschlitze und Montagegruben hergestellt, um die Leitungstiefe und die genaue Lage der bereits mittels Spülbohrverfahren vorab verlegten Wasserleitung zu erkunden.\n\nGerade an der Einbindestelle Bergstraße gestaltete sich dies aufgrund der Vielzahl von dort verlaufenden Leitungen und Kabeln schwieriger als geplant. Im Anschluss begannen die Verlegearbeiten der ca. 180m neuen Wasserleitung, der Grundablassleitung und der Kabelleerrohre in Richtung Hochbehälter. Trotz der zeitweisen Einstellung der Arbeiten, aufgrund von anhaltenden Regenfällen, liegen die Arbeiten im Zeitplan. Die neuen Leitungsabschnitte wurden am 18. und 19.04.2023 auf Dichtheit geprüft und können nach Eingang der Befunde\n\nder Wasserproben voraussichtlich ab der KW17 an das Leitungsnetz und den Hochbehälter angeschlossen werden.\n\nDiese Arbeiten werden zeitgleich und koordiniert ausgeführt, da die Wasserversorgung parallel aufrechterhalten werden muss. Um dies zu gewährleisten wird die ausführenden Firma in Zusammenarbeit mit den Stadtwerken mehrere Montagetrupps einsetzen und durch Umstellung der Versorgungszonen den Wasserbedarf abdecken. Das neue Beton- Schachtbauwerk, das zukünftig mittels Rückschlagklappe die Trennung der neue Grundablassleitung zum Kanal sicherstellt, wird voraussichtlich in der KW19 geliefert und nachträglich mittels Autokran platziert und angeschlossen.\n\nBis zum Abschluss der Maßnahme und der anschließenden Wiederherstellung des Fußweges oberhalb der Weinbergstraße bleibt dieser für den Verkehr weiterhin gesperrt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Wirtschafts- und Investitionsplan 2023 Stadtwerke Langenzenn",
+        "facts": "Der Werkleiter stellt den Wirtschafts- und Investitionsplan 2023 der Stadtwerke Langenzenn vor, dieser ist der Niederschrift als Anlage 2 beigefügt. Die Sparte Strom wird im nächsten Werkausschuss erläutert.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.1.",
+        "title": "Termin Stadtwerke Klausur",
+        "facts": "Für die Klausur werden dem Gremium folgende mögliche Termine vorgeschlagen: 01.07.2023, 12./13.09.2023 oder 13./14.11.2023.",
+        "decision": "Der Werkausschuss beschließt die Klausur am 14.11.2023 durchzuführen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "Beginn der Baumaßnahme Falkenstraße",
+        "facts": "Im Zuge der Sanierung des südlichen Gehweges und einer Stützmauer erfolgt im Nachgang eine Deckensanierung der Fahrbahn durch das Bauamt der Stadt Langenzenn.\n\nIm Bereich des Baufeldes erneuern die Stadtwerke während dieser Maßnahme die Trinkwasserleitung, die Verkabelung der Straßenbeleuchtung inkl. Masten und Lampen, sowie die Kabelverteilerschränke. Beginn der Maßnahme ist für die KW 17 geplant. Für die Arbeiten an den Wasser- und Stromleitungen sind insgesamt 6 Wochen vorgesehen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "5.1.",
+        "title": "Nachtabschaltung der Straßenbeleuchtung",
+        "facts": "Stadtrat Ströbel erkundigt sich, ob es bereits Planungen zur Beendigung der nächtlichen Abschaltung der Straßenbeleuchtung bzw. der besonderen Objektbeleuchtung, wie z.B. der Kirche, gibt. Es soll durch die Stadtwerke ein Vorschlag eingebracht werden und dabei auch geprüft werden, ob eine dauerhafte Beleuchtung der Straßen z.B. mit einer Drosselung der Stärke möglich ist.\n\nDer Werkleiter informiert, dass die Anweisung zur Beendigung der nächtlichen Abschaltung im Stadtrat erfolgen muss."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "154747",
+    "minutes": "156185"
+  }
+}

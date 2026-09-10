@@ -1,0 +1,273 @@
+{
+  "meetingId": "3224",
+  "announcement": {
+    "heading": "43. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 43,
+    "date": "2024-05-14",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Umnutzung eines Wohnhauses in ein Wohnhaus mit integrierter Kindertagespflege für acht Kinder auf dem Grundstück Cadolzburger Weg 27"
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Geländeauffüllung und Errichtung eines Busparkplatzes und einer Zelthalle für Innenreinigung und Kleinreparaturen auf dem Grundstück Nähe Fabrikstraße"
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zur Errichtung eines Kaltwintergartens auf dem Grundstück Rothenburger Str. 4"
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Aufstellung des Bebauungsplanes Nr. 75 \"Horbach-Mitte\"; hier: weitere Vorgehensweise"
+      },
+      {
+        "number": "3.2.",
+        "title": "Gemeinde Veitsbronn – Aufstellung eines vorhabenbezogenen Bebauungsplanes mit Grünordnungsplan Nr. 49 und Vorhaben- und Erschließungsplan sowie 17. Änderung des FNP „Solarpark westlich der Grundschule; hier: Beteiligung der Nachbargemeinde gemäß § 2 Abs. 2 BuaGB"
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Aktuelle Baustellen/Straßensperrungen"
+      },
+      {
+        "number": "5.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt um ca. 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "Prinzregentenplatz 1 die",
+    "signedBy": "43. Sitzung des Bau-, Umwelt- und Verkehrsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, Der öffentliche Teil der Sitzung beginnt um ca. 16:30 Uhr., 2.        Baugesuche und Anträge auf Vorbescheid, 2.1.      Antrag auf Umnutzung eines Wohnhauses in ein Wohnhaus mit integrierter, Kindertagespflege für acht Kinder auf dem Grundstück Cadolzburger Weg 27, 2.2.      Antrag auf Geländeauffüllung und Errichtung eines Busparkplatzes und einer Zelthalle für, Innenreinigung und Kleinreparaturen auf dem Grundstück Nähe Fabrikstraße, 2.3.      Antrag zur Errichtung eines Kaltwintergartens auf dem Grundstück Rothenburger Str. 4, 3.        Bauleitplanung, 3.1.      Aufstellung des Bebauungsplanes Nr. 75 \"Horbach-Mitte\";, hier: weitere Vorgehensweise, 3.2.      Gemeinde Veitsbronn – Aufstellung eines vorhabenbezogenen Bebauungsplanes mit, Grünordnungsplan Nr. 49 und Vorhaben- und Erschließungsplan sowie 17. Änderung des, FNP „Solarpark westlich der Grundschule;, hier: Beteiligung der Nachbargemeinde gemäß § 2 Abs. 2 BuaGB, 4.        Verkehrsangelegenheiten, 4.1.      Aktuelle Baustellen/Straßensperrungen, 5.        Sachstandsberichte laufender städtischer Projekte, 6.        Mitteilungen, 7.        Sonstiges, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 7. Mai 2024, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "43. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 43,
+    "date": "2024-05-14",
+    "startTime": "16:00",
+    "endTime": "18:02",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vertreter für ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni",
+            "note": "ab TOP 3.1"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Plevka, Melanie",
+            "note": "ab TOP 3.1, Vertreterin für StR Sieber"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "Vertreter für StR Schramm"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Umnutzung eines Wohnhauses in ein Wohnhaus mit integrierter Kindertagespflege für acht Kinder auf dem Grundstück Cadolzburger Weg 27",
+        "facts": "Antrag auf Umnutzung eines Wohnhauses in ein Wohnhaus mit integrierter Kindertagespflege für acht Kinder auf dem Grundstück Flur-Nr. 739/6, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\n(Stadträtin Franz ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Geländeauffüllung und Errichtung eines Busparkplatzes und einer Zelthalle für Innenreinigung und Kleinreparaturen auf dem Grundstück Nähe Fabrikstraße",
+        "facts": "Antrag auf Geländeauffüllung und Errichtung eines Busparkplatzes und einer Zelthalle für Innenreinigung und Kleinreparaturen auf dem Grundstück Flur-Nr. 529, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass bereits für die Geländeauffüllung sowie der Errichtung einer Zelthalle jeweils ein Bauantrag eingereicht wurde. Diese wurden zum einem im Zuge der laufenden Verwaltung (hier: Antrag zur Geländebegradigung/Auffüllung einer Teilfläche des Grundstückes Fl.-Nr. 529; Bekanntgabe BUVA-Sitzung am 27.09.22) und zum anderen im Ferienausschuss am 25.08.2022 (Errichtung einer Zelthalle) entsprechend behandelt. Das gemeindliche Einvernehmen wurde hierzu jeweils erteilt.\n\nFür beide Bauanträge wurde bislang noch keine Baugenehmigung erteilt, da noch etwaige Unterlagen vom Landratsamt Fürth (u.a. Anträge auf Befreiungen von den Festsetzungen des Bebauungsplanes, Betriebsbeschreibung, Nachweise/Prüfberichte zum eingebauten Auffüllmaterial, Angaben zur Erschließung, Höhendarstellung/ Schnitte etc.) nachgefordert wurden. Hierbei wurde darauf hingewiesen, dass die Zelthalle lediglich der Innenreinigung der Busse sowie für Kleinreparaturen (Austausch von Leuchtmitteln etc.) dienen soll.\n\nDer Antragsgegenstand wird demnach wie folgt angepasst: „Geländeauffüllung und Errichtung eines Busparkplatzes und einer Zelthalle für Innenreinigung und Kleinreparaturen“.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiungen von den Festsetzungen des Bebauungsplanes hinsichtlich der Höheneinstellung der Gebäude, Befestigung der Freiflächen (Zufahrt) sowie der Dacheindeckung wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zur Errichtung eines Kaltwintergartens auf dem Grundstück Rothenburger Straße 4",
+        "facts": "Antrag zur Errichtung eines Kaltwintergartens auf dem Grundstück Flur-Nr. 892/2, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiungen von den Festsetzungen des Bebauungsplanes hinsichtlich Dachform, Dachneigung und Dachmaterial werden erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Aufstellung des Bebauungsplanes Nr. 75 \"Horbach-Mitte\"; hier: weitere Vorgehensweise",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 19.11.2019 die Aufstellung des Bebauungsplanes Nr. 75 „Horbach-Mitte“ im beschleunigten Verfahren gemäß § 13b BauGB beschlossen.\n\nAufgrund großer Defizite in der hydraulischen Leistungsfähigkeit der bestehenden Abwasserkanäle im Umfeld sowie einer komplexen abwassertechnischen Erschließung des Baugebietes konnte das Bauleitplanverfahren bislang nicht fortgeführt werden.\n\nHierzu wurde bereits in der Bau-, Umwelt- und Verkehrsausschusssitzung am 18.07.2023 durch das Ingenieurbüro Miller, Nürnberg, eine ausführliche Vorentwurfsplanung für die Erschließung des Baugebietes sowie die Behebung der hydraulischen Missstände vorgestellt.\n\nDabei konnte u.a. festgehalten werden, dass eine insgesamt wirtschaftliche und sinnvolle Lösung für die Abwasserableitung im Geltungsbereich des Bebauungsplanes nur durch eine kombinierte Erschließungs- und Sanierungsmaßnahme im Mischsystem erreicht werden kann.\n\nDerzeitige baurechtliche Situation:\n\nDas Bundesverwaltungsgericht hat mit Urteil vom 18.06.2023 – Az.: 4 CN 3.22 – entschieden, dass das in § 13b BauGB vorgesehene beschleunigte Verfahren zur Aufstellung von Bebauungsplänen gegen EU-Recht verstößt.\n\nDas Bundesverwaltungsgericht ist im Ergebnis zur Europarechtswidrigkeit des § 13b BauGB gekommen und begründet dies im Wesentlichen damit, dass ein Verzicht auf die Umweltprüfung nur möglich ist, wenn erhebliche Umweltauswirkungen in jedem Fall von vornherein\n\nausgeschlossen sind. Dies könne nicht pauschal in einem Gesetz festgelegt werden. Festgestellt hat das Gericht dann, dass § 13b BauGB nicht mehr angewendet werden darf.\n\nDie Unanwendbarkeit des § 13b BauGB hat zur Folge, dass für die betroffenen 13b-Pläne im bisherigen Außenbereich keine anwendbare Rechtsgrundlage existiert, auf die die Aufstellung des Bebauungsplans im beschleunigten Verfahren gestützt werden könnte.\n\nNach § 13b BauGB begonnene und noch nicht durch Bekanntmachung des Bebauungsplans gemäß § 10 Absatz 3 Satz 4 BauGB abgeschlossene Planverfahren sind daher entweder abzubrechen oder auf ein anderes Verfahren, in der Regel auf das Regelverfahren, umzustellen, so dass sämtliche Verfahrensmodifikationen auf der Grundlage des § 13b BauGB nicht greifen.\n\nDas bedeutet, dass die Aufstellung des Bebauungsplanes Nr. 75 „Horbach-Mitte“ nicht mehr im beschleunigten Verfahren gemäß § 13b BauGB durchgeführt werden kann.\n\nEin Verfahrenswechsel zur Aufstellung einen qualifizierten Bebauungsplan gemäß § 30 Abs. 1 BauGB (mit Umweltprüfung + Eingriffsbilanzierung / Ausgleichsmaßnahmen) sowie die Änderung des Flächennutzungsplanes wären demnach notwendig.\n\nBezüglich der Flächennutzungsplanänderung müsste u.a. bei der Regierung ein entsprechender Bedarfsnachweis zur weiteren Ausweisung von Wohnbauflächen (ggf. durch Rücknahme von geplanten Wohnbauflächen im derzeitigen FNP) geführt werden.\n\nDerzeitige Entwässerungssituation:\n\nAuszug aus einer Stellungnahme des Ingenieurbüro Miller vom 12.05.2021:\n\n„Baulicher Sanierungsbedarf: Die bestehenden Mischwasserkanäle wurden in der Zustandsbeurteilung aufgrund der Schadensbilder der optischen TV-Inspektionen weitgehend den Zustandsklassen ZK 1 \"kurzfristiger Handlungsbedarf\" und ZK 2 \"mittelfristiger Handlungsbedarf\" zugewiesen. Uns ist aber keine Vorgabe bekannt, in der die Zeiträume \"kurzfristig\" und \"mittelfristig\" definiert wären.\n\nHydraulischer Sanierungsbedarf: Die Kanalnetzberechnung 2021 hat ergeben, dass die Mischwasserkanäle in diesem Bereich teilweise die im Regelwerk geforderte hydraulische Mindestleistungsfähigkeit nicht aufweisen. Eine zeitliche Vorgabe zur Sanierung ist uns im Regelwerk nicht bekannt. Wenn jetzt ein Starkregenereignis auftritt, durch das es in diesem Bereich zu einer kanalindizierten Überflutung mit Schadensfolge bei einem Anliegergrundstück kommt, würde der Handlungsdruck natürlich schnell und deutlich stärker werden.\n\nBetrieblicher Sanierungsbedarf: Nach Regelwerk liegt die betriebsgewöhnliche Nutzungsdauer von Abwasserkanälen, die jetzt neu gebaut werden, bei 50 bis 80 Jahren. Die bestehenden Mischwasserkanäle in diesem Bereich wurden zwischen 1968 und 1972 gebaut. Die Bausubstanz der bestehenden Mischwasserkanäle ist also bereits über 50 Jahre alt und damit in einem Bereich, wo man über eine turnusmäßige Sanierung nachdenken kann, um das Kanalnetz Langenzenn insgesamt intakt zu halten.\n\nAus unserer Sicht sollte man die Abwasserkanäle spätestens in 5 bis 10 Jahren sanieren, wenn das Baugebiet nicht kommt.“\n\nHerr Endres vom Ingenieurbüro Miller stellt dem Ausschuss die fortgeschriebenen Vorentwurfspläne zur abwassertechnischen Erschließung sowie eine aktuelle Kostenschätzung vor. Die Unterlagen sind im Ratsinformationssystem eingestellt.\n\nDemnach werden die Baukosten für die hydraulische Sanierung ohne Baugebiet auf rund 2.100.000 Euro beziffert. Die Kosten für eine hydraulische Sanierung mit Baugebiet auf 1.820.000 Euro, wovon ca. 570.000 Euro isoliert auf das Baugebiet entfallen.\n\nMit der baulichen Umsetzung des Baugebietes „Horbach-Mitte“ ist eine unmittelbare Erneuerung/Sanierung des Entwässerungskanals vom Baugebiet bis hin zur Lohmühle, somit ca. 1.250.000 Euro, erforderlich.\n\nDer o.g. Kostenanteil für die reine hydraulische Sanierung im „Gebiet Horbach“ ist im 10- Jahresplan bislang noch nicht enthalten.\n\nDie Verwaltung bittet den Bau-, Umwelt- und Verkehrsausschuss um Entscheidung.\n\nStadträtin Schendzielorz-Kostopoulos stellt Antrag auf Anhörung des Herrn Engelhardt.\n\neinstimmig beschlossen                       Dafür: 8 Dagegen: 0\n\nHerr Engelhardt teilt mit, dass einige Kanäle und Leitungen nicht dinglich gesichert sind. Er wird der Verwaltung die Trassen auf einem Lageplan einzeichnen.\n\nDie Präsentation des Ingenieurbüros Miller und die Vorentwurfsplanung liegen der Niederschrift als Anlage 1 und 2 bei.",
+        "decision": "Der Tagesordnungspunkt wird vorerst vertagt.\n\nIm Rahmen der laufenden Verwaltung sollen durch das Bauamt der notwendige Bedarfsnachweis für die Ausweisung von Wohnbauflächen mit der Regierung von Mittelfranken vorabgestimmt und die dingliche Sicherung von Leitungs- und Kanaltrassen geprüft werden.\n\nzurückgestellt"
+      },
+      {
+        "number": "3.2.",
+        "title": "Gemeinde Veitsbronn – Aufstellung eines vorhabenbezogenen Bebauungsplanes mit Grünordnungsplan Nr. 49 und Vorhaben- und Erschließungsplan sowie 17. Änderung des FNP „Solarpark westlich der Grundschule; hier: Beteiligung der Nachbargemeinde gemäß § 2 Abs. 2 BuaGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur Aufstellung des vorhabenbezogenen Bebauungsplanes mit Grünordnungsplan Nr. 49 und Vorhaben- und Erschließungsplan sowie zur 17. Änderung des Flächennutzungsplanes „Solarpark westlich der Grundschule“ vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis, die Belange der Stadt Langenzenn werden nicht berührt.\n\n(Stadträtin Franz ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Aktuelle Baustellen/Straßensperrungen",
+        "facts": "Aktuelle Baustellen/Straßensperrungen: -   Glasfaser Kabelverlegung o Vollsperrung Rosenstraße 5-7 am 10.05.2024 o Vollsperrung Schreiberstorberg 8 – Hindenburgstraße 7 vom 13.05.- 17.05.2024 o Fahrbahneinengung + Gehwegvollsperrung Prinzregentenplatz 1 bis Hindenburgstraße 22 (abschnittsweise) vom 13.05.-21.05.2024 o Teilweise Sperrung des Gehweges am Bahnhofsplatz, Nürnberger Str. 27, vom 15.04.2024-17.05.2024 o Vollsperrung der Münzgasse, am Eckertsberg und in der Alten Zennstraße 18- 24, bis zum 22.05.2024 o Teilweise Sperrung des Gehweges in der Oberen Ringstraße vom 20.05.- 01.06.2024 o OT Stinzendorf, Seukendorfer Straße 14 - Dillenbergstr. 16, abschnittsweise Vollsperrung des Gehweges und teilweise halbseitige Sperrung der Fahrbahn wegen Kabelverlegungsarbeiten Strom und Telefon; Verlängerung 07.06.2024\n\nStadträtin Meyer möchte wissen, weshalb die Treppenanlage im Bereich Loher Berg 12 gesperrt wurde. Die Verwaltung teilt mit, dass Teile der Stützwand locker geworden sind. Hierzu werden derzeit die Eigentumsverhältnisse noch geprüft.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "7.1.",
+        "title": "Parksituation in der Oberen Ringstraße",
+        "facts": "Stadtrat O. Vogel weist die Verwaltung darauf hin, dass in der Oberen Ringstraße / im Kreuzungsbereich Burggrafenhofer Straße, am Ende der Fahrradspur, Mülleimer und parkende Autos den Gehweg blockieren.\n\nDie Verwaltung soll hier ein Parkverbot prüfen."
+      },
+      {
+        "number": "7.2.",
+        "title": "Müllbehälter in der Unteren Ringstraße",
+        "facts": "Stadtrat O. Vogel teilt mit, dass trotz der Versetzung der Einfriedung, die Müllbehälter nach wie vor auf dem Gehsteig abgestellt werden.\n\nEr bittet um Überprüfung."
+      },
+      {
+        "number": "7.3.",
+        "title": "Anstehende Vollsperrung in der Oberen Ringstraße",
+        "facts": "Die Verwaltung teilt mit, dass es aufgrund einer privaten Baumaßnahmen in der Oberen Ringstraße in Kürze zu einer Vollsperrung kommt."
+      },
+      {
+        "number": "7.4.",
+        "title": "Hinweisschild in der Waldstraße in Laubendorf",
+        "facts": "Stadträtin Schlager stellt den Antrag auf Aufstellung eines entsprechenden Hinweisschildes in der Waldstraße in Laubendorf, da hier keine Wendemöglichkeit für LKW besteht."
+      },
+      {
+        "number": "7.5.",
+        "title": "Aktueller Sachstand zur Feuerwehr Kirchfembach",
+        "facts": "Stadträtin Schlager erkundigt sich nach dem aktuellen Sachstand zur Feuerwehr Kirchfembach.\n\nDie Verwaltung teilt mit, dass aufgrund des Personalmangels hier noch kein Planungsauftrag umgesetzt werden kann."
+      },
+      {
+        "number": "7.6.",
+        "title": "Aktueller Sachstand zum Spielplatz in Lohe",
+        "facts": "Stadträtin Schlager erkundigt sich nach dem aktuellen Sachstand zum Spielplatz in Lohe und wann dieser komplett mit Spielgeräten ausgestattet sein wird.\n\nDie Verwaltung teilt mit, dass, gemäß Beschluss vom 23.06.2022, eine Rutsche, Schaukel und eine Federwippe aufgestellt wurden. Die weitere Umsetzung ist von der Realisierung des Dorfplatzes abhängig.\n\nZweiter Bürgermeister Ell erkundigt sich nach einer Sitzgelegenheit und Beschattung. Die Verwaltung teilt mit, dass eine Sitzbank vor Ort ist und ein Baum gepflanzt wurde."
+      },
+      {
+        "number": "7.7.",
+        "title": "Einzäunung Spielplatz Von-Wildenfels-Straße",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos gibt den Hinweis, dass am Spielplatz in der Von- Wildenfels-Straße seit der Einzäunung ein Einbruch der Nutzung zu verzeichnen ist. Die Zahl der Kleinkinder hätte sich halbiert, Jugendliche besuchen den Spielplatz wohl kaum mehr und auch ältere Menschen haben Probleme, mit ihrem Rollator die Türe aufzuhalten und gleichzeitig den Spielplatz zu befahren. Sie bedauert, dass hier ein Missstand geschaffen wurde."
+      },
+      {
+        "number": "7.8.",
+        "title": "Antrag des Bürgerbussvereins",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos legt der Verwaltung einen Antrag von Herrn Krippner im Auftrag des Bürgerbusvereins Langenzenn e.V. „BüBLa“ vor."
+      },
+      {
+        "number": "7.9.",
+        "title": "Geschwindigkeitsmessgerät am katholischen Kindergarten",
+        "facts": "Stadträtin Franz erkundigt sich nach dem Sinn der Anbringung des Geschwindigkeitsmessgerätes am katholischen Kindergarten, von der Reichenbacher Straße kommend.\n\nHier könne man generell nicht schnell fahren und das Gerät selbst sei teilweise von einer Hecke verdeckt.\n\nSie bittet um Überprüfung."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "165275",
+    "minutes": "171219"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "meetingId": "3426",
+  "announcement": {
+    "heading": "2. Sitzung des Stadtrates",
+    "sessionNumber": 2,
+    "date": "2026-06-10",
+    "startTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Ergebnispräsentation und Veröffentlichung"
+      },
+      {
+        "number": "4.",
+        "title": "Teilsanierung Grundschule Langenzenn; hier: Abschlussbescheid der Regierung von Mittelfranken"
+      },
+      {
+        "number": "5.",
+        "title": "Generalsanierung Hallenbad; Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Aktueller Stand zur Beschlussfassung des Marktes Wilhermsdorf und ggf. Neufassung / Änderung des Stadtratsbeschlusses vom 16.04.2026 bzw. 12.05.26"
+      },
+      {
+        "number": "6.",
+        "title": "Breitbandausbau im Stadtgebiet von Langenzenn; hier: Aktueller Stand und erneuter Förderaufruf im \"Bundes-Gigabit-Programm\""
+      },
+      {
+        "number": "7.",
+        "title": "1. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO) vom 12.05.26; hier: Übertragung von Aufgaben an den Sozial-, Bildungs- und Kulturausschuss"
+      },
+      {
+        "number": "8.",
+        "title": "Ratsinformationssystem; hier: Zuschuss für mobile Endgeräte"
+      },
+      {
+        "number": "9.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung"
+      },
+      {
+        "number": "10.",
+        "title": "Bearbeitungsstand der Anträge des Stadtrates Stand November 2025"
+      },
+      {
+        "number": "11.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "12.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "3. Juni 2026",
+    "signedBy": "Ell, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "2. Sitzung des Stadtrates",
+    "sessionNumber": 2,
+    "date": "2026-06-10",
+    "startTime": "18:00",
+    "endTime": "20:11",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Bauereiß, Jörg"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Goos, André"
+          },
+          {
+            "name": "Höfler, Gunther"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie, Zweite Bürgermeisterin"
+          },
+          {
+            "name": "Runge, Britta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Urbanc, Horst"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 2"
+          }
+        ]
+      },
+      {
+        "role": "Schriftführer/in",
+        "members": [
+          {
+            "name": "Berthold, Michaela"
+          }
+        ]
+      },
+      {
+        "role": "von der Verwaltung",
+        "members": [
+          {
+            "name": "Höpfert, Florian"
+          },
+          {
+            "name": "Kreß, Christian"
+          },
+          {
+            "name": "Lampert, Ralph"
+          },
+          {
+            "name": "Müller, Heike"
+          },
+          {
+            "name": "Tiefel, Markus"
+          },
+          {
+            "name": "Vogel, Daniela"
+          },
+          {
+            "name": "Wittmann, Michael"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Kempe, Daniel"
+          },
+          {
+            "name": "Kesselring, Florian"
+          },
+          {
+            "name": "Kimberger, Michael"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n68. Sitzung des Bau-, Umwelt- und Verkehrsausschuss vom 28.04.2026\n\n1. Straßenbeleuchtung; hier: Neubeschaffung von Leuchtenköpfen\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Lieferung von 22 ergänzenden LED-Leuchten im Bereich der Frankenstraße an die Firma Siteco, Traunreut, auf Grundlage des Angebots vom 26.02.2026 in Höhe von brutto 10.131,66 Euro.\n\n2. Kulturhof Langenzenn – Bildungs- und Kulturscheune – Vergabe der Sanierungsarbeiten hier: Vorberatung und Vergabe der statischen Sanierung Gebäude\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe Sanierungsarbeiten an die Firma Team Steinmetz GmbH, Dietenhofen, auf Grundlage des Angebotes vom 18.02.2026 in Höhe von brutto 7.272,61 Euro.\n\nDie notwendigen Mittel sind für den Haushalt 2026 unter der Haushaltsstelle 1.3310.9450 vorzusehen.\n\n1. Sitzung des Stadtrates vom 12.05.2026\n\n3. Besoldung des berufsmäßigen Ersten Bürgermeisters\n\nDer Stadtrat stellt fest, dass eine Beschlussfassung zur Besoldung des berufsmäßigen Ersten Bürgermeister (Beamter auf Zeit) Christian Ell nicht erforderlich ist. Die Vergütung erfolgt in Besoldungsgruppe B2\n\n4. Dienstaufwandsentschädigung des berufsmäßigen Ersten Bürgermeisters\n\nDer Stadtrat beschließt, dass dem berufsmäßigen Ersten Bürgermeister Christian Ell gem. Art. 46 Abs. 1 KWBG ab 01.05.2026 eine Dienstaufwandsentschädigung in Höhe von 850,00 Euro nach der Anlage 2 zu Art. 46 Abs. 1 KWBG gewährt wird.\n\n5. Entschädigung der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters\n\nDer Stadtrat beschließt, dass die Zweite Bürgermeisterin eine monatliche Entschädigung in Höhe des jeweiligen Höchstbetrags nach der Anlage 2 zu Art. 46 Abs. 1 KWBG erhält.\n\nFür jeden vollen Tag der Vertretung des Ersten Bürgermeisters erhält die Zweite Bürgermeisterin / der Zweite Bürgermeister vom jährlichen Grundgehalt des Ersten Bürgermeisters, errechnet aus 12 Monatsgehältern, sowie 1/365 der jährlichen Dienstaufwandsentschädigung des Ersten Bürgermeisters. Gleichzeitig wird die Entschädigung der Zweiten Bürgermeisterin pro Vertretungstag um 1/365 gekürzt.\n\n1. Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 19.05.2026\n\n6. Abwasser- und Verkehrsanlage Langenzenn – Sanierung Frankenstraße; Erneuerung Gehwege im Zuge des Glasfaserausbaus; hier: Auftragsvergabe\n\nDer Bau-, Umwelt und Verkehrsausschuss beschließt die Vergabe der Pflasterarbeiten in der Frankenstraße an die Firma Langguth auf Grundlage des Angebots vom 13.05.2026 in Höhe von brutto 125.735,40 Euro.\n\nDie notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.6400.9510 in Höhe von 126.000 Euro bereitzustellen.\n\n7. Kläranlage Langenzenn; Absturzsicherung für Becken der Kläranlage; hier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung der Absturzsicherungen für die Becken der Kläranlage an die Firma Günther Fachhandel GmbH & Co. KG, Bad Neustadt, gemäß Angebot vom 12.05.2026 in Höhe von brutto 9.505,01 Euro.\n\nDie notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.7013.9350 in Höhe von 10.000 Euro bereitzustellen.\n\n8. Kläranlage Langenzenn hier: Vergabe von Ingenieurleistungen für die Erneuerung der Kompaktanlage\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe von Ingenieurleistungen für die Erneuerung der Kompaktanlage zur mechanischen Abwasserreinigung (Ingenieurbauwerke, Tragwerksplanung, verfahrenstechnische Anlagen und Starkstromanlagen) der Kläranlage an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 23.03.2026 in Höhe von brutto 78.485,55 Euro.\n\nDie notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.7013.9490 in Höhe von 78.485,55 Euro bereitzustellen.\n\n9. Kläranlage Langenzenn hier: Vergabe von Ingenieurleistungen für die Erneuerung der technischen Ausstattung des Einlaufpumpwerks\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe von Ingenieurleistungen für die Erneuerung der technischen Ausstattung (verfahrenstechnische Anlagen und Starkstromanlagen) des Einlaufpumpwerks der Kläranlage an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 23.03.2026 in Höhe von brutto 24.291,07 Euro.\n\nDie notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.7013.9490 in Höhe von 24.291,07 Euro bereitzustellen.\n\n10. Kläranlage Langenzenn hier: Vergabe von Software-Update AQASYS V11 (Programm-Leitsystem)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe des Software- Updates AQASYS V11 und die Softwarewartung über eine Laufzeit von 4 Jahren an die Firma Hofmockel GmbH, Rohr, auf Grundlage des Angebots vom 08.05.2026 in Höhe von brutto 18.124,89 Euro.\n\nDie notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.7013.9350 in Höhe von 18.125 Euro bereitzustellen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Ergebnispräsentation und Veröffentlichung",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 15.01.2025 die Durchführung der Kommunalen Wärmeplanung beschlossen. Anschließend wurde das Projekt öffentlich ausgeschrieben. Die Vergabe der kommunalen Wärmeplanung an die Firma zeitgeist Engineering GmbH erfolgte am 24.06.2025 durch Beschluss des Bau-, Umwelt- und Verkehrsausschusses.\n\nIm Projektverlauf wurde der Stadtrat über die Zwischenschritte Eignungsprüfung, Bestandsanalyse und Potentialanalyse informiert. Jetzt liegt das Gesamtergebnis der Wärmeplanung vor und wird hier durch das Ingenieurbüro präsentiert. Es umfasst das Zielszenario bis zum Jahr 2040 sowie eine Umsetzungsstrategie. Bericht und Präsentation sind im Anhang.\n\nGenauso wie bei den oben erwähnten Zwischenschritten besteht nach §13 Wärmeplanungsgesetz die Pflicht zur öffentlichen Auslegung, mit der Möglichkeit zur Stellungnahme für mindestens 30 Tage. Die Veröffentlichung erfolgt über das Mittelungsblatt, die Homepage sowie direkte Ansprache der Träger öffentlicher Belange.",
+        "decision": "Der Stadtrat stimmt dem Konzept sowie der Veröffentlichung zu.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 17,
+          "against": 2
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Teilsanierung Grundschule Langenzenn; hier: Abschlussbescheid der Regierung von Mittelfranken",
+        "facts": "Der Verwendungsnachweis der Stadt Langenzenn für die Teilsanierung des Grundschulgebäudes wurde am 27.11.2025 der Regierung von Mittelfranken zur Prüfung und Endabrechnung vorgelegt.\n\nDie Zuweisungsrichtlinie FAZR wurde mit Bekanntmachung des StMFH vom 16.04.2026 (BayMBl. 2026 Nr. 178) mit Wirkung vom 01.01.2026 geändert. Die Neufassung beinhaltet in Nr. 6.9 eine geänderte Regelung zur nachträglichen Erhöhung der Zuweisung bei Kostensteigerungen (z.B. aufgrund von höheren Ausschreibungsergebnissen). Danach können Steigerungen der zuweisungsfähigen Ausgaben von bis zu 20 % grundsätzlich als zuweisungsfähig anerkannt werden, sofern der Kostenhöchstwert noch nicht ausgeschöpft ist und die Kostensteigerung angezeigt wurde.\n\nDiese Voraussetzungen sind bei der Teilsanierung des Grundschulgebäudes Langenzenn gegeben. Die Zustimmung zum vorzeitigen Maßnahmenbeginn wurde am 19.06.2020 erteilt, die Vergaben erfolgten überwiegend bis Dezember 2022. Mit Schreiben vom 23.03.2023 zeigte die Stadt Langenzenn die zu erwartende Kostensteigerung an, die im Hinblick auf den Anstieg des Baupreisindex in den Jahren 2020-2022 nachvollziehbar ist.\n\nMit Bescheid vom 26.05.2026 der Regierung von Mittelfranken wurde die Restzuweisung i. H. v. 1.529.000 € bewilligt und zur Auszahlung angewiesen. Hierdurch ist das Förderverfahren abgeschlossen.\n\nDer Finanzierungsplan der Maßnahme hat sich wie folgt entwickelt:\n\nAntragstellung                                            Endabrechnung 3.730.000 €       Zuweisung gem. Art. 10 BayFAG            4.514.000 € 215.618 €       Zuschuss BAFA                              199.589 € 2.358.382 €       Eigenmittel                              3.628.505 € 6.304.000 €       Gesamtkosten                             8.342.094 €\n\nFür die finale Restzuweisung wurde im Haushaltsplanentwurf 2026 ein Ansatz von 745.000 € eingeplant. Dieser Ansatz kann nun auf 1.529.000 € erhöht werden.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Generalsanierung Hallenbad; Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Aktueller Stand zur Beschlussfassung des Marktes Wilhermsdorf und ggf. Neufassung / Änderung des Stadtratsbeschlusses vom 16.04.2026 bzw. 12.05.26",
+        "facts": "Sachverhalt und Beschlussvorschlag Stand 09.06.2026; 12:45 Uhr\n\nDer Stadtrat hat in seiner Sitzung vom 12.05.2026 die Teilnahme am Förderverfahren „Sanierung von Schwimmstätten“ (Frühjahr 2026) sowohl mit der Generalsanierung des bestehenden Hallenbades (Reichenberger Straße), als auch mit dem Neubau eines „Interkommunalen Hallenbades“ am Schulcampus Langenzenn und somit die Einreichung von zwei Interessensbekundungen bzw. Projektskizzen beschlossen.\n\nWeiterhin wurde das Bauamt ermächtigt, die notwendigen Angebote für die Fortschreibung einer Konzeptstudie „Generalsanierung Hallenbad“ einzuholen und die notwendigen Aufträge zu vergeben.\n\nAktuell ist das Bauamt mit der zeitaufwändigen Ausarbeitung beider Förderanträge beschäftigt und in Abstimmung mit den jeweiligen Fachplanern für die „Generalsanierung des Hallenbades in der Reichenberger Straße“ als auch für den „Neubau des interkommunalen Hallenbades“.\n\nGrundlagen für die Projektskizzen sind, wie bereits in den Gremiensitzungen erwähnt, die Neubauplanungen aus 2018 am Standort Gauchsmühle sowie die Überlegungen zur Generalsanierungsvariante Plus aus 2020/21.\n\nGrundsätzlich sind bei den Bundesprogramm „Sanierung kommunaler Sportstätten“ und „Sanierung kommunaler Sportstätten“ Projektaufruf 2026 – Schwimmbäder sowohl Sanierungen, als auch Neubauten förderfähig. Voraussetzungen sind allerdings ein deutlich erhöhter energetischer Standard des Neubaus gegenüber einer Sanierung sowie die Darstellung der Wirtschaftlichkeit.\n\nBei Abgabe der Projektskizze für den Neubau des „Interkommunalen Hallenbades“ im Januar 2026 wurden diese Aspekte im Teilnahmeantrag explizit herausgehoben. Inzwischen konnten auch die Unterlagen / Planungen inhaltlich optimiert werden und auch an die neusten Vorgaben / Normen besonders in Hinblick auf Haustechnik, Energieeffizienz und Nachhaltigkeit angepasst werden.\n\nIn den Planungsbesprechungen wurde mehrfach zum Ausdruck gebracht, dass gut ausgearbeitete Anträge mit einem weiter fortgeschriebenen Bearbeitungsstand bessere Chancen auf eine Bezuschussung im Rahmen der Bundesförderung haben. Gerade beim Neubau können Unterlagen mit einem Stand der LPH 2 – 3 vorgelegt werden.\n\nFür eine Generalsanierung können in der Projektskizze nur Unterlagen mit geringem Bearbeitungsstand eingereicht werden.\n\nOb eine gleichzeitige Abgabe der o. g. Förderanträge sinnvoll und zweckdienlich erscheint, kann seitens der Verwaltung nicht beurteilt werden.\n\nWie bereits in der Sitzung des Stadtrates am 12.05.2026 mitgeteilt, hat der Gemeinderat der Marktgemeinde Wilhermsdorf in seiner Sitzung vom 23.04.2026 zusätzlich eine Überprüfung / Machbarkeitsuntersuchung einer Sanierung des bestehenden Hallenbades beschlossen. Ein Ergebnis dieser Untersuchung ist der Verwaltung bisher nicht bekannt. Eine Beschlussfassung über die weitere Vorgehensweise entscheidet der Gemeinderat in Wilhermsdorf voraussichtlich in seiner Sitzung am 12.06.2026.\n\nNach Abstimmung mit der Marktgemeinde Wilhermsdorf am 08.04.2026 hatte man sich verwaltungsintern darauf geeinigt, eine Sanierung der bestehenden Hallenbäder nicht weiter zu verfolgen.\n\nBeide Verwaltungen waren zum Ergebnis gekommen, dass ein Erhalt der jeweiligen Bäder überhaupt nur bei überdurchschnittlicher Förderung durch Bundes- bzw. Landesmittel möglich sei. Eine Förderung sowohl des Hallenbades Wilhermsdorf, als auch des Hallenbades Langenzenn im Rahmen der beiden Förderprogramme der „Sportstättenförderung“ wird auf-\n\ngrund der örtlichen Nähe als unrealistisch angesehen. Somit sollte grundsätzlich an einer Bewerbung für ein „Interkommunales Hallenbad“ festgehalten werden.\n\nWeiterhin könnte der Betrieb eines gemeinsamen Hallenbades durch beide Kommunen voraussichtlich wirtschaftlicher betrieben werden.\n\nAuch die Fördermittel des BayFAG wären bei einer interkommunalen Zusammenarbeit um 10% höher.",
+        "decision": "Der Stadtrat beschließt die Teilnahme am Förderverfahren „Sanierung von Schwimmstätten“ (Frühjahr 2026) mit dem Neubau eines „Interkommunalen Hallenbades“ am Schulcampus Langenzenn und somit die Einreichung einer Interessensbekundung bzw. Projektskizze.\n\nDer Stadtrat bekräftigt damit seinen Beschluss vom Herbst / Winter 2025.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Breitbandausbau im Stadtgebiet von Langenzenn; hier: Aktueller Stand und erneuter Förderaufruf im \"Bundes-Gigabit- Programm\"",
+        "facts": "Seit 2023 erschließt die GlasfaserPlus (Tochterunternehmen der Dt. Telekom) die Stadt Langenzenn mit Glasfaser im eigenwirtschaftlichen Ausbau.\n\nIm ersten Erschließungsabschnitt (siehe Anlage 1) wurden über 1.100 Haushalte bzw. 450 Ausbauadressen an das Glasfasernetz angeschlossen. Die Ausbauarbeiten sind seit etwa Mitte 2025 abgeschlossen. Im zweiten Erschließungsabschnitt (siehe Anlage 2) werden ebenfalls im eigenwirtschaftlichen Ausbau weiterhin über 2.300 Haushalte bzw. über 1.300 Ausbauadressen an das Glasfasernetz angeschlossen. Mit dem Abschluss der Arbeiten ist im Jahr 2027 zu rechnen. Ob im Anschluss daran weitere eigenwirtschaftliche Ausbauaktivitäten der GlasfaserPlus (der Dt. Telekom) bzw. anderen Telekommunikationsanbietern im Stadtgebiet von Langenzenn erfolgen, kann derzeit noch nicht beantwortet werden.\n\nNeben den eigenwirtschaftlichen Ausbauaktivitäten der Telekommunikationsanbietern besteht weiterhin die Möglichkeit Förderprogramme des Bundes / des Freistaats Bayern in Anspruch zu nehmen und den Glasfaserausbau voran zu treiben.\n\nMit Schreiben vom 07.05.2026 teilte das Amt für Digitalisierung, Breitband und Vermessung in Neustadt a.d.Aisch der Verwaltung mit, dass im Rahmen des Bundes-Gigabit-Programms erneut Förderanträge bis zum 15.09.2026 seitens der Kommunen eingereicht werden können.\n\nDer Stadtrat der Legislaturperiode 2020 – 2026 hat sich in seiner 55. Sitzung des Stadtrates am 11.01.2024 unter TOP N4 mit dem Förderprogramm, auch in Kombination mit dem Bay. Förderprogramm, befasst. Im Rahmen des Tagesordnungspunktes gab der Breitbandberater der Stadt Langenzenn einen Überblick der Gesamtkosten für die Erschließung, der Förder-\n\nquote und des daraus resultierenden geschätzten Eigenanteils der Stadt Langenzenn. Dabei waren / sind die oben genannten eigenwirtschaftlichen Ausbauaktivitäten bereits berücksichtigt. Die Beschussvorlage liegt diesem TOP bei (Anlage 3). In dieser Sitzung gab auch die Kämmerin eine haushaltsrechtliche Einschätzung ab. Seinerzeit fasste der Stadtrat den Beschluss, sich nicht für die Förderprogramme zu bewerben.\n\nSeit dem 11.01.2024 hat sich die Haushaltslage der Stadt Langenzenn nicht gebessert. Mit Blick auf die kommenden Jahre hat sich diese eher verschlechtert. Insoweit scheint das Aufbringen der finanziellen Mittel für einen geförderten Breitbandausbau aus Sicht der Verwaltung auch in naher Zukunft nicht gegeben. Eine Bewerbung für das Gigabit-Programm des Bundes und eine anschließende Umsetzung wird daher derzeit von der Verwaltung als nicht darstellbar angesehen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "1. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO) vom 12.05.26; hier: Übertragung von Aufgaben an den Sozial-, Bildungs- und Kulturausschuss",
+        "facts": "Der Stadtrat der Stadt Langenzenn hat in seiner konstituierenden Sitzung am 12.5.2026 in § 2 Abs. 1 Buchstabe c, der Satzung zur Regelung von Fragen des örtlichen Gemeindeverfassungsrechts die Installation eines Sozial-, Bildungs- und Kulturausschuss beschlossen. Dieser Ausschuss ist vorberatend tätig, soweit der Stadtrat selbst zu Entscheidung zuständig ist. Im Übrigen beschließt dieser anstelle des Stadtrates (beschließender Ausschuss).\n\nIn dieser Sitzung lagen dem Stadtrat hierfür zwei Anträge zugrunde. Einmal ein Antrag der SPD Langenzenn Stadtratsfraktion, sowie ein Antrag von der Fraktion BÜNDNIS 90 DIE GRÜNEN. Mehrheitlich wurde dem Antrag der SPD Langenzenn Stadtratsfraktion stattgegeben. Die Anträge liegen dem Protokoll als Anlage bei.\n\nDer Begründung beider Anträge ist u. a. zu entnehmen, dass die Themenfelder Soziales, Bildung und Kultur in Langenzenn erheblich an Bedeutung gewonnen haben und vor konkreten neuen Herausforderungen und Entwicklungsschritten stehen, welche eine intensivere politische Begleitung bedürfen. Die Bildung eines hierfür zuständigen Ausschusses sei daher erforderlich.\n\nAls mögliche Themenfelder sollen in diesem Ausschuss nach dem Antrag der SPD Fraktion u. a. folgende Schwerpunkte behandelt werden (beispielhafte Aufzählung):\n\nBereich Soziales\n\n   Angelegenheiten der sozialen Daseinsvorsorge    Begleitung und Weiterentwicklung eines eventuell entstehenden Familienstützpunktes    Begleitung und Unterstützung der Ehrenamtlichen bei der Integrationsarbeit    Zusammenarbeit mit Kirchen sowie sozialen und ehrenamtlichen Einrichtungen und Initiativen\n\n   Seniorenarbeit und generationenübergreifende Projekte    Förderung des gesellschaftlichen Zusammenhalts und des Ehrenamtes    Begleitung der Gründung eines Jugendrates der Stadt Langenzenn\n\nBildung\n\n• Angelegenheiten der Schulen und Schulentwicklung • Ganztagsbetreuung im Grundschulbereich • Kinderbetreuungseinrichtungen, insbesondere Krippen und Kindergärten • Bedarfsplanung und Weiterentwicklung der Betreuungsangebote • Beratung über Maßnahmen zur langfristigen Stabilisierung der Elternbeiträge\n\nKultur\n\n• Zusammenarbeit mit Kultur- und Theatervereinen • Förderung kultureller Veranstaltungen und Projekte • Angelegenheiten der Kirchweih und weiterer traditionspflegender Veranstaltungen • Förderung und Weiterentwicklung des Tourismus • Förderung des kulturellen Lebens und der Vereinsarbeit in Langenzenn\n\nDa in der konstituierenden Sitzung, noch keine Übertragung der Aufgaben für diesen Ausschuss in der Geschäftsordnung vorgenommen wurde, gilt es nun dies im Rahmen einer 1. Änderung der Geschäftsordnung vorzunehmen. Auf Basis der Geschäftsordnung wird somit ein „Rahmen“ für das Tätigkeitsfeld des Ausschusses beschrieben, welcher durch die weitere Ausarbeitung in dem entsprechenden Gremium spezifiziert werden soll. In diesem Prozess soll auch erarbeitet werden, ob und wenn ja mit welchem Aufgabenbereich entsprechende „Beauftragte“ weiterhin installiert werden.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf vom 09.06.2026 der 1. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO) vom 12.05.26.\n\nDie Erste Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO) tritt einen Tag nach der Beschlussfassung in Kraft.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 18,
+          "against": 1
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Ratsinformationssystem; hier: Zuschuss für mobile Endgeräte",
+        "facts": "Zum 01.05.2026 begann die neue Legislaturperiode des Stadtrates. Für die Nutzung des Ratsinformationssystems können mobile Endgeräte genutzt werden.\n\nIn der vergangenen Legislaturperiode wurde beschlossen, den Stadträten einen Zuschuss für die Anschaffung von privaten Endgeräten in Höhe von einmalig pauschal 350 € zu gewähren. Die Verwaltung schlägt vor, den seinerzeitigen Beschluss zu erneuern. Der Zuschuss wird nur gegen Vorlage der Rechnung zum Erwerb eines mobilen Endgeräts gewährt. Entsprechende Haushaltsmittel sind unter der Haushaltsstelle 1.0000.9350 vorgesehen.",
+        "decision": "Der Stadtrat beschließt, den Stadträten in der Legislaturperiode 2026-2032 einen Zuschuss zum Ankauf von privaten Endgeräten zur Nutzung des Ratsinformationssystems in Höhe von jeweils einmalig pauschal 350,00€ zu gewähren. Die zugehörige Rechnung muss dafür vorgelegt werden. Weitere Aufwendungen für den laufenden Betrieb bzw. Kosten für notwendige Ersatzbeschaffungen werden nicht übernommen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 18,
+          "against": 1
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung",
+        "facts": "Am 22.05.2025 fand bei der Regierung von Mittelfranken ein Abstimmungsgespräch bezüglich der Förderung des Ganztagesangebots an der Grundschule Langenzenn und einem damit eventuell verbundenen Erweiterungsbau, statt.\n\nIm Ergebnis konnte festgehalten werden, dass voraussichtlich ein Raumprogramm für 16 Klassen genehmigt werden kann. Allerdings sollten die Schülerzahlen und Schülerprognosen nochmals durch die Schulleitung bzw. durch das staatliche Schulamt verifiziert werden.\n\nIm Juli 2025 erhielt die Verwaltung die aktuellen Schülerzahlen und Schülerprognosen, welche besagen, dass die Schüler- und Klassenzahlen deutlich absinken. Die Schülerprognose weist für das Schuljahr 2031/32 künftig 12 Regelklassen mit 318 Schülern aus. Hinzu kommt eine Deutschklasse mit ca. 15 Schülern. Da sich in den Klassenstufen 1-3 jeweils ein Schülerdurchschnitt von mehr als 26 Schüler pro Klasse abbildet, wurde das Raumprogramm mit 14 Klassen von der Regierung ausgestellt.\n\nAuf dieser Grundlage konnte das funktionale Raumbuch in die Grundrisse übertragen werden und der Raumbedarf ermittelt werden. Aus diesem Ergebnis wird der tatsächliche Flächenbedarf unter Berücksichtigung der vorhandenen Räumlichkeiten ermittelt.\n\nAm 31.03.2026 fand ein weiterer Termin bei der Regierung von Mittelfranken statt. Bei diesem Abstimmungsgespräch teilte die Regierung der Verwaltung mit, dass auf dieser neuen Planungsgrundlage eine Förderung der Maßnahme vorstellbar ist.\n\nBei den neu ausgearbeiteten Plänen wurde der Anbau für den Ganztag an den südlichen Gebäudetrakt geplant, da dieser durch die zuletzt durchgeführte Teilsanierung (Brandschutzertüchtigung) nur geringfügig geändert wurde. Auch die Möglichkeit zur Vergrößerung des derzeit zu kleinen Küchen- und Mensabereiches war maßgeblich für diese Entscheidung (graue und rote Flächen in den Grundrissplänen). Der Anbau hat laut Aufstellung eine Nutzfläche von 380 m² und eine Verkehrsfläche von 140 m². Der Ganztagsbereich erstreckt sich über die drei Geschosse im westlichen Teil der Schule (blaue Flächen). Die Lernwohnungen wurden gemäß dem ausgearbeiteten Pädagogischen Raumfunktionsbuch der LernLand- Schaften übernommen und jahrgangsspezifisch unterteilt (gelbe und grüne Flächen).\n\nDie erste Kostenschätzung beläuft sich auf ca. brutto 2,6 Mio. Euro.\n\nBeim gemeinsamen Termin am 08.06.2026 mit der Zweiten Bürgermeisterin Frau Plevka und der Verwaltung zur inhaltlichen Vorstellung der Pläne wurde durch die Schulleitung die Zustimmung zur Planung erteilt. Die Schulleitung erstellt nun das schulpädagogisches Konzept zu den vorgestellten Grundrissen.\n\nDie Verwaltung ist aktuell mit der Vorbereitung und Aufbereitung des Raumprogramms als Grundlage für schulaufsichtliche Genehmigung befasst. Die Beschlussfassung zum Antrag soll im nächsten Sozial-, Bildungs-, und Kulturausschuss erfolgen.\n\nDas Bauamt wird zur Vorbereitung auf das VgV-Verfahren Kontakt zu den Objekt- und Fachplanern aufnehmen, um die Rahmenbedingungen für das Verfahren abzustecken. Insgesamt wird von einer Verfahrensdauer von rund 5 Monaten ausgegangen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "10.",
+        "title": "Bearbeitungsstand der Anträge des Stadtrates Stand November 2025",
+        "facts": "Die Verwaltung zeigt die Anträge aus dem Stadtrat: Stand November 2025 und Juni 2026. (Siehe Anlage1 und 2)",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "11.1.",
+        "title": "Sozial-, Bildungs- und Kulturausschuss",
+        "facts": "Die Verwaltung bittet die Fraktionen sich intern zu beraten bezüglich der Aufgabenbeschreibungen der Jugend-, Kultur-, Schule- und Sozial-Beauftragten. Es sollen zur ersten Sitzung des Sozial-, Bildungs- und Kulturausschusses die Aufgabenbeschreibungen angepasst werden."
+      },
+      {
+        "number": "12.",
+        "title": "Sonstiges öffentlich"
+      },
+      {
+        "number": "12.1.",
+        "title": "Antrag auf Anschaffung eines neuen Bürgerbusses",
+        "facts": "Stadtrat Jäger stellt einen Antrag auf Anschaffung eines neuen Bürgerbusses."
+      },
+      {
+        "number": "12.2.",
+        "title": "weiterer Antrag auf Anschaffung eines neuen Bürgerbusses",
+        "facts": "Stadtrat Gawehn stellt einen weiteren Antrag auf Neuanschaffung eines Bürgerbusses. Der Antrag liegt der Niederschrift als Anlage X bei."
+      },
+      {
+        "number": "12.3.",
+        "title": "Fahrbahnmarkierungen Würzburger Str. Ecke Windsheimer Str.",
+        "facts": "Stadtrat Ammon sagt, dass wieder an dieser Stelle ein Auto auf die Absperrungen gefahren ist. Hier gibt es mehrere Wortmeldungen bezüglich neuer eventueller Fahrbahnmarkierungen. Im nächsten Bauausschuss soll es einen Sachstandsbericht geben."
+      },
+      {
+        "number": "12.4.",
+        "title": "30er Begrenzung in Langenzenn",
+        "facts": "Stadträtin Franz fragt nach, ob es eine Mitteilung im Mitteilungsblatt gibt bezüglich der Begrenzung auf 30 km/h im Stadtgebiet Langenzenn."
+      },
+      {
+        "number": "12.5.",
+        "title": "Antrag: Parksituation Hohenbergweg und Langenbergweg",
+        "facts": "Stadtrat Höfler stellt einen Antrag auf Überprüfung der Parksituation in den Bereichen Hohenbergweg und Langenbergweg. Das Dokument mit allen Anträgen (TOP 12.5 – 12.11) liegt der Niederschrift als Anlage X bei."
+      },
+      {
+        "number": "12.6.",
+        "title": "Antrag: Nutzung des ehemaligen Stadtwerke Gebäudes",
+        "facts": "Stadtrat Höfler stellt einen Antrag Nutzung des ehemaligen Gebäudes der Stadtwerke am Rathaus.\n\nDas Dokument mit allen Anträgen (TOP 12.5 – 12.11) liegt der Niederschrift als Anlage X bei."
+      },
+      {
+        "number": "12.7.",
+        "title": "Antrag: Spielplatz Lohe",
+        "facts": "Stadtrat Höfler stellt einen Antrag auf Prüfung zur Optimierung des Spielplatzes in Lohe.\n\nDas Dokument mit allen Anträgen (TOP 12.5 – 12.11) liegt der Niederschrift als Anlage X bei."
+      },
+      {
+        "number": "12.8.",
+        "title": "Antrag: Feldweg Lohe - Eichensee",
+        "facts": "Stadtrat Höfler stellt einen Antrag auf Überprüfung des Asphaltes von Lohe Richtung Eichensee.\n\nDas Dokument mit allen Anträgen (TOP 12.5 – 12.11) liegt der Niederschrift als Anlage X bei."
+      },
+      {
+        "number": "12.9.",
+        "title": "Antrag: Umnutzung städtischer Grünflächen",
+        "facts": "Stadtrat Höfler stellt einen Antrag auf Planung und Umsetzung eines wirksamen Hochwasserschutzes unabhängig von einer möglichen Landesgartenschau.\n\nDas Dokument mit allen Anträgen (TOP 12.5 – 12.11) liegt der Niederschrift als Anlage X bei."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "184885",
+    "minutes": "186570"
+  }
+}

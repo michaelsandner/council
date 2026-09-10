@@ -1,0 +1,26 @@
+{
+  "meetingId": "3406",
+  "announcement": {
+    "heading": "37. Sitzung des Werkausschusses",
+    "sessionNumber": 37,
+    "date": "2026-03-26",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "20. März 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "182967"
+  }
+}

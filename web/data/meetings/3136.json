@@ -1,0 +1,423 @@
+{
+  "meetingId": "3136",
+  "announcement": {
+    "heading": "31. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 31,
+    "date": "2023-04-25",
+    "startTime": "16:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht"
+      },
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "4.",
+        "title": "Landesgartenschau; hier: Bildung eines Arbeitskreises"
+      },
+      {
+        "number": "5.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "5.1.",
+        "title": "Baugesuche und Anträge auf Vorbescheid hier: Anträge aus der laufenden Verwaltung"
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag auf Isolierte Befreiung zum Aufstellen eines Gerätehauses auf dem Grundstück Bayreuther Str. 3"
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines Geräteschuppens / Gartenhaus auf dem Grundstück Bayreuther Str. 5"
+      },
+      {
+        "number": "5.4.",
+        "title": "Antrag auf Umbau und Sanierung eines bestehenden Gebäudes auf dem Grundstück Ansbacher Straße 28"
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines Carports auf dem Grundstück Bayreuther Str. 13"
+      },
+      {
+        "number": "5.6.",
+        "title": "Tekturantrag zur Errichtung eines Mehrfamilienhauses mit Tiefgarage auf dem Grundstück Raindorfer Weg 8"
+      },
+      {
+        "number": "5.7.",
+        "title": "Antrag auf Vorbescheid zur Errichtung eines Zweifamilienhauses auf dem Grundstück Kieler Str. 1"
+      },
+      {
+        "number": "5.8.",
+        "title": "Antrag zum Umbau und Sanierung eines denkmalgeschützten Mehrfamilienhaus auf dem Grundstück Alte Zennstr. 4"
+      },
+      {
+        "number": "5.9.",
+        "title": "Antrag auf Erweiterung der DG-Wohnung mit Aufstockung der Garage auf dem Grundstück Tillystr. 30"
+      },
+      {
+        "number": "5.10.",
+        "title": "Antrag auf Nutzungsänderung einer Scheune zu einem Zweifamilienhaus auf dem Grundstück Hardhof 8 a"
+      },
+      {
+        "number": "6.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "6.1.",
+        "title": "Gemeinde Seukendorf - Aufstellung des vorhabenbezogenen Bebauungsplanes \"Solarpark Seukendorf Nordwest\" mit Änderung des Flächennutzungsplanes; hier: Beteiligung der Nachbargemeinden"
+      },
+      {
+        "number": "6.2.",
+        "title": "Markt Erlbach- 12. Änderung des Flächennutzungsplanes \"Am Bäckerholz\" mit integriertem Landschaftsplan; hier: Beteiligung der Nachbargemeinden"
+      },
+      {
+        "number": "6.3.",
+        "title": "Gemeinde Veitsbronn – 16. Änderung des Flächennutzungs- und Landschaftsplanes in mehreren Teilbereichen; hier: Beteiligung der Nachbargemeinden"
+      },
+      {
+        "number": "7.",
+        "title": "Sonderabfalldeponie Raindorf hier: Deponiejahrbuch 2022"
+      },
+      {
+        "number": "8.",
+        "title": "Interimslösung Kita - Ermächtigung des ersten Bürgermeisters zur Vergabe der Errichtung der Containeranlage"
+      },
+      {
+        "number": "9.",
+        "title": "Errichtung einer öffentlichen WC-Anlage in Nähe der Försterallee; hier: Information über neuen Sachstand und ggf. neue Beschlussfassung"
+      },
+      {
+        "number": "10.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "10.1.",
+        "title": "Einbahnstraßenregelung Schreiberstorberg und Obere Ringstraße; hier: Mitteilung Sachstand"
+      },
+      {
+        "number": "11.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "11.1.",
+        "title": "Bericht über den Zustand der Brunnen im Kernort und den Außenorten"
+      },
+      {
+        "number": "11.2.",
+        "title": "Bauwerksanierung 2022; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht"
+      },
+      {
+        "number": "12.",
+        "title": "Hochwasserschutz Zenn hier: Weiteres Vorgehen nach Freigabe Planungskonzept"
+      },
+      {
+        "number": "13.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "13.1.",
+        "title": "Bauleitplanung für Windenergieanlagen/Repowering-Bebauungsplan; hier: Merkblatt"
+      },
+      {
+        "number": "14.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 17:00 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. April 2023",
+    "signedBy": "Christian Ell, Zweiter Bürgermeister"
+  },
+  "minutes": {
+    "heading": "31. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 31,
+    "date": "2023-04-25",
+    "startTime": "16:30",
+    "endTime": "20:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "2.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht",
+        "facts": "Das Architekturbüro Keim Architekten stellt dem Bau-, Umwelt- und Verkehrsausschuss den aktuellen Stand des Kommunalen Denkmalkonzeptes vor.\n\nAm 19.04.2023 fand eine gemeinsame Vorabstimmung mit dem Bauamt und der WBG bezüglich Festlegung und Bewertung der Gebäudestruktur im Untersuchungsgebiet statt. Unterschieden wird künftig zwischen Bestand, Einzeldenkmalen, erhaltenswerten Gebäuden und Ersatzneubauten um eine sinnvolle städtebauliche Gliederung zu erzielen.\n\nDies stellt die Basis für eine offene Diskussion der künftigen Nutzung und für die weitere Abstimmung mit dem Bayerischen Landesamt für Denkmalpflege dar.\n\nDas Kommunale Denkmalkonzept ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen Der Tagesordnungspunkt wird unter Punkt 11.2. behandelt."
+      },
+      {
+        "number": "4.",
+        "title": "Landesgartenschau; hier: Bildung eines Arbeitskreises",
+        "facts": "Aufgrund der Komplexität der Landesgartenschau, da hier die ganze Stadtentwicklung eine große Rolle spielt, und der noch zu gründenden Landesgartenschau GmbH, welche voraus-\n\nsichtlich erst im Jahr 2024 gegründet werden soll, wäre nach Rücksprache mit der Landesgartenschau-GmbH München (Bay LGS) die Bildung eines Arbeitskreises sinnvoll.\n\nDieser Arbeitskreis soll die bisherigen Pläne und das Bewerbungskonzept prüfen, ggf. neue und bessere Ideen einbringen und das Konzept in Zusammenarbeit mit verschiedenen Fachstellen wie beispielsweise dem Wasserwirtschaftsamt, Landratsamt oder den Naturschutzbehörden zusammen mit unserem Stadtbaumeister und der Liegenschaftsabteilung weiterentwickeln.\n\nIn diesem Arbeitskreis sollen neben dem zuständigen Mitarbeiter, dem Stadtbaumeister, dem Geschäftsleiter, dem Bürgermeister und dem Heimat- und Denkmalbeauftragten je ein Mitglied aus jeder Fraktion vertreten sein. Durch die Schaffung eines Arbeitskreises können spezielle Aufgaben und Projekte effektiv beleuchtet und mit den entsprechenden Fachstellen abgestimmt werden. Die Mitglieder des Arbeitskreises können und sollen ihre spezifischen Fähigkeiten und Kenntnisse einbringen, um das Projekt voranzutreiben. Wegen den Terminen mit den Fachstellen wäre es gut, wenn die Mitglieder des Arbeitskreises auch Termine unter Tags wahrnehmen könnten.\n\nDes Weiteren bietet ein Arbeitskreis die Möglichkeit eine gemeinsame Vision und Strategie für die Landesgartenschau zu entwickeln. Durch den Austausch von Ideen und Meinungen können die Mitglieder des Arbeitskreises dazu beitragen das Projekt zu verbessern und zu optimieren. Dieser soll mindestens einmal im Monat zusätzlich zu den Behördenabstimmungen tagen.\n\nAuch bietet der Arbeitskreis die Möglichkeit, bereits jetzt gezielt ein Netzwerk von Interessierten aufzubauen, durch den Austausch von Ideen und Erfahrungen innovative Lösungen und Konzepte zu entwickeln und dadurch die GmbH in ihrer späteren Tätigkeit zu unterstützen.\n\nDer Arbeitskreis soll auch dazu beitragen, dass die Öffentlichkeit, welche Bestandteil des Verfahrens ist, intensiv in das Projekt eingebunden wird. Durch die Schaffung von Beteiligungsmöglichkeiten und die Organisation von Veranstaltungen können die Mitglieder des Arbeitskreises dazu beitragen, das Interesse und die Unterstützung der Öffentlichkeit zu gewinnen, was auch die Arbeit der GmbH und des späteren Geschäftsführers erleichtern soll.\n\nMit E-Mail vom 11.04.2023 bat die Verwaltung jede Fraktion einen Vertreter für den „Arbeitskreis Landesgartenschau Langenzenn 2032“ zu benennen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Bildung des „Arbeitskreis Landesgartenschau Langenzenn 2032“ mit folgenden Mitgliedern:\n\n-   Erster Bürgermeister Jürgen Habel -   Geschäftsleiter der Stadtverwaltung, Christian Kreß -   Stadtbaumeister / Fachbereichsleiter Bauamt, Michael Wittmann -   Sachgebietsleiter Entwicklung und Zukunft, Liegenschaften und Projekte, Citymanagement, Markus Tiefel -   Heimat- und Denkmalbeauftragter, Roland Schönfelder -   Vertreter der CSU-Fraktion, Manfred Durlak (Vertretung Thomas Ziegler) -   Vertreter/in der SPD-Fraktion, Klaus Roscher (Vertretung Melanie Plevka) -   Vertreter/in der Fraktion Bündnis 90/Die Grünen, Michael Gawehn -   Vertreter/in der Freien Wähler-Fraktion, Jutta S.-Kostopoulos (Vertretung Erich Ammon) -   Vertreter/in der FDP-Fraktion, (noch nicht benannt)\n\nZusätzlich zu den festen Mitgliedern des Arbeitskreises kann dieser entsprechend noch Fachkundige zu seinen Sitzungen einladen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "5.1.",
+        "title": "Baugesuche und Anträge auf Vorbescheid hier: Anträge aus der laufenden Verwaltung",
+        "facts": "Den Ausschussmitgliedern werden die Anträge aus der laufenden Verwaltung (hier: Geschäftsordnung der Stadt Langenzenn § 13 Abs. 2 Nr. 4) mitgeteilt:\n\n   Antrag auf denkmalschutzrechtlicher Erlaubnis für einen Wanddurchbruch und zur Errichtung eines Holzcarports auf dem Grundstück Nürnberger Str. 29    Antrag zum Abbruch einer Scheune auf dem Grundstück Nähe Forststraße    Antrag auf denkmalschutzrechtliche Erlaubnis zur Sanierung der Friedhofsmauer auf dem Grundstück Höllenberg 1    Antrag zur Errichtung einer Interims-Kindertagesstätte in Container-Bauweise für 3 Jahre auf dem Grundstück Berliner Str. 15    Antrag auf denkmalschutzrechtliche Erlaubnis zum Abbruch von Nebengebäuden und Unterständen auf dem Grundstück Hindenburgstr. 48    Antrag auf Abweichung der Erhaltungssatzung zum Abbruch von Nebengebäuden und Unterständen auf dem Grundstück Hindenburgstr. 48",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag auf isolierte Befreiung zum Aufstellen eines Gerätehauses auf dem Grundstück Bayreuther Str. 3",
+        "facts": "Antrag auf isolierte Befreiung hinsichtlich der Baugrenze sowie der Fläche für Garagen zur Aufstellen eines Gerätehauses auf dem Grundstück Flur-Nr. 872/41, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Die Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze so- wie der Fläche für Garagen wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung eines Geräteschuppens / Gartenhaus auf dem Grundstück Bayreuther Str. 5",
+        "facts": "Antrag auf isolierte Befreiung hinsichtlich der Baugrenze zur Errichtung eines Geräteschuppens/Gartenhauses auf dem Grundstück Flur-Nr. 872/42, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Die Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.4.",
+        "title": "Antrag auf Umbau und Sanierung eines bestehenden Gebäudes auf dem Grundstück Ansbacher Straße 28",
+        "facts": "Antrag auf Umbau und Sanierung des bestehenden Gebäudes zu 7 Wohneinheiten auf dem Grundstück Fl.-Nr. 921, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung eines Carports auf dem Grundstück Bayreuther Str. 13",
+        "facts": "Antrag auf isolierte Befreiung hinsichtlich der Baugrenze zur Errichtung eines Carports auf dem Grundstück Flur-Nr. 872/46, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Die Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.6.",
+        "title": "Tekturantrag zur Errichtung eines Mehrfamilienhauses mit Tiefgarage auf dem Grundstück Raindorfer Weg 8",
+        "facts": "Tektur zum Antrag auf Zulassung einer Abweichung von der Garagen- und Stellplatzverordnung (§3) zur Errichtung eines Mehrfamilienwohnhauses mit Tiefgarage auf dem Grundstück Fl.-Nr. 468/2, Gemarkung Langenzenn\n\nDie Verwaltung teilt mit, dass hierzu bereits in der Bau-, Umwelt- und Verkehrsausschusssitzung am 26.04.2022 ein Antrag eingereicht wurde. Dabei wurde dem Antrag auf Zulassung einer Abweichung von der Garagen- und Stellplatzverordnung (§3) nicht zugestimmt. Das gemeindliche Einvernehmen wurde nicht erteilt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss bekräftigt seinen Beschluss vom 26.04.2022 und erteilt nicht das gemeindliche Einvernehmen.\n\nDem Antrag auf Zulassung einer Abweichung von der Garagen- und Stellplatzverordnung (§3) wird nicht zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.7.",
+        "title": "Antrag auf Vorbescheid zur Errichtung eines Zweifamilienhauses auf dem Grundstück Kieler Str. 1",
+        "facts": "Antrag auf Vorbescheid zur Errichtung eines Zweifamilienhauses und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der nördlichen Baugrenze auf dem Grundstück Flur-Nr. 1010/28, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der nördlichen Baugrenze wird in Aussicht gestellt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.8.",
+        "title": "Antrag zum Umbau und Sanierung eines denkmalgeschützten Mehrfamilienhaus auf dem Grundstück Alte Zennstr. 4",
+        "facts": "Antrag zum Umbau und Sanierung eines denkmalgeschützten Mehrfamilienhauses und Antrag auf Abweichung gemäß BayBOp Art. 48 bezüglich der Barrierefreiheit auf dem Grundstück Flur-Nr. 224, Gemarkung Langenzenn.\n\nEs ergeht der Hinweis auf eine möglicherweise bestehende Brunnenleitung von Süd nach Nord.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Dem Antrag auf Abweichung gemäß BayBO Art. 48 bezüglich der Barrierefreiheit wird zugestimmt.\n\nEs ergeht der Hinweis auf eine möglicherweise bestehende Brunnenleitung von Süd nach Nord.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.9.",
+        "title": "Antrag auf Erweiterung der DG-Wohnung mit Aufstockung der Garage auf dem Grundstück Tillystr. 30",
+        "facts": "Antrag auf Erweiterung der Dachgeschosswohnung mit Aufstockung der Garage auf dem Grundstück Fl.-Nr.883/30, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der geringfügigen Geschossflächenzahlüberschreitung von 0,6 auf 0,607 wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.10.",
+        "title": "Antrag auf Nutzungsänderung einer Scheune zu einem Zweifamilienhaus auf dem Grundstück Hardhof 8 a",
+        "facts": "Antrag auf Nutzungsänderung einer Scheune zu einem Zweifamilienhaus auf dem Grundstück Flur-Nr. 1782/6, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass bereits in der Bau-, Umwelt- und Verkehrsausschusssitzung am 22.11.2022 ein entsprechender Antrag auf Nutzungsänderung behandelt wurde. Das gemeindliche Einvernehmen wurde erteilt.\n\nHierbei sollten die Stellplätze auf Fremdgrundstücken (mit einer entsprechenden dinglichen Sicherung) nachgewiesen werden. Dem konnte das Landratsamt Fürth nicht zustimmen so dass eine Überplanung notwendig geworden ist. Mit dem nun eingereichten Antrag werden die notwendigen zwei Stellplätze direkt im Wohnhaus (EG) integriert. Da sich jedoch das Wohnhaus unmittelbar an der Straßengrundstücksgrenze befindet, kann die geforderte Aufstellfläche gemäß der Stellplatzsatzung der Stadt Langenzenn von 5,0 Meter nicht eingehalten werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nEine Befreiung von der Stellplatzsatzung der Stadt Langenzenn bezüglich der Aufstellfläche von 5,0 Meter wird aufgrund des Grundstückssituation/-zuschnittes erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "6.1.",
+        "title": "Gemeinde Seukendorf - Aufstellung des vorhabenbezogenen Bebauungsplanes \"Solarpark Seukendorf Nordwest\" mit Änderung des Flächennutzungsplanes; hier: Beteiligung der Nachbargemeinden",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 25 \"Solarpark Seukendorf Nordwest“ mit Änderung des Flächennutzungsplanes der Gemeinde Seukendorf vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.2.",
+        "title": "Markt Erlbach- 12. Änderung des Flächennutzungsplanes \"Am Bäckerholz\" mit integriertem Landschaftsplan; hier: Beteiligung der Nachbargemeinden",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur 12. Änderung des Flächennutzungsplanes „Am Bäckerholz“ des Marktes Markt Erlbach vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.3.",
+        "title": "Gemeinde Veitsbronn – 16. Änderung des Flächennutzungs- und Landschaftsplanes in mehreren Teilbereichen; hier: Beteiligung der Nachbargemeinden",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur 16. Änderung des Flächennutzungsplanes der Gemeinde Veitsbronn vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Sonderabfalldeponie Raindorf hier: Deponiejahrbuch 2022",
+        "facts": "Die Sonderabfall-Entsorgung Bayern GmbH (gsb) hat das Deponiejahrbuch 2022 für die Sonderabfalldeponie Raindorf veröffentlicht und neben anderen amtlichen Stellen der Stadt Langenzenn zur Kenntnis weitergeleitet.\n\nIm Jahrbuch sind u.a. sämtliche technische Prüfberichte, Statistiken zur Sondermüllsammlung, Messungen und Abschussberichte der gsb in digitaler Form enthalten.\n\nNach Sichtung der Unterlagen konnte seitens der Verwaltung festgestellt werden, dass sich keine besonderen Vorkommnisse, Anomalien oder anderweitige außerordentliche Ergebnisse ergeben haben und der laufende Betrieb der Sonderabfalldeponie nicht gefährdet ist.\n\nErgebnisse der Deponievermessung vom 30.12.2022  Gesamtvolumen                                              897.250 m3  Verfülltes Gesamtvolumen                                   700.616 m3  Verfülltes Volumen im Berichtsjahr                          16.113 m3  Restvolumen der Deponie                                    196.634 m3  Aufnahme Deponiebetrieb                                    Wiederinbetriebnahme 02/2017  Restlaufzeit der Deponie                                   voraussichtlich 2031\n\nDer allgemein zusammenfassende Auszug aus dem Jahresbericht lautet wie folgt:\n\nLeitungsuntersuchungen Im Berichtsjahr wurden die jährlichen Reinigungen und Untersuchung der Leitungssysteme der SAD Raindorf durch das Fachunternehmen RRS, Nürnberg, ausgeführt. Außerdem wurden zusätzliche Reinigungen der Haltungen SW 14 - SW15 - SW102 im Februar, Juni, August und Dezember des Berichtsjahres vorgenommen. Die Ergebnisse sind mit den Kontrollen der Vorjahre vergleichbar. Durch Setzungen in und am Deponiekörper sind leichte Verformungen und Unterbögen an einigen Rohrabschnitten festzustellen. Inkrustationen und Ablagerungen konnten durch Hochdruckreinigung und den Einsatz einer Spezialdüse (Schlag-/Vibrationsdüse – Hochdruck) in allen untersuchten Sickerwasser- Leitungen durchgängig gereinigt und mittels Kamerabefahrung inspiziert werden. Der Sickerwasserdurchfluss ist komplett in allen Sickerwasserleitungen gewährleistet. Die Kanalleitungen des Oberflächen- und des Straßenabwassers wurden im Berichtszeitraum ebenfalls gereinigt und kamerabefahren. Ausnahmen sind die stillgelegten, nicht mehr benötigten Oberflächenwasserleitungen der Kassetten E, D, C, B, A und K. Die Ergebnisse der Kamerabefahrungen sowie der Überwachungsplan der Sickerwasserbecken und der Schächte sind in der Anlage 3 tabellarisch dargestellt.\n\nGrundwasser/Schichtenwasser/Kontrolldrainagen Die Grundwasseruntersuchungen, einschl. Schichtenwasser und Kontrolldrainagen, bestätigen im Berichtsjahr die bisherigen Befunde. Die Analysenergebnisse zeigen im Gesamtbild, dass keine von der SAD Raindorf ausgehende Beeinträchtigung gegeben ist.\n\nDer Ausschuss erhält in der Anlage sämtliche mitgelieferte Daten zum Jahrbuch 2022 der Sonderabfalldeponie Raindorf zur Kenntnisnahme.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Interimslösung Kita - Ermächtigung des ersten Bürgermeisters zur Vergabe der Errichtung der Containeranlage",
+        "facts": "Für die Errichtung einer Interims-Kindertagesstätte in Modul-Containerbauweise in der Berliner Straße wurden die erforderlichen Leistungen unter der Kennung KTL-2023-01 am 03.04.2023 auf der Vergabeplattform des Bayerischen Staatsanzeigers im beschränkten Verfahren ausgeschrieben.\n\nDer Leistungsumfang enthält im Wesentlichen die Lieferung und Montage der zweigeschossigen Containeranlage, bestehen aus etwa 16 Containern mit einer Bruttogeschossfläche von rund 270m².\n\nIm Rahmen des Ausschreibungsverfahrens wurden 6 Firmen zur Angebotsabgabe aufgefordert. Die Submission findet am 28.04.2023 statt.\n\nAufgrund des Sitzungsterminplans und der derzeit schwer zu kalkulierenden Lieferfristen ist eine zeitnahe Vergabe nach erfolgter Submission sinnvoll und zielführend, da bis zu ca. 3 Wochen Bindefrist eingespart werden könnten. Für die Vergabe der Arbeiten wäre der erste Bürgermeister bzw. dessen Vertreter im Amt daher zu ermächtigen.\n\nDer Ausführungszeitraum beläuft sich von Juni bis Anfang September 2023.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss ermächtigt den ersten Bürgermeister bzw. dessen Vertreter im Amt zur Vergabe der Bau- und Lieferleistungen „Containeranlage“ für die Interims-Kindertagesstätte in der Berliner Straße (KTL-2023-01).",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Errichtung einer öffentlichen WC-Anlage in Nähe der Försterallee; hier: Information über neuen Sachstand und ggf. neue Beschlussfassung",
+        "facts": "Zum Thema öffentliche Toilette in der Nähe der Försterallee liegen zwei neue, vom bisherigen Kenntnisstand abweichende Informationen vor:\n\n-   Der jetzige Biergarten kann in seiner provisorischen Form nur noch maximal zwei Jahre weitergehen, dann ist ein mit dem bayerischen Landesamt für Denkmalpflege abgestimmtes neues Gebäude erforderlich oder die Nutzung als Biergarten endet.\n\n-   Die 80%-igen Fördermittel für die genehmigte Toilettenanlage innerhalb der Stadtmauer (Schätzkosten 208.250,00 €, davon 172.300,00 € vorläufig förderfähig und 137.900,00 € vorläufig bewilligt) sind noch nicht verfallen und könnte noch verwendet werden, sofern die Entscheidung zum Bau kurzfristig fällt. Wird dieser Bau komplett abgelehnt, verfallen nicht nur die 20 % Sonderförderung, sondern auch die 60% reguläre Förderung.\n\nIm Bereich der „Försterallee“ soll eine öffentliche Toilettenanlage dauerhaft errichtet werden, die unter anderem den Besuchern des derzeit auf maximal 296 Besucher ausgelegten Biergartens, des Kulturhofs sowie der ZennOase in kürzester Entfernung zur Verfügung steht.\n\nDerzeit liegen für zwei WC-Anlagen – Toiletten im Rahmen der Kiosk-Variante („kleine Lösung“) und Toiletten auf dem Parkplatz „Zennstraße“ („große Lösung“) – Baugenehmigungen vor. Für die „große Lösung“ liegt zudem ein gültiger Förderbescheid vor. Sämtliche Anträge wurden durch die verschiedenen städtischen Gremien und Ausschüsse beschlossen.\n\nInsbesondere auch zu den Zeiten außerhalb des Biergarten-Betriebs soll für die Nutzer der Freizeitanlage „Försterallee“ und die Besucher des Spielplatzes eine öffentliche Toilette zur Verfügung stehen. Eine Förderung über Städtebauförderung ergibt sich, da die Toilette mit einem stark überwiegenden Anteil der Öffentlichkeit zur Verfügung steht und damit eine wichtige Versorgungslücke in diesem Bereich schließt.\n\nProvisorischer Biergarten darf nur bis Ende 2024 betrieben werden\n\nIn der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 28.03.2023 wurde das gemeindliche Einvernehmen für den Antrag auf befristeten Betrieb der „Biergarten Oase“ auf weitere 2 Jahre auf dem Grundstück Flur-Nr. 241, Gemarkung Langenzenn, erteilt.\n\nDie Verwaltung teilt mit, dass bereits in der Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 22.11.2022 für den unbefristeten Betrieb das gemeindliche Einvernehmen erteilt wurde. Aus denkmalschutzrechtlichen Gründen konnte dem Antrag nicht zugestimmt bzw. genehmigt werden (hier: Schreiben LRA Fürth vom 08.03.20239.\n\nAuszug aus dem Schreiben:\n\n…. Dem unbefristeten Betrieb kann von Seiten der Denkmalbehörden erst zugestimmt werden, wenn den Denkmalbehörden vorab eine denkmalgerechte Planung und Ausführung zur Abstimmung vorgelegt wird, die die historische Erscheinungsweise der Langenzenner Stadtmauer durch eine qualitätsvolle, zeitgenössische Architektur und Freiflächengestaltung ergänzt…..\n\nDie Baugenehmigung wurde, lt. Rücksprache mit dem Antragsteller, für zwei Jahre erteilt.\n\nFörderung noch immer möglich, wenn kurzfristig entschieden wird\n\nBei einem Termin am 05.04.2023 mit der Regierung von Mittelfranken wurde auch von Seiten der Regierung die Förderung der Errichtung einer öffentlichen WC-Anlage in Nähe der Försterallee angesprochen. Die Regierung teilte uns nun folgendes mit:\n\n„Die Aufstockung aus dem Bayerischen Städtebauförderprogramm „Innenstädte beleben“ in Höhe von 20 % (60% auf 80%) kann nun doch, entgegen des damaligen der Verwaltung mitgeteilten Fristendes (30.06.2023), um ca. 6 Monate verlängert werden. Nach dieser Frist würde die Förderung für die aktuell genehmigte WC-Anlage („große Lösung“) wieder im normalen Städtebauförderprogramm landen.“ Hierfür wäre zu klären, ob es für das normale Städtebauförderprogramm auch eine Fristverlängerung gibt, sofern der Bau nur verschoben aber nicht ausgeschlossen wird.\n\nDie Regierung bittet nun um Mitteilung, ob die Maßnahme umgesetzt werden soll oder nicht, damit hier die für Langenzenn bereitgestellten Fördermittel bei Nichtumsetzung ggf. anderweitig vergeben werden können.\n\nSollte das Gremium sich komplett gegen den aktuell genehmigten Standort der großen Lösung entscheiden und einen neuen Standort bevorzugen, wäre ein komplett neues Baugenehmigungsverfahren (Bau,- Wasserrecht, Denkmalschutz usw.) auszuarbeiten. Des Weiteren wäre ein neuer Förderantrag bei der Regierung von Mittelfranken zu stellen.\n\nBzgl. der möglichen Förderung der WC-Anlage in der genehmigten Kiosk-Variante (kleine Variante) wurde die Regierung von Mittelfranken um Stellungnahme einer möglichen Förderfähigkeit gebeten. Anbei die Aussage der Regierung:\n\nLaut mündlicher Aussage der Regierung vom 13.04.2023 wäre eine Förderfähigkeit der WC- Anlage gegeben, da auch hier grundsätzlich die städtebaulichen Ziele erfüllt sind. Eine konkrete Förderzusage ist jedoch erst möglich, wenn ein entsprechender, neuer Förderantrag hierzu vorliegt und durch die Regierung bearbeitet werden kann (neues Förderverfahren).\n\nDaraus folgt, dass der aktuell gültige Förderbescheid („große Lösung“) aufzuheben wäre.\n\nDes Weiteren wurde die Situierung einer WC-Anlage hinter der westlichsten Stapelwand Richtung Schießhausplatz in der Försterallee beim Landesamt für Denkmalpflege angefragt. Hierzu hat die Verwaltung folgende Stellungnahme des Landesamtes erhalten:\n\nDie Aussage des Landesamtes für Denkmalpflege lag zur Sitzung noch nicht vor.\n\nDie Verwaltung teilt mit, dass am 03.05.2023 ein Amtstag der Denkmalschutzbehörde stattfindet und noch weitere Gespräche stattfinden. Hierzu werden ggf. in der nächsten Stadtratssitzung am 11.05.2023 weitere Informationen bekannt gegeben.\n\nAufgrund der oben dargestellten Stellungnahmen könnte der aktuelle Förderantrag („große Lösung“) verlängert und die Verwaltung mit der Umsetzung der genehmigten und geförderten WC-Anlage beauftragt werden.\n\nBei Ausschreibungen bittet die Regierung von Mittelfranken aktuell darum, die Submissionsergebnisse weiterzuleiten, um ggf. bei Kostenerhöhungen Anpassungen bei den Fördermitteln vornehmen zu können.\n\nDer Bau-, Umwelt- und Verkehrsausschuss spricht sich mehrheitlich für eine Umsetzung nördlich der Stadtmauer aus und verweist auf die zuletzt gefassten Beschlüsse.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung zur Verlängerung des Förderantrags und gleichzeitig zur Umsetzung der genehmigten und geförderten WC-Anlage „südlich der Stadtmauer‘“.",
+        "vote": {
+          "summary": "einstimmig abgelehnt",
+          "inFavour": 0,
+          "against": 8
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "10.1.",
+        "title": "Einbahnstraßenregelung Schreiberstorberg und Obere Ringstraße; hier: Mitteilung Sachstand",
+        "facts": "In der Bau-, Umwelt- und Verkehrsausschuss wurde bzgl. des Sachstandes zur Einbahnstraßenregelung Schreiberstorberg/Obere Ringstraße angefragt.\n\nHierzu liegt nun vom Landratsamt die Mitteilung vor, dass ab dem 17.04.2023 die Fahrpläne umgesetzt und damit die neue Einbahnstraßenregelung ab diesem Zeitpunkt umgesetzt werden können. Ein Hinweisschild „geänderte Verkehrsführung“ soll noch angebracht werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "11.1.",
+        "title": "Bericht über den Zustand der Brunnen im Kernort und den Außenorten",
+        "facts": "Standorte der städtischen Brunnen in Langenzenn und allen Außenorten:\n\n   Innenhof im Rathaus    Prinzregentenplatz    Hindenburgstraße, Höhe Joghurteria    Schwabenberg, vor dem Kloster    Burggrafenhof, Dürrnfarrnbacher Weg vor dem Feuerwehrhaus    Keidenzell, Fürther Straße vor dem Feuerwehrhaus    Kirchfembach, Kirchfembacher Straße, Ecke Hammermühlenweg    Laubendorf, Wilhermsdorfer Straße, Ecke Pfarrweg    Heinersdorf, Meiersberger Straße, Höhe Hausnummer 9\n\nDie städtischen Brunnen werden bei der Inbetriebnahme im Frühjahr auf ihre Funktionsweise überprüft, sowie beim Abstellen des Wassers im Herbst auf mögliche Schäden kontrolliert .",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "11.2.",
+        "title": "Bauwerksanierung 2022; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht",
+        "facts": "Anfang Februar hat die beauftragte Firma Knörr mit den Sanierungsarbeiten an der südlichen und östlichen Friedhofsmauer begonnen.\n\nDie Aufmauerung der Südwand, wie auch der Putz auf der unbewehrten Betonwand, wurden entfernt. Hierbei wurde festgestellt, dass die unbewehrte Betonwand komplett schadhaft ist und nicht wie geplant saniert werden kann.\n\nAus Standsicherheitsgründen muss daher eine komplette Stahlbetonwand vor der vorhandenen schadhaften Betonwand in gesamter Höhe (neue Aufmauerung entfällt) erstellt werden. Die Maßnahme wurde mit dem Bayerischen Landesamt für Denkmalpflege abgestimmt und genehmigt. Mehrkosten für die Umplanung entstehen nicht.\n\nDer Putz und die Abdeckung der östlichen Wand wurde entfernt und die Risse statisch mit Fugenanker saniert. Die Fundamente für die Stahlbetonwand sind auf der kompletten Länge hergestellt. Ab dieser Woche beginnt die Firma Knörr mit der Erstellung der südlichen Stahlbetonwand. Alle Arbeiten liegen im vorgegebenen Zeitplan.\n\nDie Mauer im westlichen Bereich wird im weiteren Baufortgang überprüft und ggf. werden notwendige Unterhaltsmaßnahmen durchgeführt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "12.",
+        "title": "Hochwasserschutz Zenn; hier: Weiteres Vorgehen nach Freigabe Planungskonzept",
+        "facts": "Das Planungskonzept zum Hochwasserschutz an der Zenn wurde im Wasserwirtschaftsamt erstellt und Mitte März sowohl von der Regierung von Mittelfranken als auch vom Staatsministerium für Umwelt und Verbraucherschutz freigegeben.\n\nDamit sind die Voraussetzungen gegeben, um die Unterlagen für die Vergabe von Planungsleistungen anzufertigen und Planungsbüros zur Anfertigung eines Vorentwurfs zu beauftragen.\n\nDer Auftrag wird EU-weit ausgeschrieben und soll mit möglichst wenig Vorgaben erfolgen um ergebnissoffen zu bleiben und weitere Ideen der Planungsingenieure zu ermöglichen.\n\nWie bereits in der Basisstudie und den Vorüberlegungen dargelegt, wird am Ende die Maßnahme umgesetzt, die nach Abwägung von Effizienz und Kosten die wirkungsvollste ist.\n\nDie Klimaschutzstelle bleibt in engem Kontakt mit dem WWA um die Maßnahme auch mit anderen Projekten zu koordinieren, wie Landesgartenschau und Starkregenkonzept.\n\nLt. Planungsvereinbarung erstreckt sich die Planungsleistung über drei Jahre.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "13.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "13.1.",
+        "title": "Bauleitplanung für Windenergieanlagen/Repowering-Bebauungsplan; hier: Merkblatt",
+        "facts": "Die Bundesregierung hat zur Förderung der Erneuerbaren Energien das sog. Wind-an-Land- Gesetz beschlossen. Das Wind-an-Land-Gesetz beinhaltet das Windenergieflächenbedarfsgesetz (WindBG) sowie Änderungen des Baugesetzbuches (BauGB). Diese Neuerungen und Änderungen sind bereits zum 01.02.2023 in Kraft getreten.\n\nHierzu liegt vom Bayerischen Staatsministerium für Wohnen, Bau und Verkehr ein Merkblatt (Stand 06.04.2023) zur Bauleitplanung für Windenergieanlage, insbesondere Repowering- Bebauungsplan vor.\n\nDas Merkblatt ist im Ratsinformationssystem eingestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "14.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "14.1.",
+        "title": "Sondernutzungsgebühren in der Altstadt",
+        "facts": "Stadträtin Ritter bittet um Informationen, ob die Bestuhlung der Cafes und Kneipen in der Altstadt kostenlos ist oder ob Sondernutzungsgebühren anfallen."
+      },
+      {
+        "number": "14.2.",
+        "title": "Sperrung des Veranstaltungsbereiches am Regionalmarkt",
+        "facts": "Stadtrat Schramm fragt nach, warum am Regionalmarkt in diesem Jahr die Klosterstraße nicht in den Veranstaltungsbereich aufgenommen wurde und hier keine Verkehrssperrung erfolgt ist. Weiterhin soll über die Umsetzung der Verkehrsüberwachung informiert werden.\n\nEine Mitteilung erfolgt im Rahmen der Nachbetrachtung der städtischen Veranstaltung in einer der nächsten Sitzungen."
+      },
+      {
+        "number": "14.3.",
+        "title": "Biberschäden am Farrnbach im Ortsteil Keidenzell",
+        "facts": "Stadträtin Franz berichtet, dass der Farrnbach durch Biber aufgestaut ist und immer breiter wird. Es entstanden bereits Schäden am Haus eines Bürgers in Keidenzell.\n\nDie Verwaltung wird den Sachverhalt an den Biberberater des Landkreises Fürth weiterleiten."
+      },
+      {
+        "number": "14.4.",
+        "title": "Sitzungsbeginn des Bau-, Umwelt- und Verkehrsausschusses",
+        "facts": "Stadtrat Sieber bittet darum, dass die Sitzungen in der Sommerzeit regulär um 18.00 Uhr beginnen, da es für berufstätige Stadträte/innen nicht immer möglich sei, bereits um 16.00 Uhr vor Ort zu sein. In den Sommermonaten ist es auch um 18.00 Uhr möglich eine Ortsbesichtigung durchzuführen."
+      },
+      {
+        "number": "14.5.",
+        "title": "Antrag von Stadträtin Schlager zum Grundstück Peterstrich",
+        "facts": "Stadträtin Schlager stellt den Antrag, dass auf dem Grundstück Peterstrich Fl.-Nr. 510, Gem. Laubendorf, der Wegseitengraben wieder aufgemacht und der Ursprungszustand wiederhergestellt wird.\n\nDer Verursacher soll dies auf seine Kosten veranlassen."
+      },
+      {
+        "number": "14.6.",
+        "title": "Bahnübergang Laubendorf im Bereich der Blumenwiese",
+        "facts": "Stadträtin Schlager teilt mit, dass auf dem Grundstück Fl.-Nr. 330, Gem. Laubendorf bei Bauarbeiten der Deutschen Bahn Gleisschotter zwischengelagert wurde. Der Schotter wurde inzwischen wieder entfernt, die Blumenwiese aber nicht ordnungsgemäß wiederhergestellt.\n\nUm Überprüfung seitens des Naturamtes wird gebeten, auch im Hinblick der Kostentragung."
+      },
+      {
+        "number": "14.7.",
+        "title": "Anfrage zu Geländeauffüllungen",
+        "facts": "Stadtrat O. Vogel erkundigt sich nach dem Sachstand bezüglich seiner Anfragen zu den Geländeauffüllungen.\n\n-   „Z-Quartier“, auf dem Grundstück Fl.-Nr. 2233, Gemarkung Langenzenn. -   Flurnummern 1174 und 1175 (neben dem neuen Feuerwehrhaus) -   Flurnummer 1004, Reiherbeize „Grabenauffüllung“\n\nDie Auffüllung an dem Grundstück in der Reiherbeize wird nach Rücksprache mit dem Bauamt und dem Eigentümer beseitigt. Die restlichen Flächen werden nochmals überprüft."
+      },
+      {
+        "number": "14.8.",
+        "title": "Brunnen Keidenzell",
+        "facts": "Stadträtin Franz fragt nach, ob der Brunnen in Keidenzell schon in Betrieb genommen wurde.\n\nDie Anfrage wird an die Stadtwerke weitergeleitet."
+      },
+      {
+        "number": "14.9.",
+        "title": "Friedhof Keidenzell, Abstellmöglichkeit für Gießkannen",
+        "facts": "Stadträtin Franz fragt nach, ob am Keidenzeller Friedhof bereits die Wasserhähne hochgebaut wurden, um Abstellmöglichkeit für Gießkannen, analog wie am Waldfriedhof, zu erhalten.\n\nDie Verwaltung wird die notwendigen Arbeiten veranlassen."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "154847",
+    "minutes": "156430"
+  }
+}

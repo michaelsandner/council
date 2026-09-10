@@ -1,0 +1,355 @@
+{
+  "meetingId": "3412",
+  "announcement": {
+    "heading": "89. Sitzung des Stadtrates",
+    "sessionNumber": 89,
+    "date": "2026-02-12",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Abwägung der Stellungnahmen zur Eignungsprüfung"
+      },
+      {
+        "number": "4.",
+        "title": "Kommunale Wärmeplanung hier: Ergebnisse der Potentialanalyse"
+      },
+      {
+        "number": "5.",
+        "title": "Anträge aus der Bürgerversammlung"
+      },
+      {
+        "number": "5.1.",
+        "title": "Virtuelle Teilnahme an Sitzungen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Kürzung / Optimierung der Abgedruckten Niederschriften im Mitteilungsblatt"
+      },
+      {
+        "number": "5.3.",
+        "title": "Aufnahme von Seniorenthemen in der Bürgerversammlung"
+      },
+      {
+        "number": "5.4.",
+        "title": "Bürgerversammlungen auch in Außenorten"
+      },
+      {
+        "number": "5.5.",
+        "title": "Aufstellung von Immobilien und Grundstücken im Besitz der Stadt Langenzenn bzw. der WBG oder Ähnlichem"
+      },
+      {
+        "number": "6.",
+        "title": "Grundstück Bronnespan; hier: Veräußerung einer Grundstücksteilfläche aus dem Grundstück Fl.-Nr.: 1674, Gemarkung Langenzenn (BP 7 Hardgraben, 6. Änderung WA 2.1)"
+      },
+      {
+        "number": "7.",
+        "title": "Schulcampus hier: Meinungsabfrage der Fraktionen zur geplanten Turnhalle und eventuellen Anbauten"
+      },
+      {
+        "number": "8.",
+        "title": "Zenngrund-Allianz hier: Probemitgliedschaft der Gemeinde Großhabersdorf in der ILE „Zenngrund“"
+      },
+      {
+        "number": "9.",
+        "title": "Ehrung von langjährigen Mitgliedern des Stadtrates: Vorgehensweise bei Abwesenheit"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Container in Laubendorf"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "statt: (Der öffentliche Teil beginnt ca. 16:10Uhr)"
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt. Langenzenn, 6. Februar 2026 STADT LANGENZENN",
+    "issuedOn": "6. Februar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "89. Sitzung des Stadtrates",
+    "sessionNumber": 89,
+    "date": "2026-02-12",
+    "startTime": "16:00",
+    "endTime": "17:20",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweite Bürgermeisterin",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "ab TOP 5.2"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie, Zweite Bürgermeisterin"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 5.1"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 5.2, bis TOP 18.1"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 6"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n65. Sitzung des Bau-; Umwelt und Verkehrsausschuss vom 27.01.2026\n\n1. Abwasseranlage Langenzenn; 10-Jahres-Plan; Abwasserschiene und hydraulische Sanierung Ringstraße; statische Berechnung für Bauwerke; hier: Auftragsvergabe\n\nDer Bau- Umwelt-, und Verkehrsausschuss beschließt die Vergabe der Ingenieurleistungen für die Tragswerksplanung für Teil 1 - Hydraulische Sanierung Untere Ringstraße inklusive Entlastungskanal an das Ingenieurkontor Mosler Nagel Weitzer GmbH, Bubenreuth, auf Grundlage des Angebots vom 10.12.2025 zu einem vorläufigen Angebotspreis in Höhe von rund brutto 27.474,72 Euro\n\nDer Bau- Umwelt-, und Verkehrsausschuss beschließt die Vergabe der Ingenieurleistungen für die Tragswerksplanung für Teil 2 - Abwasserschiene an das Ingenieurkontor Mosler Nagel Weitzer GmbH, Bubenreuth, auf Grundlage des Angebots vom 10.12.2025 zu einem vorläufigen Angebotspreis in Höhe von rund brutto 23.019,36 Euro.\n\n2. Löschwasserversorgung; Errichtung von Löschwasserbehältern; statische Berechnungen der Löschwasserbehälter; hier: Auftragsvergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Ingenieurleistungen für die Tragwerksplanung „Löschwasserbehälter“ an das Ingenieurkontor Mosler Nagel Weitzer GmbH, Bubenreuth, auf Grundlage des Angebots vom 18.01.2026 in Höhe von vorläufig brutto 28.217,28 Euro.\n\n3. BauGB-Novelle 2025; Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung; hier: Honorarangebot für die Erstellung eines Entscheidungsbaumes (-hilfe) zur Anwendung des „Bauturbos“\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen zur Erstellung eines Entscheidungsbaumes zum „Bauturbo“ an das Büro Grosser-Seeger & Partner mbB, Nürnberg, auf Grundlage des Angebots vom 10.12.2025 in Höhe von brutto 4.873,05 Euro.\n\n4. Genehmigung der letzten Niederschrift\n\n63. BUVA vom 25.11.2025, freigeschaltet am 23.01.2026\n\n76. Sitzung des Hauptausschusses vom 29.01.2026\n\n5. Beschaffung von Möbeln für die Mittagsbetreuung in der Grundschule\n\nDer Hauptausschuss beauftragt die Verwaltung mit der Beschaffung und Aufnahme in den Haushalt 2026 von folgenden Möbeln für die Mittagsbetreuung der Grundschule Langenzenn:\n\n-   Schülerstühle -   Schülertische -   Materialschränke und Schubkästen\n\nDie Verwaltung wird ermächtigt, diese Anschaffungen in einem Rahmen bis zu 15.000,00 € zu tätigen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Abwägung der Stellungnahmen zur Eignungsprüfung",
+        "facts": "Der erste Schritt der kommunalen Wärmeplanung – die Eignungsprüfung – wurde im November 2025 fertiggestellt.\n\nGemäß Wärmeplanungsgesetz §13 wurde der Öffentlichkeit sowie weiteren Trägern öffentlicher Belange für 30 Tage die Möglichkeit zur Stellungnahme eingeräumt. Die Gelegenheit zur Stellungnahme bestand vom 24.11. – 30.12.2025.\n\nEs ging eine Stellungnahme von einem Bürger ein. Die Stellungnahme und die Bewertung sind in der angehängten Abwägungstabelle Eignungsprüfung dargelegt.\n\nAus den eingegangenen Stellungnahmen erfolgen keine Änderungen.\n\nVon den Trägern öffentlicher Belange ging keine Stellungnahme ein.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Kommunale Wärmeplanung hier: Ergebnisse der Potentialanalyse",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 15.01.2025 die Durchführung der Kommunalen Wärmeplanung beschlossen und wird seitdem über den Projektfortschritt, die Zwischenstände sowie die anstehende Veröffentlichung informiert.\n\nJetzt ist der dritte Schritt der kommunalen Wärmeplanung – die Potentialanalyse – fertiggestellt. Damit werden die möglichen Potenziale zur Nutzung erneuerbarer Wärme und erneuerbaren Stroms aufgezeigt.\n\nGemäß Wärmeplanungsgesetz §13 ist auch die Veröffentlichung der Potentialanalyse vorgeschrieben. Der Öffentlichkeit sowie weiteren Trägern öffentlicher Belange ist für 30 Tage\n\ndie Möglichkeit zur Stellungnahme einzuräumen. Dies soll über die städtische Homepage unter dem hierfür eingerichteten Unterpunkt\n\nhttps://www.langenzenn.de/leben-wohnen/bauen/kommunale-waermeplanung\n\nsowie über Aushang im Rathaus erfolgen.",
+        "decision": "Der Stadtrat nimmt die Ergebnisse der Potentialanalyse zur Kenntnis und stimmt der Veröffentlichung zu.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Anträge aus der Bürgerversammlung"
+      },
+      {
+        "number": "5.1.",
+        "title": "Virtuelle Teilnahme an Sitzungen",
+        "facts": "Es wird folgender Antrag gestellt:\n\nSchaffung der Möglichkeit digital / virtuell an den Stadtratssitzungen im 1.OG des alten Rathauses teilzunehmen.\n\nHierzu soll beim Stadtrat ein Beschluss erwirkt werden, einen Livestream möglich zu machen. Auch sollen in den Haushalt 2027 Gelder bereitgestellt werden, um die Durchführung der Maßnahme (Anschaffung Kamera, geeignetes EDV-Programm, Elektroleitungen etc.) zu ermöglichen. Ferner sollen die Aufzeichnungen in einer Mediathek abrufbar sein.\n\nErläuterung der Verwaltung:\n\n1. Gesetzliche Grundlage Der Gesetzgeber hat mit Wirkung zum 01.01.2024 in Art. 52 Abs. 4 Satz 2 ff. der Gemeindeordnung für den Freistaat Bayern (GO) die Möglichkeit geschaffen, öffentliche Sitzungen der städtischen Gremien mittels Echtzeitübertragung in Ton und Bild über das Internet zuzulassen und die Aufzeichnungen in einer Sammlung audiovisueller Medien für die Dauer von sechs Wochen zum Abruf für jedermann bereitzustellen.\n\nDie Zulassung steht im Organisationsermessen der Gemeinde bzw. des Stadtrates („kann“) und bedarf gem. Art. 52 Abs. 4 Satz 5 GO eines Beschlusses, der mit Zweidrittelmehrheit der abstimmenden Mitglieder des Stadtrates gefasst werden muss. Eine Regelung in der Geschäftsordnung ist nicht zwingend erforderlich.\n\n2. Erfordernis einer datenschutzrechtlichen Einwilligung Laut dem neu eingefügten Art. 52 Abs. 4 Satz 6 GO dürfen Ton und Bild von „an der Sitzung teilnehmenden Personen“ – mit Ausnahme der oder des Vorsitzenden – nur mit deren (datenschutzrechtlicher) Einwilligung übertragen, aufgezeichnet und gespeichert werden. Als Beispiele für „an der Sitzung teilnehmende Personen werden in der Gesetzesbegründung insbesondere Gemeinderatsmitglieder, Gemeindebedienstete, von der Gemeinde hinzugezogene Personen, Sachverständige und Behördenvertreter genannt.\n\nDie Notwendigkeit einer datenschutzrechtlichen Einwilligung gilt – wie bisher – auch für Bürgerinnen und Bürger, deren Angelegenheiten ausnahmsweise (z.B. bei der Behand-\n\nlung eines Bauantrags) personenbezogen bzw. personenbeziehbar in öffentlicher Gemeinderatssitzung behandelt und im Internet übertragen werden sollen.\n\nDas Erfordernis einer datenschutzrechtlichen Einwilligung gilt nicht für die erste Bürgermeisterin bzw. den ersten Bürgermeister als Vorsitzende bzw. (im Verhinderungsfall) für deren Stellvertretungen im Vorsitz, d.h. deren Ton und Bild darf stets übertragen, aufgezeichnet und gespeichert werden.\n\nDie Einwilligung des oben genannten Personenkreises kann jederzeit ohne Angabe von Gründen widerrufen werden.\n\nGemäß Art. 52 Abs. 4 Satz 7 GO ist eine Übertragung, Aufzeichnung und Speicherung des Bildes einer unbeteiligten Person, also einer Zuhörerin oder eines Zuhörers der betreffenden öffentlichen Sitzung, von vornherein nur zulässig, falls die räumlichen Verhältnisse Aufnahmen ohne unbeteiligte Personen nicht zulassen. Auch in diesem Fall erlaubt das Gesetz eine Übertragung, Aufzeichnung und Speicherung des Bildes einer unbeteiligten Person nur im Rahmen von Übersichts- oder Hintergrundaufnahmen. Andernfalls könnten interessierte Zuhörerinnen und Zuhörer davon abgehalten werden, ihren Rechtsanspruch auf Zugang zu den öffentlichen Gemeinderatssitzungen (s. dazu oben Erl. 6.2) wahrzunehmen.\n\nZwischenfazit: Eine virtuelle Übertragung von Sitzungen der städtischen Gremien ins Internet sowie eine Speicherung der Aufnahmen in einer Mediathek ist grundsätzlich möglich, jedoch an sehr hohe organisatorische Regularien (jederzeit widerrufliche datenschutzrechtliche Einwilligungserklärung, Anforderungen an die Räumlichkeiten) geknüpft, die in den folgenden Punkten näher betrachtet werden.\n\n3. Anforderung an die Räumlichkeiten Neben der Implementierung der technischen Voraussetzungen (Kameras, Mikrofone etc.) gibt es Anforderungen an Sitzungsraum.\n\nDie Sitzungsanordnung des Sitzungssaals im historischen Rathaus ist kreisförmig aufgebaut. Die Zuhörerplätze befinden sich rechts und links neben dem Eingangsbereich über die gesamte Länge des Raumes. Wie unter Punkt 2 aufgeführt,\n\nist eine Übertragung, Aufzeichnung und Speicherung des Bildes einer unbeteiligten Person, also einer Zuhörerin oder eines Zuhörers der betreffenden öffentlichen Sitzung, von vornherein nur zulässig, falls die räumlichen Verhältnisse Aufnahmen ohne unbeteiligte Personen nicht zulassen.\n\nAls eine mögliche und einfache Lösung könnte hier mit der Zuhilfenahme eines Rednerpultes datenschutzrechtliche Bedenken ausgeräumt werden. Da wie dargestellt, der Vorsitzende per se von dem Erfordernis einer datenschutzrechtlichen Einwilligung ausgenommen ist, könnte das Rednerpult so platziert werden, dass nur die Eingangstür für Redebeiträge aus dem Gremium gefilmt werden.\n\nErgänzende Informationen siehe hierzu unter Punkt 4 „Sitzungsverlauf“\n\n4. Sitzungsverlauf Wie unter Punkt 2 dargestellt, dürfen Ton und Bild von „an der Sitzung teilnehmenden Personen“ nur mit deren (datenschutzrechtlicher) Einwilligung übertragen, aufgezeichnet und gespeichert werden. Diese Erklärung kann jederzeit ohne Angabe von Gründen widerrufen werden.\n\nUm die Aufzeichnung von unbeteiligten Personen zu vermeiden, sind Redebeiträge ggf. erst dann möglich, wenn das Stadtratsmitglied von seinem Sitzplatz zum angesprochenen Rednerpult wechselt.\n\nDarüber hinaus gilt es vor den jeweiligen Redebeiträgen zu prüfen, welche Mitglieder des Gremiums ihre Einwilligung zur Übertragung gegeben haben und welche keine Einwilligung erteilt haben. Für den Fall der Nichterteilung ist die Übertragung vor dem eigentlichen Redebeitrag zu unterbrechen.\n\nDies erfordert sowohl von dem zuständigen Mitarbeitenden der Verwaltung bzw. des externen Dienstleisters (siehe Punkt 5) der die Technik bedient als auch von den Mitgliedern des Gremiums eine gewisse Disziplin und kann erhebliche Auswirkungen auf den Sitzungsverlauf (z.B. hitzigere Diskussion) haben, zumal die erteilte Einwilligung jederzeit ohne Angabe von Gründen (auch während der Sitzung selbst) jederzeit widerrufen werden kann.\n\n5. Verwaltungsaufwand / zusätzlicher Personalaufwand Wie unter Punkt 2 dargestellt, gilt es neben den Mitgliedern des Gremiums und der Verwaltung vor jeder Sitzung auch die Einwilligungserklärung auch von der Gemeinde hinzugezogenen Personen, Sachverständigen und Vertreter anderer Behörden einzuholen. Dies bedeutet für die Vorbereitung zur Sitzung einen weiteren, erhöhten Verwaltungsaufwand.\n\nNeben den an den Sitzungen teilnehmenden Mitarbeitenden (aus den Fachbereichen, Sitzungsdienst etc.) ist zusätzlich eine weitere Person abzustellen, die sich ausschließlich um den Betrieb der Technik kümmert. Diese Person ist dahin gehend zu schulen, die Aufzeichnungen bei Redebeiträgen, die nicht übertragen werden dürfen, entsprechend zu unterbrechen. Geschieht die Unterbrechung nicht rechtzeitig, z.B. bei lebhafteren Diskussionen, sieht sich die Stadt Langenzenn möglicherweise haftungsrechtlichen Konsequenzen ausgesetzt.\n\nAlternativ könnte auf einen externen Dienstleister zurückgegriffen werden, der die technische Leitung des Livestreams übernimmt. Siehe hierzu Punkt 6.\n\n6. Beschaffungs- / Umbau- und Betreuungskosten Eine detaillierte Kostenaufstellung liegt der Stadt Langenzenn für das Übertragen von Sitzungen über das Internet nicht vor. Jedoch sind Kosten im höheren fünf- bzw. im mittleren sechsstelligen Bereich pro Jahr zu veranschlagen.\n\nAls Kalkulationsbasis dient die Stadt Bamberg, die eine Teilnahme an städtischen Gremiensitzungen über das Internet ermöglicht. Die Stadt Bamberg beziffert die Kosten pro Sitzung nach Recherche durch die Verwaltung mit ca. 1.500 Euro pro Sitzung. Allerdings verfügt die Stadt Bamberg über eine eigene GmbH die die Aufgaben der Übertragung übernimmt. Darüber hinaus verfügt die Stadt Bamberg in der Stadthalle bereits über die nötige Technik zur Übertragung. Bei der Stadt Langenzenn sind die Kosten pro Sitzung daher höher anzusetzen, unabhängig davon, ob dies mit eigenem Personal oder durch einen Dienstleiser umgesetzt wird.\n\nGeht man von 5 Gremiensitzungen pro Monat aus und kalkuliert optimistisch mit 2.000 Euro Kosten pro Sitzung ergibt dies einen jährlichen Kostenblock von ca. 120.000,-- Euro."
+      },
+      {
+        "number": "7.",
+        "title": "Inanspruchnahme / Erfahrungswerte Im Landkreis Fürth gibt es noch keine Kommune, die ihre Gremiensitzungen über das Internet überträgt. Bei der Stadt Zirndorf wurde aber im Rahmen einer Bürgerversammlung ein ähnlich gelagerter Antrag gestellt. Die Stadt Zirndorf befindet sich derzeit in der Überprüfung der Umsetzbarkeit. Erfahrungswerte zur neu geschaffenen Möglichkeit zur Übertragung von Gremiensitzungen lassen sich beispielhaft bei der Stadt München, der Stadt Bayreuth, der Stadt Hof und der Stadt Bamberg finden. In der bayerischen Landeshauptstadt München ist der Livestream schon viele Jahre im Einsatz. Anschließend sind die Gremiensitzungen in einer Mediathek verfügbar. Stadtsprecher Stefan Hauf: „Die Nutzungszahlen des Vollversammlungs-Livestreams hängen natürlich stark von den Themen auf der Tagesordnung und der Dauer der Sitzung ab. Generll kann man von bis zu 1.000 Nutzern des Streams selbst und weiteren 500 Nutzern der Aufzeichnung ausgehen. Gemessen an der Einwohnerzahl von 1.505.005 Einwohnern (Stand 31.12.2024) beträgt die Teilnahme damit 0,06%. Die Stadt Bayreuth hat den Service zur Teilnahme an städtischen Sitzungen via Internet Ende des vergangenen Jahres wieder eingestellt. Die Begründung des Oberbürgermeisters: „Zu teuer und zu wenig Zugriffe. Die Klickzahlen sind gerade in der Vergangenheit massiv zurückgegangen…“. Bei „Aufreger-Themen“ haben in einer der vergangenen Sitzungen knapp 1.700 Menschen den Livestream immerhin gestartet. Zuletzt zählte die Stadt nur noch 240 Zugriffe mit einer durchschnittlichen Verweildauer von sieben Minuten. Gemessen an der Einwohnerzahl von 72.940 Einwohnern beträgt die Teilnahme damit 0,3%. Auch die Stadt Bamberg überträgt die städtischen Gremien-Sitzungen live über das Internet. Auf Anfrage von BR24 heißt es: „Der Durchschnitt liegt bei 25,5 Zugriffen pro Sitzung. Der Höchstwert liegt bei 50.“ Gemessen am Höchstwert und an der Einwohnerzahl von 77.150 Einwohnern (Stand 31.12.2024) beträgt die Teilnahme damit 0,06% und ist damit vergleichbar mit der der Landeshauptstadt. Bei der Stadt Hof (hier konnten keine Klickzahlen recherchiert werden) entschied man sich, das Streamen der Sitzungen nach wenigen Versuchen wieder einzustellen. Als Grund nannte eine Stadtsprecherin einen „zu hohen technischen Aufwand“. Sabine Steininger (Fraktionsvorsitzende der Grünen): „Man kann die Augen nicht vor den geringen Klickzahlen verschließen. Auch wird in den Sitzungen oft nicht mehr diskutiert, da fehlt es bei diesem Format an Mehrwert für die Zuhörer“. Fazit: Eine Übertragung von städtischen Sitzungen über das Internet und das zur Verfügung stellen von Aufzeichnungen ist rechtlich und technisch möglich. Jedoch ist dies mit technischen bzw. kostenintensiven Anschaffen und datenschutzrechtlichen Hürden versehen. Zusätzlich steht dem ein mögliches „leiden“ der Diskussionskultur durch das ggf. mehrmalige Unterbrechen der Übertragung bei fehlender Einwilligungserklärung eines oder mehrerer Redner gegenüber. Abschließend bleibt es fraglich ob und wie stark ein mögliches Übertragen von Gremien-Sitzungen durch die Bevölkerung in Anspruch genommen wird.",
+        "decision": "Der Stadtrat lehnt derzeit den Antrag zur Schaffung der Möglichkeit digital / virtuell an den Stadtratssitzungen im 1.OG des alten Rathauses teilzunehmen ab.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.2.",
+        "title": "Kürzung / Optimierung der Abgedruckten Niederschriften im Mitteilungsblatt",
+        "facts": "An der Bürgerversammlung wurde folgender Antrag gestellt:\n\nEs wird beantragt, dass im Mitteilungsblatt künftig auf den vollständigen Abdruck umfangreicher Beträge verzichtet wird.\n\nZu diesem Antrag werden zwei Beispiele aufgeführt: a) Im Mitteilungsblatt Nr. 20/2024 wurden insgesamt 21 Seiten zur 15. Änderung des Flächennutzungsplans sowie Aufstellung der 8. Änderung des Bebauungsplans „GE V Burggrafenhof“ im Parallelverfahren abgedruckt.\n\nb) Ebenso könnten die Niederschriften aus den Redaktionsausschüssen dahin gehend gekürzt werden, dass bereits veröffentlichte Texte und Bilder nicht erneut vollständig abgedruckt werden müssen.\n\nZu a) Die im Mitteilungsblatt Nr. 20/2024 angesprochenen 21 Seiten bezogen sich auf die nach § 3 und 4 BauGB Abwägungen und der damit eingegangenen, abgegebenen Stellungnahmen der Öffentlichkeit und Behörden. Diese Abwägungsbeschlüsse werden normaler Weise nicht im Mitteilungsblatt veröffentlicht. Das dennoch ein Abdruck im Mitteilungsblatt erfolgte, war ein Fehler der Verwaltung. Dies wurde dem Antragsteller auch bereits im Nachgang der Bürgerversammlung seitens der Verwaltung mitgeteilt.\n\nZu b) Frau Stadträtin Osswald hat im Juni 2025 den Antrag gestellt, dass die Niederschriften des Redaktionsausschusses nicht im Mitteilungsblatt der Stadt Langenzenn veröffentlicht werden sollen. In der 70. Sitzung des Hauptausschusses vom 07.07.2025 wurde die Verwaltung mit der Prüfung des Antrages beauftragt. In der Sitzung des Stadtrates am 12.11.2025 wurde der Antrag mit den Recherche-Ergebnissen der Verwaltung im Gremium beraten. Es wurde unter diesem TOP verschiedenste Konstellationen der Veröffentlichung von Niederschriften des Redaktionsausschusses diskutiert. Letztlich wurde der Antrag mehrheitlich durch den Stadtrat abgelehnt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.3.",
+        "title": "Aufnahme von Seniorenthemen in der Bürgerversammlung",
+        "facts": "Es wird folgender Antrag gestellt:\n\nAufnahme von Seniorenthemen in zukünftigen Bürgerversammlungen / Berichten des Bürgermeisters.\n\nDie gesetzliche Verpflichtung zur Abhaltung einer Bürgerversammlung mindestens einmal jährlich ergibt sich aus Art. 18 Abs. 1 Satz 1 Halbsatz 1 GO.\n\nDabei beschränkt sich das Recht des Stadtrates nur auf die Anzahl der Bürgerversammlung in einem Jahr, NICHT aber auf Art, Ort und Zeit der Bürgerversammlung.\n\nAuch die Tagesordnung kann der Stadtrat, wie sich im Umkehrschluss aus Art. 18 Abs. 2 GO ergibt, der Ersten Bürgermeisterin/dem Ersten Bürgermeister nicht verbindlich und abschließend vorgeben.\n\nDie Bürgerversammlung dient, wie in der amtlichen Überschrift zum Ausdruck kommt, in erster Linie der Mitwirkung der Bürgerinnen und Bürger in Form der Mitberatung gemeindlicher Angelegenheiten, insbesondere mittels Empfehlungen an den Gemeinderat (Art. 18 Abs. 5 GO). nicht aber in Form der Mitentscheidung wie beim Bürgerentscheid nach Art. 18a GO. Die „Erörterung“ gemeindlicher Angelegenheiten schließt es zwar nicht aus, dass die erste Bürgermeisterin/der erste Bürgermeister die Bürgerversammlung mit einem Rechenschaftsbericht oder einem Bericht über aktuelle Entwicklungen eröffnet; die Versammlung sollte aber stets in erster Linie das „Podium für die Bürgerinnen und Bürger“ sein, um ihnen Gelegenheit zum Meinungsaustausch, zu Anfragen oder zur Diskussion örtlicher Probleme zu geben.\n\nDer Stadtrat kann hier lediglich dem Ersten Bürgermeister / der Ersten Bürgermeisterin eine Empfehlung über ob“ und „welche“ Beratungsgegenstände geben, sodass weitere Themen – wie z.B. hier beantragt Seniorenthemen – mit in den Bericht der Ersten Bürgermeisterin / des Ersten Bürgermeisters mit aufgenommen werden.",
+        "decision": "Der Stadtrat empfiehlt dem Ersten Bürgermeister zukünftig Seniorenthemen mit auf die Tagesordnung der Bürgerversammlung zu nehmen",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.4.",
+        "title": "Bürgerversammlungen auch in Außenorten",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Es sollen ab 2026 wieder jährlich Bürgerversammlungen in den Außenorten abgehalten werden.“\n\nEin ähnlich gelagerter Antrag wurde bereits in der Bürgerversammlung 2024 gestellt: Ein Bürger beantragt, wieder Bürgerversammlungen in den Außenorten abzuhalten, zumindest alle zwei Jahre. Antwort der Verwaltung:\n\nDie gesetzliche Verpflichtung zur Abhaltung einer Bürgerversammlung mindestens einmal jährlich ergibt sich aus Art. 18 Abs. 1 Satz 1 Halbsatz 1 GO. Gemäß Art. 18 Abs. 1 Satz 1 Halbsatz 2 GO kann auf Verlangen des Stadtrates auch öfters als einmal im Jahr eine Bürgerversammlung abgehalten werden.\n\nDabei beschränkt sich das Recht des Stadtrates nur auf die Anzahl der Bürgerversammlung in einem Jahr, NICHT aber auf Art, Ort und Zeit der Bürgerversammlung. Wo und in welcher Art weitere Bürgerversammlungen stattfinden obliegt somit dem Ersten Bürgermeister / der Erste Bürgermeisterin.\n\nDer Stadtrat kann hier lediglich dem Ersten Bürgermeister / der Ersten Bürgermeisterin eine Empfehlung aussprechen wo weitere Bürgerversammlungen Sinn machen und stattfinden sollen. Eine rechtliche Bindung ergibt sich daraus aber nicht.",
+        "decision": "Der Stadtrat empfiehlt dem Ersten Bürgermeister zukünftig Bürgerversammlungen in den Außenorten abzuhalten",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.5.",
+        "title": "Aufstellung von Immobilien und Grundstücken im Besitz der Stadt Langenzenn bzw. der WBG oder Ähnlichem",
+        "facts": "In der Bürgerversammlung wurde folgender Antrag gestellt:\n\nBitte um eine Aufstellung der im Eigentum der Stadt Langenzenn / WBG / Ähnlichen Tochtergesellschaften oder Beteiligten befindlichen Immobilien / Grundstücken mit Adresse, oder, falls nicht vorhanden, Lageplan oder Flurkarte.\n\nEine derartige Auflistung hat schon mehrfach stattgefunden, die letzte Vorstellung und Aktualisierung dieser Liste erfolgte Mitte 2024. Seither dürfte sich an diesem Stand nicht viel geändert haben.",
+        "decision": "Der Stadtrat beauftragt die Verwaltung mit einer Aktualisierung der Grundstücksliste.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Grundstück Bronnespan; hier: Veräußerung einer Grundstrücksteilfläche aus dem Grundstück Fl.-Nr.: 1674, Gemarkung Langenzenn (BP 7 Hardgraben, 6. Änderung WA 2.1)",
+        "facts": "Der Hauptausschuss hat in seiner Sitzung vom 25.09.2025 beschlossen, die Grundstücksteilfläche (WA 2.1) aus dem Grundstück Fl.-Nr.: 1674, Gemarkung Langenzenn, welche sich\n\nim Bebauungsplan Nr. 7 Hardgraben, hier: 6. Änderung, befindet, auf dem freien Markt zu veräußern.\n\nDie Veröffentlichung des Exposés (Homepage, Mitteilungsblatt sowie ImmoScout) erfolgte vorerst von 29.10.2025 bis einschließlich 27.11.2025. Bis zum Veröffentlichungsende sind keine Angebote eingegangen.\n\nAufgrund dessen, wurde intern entschieden das Exposé vorerst zu gleichen Konditionen bis Ende Januar nochmals zu veröffentlichen. Diese Vorgehensweise wurde vom Stadtrat in seiner Sitzung vom 10.12.2025 befürwortet und gebilligt.\n\nDie anschließende Veröffentlichung des Exposés (Homepage, Mitteilungsblatt sowie ImmoScout) erfolgte bis einschließlich 22.01.2026. Weiter sind keine Angebote eingegangen.\n\nDie Verwaltung schlägt nun vor, dass die Veröffentlichung zu den gleichen Konditionen für weitere 6 – 8 Wochen erfolgen soll. Einzig soll die inhaltliche Änderung erfolgen, dass entscheidend bei der Vergabe das Höchstgebot ist, ohne Angabe eines Mindestgebots. Zuvor erfolgte die Veröffentlichung des Exposés gegen Höchstgebot, mindestens jedoch 505,00 €/m².\n\nDer Grund für die Änderung ist, dass bei den Veröffentlichungen des Exposés keine Angebote eingegangen sind und, dass der angegebene Wert (Mindestgebot) ggf. nicht den aktuellen Wert des Grundstücks aufgrund der derzeitigen Situation (Rückgang der Bautätigkeiten usw.) sowie der topografischen Lage des Grundstücks (Hügel- bzw. Hanglage) darstellt.\n\nZu beachten ist, dass gem. Kommunalrecht ein Verkauf von Grundstücken unter ihrem Wert nur in Ausnahmefällen möglich ist (Art 75 GO). Grundsätzlich stellt ein Exposé eine Aufforderung zur Abgabe von Angeboten dar. Hier könnte bei Eingang von min. drei vergleichbaren Angeboten der Verkehrswert ermittelt werden. Sollten weniger oder nicht vergleichbare Angebote eingehen, wäre über einen Gutachter eine Analyse durchzuführen, ob und welches Angebot die kommunalrechtlichen Voraussetzungen erfüllt.",
+        "decision": "Der Stadtrat beschließt, nur die Grundstücksteilfläche (WA 2.1) aus dem Grundstück Fl.-Nr.: 1674, Gemarkung Langenzenn, welche sich im Bebauungsplanes Nr. 7 Hardgraben, hier: 6. Änderung, befindet, auf dem freien Markt zu veräußern.\n\nNachfolgende Eckpunkte sind in das Exposé aufzunehmen:\n\n- Verkauf gegen Höchstgebot.\n\n- Bei einem möglichen Gleichstand der Kaufangebote soll der Zuschlag per Losverfahren ermittelt werden.\n\n- Die noch zu vermessende Teilfläche (WA 2.1) des Grundstück Fl.-Nr.: 1674, Gemarkung Langenzenn, ca. 1.200 m², soll als Baugrundstück ausgeschrieben werden. Das Grundstück ist innerhalb von drei Jahren ab Beurkundung mit einem Wohngebäude / Wohngebäuden zu bebauen.\n\n- Bei Nichteinhaltung der Bauverpflichtung steht der Stadt Langenzenn ein Wiederkaufsrecht zum beurkundeten Kaufpreis und den tatsächlichen bezahlten Erschließungskosten zu.\n\n- Bei der Bebauung sind die Festsetzungen des bestehenden Bebauungsplanes Nr. 7 Hardgraben, hier: 6. Änderung, zu beachten und entsprechend einzuhalten.\n\n- Die Vorgaben des Grundsatzbeschlusses des Bau-, Umwelt- und Verkehrsausschusses vom 23.03.2021 bzgl. der Informationen zur Begrünung von Vorgärten, Fassaden und Dächern sind zu beachten und anzuwenden, soweit dies noch nicht im Bebauungsplan entsprechend geregelt ist.\n\n- Der Erwerber verpflichtet sich im Zuge dessen, soweit dies technisch möglich und wirtschaftlich (vgl. § 5 Gebäudeenergiegesetz – GEG) ist, auf jedem Wohngebäude Anlagen zur Solarenergienutzung mit einer jährlichen Leistung von mindestens 2.500 kWh (durchschnittlicher Stromverbrauch eines Zwei-Personen-Haushaltes) zu installieren. Zur Klarstellung wird festgehalten, dass es sich auch bei einer Doppelhaushälfte um ein Wohngebäude im Sinne dieser Verpflichtung handelt, somit sind bei der Errichtung von zwei Doppelhaushälften zwei Mal Anlagen mit einer jährlichen Leistung von mindestens 2.500 kWh zu installieren soweit dies noch nicht im Bebauungsplan entsprechend geregelt ist.\n\n- Alle Kosten bei Notar, Grundbuchamt, aller Genehmigungen und Bescheide sowie die Grunderwerbssteuer sind vom Erwerber zu tragen.\n\nDie eingegangenen Angebote sind dem Gremium vorzulegen. Ein Verkauf erfolgt mit einem separaten Beschluss. Ggfs. ist dann ein Gutachten einzuholen, um darzustellen, dass die Veräußerung nicht unter Wert erfolgt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Schulcampus hier: Meinungsabfrage der Fraktionen zur geplanten Turnhalle und eventuellen Anbauten",
+        "facts": "Für den Neubau des Schulcampus wurde die Stadt Langenzenn durch das Landratsamt Fürth angefragt, ob bezüglich der baulichen Gestaltung und Ausstattung der Schulturnhalle Vorgaben und Wünsche bestehen, die in die zeitnah beginnenden Hochbauplanungen einfließen sollen. Gleiches gilt für eventuelle Anbauten.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hatte zuletzt im Oktober 2024 beschlossen, dass es seitens der Stadt Langenzenn wünschenswert wäre, wenn eine Erweiterung der Halle mit einer Tribüne, gemäß Anlage 1 (Tribüne), mit aufgenommen wird. Dies wäre dem Landkreis mitzuteilen. Zuletzt wurde es von Verwaltung durchaus auch als Möglichkeit gesehen, Räume für die Stadtkapelle in einem möglichen Schulcampus unterzubringen. Dieser Gedanke wurde zuletzt verworfen, andere Optionen sollten hierfür untersucht werden. Die Fraktionen werden daher nochmals um Meinungsabfrage gebeten, zumal auch durch das Landratsamt inzwischen andere Varianten bei den Turnhallen geprüft werden.\n\nDie Ergebnisse der Fraktionen wären in der nächsten Sitzung des Stadtrats zu beraten.",
+        "decision": "Der Stadtrat beschließt, dass bei dem Bau einer Turnhalle die feste / „kleine“ Variante einer Tribüne mit dazu gebaut werden soll.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Zenngrund-Allianz hier: Probemitgliedschaft der Gemeinde Großhabersdorf in der ILE „Zenngrund“",
+        "facts": "Die Gemeinde Großhabersdorf hat ihr Interesse an einer Mitarbeit in der ILE „Zenngrund“ bekundet und dieses Interesse durch einen Beschluss ihres Gemeinderats bestätigt.\n\nVon Seiten der Gemeinde Großhabersdorf wurde eine zweijährige Probemitgliedschaft in der ILE „Zenngrund“ beantragt, in den gemeinsamen Erfahrungen gesammelt und die Vorteile einer Mitgliedschaft beiderseits bewertet werden können.\n\nIm Steuerungskreis der Zenngrund-Allianz wurde beraten, dass während dieser Zeit die Zahlung einer Grundgebühr entfallen würde. Eine finanzielle Beteiligung würde jedoch bei Projekten erfolgen, an denen auch die Gemeinde Großhabersdorf teilnimmt.\n\nNach Ablauf der zwei Jahre ist schließlich sowohl von der Gemeinde Großhabersdorf als auch von den Gemeinden der ILE „Zenngrund“ über eine reguläre Mitgliedschaft zu entscheiden.\n\nEine positive Beschlussfassung würde dann einen dauerhaften Wechsel der Gemeinde Großhabersdorf von der ILE „Biberttal-Dillenberg“ in die ILE „Zenngrund“ mit entsprechender Neuaufteilung der Kosten auch für die gemeinsame Stelle bedeuten.",
+        "decision": "Der Stadtrat beschließt dem Antrag der Gemeinde Großhabersdorf auf eine zweijährige Probemitgliedschaft in der ILE „Zenngrund“ unter den vorstehend genannten Rahmenbedingungen zuzustimmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Ehrung von langjährigen Mitgliedern des Stadtrates: Vorgehensweise bei Abwesenheit",
+        "facts": "Für die Ehrung langjähriger Stadtratsmitglieder wurde am 29.09.2021 folgender Beschluss gefasst:\n\n„Beschluss:\n\n   für 25 Jahre=> Urkunde / Blumen und Gutschein über 50€    für 35 Jahre=> Urkunde/Blumen und Gutschein über 100€\n\nDie Addition der Zeiten erfolgt auch bei Unterbrechung der Stadtratstätigkeit.\n\nStattfinden sollten die Ehrungen immer im Rahmen der jährlichen Weihnachtsfeier des Stadtrates. Falls in einem Jahr keine Weihnachtsfeier stattfinden kann, soll die Ehrung in der letzten Stadtratssitzung des jeweiligen Jahres erfolgen.“\n\nZur Weihnachtsfeier 2025 des Stadtrates wurde deshalb die Ehrung von Herrn Klaus Roscher für 35 Jahre im Stadtrat durchgeführt.\n\nStadtrat Thomas Ziegler konnte leider nicht an der Weihnachtsfeier 2025, an dem seine Ehrung für 35 Jahre im Stadtrat stattfinden sollte, teilnehmen.\n\nDa die Verwaltung nicht mehr befugt ist, selbst solche Themen wie die Nachholung einer solchen Ehrung zu bearbeiten und durchzuführen wird der Stadtrat um Beschlussfassung gebeten, wie diese Ehrung nachzuholen sei.\n\nDer Stadtrat gibt Vorschläge, wie die Handhabung in Zukunft laufen könnte. Darunter schlägt Stadtrat Durlak vor, die Ehrung dann durchzuführen, wenn sie tatsächlich eintreten würde. Hierzu wird kein Beschluss gefasst.",
+        "decision": "Der Stadtrat beschließt, dass in diesem Fall, beide der zu ehrenden Stadträte in der nächsten Sitzung des Stadtrates nochmal eine „Ehrung“ erhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Container in Laubendorf",
+        "facts": "Anzeige gegen Unbekannt ist erstattet, die KriPo Fürth ermittelt. Das BRK hat die Entsorgung in Auftrag gegeben, die beauftragte Firma sagte eine Entsorgung in der vergangenen Woche zu. Es wird wohl kein neuer Container dahingestellt werden.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "10.2.",
+        "title": "Vergabe Baumpflegearbeiten Gauchsmühle; hier: Mitteilung einer dringlichen Vergabe",
+        "facts": "Aufgrund des Alters und Pilzbefalls müssen Pappeln im Bereich der Gauchsmühle entfernt werden. Ein Teil davon wurde bereits gefällt, für sieben Pappeln wurde beim Landratsamt Fürth im August 2025 ein Antrag auf Wiederherstellung der Verkehrssicherheit gestellt. Für den Antrag liegt nun der Bescheid mit Erteilung der Ausnahme zur Kappung vor.\n\nDie Kappung der Pappeln darf nur unter anderem nach Maßgabe folgender Inhalts- und Nebenbestimmungen erfolgen:\n\n-   Die Bäume mit den Nummern 1, 4, 5, 6 und 7 gemäß Lichtbildtafeln (Anlage 1), sind derart zurückzuschneiden, dass die Stämme jeweils bis zu einer Höhe von fünf Metern über dem Boden erhalten bleiben. -   Die Bäume mit den Nummern 2 und 3 sind derart zurückzuschneiden, dass die Stämme jeweils bis zu einer Höhe von drei Metern über den Boden erhalten bleiben. -   Die Schnittmaßnahmen dürfen nur im Zeitraum vom 1. Oktober 2025 bis 28. Februar 2026 – außerhalb der Brutschutzzeit – erfolgen und werden insoweit befristet. -   Es müssen Ersatzpflanzungen erfolgen.\n\nAufgrund der Frist zum Baumrückschnitt und der Dringlichkeit, wurde der Auftrag zu den Baumpflegemaßnahmen mit Angebot vom 10.02.2026 an die Firma Baumpflege Erlbacher, Schwarzenbruck, in Höhe von brutto 13.835,32 Euro dringlich vergeben.\n\nDie Maßnahme wird ab Montag, 16.02.2026 umgesetzt.\n\nAus Gründen der Dringlichkeit erfolgt die Mitteilung einer dringlichen Vergabe im Stadtrat anstelle des zuständigen Bau-, Umwelt- und Verkehrsausschusses.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "10.3.",
+        "title": "Informationen zum Winterdienst 2025/2026",
+        "facts": "Sowohl im Bau-, Umwelt- und Verkehrsausschuss vom 27.01.2026 als auch im Hauptausschuss vom 29.01.2026 sind von den Stadträten verschiedene Wortbeiträge zum aktuellen Winterdienst vorgebracht worden.\n\nDie Verwaltung teilt mit, dass die Hinweise und Anregungen gesammelt werden und in einer Nachbetrachtung mit den Einsatzleitern des Bauhofes durchgesprochen werden.\n\nDie Ergebnisse werden im nächsten Sachstandsbericht zum Winterdienst mit Ausblick auf 2026/2027 im Bau-, Umwelt- und Verkehrsausschuss, voraussichtlich im April oder Mai, vorgestellt.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "11.1.",
+        "title": "Verschobene Baken",
+        "facts": "Stadtrat Jäger bittet darum, die rot-weiße Spurbegrenzung beim Edeka wieder richtig auszurichten, die sich aufgrund des Schnees verschoben haben soll."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "181938",
+    "minutes": "185605"
+  }
+}

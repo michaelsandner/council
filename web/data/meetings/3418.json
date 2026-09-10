@@ -1,0 +1,30 @@
+{
+  "meetingId": "3418",
+  "announcement": {
+    "heading": "34. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 34,
+    "date": "2026-03-11",
+    "startTime": "08:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "34. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 6. März 2026, Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "182678"
+  }
+}

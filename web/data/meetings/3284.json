@@ -1,0 +1,251 @@
+{
+  "meetingId": "3284",
+  "announcement": {
+    "heading": "76. Sitzung des Stadtrates",
+    "sessionNumber": 76,
+    "date": "2025-03-19",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Vorstellung von LEADER und dessen Förderwegen"
+      },
+      {
+        "number": "4.",
+        "title": "Ist-Stand und das weiteres Procedere auf dem Weg zur Landesgartenschau Langenzenn 2032"
+      },
+      {
+        "number": "5.",
+        "title": "Übliche Förderungen bei und für Landesgartenschauen"
+      },
+      {
+        "number": "6.",
+        "title": "Mit der Landesgartenschau Langenzenn vernetzte und sich überschneidende Projekte"
+      },
+      {
+        "number": "7.",
+        "title": "Sponsorenangebot für die nächsten Schritte"
+      },
+      {
+        "number": "8.",
+        "title": "Weitere Sponsorenangebote"
+      },
+      {
+        "number": "9.",
+        "title": "Meinungsabfrage der einzelnen Stadträtinnen und Stadträte zu Spendenzusage und weiterem Vorgehen"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Zensus 2022 hier: Erhalt des Bescheids Zensus 2022"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "13. März 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "76. Sitzung des Stadtrates",
+    "sessionNumber": 76,
+    "date": "2025-03-19",
+    "startTime": "16:00",
+    "endTime": "18:16",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "Sieber, Christian"
+          },
+          {
+            "name": "Ruf, Georg"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n51. Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 25.02.2025\n\n1. Friedhof Keidenzell – Aussegnungshalle; hier: Vergabe der Dachdeckerarbeiten\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Dachsanierung an der Aussegnungshalle am Friedhof Keidenzell an die Firma Holzbau Scheuerpflug GmbH, Langenzenn, auf Grundlage des Angebots vom 31.01.2025 in Höhe von brutto 21.889,04 Euro.\n\n2. Kulturhof Langenzenn – Fl.-Nr. 170/3; hier: Vergabe der Zimmererarbeiten zur Sicherung des Dachstuhls\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der zimmermannsmäßigen Sicherungsarbeiten am Dachstuhl des Gebäudes Fl.-Nr. 170/3 (Backsteinscheune Kulturhof Langenzenn) an die Firma Schreinerei Keppner GmbH, Langenzenn, auf Grundlage des Angebotes vom 20.01.2025 in Höhe von vorläufig brutto 21.122,50 Euro.\n\nDie Durchführung der Arbeiten erfolgt in Zusammenarbeit mit den Nutzern der Hans- Sachs-Spielgruppe e.V. Die Arbeitsleistung der Theatergruppe erfolgt ehrenamtlich.\n\nBei dieser Maßnahme handelt es sich um außerplanmäßige Aufwendungen. Die finanziellen Mittel sind für den Haushaltsplan 2025 vorzusehen.\n\n3. Städtebauförderung Langenzenn – Erstellung Solarkataster für das Sanierungsgebiet „Altstadt Langenzenn“; hier: Honorarangebot\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Leistungen zur Erstellung eines Solarkatasters für das Sanierungsgebiet „Altstadt Langenzenn“ an das Büro Projekt 4, Nürnberg, auf Grundlage des Angebotes vom 06.02.2025 in Höhe von brutto 12.994,80 Euro.\n\nDie Auftragsvergabe erfolgt frühestens nach Erteilung des vorzeitigen Maßnahmenbeginns der Städtebauförderung.\n\n4. Bebauungsplan Nr. 81 „Klaushofer Weg / Zollnerstraße“ sowie 13. Änderung des Flächennutzungsplans; hier: Vergabe von Planungsleistungen für die spezielle artenschutzrechtliche Prüfung (saP)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen zur Erstellung speziellen artenschutzrechtlichen Prüfung (saP) für den Bereich\n\ndes Bebauungsplan Nr. 81 „Klaushofer Weg / Zollnerstraße“ sowie der 13. Änderung des Flächennutzungsplanes an das Büro Grosser-Seeger, Nürnberg, in Höhe von 6.347,46 € (brutto).\n\n5. Bebauungsplan Nr. 86 „KiTa Reichenberger Straße sowie 27. Änderung des Flächennutzungsplans; hier: Vergabe von Planungsleistungen für die spezielle artenschutzrechtliche Prüfung (saP)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen zur Erstellung speziellen artenschutzrechtlichen Prüfung (saP) für den Bereich des Bebauungsplan Nr. 86 „KiTa Reichenberger Straße“ sowie der 27. Änderung des Flächennutzungsplanes an das Büro Grosser-Seeger, Nürnberg, in Höhe von 5.722,71 € (brutto).\n\n6. Stadtverwaltung im Spital; Hier: E-Check für ortsveränderliche Geräte\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe des E-Checks der ortsveränderlichen, elektrischen Betriebsmitten an die Firma Elektro Förster e.K, gemäß Angebot vom 18.02.2025 in Höhe von brutto 10.174,50 Euro.\n\n7. Genehmigung der letzten Niederschrift\n\nSitzung des                                       vom 47. Bau-, Umwelt- und Verkehrsausschuss           22.10.2024 50. Bau-, Umwelt- und Verkehrsausschuss           11.02.2025\n\n64. Sitzung des Hauptausschusses vom 27.02.2025\n\n8. Genehmigung der letzten Niederschrift\n\nSitzung des                                       vom 57. Hauptausschusses                              07.11.2024 62. Hauptausschusses                              21.02.2025\n\n75. Sitzung des Stadtrates vom 27.02.2025\n\n9. Erneuerung/Umlegung Stromleitungen Sanktustorstraße und Komotauer Straße\n\nDer Stadtrat beschließt die Beauftragung von Ingenieurleistungen zur Erneuerung/Umlegung der Mittelspannungsstrecken „Sanktustorstraße“ und „Komotauer Straße“ an das Ing.-Büro Miller gemäß den Honorarangeboten vom 09.01.2025:\n\n-   Erneuerung 20 kV-Leitung in der Komotauer Straße: Honorarkosten incl. Nebenkosten 21.758,33 € zzgl. der gesetzlichen Mehrwertsteuer -   Erneuerung 20 kV-Leitung in der Sanktustorstraße: Honorarkosten incl. Nebenkosten 43.544,91 € zzgl. der gesetzlichen Mehrwertsteuer\n\nEs handelt sich um eine außerplanmäßige Ausgabe. Der Stadtrat genehmigt gem. § 9 Abs. 3 Nr. 1a der Geschäftsordnung die außerplanmäßige Ausgabe.\n\n10. Genehmigung der letzten Niederschrift\n\nSitzung des                                       vom 69. Sitzung des Stadtrates                        04.12.2024\n\n70. Sitzung des Stadtrates                           05.12.2024 71. Sitzung des Stadtrates                           16.12.2024 72. Sitzung des Stadtrates                           15.01.2025",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Vorstellung von LEADER und dessen Förderwege",
+        "facts": "Der neuer Leader-Manager des Landkreisses, stellt dem Gremium LEADER und speziell die Förderwege dazu vor. Er geht dazu zunächst auf LEADER allgemein und dann auf speziell bei Landesgartenschauen bezuschusste LEADER-Projekte ein. Die Stadt Langenzenn ist von Anfang an bei LEADER engagiert.\n\nLEADER beschäftigt sich mit Standortentwicklung, und ist ein Förderprogramm der Europäischen Union. Seine Ziele sind die Förderung von Klima- & Umweltschutz, Stärkung der regionalen Wertschöpfung, Sicherung der Daseinsvorsorge und die Steigerung von Lebensqualität und sozialen Zusammenhalt.\n\nIn Langenzenn wurden bereits einige Projekte mit sehr hohen Fördersummen von LEADER gefördert, so beispielsweise die Innenausstattung der Kulturscheune im Kulturhof, der Boulderfelsen und die Lehmtage Zenngrund.\n\nAuch Lahma-Bräu erhielt zuletzt Förderungen von LEADER zur Modernisierung des Brauhauses sowie zur Aktivierung des Gastraumes.\n\nBei Landesgartenschauen wurde und wird LEADER immer wieder tätig, teilweise mit sechsstelligen Fördersummen.\n\nIn Freyung-Grafenau, Landesgartenschau 2023 wurde beispielsweise der Regionalpavillon mit LEADER-Mitteln finanziert.\n\nIn Bad Windsheim ist die Mit-Finanzierung eines Aussichtsturms für die Landesgartenschau 2027 im Gespräch.\n\nDie Präsentation liegt der Niederschrift als Anlage 1 bei.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Ist-Stand und weiteres Procedere auf dem Weg zur Landesgartenschau Langenzenn 2032",
+        "facts": "Die Stadt Langenzenn hatte sich bis 2020 alle für eine Landesgartenschau nötigen Grundstücke dinglich gesichert bzw. diese erworben.\n\nDamit war die wesentlichste Herausforderung für eine Bewerbung gegeben, im Mai 2021 hat der Stadtrat dann beschlossen, sich um die erste Bewerbungsrunde der nächsten Landesgartenschau-Ausschreibungsrunde zu bewerben.\n\nIm Juni 2021 erhielt die Stadt den Zuschlag um an der zweiten und entscheidenden Auswahlrunde für die LGSen 2028-2032 teilzunehmen, zusammen mit 15 weiteren Gemeinden.\n\nIm April 2022 hat der Stadtrat dann mehrheitlich mit 14 : 8 Stimmen beschlossen, die Bewerbung für die zweite Bewerbungsrunde abzugeben.\n\nDie damalige vom Stadtrat für die Bewerbung beschlossene Finanzplanung enthielt eine Kostenschätzung des mit der Bewerbung beauftragten Planers. Diese kam auf einen Eigenanteil von 3,1 Mio. € für die Stadt Langenzenn.\n\nImmer wieder wird seither die Frage gestellt, was die LGS denn kosten würde. Vielfältige Mutmaßungen und Behauptungen stehen seither im Raum. Fakten:\n\n   Wie viel würde Sie die LGS 2032 kosten?\n\n-   Hierauf gibt es keine Antwort, da wir noch nicht einmal einen Plan und natürlich deshalb auch keine Kostenschätzung haben. -   Die einzigen Zahlen, die uns vorliegen, sind die aus dem Bewerbungskonzept aus dem Jahr 2022. Darin enthalten war ein geschätzter Eigenanteil von 3,1 Mio. €. Hierzu auch die vom Stadtrat beschlossene Anlage (oben rechts steht der Eigenanteil) -   2023 hat der Freistaat seine Förderung für Landesgartenschauen noch einmal um zwei Millionen € erhöht, was uns ebenfalls zu Gute kommen wird und in unserer Kostenschätzung noch nicht eingepreist war.\n\nDie Stadt Langenzenn erhielt im August 2022 die Mitteilung des Bayerischen Staatsministeriums für Umwelt und Verbraucherschutz, dass die Stadt Langenzenn den Zuschlag für die Austragung der Landesgartenschau 2032 erhalten hat.\n\nNoch 2022 wurde dem Stadtrat vorgestellt, welche weiteren Schritte nun notwendig sind, u.a. Unterzeichnung der Verträge mit der LGS GmbH München, Start des Realisierungswettbewerbs, Gründung einer GmbH „Landesgartenschau Langenzenn 2032 GmbH“."
+      },
+      {
+        "number": "1.",
+        "title": "Realisierungswettbewerb (= Plan und Kostenschätzung) Der zu beauftragende städtebauliche und landschaftsarchitektonische Realisierungswettbewerb kostet ca. 400.000 € und zeigt der Stadt dann, welche Maßnahmen durch die LGS 2032 konkret durchgeführt werden können und was sie kosten."
+      },
+      {
+        "number": "2.",
+        "title": "Förderungen klären In der Folge ist eine „Fördermittelgeberkonferenz“ Usus, in welcher sich die verschiedensten Fördergeber aus Land, Bund und vielen weiteren Institutionen und Verbänden einigen, wer welche Maßnahmen bezuschusst und wie."
+      },
+      {
+        "number": "3.",
+        "title": "Planungsphase Die Planungsphase für die LGS startet dann direkt im Anschluss und mündet in der"
+      },
+      {
+        "number": "4.",
+        "title": "Bauphase ca. 2029-2031 erfolgen die Baumaßnahmen."
+      },
+      {
+        "number": "5.",
+        "title": "½ Jahr Einweihung der Baumaßnahmen mit mehreren hunderttausend Besuchern Im April/Mai 2032 würde das Gelände der Landesgartenschau für einen halbjährigen Zeitraum zum „Eröffnungsfest“ geöffnet. Danach erfolgt der Abbau von (möglichst wenigen) nicht mehr benötigten Elementen wie Umzäunung etc. und das Gelände wird zur dauerhaften Nutzung für die Öffentlichkeit freigegeben.",
+        "decision": "Der Stadtrat nimmt Kenntnis.\n\nEs gibt Wortbeiträge aus dem Stadtrat:\n\nStadtrat Erhart gibt eine Stellungnahme zu dem Thema ab, in der er die angespannte finanzielle Lage Langenzenns anspricht. Die Kostenschätzung der Landesgartenschau 2022 wäre auf Kosten von 23 Mio. Euro gekommen. Er zeigt auf, wie eine Finanzierung aus seiner Sicht möglich sei. Er sehe drei Möglichkeiten: Rücklagen, von denen Langenzenn jedoch keine hat, die Aufnahme eines Darlehens, von denen die Stadt jedoch seit 2023 keine mehr bekommt oder den Verkauf von Grundstücken. Er weist auf die anstehenden Projekte hin, die als Pflichtaufgabe zählen.\n\nStadtrat Durlak gibt ebenfalls eine Stellungnahme ab, in der er informiert, dass die Stadt seiner Sicht eine Schuldenbremse erhalten habe und ab 2025 nicht mehr leistungsfähig sei. Ein Sparkonzept sei von Nöten und die Einnahmen seien bereits verplant. Er weist auf die Kaufabsage des Z-Quartiers aus dem November hin und teilt mit, dass auch andere Gemeinden bereits ihre Landesgartenschau abgesagt hätten.\n\nStadträtin Plevka gibt kund, dass sie mit der Rechtsaufsicht gesprochen habe, und diese die Handhabung des Antrags der SPD vom Bürgermeister als rechtswidrig einstufe Sie spricht die fehlenden Rücklagen an, die Langenzenn seit 2023 jedes Jahr in Höhe von 500.000,00€ hätte erbringen müssen. Sie fragt nach ob der Verkauf von Grundstücken und die Schaffung von Bauland noch realisierbar seien. Sie betont, dass die Bürger sich eine gute Infrastruktur und genügend Betreuungsplätze wünschen.\n\nStadträtin Meyer spricht ihre Enttäuschung aus, dass im Stadtrat nur noch Schulden angesprochen werden, wie es landauf und landab derzeit überall in der Diskussion sei und keine Perspektiven und Zukunftsplanungen für Langenzenn. Die Zukunftsplanungen seien aber das, was das Gremium anpacken solle, Wege finden um mit der Situation umzugehen, sie zu verbessern und Langenzenn voranbringen. Die Mehrheit im Stadtrat verweigere dies leider.\n\nStadträtin Ritter fordert den Stadtrat auf, die Landesgartenschau zu planen, die Machbarkeitsstudie zu beauftragen und zu analysieren, bevor man aufgibt.\n\nStadträtin Ströbel schlägt vor, dass der Sponsor sein Geld anstelle in die Machbarkeitsstudie für die Landesgartenschau auch an anderer Stelle sinnvoller investieren könnte, z.B. in die Kindertagesstätten.\n\nStadtrat Erhart betont, dass die Verwaltung bereits genug zu tun habe und nicht mehr Arbeit und Zeit in etwas stecken solle, was abgesagt werden würde.\n\n1. Bürgermeister Habel legt erneut den vom Stadtrat im Rahmen der Bewerbung beschlossenen Finanzierungs- und Finanzplan auf. Zur Bewerbung im Jahr 2021/2022 sei zur Finanzierung vorgeschlagen worden, städtische Grundstücke in der Reichenbergerstraße beim Hallenbad beidseitig sowie am Hang zwischen Bronnespan und Ziegelei Bauland auszuweisen um damit die Landesgartenschau zu finanzieren.\n\nEr betont, dass niemand wissen könne, wie sich der Grundstücksmarkt in den nächsten Jahren entwickeln werde, ob die Baukrise enden oder weitergehen werde und dass es grob fahrlässig sei, sämtliche Planungen, die mit der LGS zusammenhängen, wie Hochwasserschutz, Brückenneubauten etc. ohne Kenntnis von Kosten und Nutzen „in die Tonne“ zu treten. Die Beauftragung der Machbarkeitsstudie sei der einzig sinnvolle Weg, wenn man nicht direkt in die Fortführung der Planungen zur LGS einsteigen möchte. Eine kostenfreie Machbarkeitsstudie zu verweigern, sei eine vorsätzliche Schädigung Langenzenns.\n\nDie genannten Baugrundstücke seien aus seiner Sicht nach wie vor geeignet, die noch immer nicht bekannte Summe, welche die Landesgartenschau kosten dürfte, zu schließen. Weitere städtische Baugrundstücke stünden ebenfalls bereit, sofern die gerade genannten Grundstücke nicht ausreichen würden. Landesgartenschauen seien Zugpferde für die Entwicklung von Gemeinden und auch in Baukrisen herrsche in Landesgartenschau-Städten Zuzug und hohe Nachfrage.\n\nEs gibt eine Meldung aus den Reihen der Zuschauer. Erster Bürgermeister Habel fragt den Stadtrat, ob dieser dem Zuschauer Rederecht erteile.\n\nStadtrat Durlak gibt die Meinung der CSU wieder. Dies sei eine Stadtratssitzung und keine Bürgerversammlung und die CSU werde deshalb heute keinem/r Bürger/in das Rederecht geben. Dies habe die CSU mit der SPD im Vorfeld der Sitzung abgestimmt.\n\nDer Stadtrat stimmt über das heutige Rederecht des Zuschauers ab.\n\n1. Bürgermeister Habel ist der Ansicht, dass die Diskussion über die Fortführung der Planungen zur Landesgartenschau eigentlich in Tagesordnungspunkt 9, Meinungsabfrage der Fraktionen zur Fortführung der Landesgartenschau sowie Beauftragung einer Machbarkeitsstudie, um Kosten und Förderungen zur Landesgartenschau zu erhalten, verschoben werden sollte.\n\nStadträtin Osswald stellt einen Antrag zur Geschäftsordnung – siehe Anlage – auf Nichtbefassung der Tagesordnungspunkte 5 bis 9, solange die im Antrag genannten Fragen nicht von der Rechtsaufsicht beantwortet wurden.\n\nDer Stadtrat nimmt Kenntnis.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 13
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Übliche Förderungen bei und für Landesgartenschauen zurückgestellt"
+      },
+      {
+        "number": "6.",
+        "title": "Mit der Landesgartenschau Langenzenn vernetzte und sich überschneidende Projekte zurückgestellt"
+      },
+      {
+        "number": "7.",
+        "title": "Sponsorenangebot für die nächsten Schritte zurückgestellt"
+      },
+      {
+        "number": "8.",
+        "title": "Weitere Sponsorenangebote zurückgestellt"
+      },
+      {
+        "number": "9.",
+        "title": "Meinungsabfrage der einzelnen Stadträtinnen und Stadträte zu Spendenzusage und weiterem Vorgehen zurückgestellt"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Zensus 2022 hier: Erhalt des Bescheids Zensus 2022",
+        "facts": "In der 67. Sitzung des Stadtrates vom 29.10.2024 informierte die Verwaltung das Gremium über das offizielle Ergebnis des Zensus 2022. Für die Stadt Langenzenn wurde eine amtliche Einwohnerzahl für die Stadt Langenzenn von 10.318 Einwohner festgestellt. Seitens des Stadtrates ergaben sich in der Sitzung keine Rückfragen oder Beanstandungen im Rahmen der zu diesem Zeitpunkt laufenden Anhörungsphase.\n\nMit Schreiben des Bayerischen Landesamtes für Statistik vom 03.03.2025 (Eingang bei der Stadt Langenzenn am 05.03.2025) wurde die für das Jahr 2022 ermittelte Einwohnerzahl für die Stadt Langenzenn nun offiziell verbescheidet. Der Bescheid liegt als Anlage 1 zu diesem Tagesordnungspunkt bei.\n\nGemäß Rechtsbehelfsbelehrung des Bescheids kann nun gegen diesen innerhalb eines Monats nach seiner Bekanntgabe Klage beim Bayerischen Verwaltungsgericht in Ansbach erhoben werden.",
+        "decision": "Der Stadtrat nimmt Kenntnis und beschließt keine Klage gegen den Bescheid des Bayerischen Landesamtes für Statistik zur amtlichen Einwohnerzahl der Stadt Langenzenn für das Jahr 2022 zu erheben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 22,
+          "against": 0
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "173305",
+    "minutes": "181341"
+  }
+}

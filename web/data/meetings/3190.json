@@ -1,0 +1,60 @@
+{
+  "meetingId": "3190",
+  "announcement": {
+    "heading": "14. Sitzung des Ferienausschusses",
+    "sessionNumber": 14,
+    "date": "2023-08-14",
+    "startTime": "16:00",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Zentrales Besprechungszimmer, 1. Stock, Zi.-Nr. W.1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Kirchweih Keidenzell; hier: Veranstaltungsorganisation"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "8. August 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "14. Sitzung des Ferienausschusses",
+    "sessionNumber": 14,
+    "date": "2023-08-14",
+    "startTime": "16:00",
+    "endTime": "16:49",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Zentrales Besprechungszimmer, 1. Stock, Zi.-Nr. W.1.12",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Kirchweih Keidenzell; hier: Veranstaltungsorganisation",
+        "facts": "Die Kirchweih Keidenzell findet traditionell am ersten Septemberwochenende statt. Verkaufsstände und Bestuhlung befanden sich beim Festbetrieb seit jeher und auch an der heurigen Veranstaltung innerhalb des Ortes auf der Fahrbahn der Kreisstraße.\n\nDurch die verbesserte Nutzungsmöglichkeit des ÖPNV im Landkreis Fürth ist die Ortschaft seit dem Jahr 2021 erfreulicherweise an die Buslinie 136 angebunden. Während des Kirchweihbetriebs ergeben sich daraus allerdings noch einige Schwierigkeiten, die es zu lösen gilt.\n\nAus Haftungsgründen müsste eine Vollsperrung der Ortsdurchfahrt angeordnet werden, was bedeutet, dass auch die Anlieger während des Festbetriebs nicht zu ihren Anwesen fahren dürften. Zudem kommt es zu Problemen beim regelmäßigen Linienbusverkehr. Eine Durchfahrt der Busse kann durch die Veranstalter vor Ort nicht gewährleistet werden. Bei einer zu weitläufigen Umleitung kann allerdings der Zeitplan nicht eingehalten werden. Derzeit werden verschiedene Varianten geprüft, unter anderem, ob eine Ausnahmegenehmigung für den Linienbusverkehr zur Nutzung von üblicherweise für den Schwerverkehr gesperrten Flurwegen möglich wäre.\n\nDie Verwaltung steht noch im Austausch mit der Fachbehörde, eine abschließende Entscheidung liegt noch nicht vor. Ebenso soll mit der örtlichen Feuerwehr ein Gesprächstermin vereinbart werden, um alle Möglichkeiten einer guten Veranstaltungsorganisation auszuloten.\n\nDem Ausschuss wird zeitnah über das finale Ergebnis berichtet.\n\nStadträtin Franz erkundigt sich nach den Umleitungen bei der derzeitigen Vollsperrung an der Hammerschmiede und möchte wissen, warum es da so unkompliziert funktioniert und nicht genauso auch bei der Kirchweih umgesetzt wird.\n\nDie Anfrage wird an die zuständige Verkehrsbehörde am Landratsamt weitergeleitet.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.1.",
+        "title": "Vertretungsregelung des ersten Bürgermeisters",
+        "facts": "Stadtrat Durlak bittet um Überprüfung und eine genauere Definition des § 17 der Geschäftsordnung des Stadtrates bezüglich der Vertretungsregelung des ersten Bürgermeisters. Er ist der Meinung, dass laut § 17 GeschO die Vertretung bereits ab dem ersten Tag einsetzt und nicht, wie bisher kommuniziert, erst ab dem dritten Tag der Abwesenheit. Ferner soll der Begriff „Abwesenheit“ ebenfalls genauer definiert werden."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "158702",
+    "minutes": "159157"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "meetingId": "3221",
+  "announcement": {
+    "heading": "52. Sitzung des Hauptausschusses",
+    "sessionNumber": 52,
+    "date": "2024-04-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "FF Horbach - Bestätigung der Kommandantenwahl"
+      },
+      {
+        "number": "2.",
+        "title": "FF Kirchfembach - Verabschiedung der ehemaligen Kommandanten"
+      },
+      {
+        "number": "3.",
+        "title": "FF Kirchfembach - Bestätigung der Kommandantenwahl"
+      },
+      {
+        "number": "4.",
+        "title": "Verein FFW Burggrafenhof e.V.; hier: Antrag auf Verwendung des Stadtwappens"
+      },
+      {
+        "number": "5.",
+        "title": "Verein Volkshochschule Langenzenn e.V. - Bericht 2024"
+      },
+      {
+        "number": "6.",
+        "title": "Berichte aus den städtischen Einrichtungen"
+      },
+      {
+        "number": "6.1.",
+        "title": "Kindertagesstätte Plapperkiste - Bericht der Leitung"
+      },
+      {
+        "number": "6.2.",
+        "title": "Kindertagesstätte Wurzelkinder - Bericht der Leitung"
+      },
+      {
+        "number": "6.3.",
+        "title": "Kindertagesstätte Hort am Lindenturm - Bericht der Leitung"
+      },
+      {
+        "number": "6.4.",
+        "title": "Mittagsbetreuung an der Grundschule - Bericht der Leitung"
+      },
+      {
+        "number": "6.5.",
+        "title": "Jugendzentrum \"Alte Post\" - Bericht der Leitung"
+      },
+      {
+        "number": "7.",
+        "title": "Kirchweihplanung 2024 - Information zum Sachstand"
+      },
+      {
+        "number": "8.",
+        "title": "Sonderzug \"Der Zenngrund geht auf Reisen\" von Markt Erlbach nach Passau"
+      },
+      {
+        "number": "9.",
+        "title": "Kindertagesstätten - Anmeldesituation zum KiTa-Jahr 2024/2025"
+      },
+      {
+        "number": "10.",
+        "title": "Kindertagesstätten - Bedarfsanerkennung zusätzlicher Plätze"
+      },
+      {
+        "number": "11.",
+        "title": "Kindertagesstätten - Aufstockung der Krippe Thüringer Str. 8a; hier: Finanzierungsplan und Eigenmittelbestätigung"
+      },
+      {
+        "number": "12.",
+        "title": "Neuerlass der Gebührensatzung für die Kindertagesstätten (Kindertagesstättengebührensatzung - KiTaGebS 2024)"
+      },
+      {
+        "number": "13.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Mittagsbetreuung an der Grundschule Langenzenn"
+      },
+      {
+        "number": "14.",
+        "title": "2. Nachtrag zum Kooperationsvertrag für den \"Mittelschulverbund Dillenberg - Zenngrund\""
+      },
+      {
+        "number": "15.",
+        "title": "Mittelschule Langenzenn-Veitsbronn; hier: Beantragung einer weiteren Ganztagesklasse für die 5. Jahrgangsstufe - Mitteilung einer dringlichen Anordnung"
+      },
+      {
+        "number": "16.",
+        "title": "Anfrage der Stadtratsfraktion Bündnis 90/DIE GRÜNEN zur Zukunft der Hospitalstiftung"
+      },
+      {
+        "number": "17.",
+        "title": "Seniorenrat - Antrag auf Einführung eines Seniorennachmittags"
+      },
+      {
+        "number": "18.",
+        "title": "Seniorenrat - Antrag Pflegestützpunkt mit Sitz in Langenzenn"
+      },
+      {
+        "number": "19.",
+        "title": "Finanzielle Beteiligung von Kommunen an Windenergieanlagen (auch Bestandsanlagen) gemäß § 6 EEG 2023"
+      },
+      {
+        "number": "20.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Beginn der Vorberatungen"
+      },
+      {
+        "number": "21.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "22.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. April 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "52. Sitzung des Hauptausschusses",
+    "sessionNumber": 52,
+    "date": "2024-04-25",
+    "startTime": "16:00",
+    "endTime": "19:50",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis Beginn TOP 28"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred",
+            "note": "ab TOP 28 Vertreter für ersten Bürgermeister Habel"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ströbel, Rainer",
+            "note": "ab TOP 2 bis TOP 27.1"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Gawehn, Michael",
+            "note": "Stellvertreter für Stadtrat Schwämmlein"
+          },
+          {
+            "name": "Vogel, Oliver",
+            "note": "von TOP 1 bis TOP 4 Stellvertreter für Stadtrat Durlak"
+          }
+        ]
+      },
+      {
+        "role": "ab TOP 23 Stellvertreter für Stadtrat Ströbel",
+        "members": [
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 5 Stellvertreter für Stadtrat Durlak"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "FF Horbach - Bestätigung der Kommandantenwahl",
+        "facts": "In der ordentlichen Dienstversammlung am 12.01.2024 wurde Herr Herbert Engelhardt zum Kommandanten und Herr Hans Wiegel zum stellvertretenden Kommandanten wiedergewählt. Herr Gerd Bauer wurde als weiterer stellvertretender Kommandant der Freiwilligen Feuerwehr Horbach für eine Amtszeit von sechs Jahren gewählt.\n\nDie Amtszeiten beginnen jeweils am 01.03.2024. Die Bestätigungen des Kreisbrandrates erfolgten mit Schreiben vom 22.01.2024. Herr Herbert Engelhardt hat die Auflage, den Lehrgang „Leiter einer Feuerwehr“ bis zum 31.12.2024 auf einer staatlichen Feuerwehrschule zu besuchen und Herr Gerd Bauer die Lehrgänge „Gruppenführer“ und „Leiter einer Feuerwehr“ in einer angemessenen Zeit.",
+        "decision": "Der Hauptausschuss bestätigt gemäß Art. 8 Abs. 4 des Bayerischen Feuerwehrgesetzes Herrn Herbert Engelhardt zum Kommandanten der Freiwilligen Feuerwehr Horbach.\n\nDes Weiteren bestätigt der Ausschuss Herrn Hans Wiegel zum stellvertretenden Kommandanten und Herrn Gerd Bauer zum weiteren stellvertretenden Kommandanten der Freiwilligen Feuerwehr Horbach.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "FF Kirchfembach - Verabschiedung der ehemaligen Kommandanten",
+        "facts": "„Gott zur Ehr, dem Nächsten zur Wehr“.\n\nDies ist häufig der Wahlspruch für die Männer und Frauen der Freiwilligen Feuerwehren. Eine freiwillige Verpflichtung, wenn es gilt, des Nächsten Leib und Leben, Haus und Hof, Hab und Gut selbst unter Einsatz des eigenen Lebens vor vernichtenden Elementen zu schützen.\n\nViele Stunden der Freizeit werden geopfert, sei es für Übungen, Brand- oder Katastropheneinsätze. Einer für Alle, alle für Einen, bedeutet auch Kameradschaft und Pflichtbewusstsein, denn ohne das ist der freiwillige Dienst für die Allgemeinheit zum Scheitern verurteilt.\n\nAls Kommandant einer Freiwilligen Feuerwehr werden über viele Jahre besondere Verantwortung übernommen und sich selbstlos und uneigennützig in den Dienst der Allgemeinheit gestellt. Dafür gebührt den Feuerwehrkommandanten allerhöchster Respekt sowie Dank für die ehrenamtliche Tätigkeit um Wohl der Allgemeinheit.\n\n   Herr Holger Kress war von 06.01.2003 bis 31.01.2006 stellvertretender Kommandant und    ab 01.02.2006 bis 29.02.2024 durchgängig Kommandant der Freiwilligen Feuerwehr Kirchfembach.\n\n   Herr Christian Weghorn war von 03.01.2009 bis 31.12.2011 sowie vom 29.02.2024 waren Sie als stellvertretender Kommandant der Freiwilligen Feuerwehr Kirchfembach im Einsatz.  Bürgermeister Habel verabschiedet an heutiger Sitzung die scheidenden Kommandanten, spricht ihnen im Namen der Stadt und seiner Bürgerinnen und Bürger Dank und Anerkennung für das jahrlange ehrenamtliche Engagement aus.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "FF Kirchfembach - Bestätigung der Kommandantenwahl",
+        "facts": "In der ordentlichen Dienstversammlung am 06.01.2024 wurde Herr Stefan Josua zum Kommandanten und Herr Michael Spieß zum stellvertretenden Kommandanten der Freiwilligen Feuerwehr Kirchfembach für eine Amtszeit von sechs Jahren gewählt.\n\nDie Amtszeiten beginnen jeweils am 01.03.2024. Die Bestätigung des Kreisbrandrates erfolgte mit dem Schreiben vom 15.01.2024 unter der Voraussetzung, dass Herr Stefan Josua sowie Herr Michael Spieß innerhalb einer angemessenen Zeit den Lehrgang „Leiter einer Feuerwehr“ erfolgreich auf einer Staatlichen Feuerwehrschule absolvieren.\n\nZu den Lehrgängen wurden beide Kommandanten bereits angemeldet.",
+        "decision": "Der Hauptausschuss bestätigt gemäß Art. 8 Abs. 4 des Bayerischen Feuerwehrgesetzes Herrn Stefan Josua zum Kommandanten der Freiwilligen Feuerwehr Kirchfembch und Herrn Michael Spieß zum stellvertretenden Kommandanten der Freiwilligen Feuerwehr Kirchfembach.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Verein FFW Burggrafenhof e.V.; hier: Antrag auf Verwendung des Stadtwappens",
+        "facts": "Die Vorstandschaft des Vereins FFW Burggrafenhof e.V. beantragt die Nutzung des Stadtwappens (auf rotem Schild, schwarz silberner Helm mit Schild und Hundekopf) auf Bekleidungsstücken.\n\nDer Verein beabsichtigt für die aktiven Vereinsmitglieder, die Jugendfeuerwehr und die Kinderfeuerwehr aus Vereinsmitteln einheitliche Bekleidung (Sweatjacken, T-Shirts/Poloshirts, ggf. weiteres) anzuschaffen. Auf die Kleidung soll der Schriftzug „Feuerwehr Burggrafenhof“ sowie das Stadtwappen aufgebracht werden.",
+        "decision": "Der Hauptausschuss stimmt dem Antrag des Vereins FFW Burggrafenhof e.V. auf Nutzung des Stadtwappens zur Anbringung auf Bekleidungsstücken für aktive Vereinsmitglieder, die Jugendfeuerwehr und der Kinderfeuerwehr zu.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Verein Volkshochschule Langenzenn e.V. - Bericht 2024",
+        "facts": "Bürgermeister Habel begrüßt die Vorständin, Frau Hubner, sowie die Damen der Geschäftsstelle des Vereins Volkhochschule Langenzenn e.V.\n\nFrau Hubner gibt dem Ausschuss einen Rückblick über die vergangenen drei Jahre, berichtet über Projekte sowie den Sachstand in Sachen Volkshochschulverbund. Weitere Informationen zu personellen Veränderungen innerhalb der Geschäftsstelle. Des Weiteren informiert sie über die Aktuelles, insbesondere auch über die Neugestaltung der Webseite. Hierzu wird um einen Zuschuss Seitens der Stadt gebeten.\n\nDie Präsentation des Vereins Volkshochschule Langenzenn e.V. ist der Niederschrift als Anlage 1 beigefügt.\n\nDer Antrag auf Bezuschussung der Kosten für den neuen Wegauftritt ist der Niederschrift als Anlage 2 beigefügt.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Berichte aus den städtischen Einrichtungen Die Berichte liegen der Niederschrift als Anlagen bei."
+      },
+      {
+        "number": "7.",
+        "title": "Kirchweihplanung 2024 - Information zum Sachstand",
+        "facts": "Die Kirchweih in Langenzenn findet dieses Jahr vom 24.05. – 28.05.2024 statt. Wie bereits letztes Jahr, wird der Charakter einer Straßenkirchweih beibehalten. Die Kirchweih verläuft vom Martin-Luther-Platz über den Prinzregentenplatz zum Denkmalpatz bis hin zu den Zennwiesen (hinter dem Autohaus Besenbeck).\n\nVon den meisten Schaustellern des letzten Jahres liegt eine Zusage vor, vereinzelt wurden noch weitere Schausteller zugelassen. Auf den Zennwiesen wird ein zusätzliches Fahrgeschäft gestellt.\n\nDie Beleuchtungssituation in dem Gässchen zu den Zennwiesen wurde letztes Jahr von den Schaustellern bemängelt. Dieses Jahr wird versucht die Beleuchtungssituation zu verbessern. Es soll ein ausgegossenes Betonfundament mit einem Lichtmast in einem der städtischen Gärten hinter dem Rathaus platziert werden. Somit wäre eine bessere Beleuchtungssituation im Zeitraum der Kirchweih gewährleistet.\n\nDas Bühnenprogramm wird beibehalten. Am Freitag spielt die Band „Saitenspinner“, am Samstag spielt „Die Nachtschicht“, am Sonntag ist die Band „SRS Jazmen“ vertreten und am Montag „Chris Angels – Linedance & Country Music“. Außerdem wird am Montag passend zum Familiennachmittag wieder ein Puppenspiel am Marktplatz stattfinden. Zum Abschluss am Dienstag spielt die Band „Light Kultur“.\n\nNach Rücksprache mit dem Arbeitskreis Kirchweih, wird es dieses Jahr keine Abschlussshow geben. Angedacht war eine Drohnen-Lightshow. Da diese aber mit sehr hohen Kosten verbunden ist werden die Mittel eingespart. Für nächstes Jahr ist die Show noch einmal zu überdenken, evtl. findet sich ein Sponsor oder die Schausteller beteilgen sich an den Kosten.\n\nDas Jugendhaus Alte Post wird die „Post-Kärwa“ am Freitag und Samstag durchführen. Am Samstag wird die Alte Post unter anderem einen Kindernachmittag veranstalten. Der Förderverein Stadtkapelle e.V. wird das Jugendhaus Alte Post unterstützen und den Bratwurstverkauf übernehmen, da dem JUZ nicht genügend freiwillige Helferinnen und Helfer zu Verfügung stehen.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonderzug \"Der Zenngrund geht auf Reisen\" von Markt Erlbach nach Passau",
+        "facts": "Herr Striegel, Mitglied im Heimatverein Langenzenn, plant in Fortsetzung der früheren Tradition eine Tagesfahrt am 28.09.24 mit einem historischen Sonderzug mit einer Diesellok aus den 60er Jahren des letzten Jahrhunderts vom Zenngrund nach Passau im Zusammenschluss mit allen Zenngrundgemeinden.\n\nBereitstellung des Sonderzuges in Markt Erlbach erfolgt um ca. 07:30 Uhr.\n\n   Geplante Haltestellen Markt Erlbach – Eschenbach – Adelsdorf – Wilhermsdorf Mitte – Wilhermsdorf – Laubendorf – Hardhof – Langenzenn – Raindorf – Siegelsdorf – Passau Hbf    Aufenthalt in Passau zur freien Verfügung - geplante Rückfahrt von Passau um ca. 18:30 Uhr.\n\nAngeboten werden 314 reservierte Sitzplätze in der 1. und 2. Klasse, des Weiteren gibt es einen Speisewagen aus den 70er Jahre des letzten Jahrhunderts mit originalgetreuer Lackierung, worin kleine Snacks und gekühlte Getränke zum Verkauf angeboten werden. Auf Vorbestellung sind auch Frühstück und Abendessen im Speisewagon erhältlich.\n\nDie Gesamtkosten belaufen sich auf 23.383,50 EUR/brutto. Wegen derzeit nicht langfristig kalkulierbarer Rohstoffpreise behält sich das Fränkische Museum-Eisenbahn e.V. das Recht vor, ggf. den Angebotspreis zu korrigieren, falls bis zum Einsatztermin der Dieselpreis um mehr als 5% steigt.\n\nFür jede Gemeinde fallen Kosten i.H.v. 5845,88 EUR an, die im besten Fall über den Fahrkartenverkauf (78 Tickets pro Gemeinde) bei einem Ticketpreis in Höhe von 74,00 EUR abgedeckt werden. Falls in dem Arbeitskreis der mitwirkenden Gemeinden entschieden wird einen geringeren Ticketpreis zu verlangen, um einen besseren Verkauf zu erzielen, werden die verbleibenden Kosten von den Gemeinden übernommen.\n\nDiese Tagesfahrt kommt nur zu Stande, wenn sich alle 4 Zenngrundgemeinden daran beteiligen. Markt Wilhermsdorf, Markt Erlbach und Veitsbronn haben sich bereits positiv geäußert.\n\nDas Marketing und der Ticketverkauf erfolgen in Zusammenarbeit mit allen Gemeinden. Hierfür fallen noch zusätzliche Kosten für diverse Anzeigen, Plakate und Flyer in Höhe von ca. 600,00 EUR an.",
+        "decision": "Der Hauptausschuss beschließt die Beteiligung an der geplanten Tagesfahrt mit der historischen Diesellok.\n\nDie Gesamtkosten inklusive Marketing belaufen sich auf ca. 6.346,- EUR, wobei der Anteil der Diesellok i.H.v. 5846,- EUR teilweise über den Ticketverkauf abgedeckt werden, falls alle 78 Tickets für Langenzenn verkauft werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Kindertagesstätten - Anmeldesituation zum KiTa-Jahr 2024/2025",
+        "facts": "Das Aufnahmeverfahren in den Kindertagesstätten für das Jahr 2024/2025 ist fast komplett abgeschlossen. Auch in diesem Jahr stellt sich die Platzsituation wieder äußerst angespannt dar. Auf die Dringlichkeit des Ersatzneubaus der Kindertagesstätte Wurzelkinder (Berliner Straße) und die geplante Erweiterung der Grundschule wird deshalb ausdrücklich hingewiesen.\n\nDerzeit haben noch 8 Kindergarten- und 6 Krippenkinder keine Platzzusage erhalten. Um auch diesen Kindern im kommenden Kita-Jahr einen Platz anbieten zu können arbeitet die Verwaltung derzeit an folgender Lösung:\n\nIn der geplanten „Aufstockung“ der Krippe Plapperkiste (Thüringer Str. 8 a) werden anstelle von zwei Krippengruppen, eine Krippen- und eine Kleinkindgruppe (2 – 4 Jahre) untergebracht. Da die „Aufstockung“ wahrscheinlich erst im Winter 2024/2025 fertiggestellt wird, soll die Kleinkindgruppe vorübergehend im Klaushofer Weg 1 (Räume der ehemaligen Krippe) untergebracht werden. Für die Krippenkinder auf der Warteliste ist eine Aufnahme erst für das Jahr 2025 gewünscht.\n\nIn den Bereichen Horte, Mittagsbetreuung und gebundene Ganztagesschule haben derzeit 35 Kinder keinen Platz bekommen. Hier stehen zwar noch mehrere Rückmeldungen von Platzzusagen und die Vergabe von wenigen Restplätzen im Hort am Lindenturm aus, es ist jedoch davon auszugehen, dass ca. 25 Kinder keinen Platz erhalten werden. Ein Rechtsanspruch auf einen Betreuungsplatz besteht hier, anders als in Krippe und Kindergarten, noch nicht.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "10.",
+        "title": "Kindertagesstätten - Bedarfsanerkennung zusätzlicher Plätze",
+        "facts": "Für das Betreuungsjahr 2024/2025 besteht eine Warteliste sowohl für die Kinderkrippen, als auch für die Kindertagesstätten. In beiden Bereichen besteht ein Bedarf von einer zusätzlichen Gruppe.\n\nDie Bedarfsplanung für zukünftige Jahre zeigt, dass der Bedarf an zusätzlichen Plätzen weiterhin bestehen bleibt.",
+        "decision": "Der Hauptausschuss beschließt gemäß Art. 7 BayKiBiG die Bedarfsanerkennung von 12 zusätzlichen Plätzen im Krippenbereich sowie von 25 zusätzlichen Betreuungsplätzen im Kindergartenbereich.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Kindertagesstätten - Aufstockung der Krippe Thüringer Str. 8a; hier: Finanzierungsplan und Eigenmittelbestätigung",
+        "facts": "Für die Aufstockung der Krippe Thüringer Straße 8a in Langenzenn um eine Krippengruppe mit 12 Plätzen und eine Kindergartengruppe (Kleinkindgruppe) mit 25 Plätzen, haben die Architekten Dürschinger + partner mbB, die Unterlagen für die Antragstellung bei der Regierung von Mittelfranken erstellt.\n\nDie Gesamtkosten der Maßnahme belaufen sich aufgrund der Kostenberechnung nach DIN 276 auf 2.993.252 €.\n\nDer Finanzierungsplan der Stadt Langenzenn für diese Maßnahme liegt dem Hauptausschuss zur Kenntnisnahme und Empfehlung an den Stadtrat vor.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat bestätigt den vorliegenden Finanzierungsplan für die Aufstockung der Krippe Thüringer Straße 8a um eine Krippengruppe mit 12 Plätzen und eine Kindergartengruppe (Kleinkindgruppe) mit 25 Plätzen.\n\nDie Verwaltung wird beauftragt die Mittel im Haushalt 2024 der Stadt Langenzenn bereitzustellen und den Zuwendungsantrag bei der Regierung von Mittelfranken einzureichen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Neuerlass der Gebührensatzung für die Kindertagesstätten (Kindertagesstättengebührensatzung - KiTaGebS 2024)",
+        "facts": "Aufgrund stark gestiegener Sachkosten, stark steigenden Personalkosten, aber auch zum Ausgleich des bisherigen Defizites bei den Kindertagesstätten schlägt die Verwaltung folgende Änderung bei den Gebührensätzen von:\n\nKrippen: alt          neu mehr als 3 bis einschließlich 4 Stunden            282,00 €      311,00 € mehr als 4 bis einschließlich 5 Stunden            311,00 €      344,00 € mehr als 5 bis einschließlich 6 Stunden            340,00 €      377,00 € mehr als 6 bis einschließlich 7 Stunden            369,00 €      410,00 € mehr als 7 bis einschließlich 8 Stunden            398,00 €      444,00 € mehr als 8 bis einschließlich 9 Stunden            427,00 €      477,00 € mehr als 9 bis einschließlich 10 Stunden           456,00 €      510,00 €\n\nKindergarten: alt          neu mehr als 3 bis einschließlich 4 Stunden            141,00 €      155,50 € mehr als 4 bis einschließlich 5 Stunden            155,50 €      172,00 € mehr als 5 bis einschließlich 6 Stunden            170,00 €      188,50 € mehr als 6 bis einschließlich 7 Stunden            184,50 €      205,00 € mehr als 7 bis einschließlich 8 Stunden            199,00 €      221,50 € mehr als 8 bis einschließlich 9 Stunden            213,50 €      238,00 €\n\nmehr als 9 bis einschließlich 10 Stunden               228,00 €         254,50 €\n\nHort: alt             neu mehr als 2 bis einschließlich 3 Stunden                152,00 €         168,00 € mehr als 3 bis einschließlich 4 Stunden                169,00 €         187,00 € mehr als 4 bis einschließlich 5 Stunden                186,00 €         206,00 € mehr als 5 bis einschließlich 6 Stunden                203,00 €         225,00 € mehr als 6 bis einschließlich 7 Stunden                220,00 €         244,00 € mehr als 7 bis einschließlich 8 Stunden                237,00 €         263,00 € mehr als 8 bis einschließlich 9 Stunden                254,00 €         282,00 € mehr als 9 bis einschließlich 10 Stunden               271,00 €         301,00 €\n\nDie vorgeschlagenen Gebührensätze orientieren sich an den umliegenden Gemeinden, bzw. an den neuen Gebühren der kirchlichen Einrichtungen in Langenzenn.\n\nNach den allgemeinen Haushaltsgrundsätzen der Gemeindeordnung ist der Haushalt der Gemeinde wirtschaftlich zu führen. Bei der Einnahmebeschaffung steht an erster Stelle die Erhebung von Entgelten für erbrachte Leistungen:\n\nAuch mit den neuen vorgeschlagenen Gebührensätzen wird keine 100 %-ige Kostendeckung erreicht. Für eine vollständige Kostendeckung müsste jede Buchungskategorie um 50 – 100 € erhöht werden.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf der Gebührensatzung für die Kindertagesstätten (KindertagesstättenGebS – KiTaGebS 2024) als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 8 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "13.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Mittagsbetreuung an der Grundschule Langenzenn",
+        "facts": "Aufgrund stark steigender Sachkosten, ansteigenden Personalkosten, aber auch zum Ausgleich des bisherigen Defizites bei der Mittagsbetreuung schlägt die Verwaltung folgende Anhebung der Gebühren vor:\n\nalt             neu bei fünf gebuchten Wochentagen                    95,00 €     105,00 € bei vier gebuchten Wochentagen                    76,00 €      84,00 € bei drei gebuchten Wochentagen                    57,00 €      63,00 € bei zwei gebuchten Wochentagen                    38,00 €      42,00 €\n\nDurch die vorgeschlagene Gebührenerhöhung wird das Defizit nicht zu 100 % gedeckt. Für eine vollständige Kostendeckung müsste die Gebühr (bei vollen fünf Tagen) um weitere ca. 50,00 € angehoben werden.\n\nNach den allgemeinen Haushaltsgrundsätzen der Gemeindeordnung ist der Haushalt der Gemeinde wirtschaftlich zu führen. Bei der Einnahmebeschaffung steht an erster Stelle die Erhebung von Entgelten für erbrachte Leistungen.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf der Satzung über die Erhebung von Gebühren für die Mittagsbetreuung der Stadt Langenzenn als Satzung.\n\nDer Entwurf der Satzung liegt der Niederschrift als Anlage 9 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "15.",
+        "title": "Mittelschule Langenzenn-Veitsbronn; hier: Beantragung einer weiteren Ganztagesklasse für die 5. Jahrgangsstufe - Mitteilung einer dringlichen Anordnung",
+        "facts": "Vom Rektor der Mittelschule Langenzenn – Veitsbronn wurde mitgeteilt, dass sich die Anmeldungen für den Ganztag kurzfristig sehr gehäuft haben, sodass eine weitere Ganztagesklasse, ausschließlich für die Jahrgangsstufe 5 – kein weiterer Ganztageszug -, angestrebt wird.\n\nWeiterer Raumbedarf besteht nicht, da die vorgesehene und geplante Regelklasse zur Ganztagesklasse würde. Die Kapazitäten der Mensa und der AGs würden für eine weitere Klasse problemlos ausreichen.\n\nAuf die Stadt Langenzenn als Sachaufwandsträgerin käme allerdings die Kostenpauschale von derzeit 6703 Euro für eine zusätzliche Ganztagesklasse für das Schuljahr 2024/2025 zu.\n\nNachdem die Antragsfrist bei der Regierung bereits am 19.04.2024 endete, erfolgte im Rahmen der dringlichen Anordnung die Zusage zur Übernahme der Kosten bei Bewilligung einer weiteren Ganztagesklasse für die Jahrgangsstufe 5.",
+        "decision": "Der Ausschuss nimmt Kenntnis und billigt die Kostenzusage der Pauschale in Höhe von 6703 Euro bei Genehmigung einer weiteren Ganztagesklasse für die Jahrgangsstufe 5 an der Mittelschule Langenzenn-Veitsbronn.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "16.",
+        "title": "Anfrage der Stadtratsfraktion Bündnis 90/DIE GRÜNEN zur Zukunft der Hospitalstiftung",
+        "facts": "Von der Stadtratsfraktion Bündnis 90/DIE GRÜNEN wurde in der Sitzung des Werkausschusses am 21.03.2024 eine Anfrage zur Zukunft der Hospitalstiftung Langenzenn abgegeben.",
+        "decision": "Der Hauptausschuss beschließt, die Verwaltung mit der Beantwortung zur Zukunft der Hospitalstiftung Langenzenn zu beauftragen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "17.",
+        "title": "Seniorenrat - Antrag auf Einführung eines Seniorennachmittags",
+        "facts": "Seitens des Seniorenrats liegt ein Antrag auf Durchführung eines zentralen Seniorennachmittages vor. Der Antrag lautet wie folgt,\n\n„Nachdem der bewährte Seniorennachmittag zur Langenzenner Kirchweih aus bekannten Gründen nicht mehr stattfinden kann, hat sich der Seniorenrat mit Alternativen befasst. In einigen umliegenden Kommunen werden jährlich zentrale Seniorennachmittage durchgeführt.\n\nDer Seniorenrat fragt an, ob sich die Stadt Langenzenn in Kooperation mit dem Seniorenrat an einer derartigen Veranstaltung beteiligen würde.“\n\nDie Verwaltung informiert, dass in der Vergangenheit für Seniorennachmittage an der Kirchweih, Kosten in folgender Höhe angefallen sind:\n\nJahr 2018               1236,11€ Jahr 2019               1618,74€\n\nEs wird vorgeschlagen, dem Seniorenrat für den geplanten Seniorennachmittag in der Stadthalle im Herbst 2024 ein Budget in Höhe von 1.500 Euro zur Verfügung zu stellen.\n\nBei der Organisation sowie bei Auf- und Abbauarbeiten kann nach vorheriger Abstimmung mit der Verwaltung in gewissem Rahmen personelle Unterstützung zugesagt werden. Die Stadthalle wird für die Veranstaltung kostenlos zur Verfügung gestellt. Federführend verantwortlich für die Veranstaltung ist der Seniorenrat.",
+        "decision": "Der Ausschuss stimmt dem Antrag des Seniorenrats auf Durchführung eines Seniorennachmittags im Herbst 2024 zu und stellt hierfür ein Budget in Höhe von 1.500 Euro zur Verfügung.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "18.",
+        "title": "Seniorenrat - Antrag Pflegestützpunkt mit Sitz in Langenzenn",
+        "facts": "Der Seniorenrat stellt folgenden Antrag:\n\n„Seit Jahren ist die Entwicklung der Pflegsituation immer wieder einmal Thema in den Kreisgremien. Nachdem die für den nördlichen Landkreis zuständige Fachstelle für pflegenden Angehörige mit Sitz in Veitsbronn zum 31.12.2023 geschlossen wurde, bittet der Seniorenrat um Beratung der Situation im Stadtrat.\n\nDer Seniorenrat spricht sich dafür aus, dass im Landkreis ein Pflegestützpunkt mit Sitz in Langenzenn geschaffen wird, um den ständigen Beratungsbedarf abzudecken. Es wird um entsprechend positive Beschlussfassung im Stadtrat gebeten.“",
+        "decision": "Der Hauptausschuss nimmt von Antrag des Seniorenrates Kenntnis. Die Verwaltung wird mit der Bearbeitung des Antrages beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "19.",
+        "title": "Finanzielle Beteiligung von Kommunen an Windenergieanlagen (auch Bestandsanlagen) gemäß § 6 EEG 2023",
+        "facts": "Mit der Gesetzesänderung des EEG 2023 wurde in § 6 der Rechtsrahmen für finanzielle Beteiligungen zwischen Kommunen und Betreibern von Windenergie- und Freiflächenanlagen, auch für Bestandsanlagen, also Anlagen, die zum Zeitpunkt des Vertragsschlusses bereits in Betrieb genommen sind, geschaffen.\n\nDie Anlagenbetreiber sollen Kommunen, die von der Errichtung ihrer Anlage betroffen sind, finanziell beteiligen. Bei Windenergieanlagen an Land dürfen den betroffenen Kommunen Beträge von insgesamt 0,2 Cent pro Kilowattstunde für die tatsächlich eingespeiste Strommenge angeboten werden, wenn die Anlage eine installierte Leistung von mehr als 1000 Kilowatt hat. Als betroffen gelten Gemeinden, deren Gemeindegebiet sich zumindest teilweise innerhalb eines um die Windenergieanlage gelegenen Umkreises von 2.500 Metern um die Turmmitte der Windenergieanlage befindet. Sind mehrere Kommunen oder Landkreise betroffen, müssen die Anlagenbetreiber, wenn sie sich für Zahlungen nach § 6 Abs. 1 EEG entscheiden, allen betroffenen Kommunen oder Landkreisen eine Zahlung anbieten.\n\nFür Strommengen nach § 6 Abs. 5 EEG, für die der Anlagenbetreiber eine Förderung nach dem EEG 2023 oder einer aufgrund des EEG 2023 erlassenen Rechtsverordnung in Anspruch nimmt, kann sich der Anlagenbetreiber die finanzielle Beteiligung der Gemeinde vom Netzbetreiber erstatten lassen.\n\nZu beachten ist, dass die Zahlungen der finanziellen Beteiligung von Kommunen rückwirkend zum 01.01.2023 vereinbart werden können.\n\nIn einem Arbeitskreis der kommunalen Spitzenverbände (DStGB, DST und DLT) und Verbänden der Energiewirtschaft (BDEW, BWE, VKU und WvW) wurde ein Mustervertrag zur Umsetzung des § 6 Abs. 1 Nr. 1 EEG 2023 entworfen. Der veröffentlichte Mustervertrag stellt einen gegenwärtigen Stand dar, soll aber vor dem Hintergrund von Umsetzungserfahrungen ständig reflektiert und gegebenenfalls an praktische Bedarfe, Erfordernisse sowie an zu erwartende Konkretisierungen im EEG angepasst werden. Derzeit empfiehlt die „Fachagentur Windenergie an Land“ die Regelungen im Mustervertrag bezüglich der fiktiven Strommengen auszuklammern. Die Ermittlung der fiktiven Strommengen sind nur sehr aufwändig und mit großer Unsicherheit zu ermitteln und spielen in den allermeisten Fällen im Vergleich zur tatsächlich eingespeisten Strommenge nur eine geringe Rolle – in der Regel betragen die fiktiven Strommengen aktuell nicht mehr als 0 % bis 5 % der tatsächlich eingespeisten Strommenge.\n\nVon Seiten der Stadtverwaltung wurden die Anlagenbetreiber angefragt und um eine entsprechende finanzielle Beteiligung gebeten.\n\nDer Stadt Langenzenn liegen fünf Verträge zur finanziellen Beteiligung an Windenergieanlagen vor. Insgesamt beläuft sich die finanzielle Beteiligung auf rund 50.000 €.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "20.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Beginn der Vorberatungen",
+        "facts": "Zur Vorbereitung auf die Haushaltsplanberatungen 2024 der Stadt Langenzenn wurden den Fraktionsvorsitzenden am 21.03.2024 im Rahmen einer Besprechung mit dem Bürgermeister der gedruckte Haushaltsplanentwurf 2024, die Eckwerte und die Mittelfristige Finanzplanung ausgehändigt. Diese Unterlagen wurden dann am 26.03.2024 noch im Ratsinformationssystem allen Stadtratsmitglieder zur Verfügung gestellt.\n\nAm 15. und 17.04.2024 fanden noch weitere interne Besprechungen mit dem Bürgermeister und Vertretern der Fraktionen zum Haushalt statt. Die Fragen aus den Fraktionen, die zu dieser Besprechung vorlagen, wurden größtenteils schon von Seiten der Verwaltung beantwortet.\n\nThemen dieser Besprechungen, die zu keinem abschließenden Ergebnis geführt haben, liegen zusammengefasst als Anlage dem Hauptausschuss zur Haushaltsberatung und Beschlussfassung vor.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "21.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "22.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "22.1.",
+        "title": "Anfrage zum Verwendungszweck einer Erbschaft",
+        "facts": "Stadträtin Osswald erkundigt sich, ob inzwischen über einen Fachanwalt für Erbrecht Auskunft zum Verwendungszweck der Erbschaft Krippner eingeholt wurde. Die Verwaltung möchte hierzu einen Sachvortrag für die nächste Sitzung vorbereiten."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "164642",
+    "minutes": "170082"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "meetingId": "3414",
+  "announcement": {
+    "heading": "91. Sitzung des Stadtrates",
+    "sessionNumber": 91,
+    "date": "2026-04-16",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Abwägung der Stellungnahmen zur Bestands- und Potentialanalyse"
+      },
+      {
+        "number": "4.",
+        "title": "Anträge von LAKUT e.V."
+      },
+      {
+        "number": "4.1.",
+        "title": "Übertragung der Veranstaltung LAKUTA an den Verein LAKUT"
+      },
+      {
+        "number": "4.2.",
+        "title": "Bezuschussung der Anschaffung von Stellwänden und Übergabe Ausstellungsmaterialien"
+      },
+      {
+        "number": "4.3.",
+        "title": "Finanzielle Unterstützung für die Veranstaltung \"Langenzenner Kunsttage\""
+      },
+      {
+        "number": "4.4.",
+        "title": "Verlegung der Veranstaltung LAKUTA 2026 ins Hallenbad"
+      },
+      {
+        "number": "5.",
+        "title": "Gebühren- und Nutzungssatzungen"
+      },
+      {
+        "number": "5.1.",
+        "title": "Gebührensatzung für die städtischen Kindertagesstätten"
+      },
+      {
+        "number": "5.2.",
+        "title": "Benutzungssatzung für die städtischen Kindertagesstätten"
+      },
+      {
+        "number": "5.3.",
+        "title": "Gebührensatzung für die Mittagsbetreuung an der Grundschule Langenzenn"
+      },
+      {
+        "number": "5.4.",
+        "title": "Benutzungssatzung für die Mittagsbetreuung an der Grundschule Langenzenn"
+      },
+      {
+        "number": "5.5.",
+        "title": "Gebührensatzung für die Ferienbetreuung an der Grundschule Langenzenn"
+      },
+      {
+        "number": "5.6.",
+        "title": "Benutzungssatzung für die Ferienbetreuung an der Grundschule Langenzenn"
+      },
+      {
+        "number": "5.7.",
+        "title": "Neuerlass einer Satzung für die öffentliche Entwässerungseinrichtung der Stadt Langenzenn (Entwässerungssatzung – EWS)"
+      },
+      {
+        "number": "5.8.",
+        "title": "Neuerlass einer Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Langenzenn (BGS/EWS)"
+      },
+      {
+        "number": "6.",
+        "title": "Information zu Interessensbekundung Familienstützpunkt im Landkreis Fürth"
+      },
+      {
+        "number": "7.",
+        "title": "Ersatzneubau Hallenbad: Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Informationen des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen zum Projektaufruf und weiteres Vorgehen"
+      },
+      {
+        "number": "8.",
+        "title": "Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße; hier: Beschluss zur Ausschreibung"
+      },
+      {
+        "number": "9.",
+        "title": "Ortsrecht der Stadt Langenzenn hier: Satzung zu Bürgerbegehren und Bürgerentscheid der Stadt Langenzenn (BBS)"
+      },
+      {
+        "number": "10.",
+        "title": "Schulcampus; hier: Meinungsabfrage der Fraktionen zur geplanten Turnhalle und eventuellen Anbauten"
+      },
+      {
+        "number": "11.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "12.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "10. April 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "91. Sitzung des Stadtrates",
+    "sessionNumber": 91,
+    "date": "2026-04-16",
+    "startTime": "17:30",
+    "endTime": "20:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweite Bürgermeisterin",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "bis TOP 17"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Erhart, Wolfgang",
+            "note": "bis Mitte TOP 16"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Plevka, Melanie, Zweite Bürgermeisterin"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 13 (vor TOP 1)"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni",
+            "note": "bis Mitte TOP 10"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 13 (vor TOP 1)"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 13 (vor TOP 1)"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n90. Sitzung des Stadtrates vom 18.03.2026\n\n1. Reklame- und Kulturpauschale für die Schausteller bei der Langenzenner Kirchweih 2026 Der Stadtrat stimmt der von der Verwaltung ausgearbeiteten und vorgelegten Reklame- und Kulturpauschale für das Jahr 2026 in folgender Fassung zu: Kosten für die Schausteller (gestaffelt) 48,49% = 6090,00 € -   2 Bewirtungsbetriebe und SSF Laubendorf: je 800,00 € + 50,00 € Reklamepauschale = 850,00 € Pauschale insgesamt -   Standort 1 (Martin-Luther-Platz, Prinzregentenplatz Ecke Friedrich-Ebert-Straße) 12 Stände je 180,00 € + 50,00 € Reklamepauschale = 230,00 € Pauschale insgesamt -   Standort 2 (Friedrich-Ebert-Straße) 13 Stände je 90,00 € + 50,00 € Reklamepauschale = 140,00 € Pauschale insgesamt -   Standort 3 (Zennwiese) 8 Stände je 45,00 € + 50,00 € Reklamepauschale = 95,00 € Pauschale insgesamt\n\nDie Verwaltung wird beauftragt grundsätzlich die Umlage der Kosten für Bühnenprogramm und Werbung auf die Schaustellerbetriebe jährlich zu prüfen und gegebenenfalls anzupassen.\n\n2. Feuerwerk als Kirchweihabschluss 2026 Der Stadtrat beschließt, dass die geplante Feuershow als „Abschluss“ durchgeführt wird.\n\n3. Austausch FireWall Verwaltung Grundschule Der Stadtrat beauftragt die Verwaltung mit der Beschaffung und Aufnahme in den Haushaltsplan 2026 von einer Hardware FireWall für die Verwaltung der Grundschule Langenzenn.\n\nDie Verwaltung wird ermächtigt, diese Anschaffung in einem Rahmen von bis zu 10.000,00 € zu tätigen.\n\n4. BP Nr. 88 Schulcampus hier: Vergabe von Planungsleistungen zur Bauleitplanung Der Stadtrat beschließt die Vergabe der Planungsleistungen zur Bauleitplanung für die Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 88 „Schulcampus“ an das Büro Grosser-Seeger, Nürnberg, auf Grundlage des Angebots vom 16.02.2026 in Höhe von brutto 76.913,04 Euro.\n\nDie dafür notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 0.6101.6555 in Höhe von 77.000 Euro vorgesehen.\n\nZur anteilsmäßigen Aufteilung der Honorarkosten ist zwischen dem Landkreis Fürth sowie der Stadt Langenzenn ein entsprechender städtebaulicher Vertrag zur Übernahme der Planungskosten abzuschließen.\n\n5. BP Nr. 88 Schulcampus hier: Vergabe von Planungsleistungen zur Verkehrserschließung\n\nDer Stadtrat beschließt die Vergabe der Ingenieurleistungen „Verkehrsanlagen“ für das Baugebiet „Schulcampus“ an das Ingenieurbüro Christofori, Heilsbronn, auf Grundlage des Angebots vom 24.02.2026 in Höhe von brutto gesamt 209.176,30 Euro.\n\nEs erfolgt eine anteilige Beauftragung nach Leistungsphasen (LPH), zunächst für die LPH 1-4, sowie die notwendigen Vermessungsleistungen in Höhe von brutto rund 75.000 Euro.\n\nDie dafür notwendigen Haushaltsmittel sind für das Jahr 2026 ff. unter der Haushaltsstelle 1.6304.9590 in Höhe von 209.176 Euro vorgesehen. Davon sind aktuell 50.000 Euro als Haushaltsausgaberest verfügbar.\n\nZur anteilsmäßigen Aufteilung der Honorarkosten ist zwischen dem Landkreis Fürth sowie der Stadt Langenzenn ein entsprechender städtebaulicher Vertrag zur Übernahme der Planungskosten abzuschließen.\n\n6. Stromversorgung Langenzenn – Vergabe von Bau- Verlege und Montageleistungen hier: Erneuerung der 20kV-Leitung Komotauer Str.\n\nDer Stadtrat beschließt die Erneuerung der 20kV-Strecken Komotauer Straße und Würzburger Straße gemäß der Ausschreibung „VE 2600 – Erneuerung 20kV Komotauer Straße / Würzburger Straße“ im Bayerischen Staatsanzeiger, der Prüfung und dem Vergabevorschlag durch das Ing.-Büro Miller und gemäß dem Angebot vom 11.02.2026 mit der Angebotssumme von 463.367,36 € netto zzgl. der gesetzlichen Mehrwertsteuer an die Fa. Dienstbier, Markt Erlbach, zu vergeben.\n\n7. 4. Nachtrag zum Wasserlieferungsvertrag Dillenberggruppe\n\nDer Stadtrat beschließt, dem 4. Nachtrag zum Wasserlieferungsvertrag zwischen dem Zweckverband zur Wasserversorgung Dillenberggruppe und der Stadt Langenzenn zuzustimmen. Der Wasserpreis für die Stadtwerke Langenzenn erhöht sich dadurch von 1,05 € netto auf 1,41 € netto je cbm, die Grundgebühr erhöht sich von 33,43 € netto auf 50,00 € netto monatlich.\n\n67. Sitzung des Bau-, Umwelt- und Verkehrsausschuss vom 24.03.2026\n\n8. Baumpflanzungen; hier: Vergabe der Lieferung und Pflanzarbeiten\n\nDer Bau-, Umwelt und Verkehrsausschuss beschließt die Vergabe der Baumlieferung und Pflanzarbeiten an die Firma Pflanzen Schmidtlein, Effeltrich, auf Grundlage des Angebots vom 14.02.2026 in Höhe von gesamt brutto 8.100,63 Euro.\n\n9. Feuerwehr Keidenzell; hier: Vorberatung Vergabe Bauleistungen Installation Blitzschutz\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe Blitzschutz- und Erdungsanlage an die Firma Kopp Blitzschutzsystembau GbR auf Grundlage des Angebots vom 11.03.2026 in Höhe von brutto 8.321,08 Euro.\n\nDie dafür notwendigen Haushaltsmittel sind für das Jahr 2026 unter der Haushaltsstelle 1.1300.9460 in Höhe von 8.400 Euro vorzusehen.\n\n10. Kläranlage Langenzenn hier: Generalüberholung der Zwischenpumpen zur Beschickung der Reaktoren\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Überholung der beiden Zwischenpumpen an die Firma DWI, Weidenberg, gemäß Angebot vom 16.03.2026 in Höhe von brutto 18.386,04 Euro.\n\n77. Sitzung des Hauptausschusses vom 26.03.2026\n\n11. Genehmigung der letzten Niederschrift\n\nSitzung:                            Vom:                      Freigegeben am: 73. Hauptausschuss                  29.10.25                  03.02.26 74. Hauptausschuss                  26.11.25                  06.02.26 75. Hauptausschuss                  17.12.25                  02.02.26",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Kommunale Wärmeplanung hier: Abwägung der Stellungnahmen zur Bestands- und Potentialanalyse",
+        "facts": "Die nächsten Schritte der kommunalen Wärmeplanung sind fertiggestellt und wurden öffentlich zur Stellungnahme ausgelegt.\n\nGemäß Wärmeplanungsgesetz §13 wurde der Öffentlichkeit sowie weiteren Trägern öffentlicher Belange für 30 Tage die Möglichkeit zur Stellungnahme eingeräumt.\n\nDies geschah für die Bestandsanalyse vom 2. Februar bis 2. März 2026 und für die Potentialanalyse vom 2. Bis 30. März 2026.\n\nEs ging jeweils eine Stellungnahme ein. Die Stellungnahmen und die Bewertungen sind in den angehängten Abwägungstabellen dargelegt. Aus den eingegangenen Stellungnahmen erfolgen keine Änderungen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Anträge von LAKUT e.V."
+      },
+      {
+        "number": "4.1.",
+        "title": "Übertragung der Veranstaltung LAKUTA an den Verein LAKUT",
+        "facts": "Mit Schreiben vom 24.02.2026 (Eingang bei der Stadt Langenzenn per Mail am 24.02.2026) beantragt der Verein LAKUT – Langenzenner Kunst- und KulturTreff (e.V. in Gründung) u.a. die Durchführung der Veranstaltung „Langenzenner Kunsttage (LAKUTA)“ sowie „Offene Galerie“. Der Antrag (Teil A) wurde in der 90. Stadtratssitzung am 18. März 2026 bereits behandelt, jedoch vertagt. Der Antrag Teil A (LAKUT e.V.) ist beigefügt.",
+        "decision": "Der Stadtrat beschließt die Durchführung der Veranstaltungsformate „Langenzenner Kunsttage (LAKUTA)“ und die „Offene Galerie“ an den Verein LAKUT e.V. (in Gründung) zu übergeben sowie das Namensrecht „LAKUTA“ ebenso an den Verein zu übertragen.\n\nSollte sich der Verein auflösen, so gehen alle übertragenen Rechte wieder an die Stadt Langenzenn zurück.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "Bezuschussung der Anschaffung von Stellwänden und Übergabe Ausstellungsmaterialien",
+        "facts": "Mit Schreiben vom 24.02.2026 (Eingang bei der Stadt Langenzenn per Mail am 24.02.2026) beantragt der Verein LAKUT – Langenzenner Kunst- und KulturTreff (e.V. in Gründung) u.a. eine Bezuschussung der anzuschaffenden Stellwände, Übergabe der bereits angeschafften Ausstellungsmaterialien und Unterstützung bei der Suche nach einer Lagerfläche.\n\nDer Antrag (Teil C) wurde in der 90. Stadtratssitzung am 18. März 2026 bereits behandelt, jedoch vertagt. Der Antrag Teil C ist als Anlage beigefügt.\n\nStellungnahme Kämmerei\n\nBezuschussung Anschaffung Stellwände Der Hauptausschuss hat am 07.07.2025 einstimmig beschlossen, dass ab dem Haushaltsjahr 2025 Vereine, kirchliche Organisationen u. ä. bei Investitionsmaßnahmen keine Förderung der Stadt Langenzenn mehr erhalten.\n\nAufgrund dieses Beschlusses ist von Seiten der Stadt Langenzenn keine Bezuschussung möglich.\n\nLagerflächen Eine unentgeltliche Überlassung von Räumen und finanzielle Zuwendungen belasten die Einnahmen des Verwaltungshaushalts und würden somit gegen die allgemeinen Haushaltsgrundsätze als auch Art. 75 Abs. 2 GO verstoßen.\n\nEs wird empfohlen hier einen Antrag an die Bürgerstiftung Langenzenn zu stellen.",
+        "decision": "Aufgrund des aufgeführten Beschlusses des Hauptausschusses am 07.07.2025 wird eine Bezuschussung durch den Stadtrat nicht genehmigt.\n\nDie bereits angeschafften Ausstellungsmaterialien (Drahtseilhülsen, Edelstahlspulen, Haken etc.) werden an den Verein unentgeltlich übergeben.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 15,
+          "against": 4
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "Finanzielle Unterstützung für die Veranstaltung \"Langenzenner Kunsttage\"",
+        "facts": "Mit Schreiben vom 24.02.2026 (Eingang bei der Stadt Langenzenn per Mail am 24.02.2026) beantragt der Verein LAKUT – Langenzenner Kunst- und KulturTreff (e.V. in Gründung) u.a. eine finanzielle Unterstützung für die Veranstaltung „Langenzenner Kunsttage“(LAKUTA).\n\nDer Antrag (Teil A) wurde in der 90. Stadtratssitzung am 18. März 2026 bereits behandelt, jedoch vertagt. Der Antrag Teil A sowie eine Aufstellung der Kosten für LAKUTA 2025 sind als Anlage beigefügt.\n\nStellungnahme Kämmerei Die Kämmerei sieht eine Defizitfinanzierung in Höhe von bis zu 9.500 € pro Jahr als freiwillige Leistung für LAKUT e.V. kritisch. Die Kommunalaufsicht hat in ihrem Haushaltsgenehmigungsschreiben vom 26.08.2025 die Finanzlage der Stadt Langenzenn als äußerst angespannt eingestuft und empfiehlt dringend, keine neuen freiwilligen Leistungen zu gewähren.\n\nStattdessen wird empfohlen, einen Antrag an die Bürgerstiftung Langenzenn zu stellen.",
+        "decision": "Der Stadtrat beschließ eine einmalige „Anschubfinanzierung“ des Vereins in Höhe von 5.000,00€ .",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.4.",
+        "title": "Verlegung der Veranstaltung LAKUTA 2026 ins Hallenbad",
+        "facts": "Mit Schreiben vom 24.02.2026 (Eingang bei der Stadt Langenzenn per Mail am 24.02.2026) beantragt der Verein LAKUT – Langenzenner Kunst- und KulturTreff (e.V. in Gründung) u.a. die Verlegung der LAKUTA 2026 ins Hallenbad Langenzenn. Der Antrag (Teil B) wurde in der 90. Stadtratssitzung am 18. März 2026 bereits behandelt, jedoch vertagt.\n\nDie in der Stadtratssitzung am 18. März 2026 beschlossene gemeinsame Begehung des Hallenbads erfolgte mit den Mitgliedern des Werkausschusses sowie der Leitung der Stadtwerke.\n\nDer Beschluss basiert auf einem neuen Konzept der Eventplanung. Siehe Anlage. Die CSU-Fraktion gibt einen Beschlussvorschlag ab:\n\nAntrag Lakut: Verlegung Lakuta 2026 ins (leerstehende) Hallenbad\n\nBeschlussvorschlag:\n\nDie Verwaltung wird beauftragt, dem Verein LAKUT die temporäre Nutzung des leerstehenden Hallenbades für Ausstellungszwecke zu ermöglichen. Voraussetzung hierfür ist der Abschluss einer schriftlichen Nutzungsvereinbarung zwischen der Stadt und dem Verein, in der insbesondere geregelt wird:\n\n         die vollständige Haftungsfreistellung der Stadt für Personen- und Sachschäden im Zusammenhang mit der Nutzung,          der Abschluss und Nachweis einer ausreichenden Haftpflichtversicherung durch den Verein,          die Einhaltung aller sicherheitsrechtlichen Vorgaben (insbesondere Brandschutz, Verkehrssicherungspflichten),          die Verantwortung des Vereins für Auf- und Abbau, dabei sind die Räumlichkeiten so zu hinterlassen wie sie vorher übergeben wurden          ggf. Regelungen zu Nutzungsdauer, Zutritt und Nebenkosten.\n\nBegründung: Der Verein LAKUT hat Interesse bekundet, das derzeit leerstehende Hallenbad für eine Ausstellung zu nutzen. Eine temporäre kulturelle Nutzung kann zur Belebung des Gebäudes beitragen und stellt einen Mehrwert für das kulturelle Leben der Stadt dar.",
+        "decision": "Die Verwaltung wird beauftragt, dem Verein LAKUT die temporäre Nutzung des leerstehenden Hallenbades für Ausstellungszwecke zu ermöglichen. Voraussetzung hierfür ist der Abschluss einer schriftlichen Nutzungsvereinbarung zwischen der Stadt und dem Verein, in der insbesondere geregelt wird:\n\n     die vollständige Haftungsfreistellung der Stadt für Personen- und Sachschäden im Zusammenhang mit der Nutzung,      der Abschluss und Nachweis einer ausreichenden Haftpflichtversicherung durch den Verein,      die Einhaltung aller sicherheitsrechtlichen Vorgaben (insbesondere Brandschutz, Verkehrssicherungspflichten),      die Verantwortung des Vereins für Auf- und Abbau, dabei sind die Räumlichkeiten so zu hinterlassen wie sie vorher übergeben wurden      ggf. Regelungen zu Nutzungsdauer, Zutritt und Nebenkosten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Gebühren- und Nutzungssatzungen"
+      },
+      {
+        "number": "5.1.",
+        "title": "Gebührensatzung für die städtischen Kindertagesstätten",
+        "facts": "Aufgrund weiter gestiegener Sachkosten, stark steigenden Personalkosten, aber auch zum Ausgleich des bisherigen Defizites bei den Kindertagesstätten schlägt die Verwaltung eine Änderung bei den Gebührensätzen vor.\n\nNach den allgemeinen Haushaltsgrundsätzen der Gemeindeordnung ist der Haushalt der Gemeinde wirtschaftlich zu führen. Bei der Einnahmebeschaffung steht an erster Stelle die Erhebung von Entgelten für erbrachte Leistungen:\n\nDie vorgeschlagenen Gebührensätze orientieren sich nicht mehr an den Gebühren der kirchlichen Einrichtungen, denn auch mit den neuen vorgeschlagenen Gebührensätzen wird keine 100 %-ige Kostendeckung erreicht. Um das Defizit in den städtischen Kindertageseinrichtungen vollständig auszugleichen, müsste beispielsweise für den Kindergarten die monatliche Gebühr zusätzlich um rund 135,00 € erhöht werden (in der Krippe nahezu das Doppelte).",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf zur Gebührensatzung vom 13. April 2026 für die städtischen Kindertagesstätten als Satzung.\n\nFür die Kindergärten werden die Gebühren in der Variante B beschlossen.\n\nDie Satzung liegt der Niederschrift als Anlage 1 bei.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 16,
+          "against": 3
+        }
+      },
+      {
+        "number": "5.2.",
+        "title": "Benutzungssatzung für die städtischen Kindertagesstätten",
+        "facts": "Die Satzung über die Benutzung der Kindertagesstätten der Stadt Langenzenn wurde an die aktuellen Gegebenheiten und die aktuelle Rechtslage angepasst.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Benutzungssatzung vom 13. April 2026 für die städtischen Kindertagesstätten als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 2 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.3.",
+        "title": "Gebührensatzung für die Mittagsbetreuung an der Grundschule Langenzenn",
+        "facts": "Aufgrund steigender Sachkosten, ansteigenden Personalkosten, aber auch zum Ausgleich des bisherigen Defizites bei der Mittagsbetreuung schlägt die Verwaltung folgende Anhebung der Gebühren vor.\n\nDer ab September 2026 greifende Rechtsanspruch auf Ganztagesbetreuung erfordert auch eine verlängerte Mittagsbetreuung bis 16 Uhr. Aufgrund dessen wird eine zweistufige Gebührensatzung erstellt.\n\nDurch die vorgeschlagene Gebührenerhöhung wird das Defizit nicht zu 100 % gedeckt.\n\nNach den allgemeinen Haushaltsgrundsätzen der Gemeindeordnung ist der Haushalt der Gemeinde wirtschaftlich zu führen. Bei der Einnahmebeschaffung steht an erster Stelle die Erhebung von Entgelten für erbrachte Leistungen.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Gebührensatzung vom 13. April 2026 für die Mittagsbetreuung an der Grundschule Langenzenn als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 3 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.4.",
+        "title": "Benutzungssatzung für die Mittagsbetreuung an der Grundschule Langenzenn",
+        "facts": "Die Satzung über die Benutzung der Mittagsbetreuung an der Grundschule Langenzenn wurde an die aktuellen Gegebenheiten und die aktuelle Rechtslage angepasst.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf der Benutzungssatzung vom 13. April 2026 für die Mittagsbetreuung an der Grundschule Langenzenn als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 4 bei.\n\n(Stadtrat Ziegler ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.5.",
+        "title": "Gebührensatzung für die Ferienbetreuung an der Grundschule Langenzenn",
+        "facts": "Der ab September 2026 greifende Rechtsanspruch auf Ganztagesbetreuung erfordert auch eine Ferienbetreuung.\n\nUm den Rechtsanspruch möglichst weitestgehend zu erfüllen, beabsichtigt die Verwaltung neben den Angeboten des Bezirksjugendwerks der AWO die Ferienwochen Herbst und Fasching durch eigenes Personal anzubieten. Die Gebühren errechnen sich aus den Personal-, Reinigungs-, Material- und Essenskosten.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Gebührensatzung vom 13.04.2026 für die Ferienbetreuung an der Grundschule Langenzenn als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 5 bei.\n\n(Stadtrat Ziegler ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.6.",
+        "title": "Benutzungssatzung für die Ferienbetreuung an der Grundschule Langenzenn",
+        "facts": "Aufgrund des Rechtsanspruches auf Ganztagesbetreuung ist eine neue Satzung über die Benutzung der Ferienbetreuung an der Grundschule Langenzenn nach den aktuellen Gegebenheiten und der aktuellen Rechtslage erstellt worden.\n\nUm den Rechtsanspruch möglichst weitestgehend zu erfüllen, beabsichtigt die Verwaltung neben den Angeboten des Bezirksjugendwerks der AWO die Ferienwochen Herbst und Fasching durch eigenes Personal anzubieten.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf der Benutzungssatzung vom 13.04.2026 für die Ferienbetreuung an der Grundschule Langenzenn als Satzung.\n\nDie Satzung liegt der Niederschrift als Anlage 6 bei.\n\n(Stadtrat Ziegler ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.7.",
+        "title": "Neuerlass einer Satzung für die öffentliche Entwässerungseinrichtung der Stadt Langenzenn (Entwässerungssatzung – EWS)",
+        "facts": "Im Rahmen der Gebührenkalkulation wurde die Stadt durch den kommunalen Prüfungsverband darauf hingewiesen, dass die Entwässerungssatzung möglicherweise nicht rechtswirksam ist.\n\nZur rechtlichen Prüfung sowie zur Grundlagenermittlung für die künftigen Herstellungsbeiträge sowie mögliche Verbesserungsbeiträge wurde die Kanzlei für Kommunalentwicklung Spahn - Schöneweiß, Heilbronn, beauftragt.\n\nDie Auftragsvergabe erfolgte in der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 28.01.2025.\n\nDie Unterlagen zum Neuerlass der Satzung sowie eine entsprechende Synopse zu den wichtigsten Änderungen sind zur Ansicht im Ratsinformationssystem eingestellt.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Satzung für die öffentliche Entwässerungseinrichtung der Stadt Langenzenn (Entwässerungssatzung – EWS) vom 09.04.2026 als Satzung.\n\nDie Verwaltung wird mit der Ausfertigung und Bekanntmachung beauftragt. Die Satzung tritt einen Tag nach ihrer Bekanntmachung in Kraft.\n\nGleichzeitig tritt die Satzung vom 09.11.2018 außer Kraft.\n\n(Stadtrat Ziegler ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 18,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.8.",
+        "title": "Neuerlass einer Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Langenzenn (BGS/EWS)",
+        "facts": "Im Rahmen der Gebührenkalkulation wurde die Stadt Langenzenn durch den kommunalen Prüfungsverband darauf hingewiesen, dass die Beitrags- und Gebührensatzung möglicherweise nicht rechtswirksam ist.\n\nZur rechtlichen Prüfung sowie zur Grundlagenermittlung für die künftigen Herstellungsbeiträge sowie mögliche Verbesserungsbeiträge wurde die Kanzlei für Kommunalentwicklung Spahn - Schöneweiß, Heilbronn, beauftragt.\n\nDie Auftragsvergabe erfolgte in der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 28.01.2025.\n\nDie Unterlagen zum Neuerlass der Satzung sowie eine entsprechende Synopse zu den wichtigsten Änderungen sind zur Ansicht im Ratsinformationssystem eingestellt.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Langenzenn (BGS/EWS) vom 09.04.2026 als Satzung.\n\nDie Verwaltung wird mit der Ausfertigung und Bekanntmachung beauftragt. Die Satzung tritt einen Tag nach ihrer Bekanntmachung in Kraft.\n\nGleichzeitig tritt die Satzung vom 05.12.2019 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Information zu Interessensbekundung Familienstützpunkt im Landkreis Fürth",
+        "facts": "Laut Beschluss der Stadtratssitzung vom 18.03.26 hat sich die Stadt Langenzenn im Rahmen der Interessensbekundung für den Familienstützpunkt im Landkreis Fürth als Kooperationspartner eines freien Trägers beworben. Bewerbungsschluss war der 13.04.2026. Aus den bereits stattgefundenen Sondierungsgesprächen haben sich zwei verschiedene freie Träger für eine Zusammenarbeit mit dem Standort Langenzenn ausgesprochen. In dem Interessensbekundungsverfahren fungiert die Stadt Langenzenn als Geber von passgenauen Räumlichkeiten. Ein 18qm Büro im Südflügel EG des Rathauses (inklusive der IT- Infrastruktur und Gebäudemanagement) für Beratungen und Treffs sowie Stundenweise das Bürgerhaus für Veranstaltungen. Auch die Ausstattung von Bürotisch, Beratungsecke und Spielecke würde von der Stadt Langenzenn als Eigenbeteiligung angeboten werden. Des Weiteren unterstützen wir den direkten Zugang zu unseren lokalen Strukturen und Netzwerken um den Familienstützpunkt von Beginn an gut in unsere Kommune einzubetten.\n\nDie Verwaltung wurde auf ein bestehendes Angebot in Langenzenn hingewiesen. Dieses Angebot der Kita St. Marien trägt denselben Namen „Familienstützpunkt“ wie das vom Bayerischen Staatsministerium geförderte Projekt „Familienstützpunkt für den Landkreis Fürth“. Nach Gesprächen mit der Kita-Leitung sowie mit der Leitung der Caritas-Fachberatung für katholische Kindertagestätten und im Austausch mit dem Auftraggeber des Interessensbekundungsverfahrens – Kreisjugendamt Fürth Land lässt sich folgendes festhalten: - Es handelt sich ausschließlich um eine Namensgleichheit. - Der durch das Bayerische Staatsministerium geförderte Familienstützpunkt darf ausschließlich in Verbindung mit der vom Staatsministerium entwickelten und marken-\n\nrechtlich geschützten Wort-Bild-Marke verwendet werden. -   Der „Familienstützpunkt“ der Kita St. Marien stellt einen konzeptionellen Baustein dar. Dabei bestehen inhaltliche Überschneidungen hinsichtlich Ziele und Aufgaben. Werden jedoch anders umgesetzt. Das Angebot bezieht sich nur auf die Familien der Kita. Eine Öffnung nach außen ist derzeit nicht geplant.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Ersatzneubau Hallenbad: Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Informationen des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen zum Projektaufruf und weiteres Vorgehen",
+        "facts": "Am 20.03.2026 hat das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen die Informationen zum Bundesprogramm „Sanierung kommunaler Sportstätten“ Projektaufruf 2026 – Schwimmbäder veröffentlicht.\n\nHierbei gelten im Grunde die gleichen Rahmenbedingungen und Anforderungen wie beim bisherigen, allgemeinen Bundesprogramm „Sanierung kommunaler Sportstätten“, für das sich die Stadt Langenzenn im Januar 2026 mit dem Neubau des „Interkommunalen Hallenbades“ beworben hat.\n\nNachdem auch im Rahmen des „Schwimmbadprogramms“ Ersatzneubauten förderfähig sind, wären aus Sicht der Verwaltung sowohl eine Bewerbung mit einem interkommunalen Hallenbad (Neubau) am Schulcampus, als auch eine Bewerbung mit dem bisherigen Hallenbad (Sanierung) in der Reichenberger Straße denkbar.\n\nVor diesem Hintergrund hat mit Vertretern der Marktgemeinde Wilhermsdorf ein gemeinsames Abstimmungsgespräch zum weiteren Vorgehen stattgefunden.\n\nDer Markt Wilhermsdorf hat dabei mitgeteilt, dass auch für das eigene Bad mittelfristig eine umfangreiche, kostenaufwendige Generalsanierung notwendig sei, wenn dies weiter betrieben werden sollte. Wilhermsdorf geht aktuell von Sanierungskosten in Höhe von 12 Mio. Euro aus. Die Fortschreibung der Baukosten aus der Generalsanierung des Hallenbades Langenzenn ergibt ebenfalls Baukosten in Höhe von 12 Mio. Euro. Dem stehen aktuell Kosten von rund 22 Mio. Euro für einen gemeinsamen Neubau am Schulcampus entgegen.\n\nBeide Verwaltungen sind zum Ergebnis gekommen, dass ein Erhalt der jeweiligen Bäder überhaupt nur bei überdurchschnittlicher Förderung durch Bundes- bzw. Landesmittel möglich sei. Eine Förderung sowohl des Hallenbades Wilhermsdorf, als auch des Hallenbades Langenzenn im Rahmen der beiden Förderprogramme der „Sportstättenförderung“ wird aufgrund der örtlichen Nähe als unrealistisch angesehen. Somit sollte an einer Bewerbung für ein „Interkommunales Hallenbad“ festgehalten werden.\n\nNur durch die interkommunale Zusammenarbeit kann ein Aufschlag der BayFAG- Fördermittel um 10% erreicht werden.\n\nAuf Grundlage der aktuellen Zahl der Badegäste kann eine verbesserte Auslastung des Hallenbades in Wilhermsdorf im vergangenen Halbjahr festgestellt werden. Beide Kommunen kommen daher zum Ergebnis, dass ein gemeinsames Hallenbad somit wirtschaftlicher zu betreiben ist.\n\nEin weiterer, zukünftiger Betrieb von zwei Hallenbädern im nördlichen Landkreis wird daher nicht befürwortet.\n\nZur Klarstellung soll ein aktualisierter Stadtratsbeschluss gefasst werden. Eine gleichlautende Beschlussfassung ist auch im Gemeinderat Wilhermsdorf in KW 17/2026 vorgesehen.\n\nDie Verwaltung empfiehlt die Fortschreibung der bisherigen Planungsgrundlagen und Kostenberechnungen und eine damit verbundene Fortführung der Konzeptstudie für einen Neubau. Die Kosten hierfür werden durch das Baumt auf rund 15.000 Euro geschätzt, diese Mittel sind in den Haushaltsplan 2026 aufzunehmen.",
+        "decision": "Der Stadtrat beschließt die Teilnahme am Förderverfahren „Sanierung von Schwimmstätten“ (Frühjahr 2026) ausschließlich mit dem Neubau eines „Interkommunalen Hallenbades“ am Schulcampus Langenzenn und die Einreichung einer Interessensbekundung bzw. Projektskizze.\n\nIm Falle einer Teilnahme am Förderverfahren wird das Bauamt ermächtigt, die notwendigen Angebote für die Fortschreibung einer Konzeptstudie „Neubau Hallenbad“ einzuholen und in Abhängigkeit der knappen Zeitschiene bei Erfordernis ermächtigt, die notwendigen Aufträge zu vergeben.\n\nDie erforderlichen Finanzmittel sind für den Haushalt 2026 vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße; hier: Beschluss zur Ausschreibung",
+        "facts": "In der Sitzung des Stadtrates vom 12.11.2025 wurde die Veröffentlichung des Grundstücks Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße, mit einer Größe von 1.019 m², zu den damals vorgestellten Eckpunkten beschlossen.\n\nDie Veröffentlichung des Exposés (Homepage, Mitteilungsblatt sowie ImmoScout) erfolgte vorerst von Ende November 2025 bis einschließlich 22.01.2026. Anschließend wurde das Exposé bis 22.03.2026 verlängert. Bis zum Veröffentlichungsende sind keine Angebote eingegangen.\n\nDie Verwaltung schlägt nun vor, dass die Veröffentlichung zu den gleichen Konditionen für weitere 6 – 8 Wochen erfolgen soll. Einzig soll die inhaltliche Änderung erfolgen, dass entscheidend bei der Vergabe das Höchstgebot ist, ohne Angabe eines Mindestgebots. Zuvor erfolgte die Veröffentlichung des Exposés gegen Höchstgebot, mindestens jedoch 350,00 €/m².\n\nDer Grund für die Änderung ist, dass bei den Veröffentlichungen des Exposés keine Angebote eingegangen sind und, dass der angegebene Wert (Mindestgebot) ggf. nicht den aktuellen Wert des Grundstücks aufgrund der derzeitigen Situation (Rückgang der Bautätigkeiten usw.) darstellt.\n\nZu beachten ist, dass gem. Kommunalrecht ein Verkauf von Grundstücken unter ihrem Wert nur in Ausnahmefällen möglich ist (Art 75 GO). Grundsätzlich stellt ein Exposé eine Aufforderung zur Abgabe von Angeboten dar. Hier könnte bei Eingang von min. drei vergleichbaren Angeboten der Verkehrswert ermittelt werden. Sollten weniger oder nicht vergleichbare An-\n\ngebote eingehen, wäre über einen Gutachter eine Analyse durchzuführen, ob und welches Angebot die kommunalrechtlichen Voraussetzungen erfüllt.",
+        "decision": "Der Stadtrat beschließt, dass das Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße, mit einer Größe von 1.019 m² auf dem freien Markt zu folgenden Eckpunkten angeboten werden soll.\n\nEckpunkte:\n\n-   Verkauf gegen Höchstgebot.\n\n-   Bei einem möglichen Gleichstand der Kaufangebote soll der Zuschlag per Losverfahren ermittelt werden.\n\n-   Folgende Dachform ist wünschenswert: Satteldach mit einer Dachneigung von 25° - 52°.\n\n-   Das Grundstück ist innerhalb von drei Jahren ab Beurkundung mit einem Wohngebäude / Wohngebäuden zu bebauen. Bei Nichteinhaltung der Bauverpflichtung steht der Stadt Langenzenn ein Wiederkaufsrecht zum beurkundeten Kaufpreis und den tatsächlichen bezahlten Erschließungskosten zu. Der Weiterverkauf eines unbebauten Grundstücks ist nur mit Zustimmung durch die Stadt möglich.\n\n-   Dingliche Sicherung des vorhandenen Entwässerungsgrabens\n\n-   Weiter verpflichtet sich der Erwerber im Zuge dessen, soweit dies technisch möglich und wirtschaftlich (vgl. § 5 Gebäudeenergiegesetz – GEG) ist, auf jedem Wohngebäude Anlagen zur Solarenergienutzung mit einer jährlichen Leistung von mindestens 2.500 kWh (durchschnittlicher Stromverbrauch eines Zwei-Personen-Haushaltes) zu installieren. Zur Klarstellung wird festgehalten, dass es sich auch bei einer Doppelhaushälfte um ein Wohngebäude im Sinne dieser Verpflichtung handelt, somit sind bei der Errichtung von zwei Doppelhaushälften zwei Mal Anlagen mit einer jährlichen Leistung von mindestens 2.500 kWh zu installieren.\n\n-   Die Vorgaben des Grundsatzbeschlusses des Bau-, Umwelt- und Verkehrsausschusses vom 23.03.2021 bzgl. der Informationen zur Begrünung von Vorgärten, Fassaden und Dächern sind zu beachten und anzuwenden.\n\n-   Die Kosten bei Notar, Behörden, Grundbuchamt, aller Genehmigungen und Bescheide sowie die Grunderwerbssteuer usw. trägt der Erwerber.\n\nDie eingegangenen Angebote sind dem Gremium vorzulegen. Ein Verkauf erfolgt mit einem separaten Beschluss. Ggfs. ist dann ein Gutachten einzuholen, um darzustellen, dass die Veräußerung nicht unter Wert erfolgt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Ortsrecht der Stadt Langenzenn hier: Satzung zu Bürgerbegehren und Bürgerentscheid der Stadt Langenzenn (BBS)",
+        "facts": "In unregelmäßigen Abständen übersendet der Bay. Gemeindetag Mustersatzungen an ihre Mitgliedsgemeinden. Die Hintergründe sind dabei vielfältig, beispielhaft seien Gerichtsurteile, sprachliche Anpassungen aber auch gesetzliche Änderungen genannt, die eine Anpassung der Mustersatzung erfordert.\n\nDie Satzung zum Bürgerbegehren und Bürgerentscheid der Stadt Langenzenn (BBS) wurde am 23. Juli 2013 erlassen. Seither haben sich sowohl sprachliche Änderungen als auch gesetzliche Änderungen (z.B. basierend auf der Gemeindeordnung des Freistaats Bayern, dem Gemeindelandkreiswahlgesetz) ergeben. Die aktuell gültige Satzung ist damit ggf. nichtig.\n\nIn der 77. Sitzung des Hauptausschusses vom 26.03.2026 wurde unter dem Tagesordnungspunkt Ö12 dem Gremium eine Gegenüberstellung der Änderung als Beschlussgrundlage zur Verfügung gestellt.\n\nFür Fragen steht die Geschäftsleitung gerne zur Verfügung.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf vom 17.02.2026 der Satzung zu Bürgerbegehren und Bürgerentscheid der Stadt Langenzenn (BBS) als Satzung. Die Verwaltung wird mit der Ausfertigung und Bekanntmachung beauftragt. Die Satzung tritt einen Tag nach ihrer Bekanntmachung in Kraft. Gleichzeitig tritt die Satzung vom 23. Juli 2013 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Schulcampus; hier: Meinungsabfrage der Fraktionen zur geplanten Turnhalle und eventuellen Anbauten",
+        "facts": "Für den Neubau des Schulcampus wurde die Stadt Langenzenn durch das Landratsamt Fürth angefragt, ob bezüglich der baulichen Gestaltung und Ausstattung der Schulturnhalle Vorgaben und Wünsche bestehen, die in die zeitnah beginnenden Hochbauplanungen einfließen sollen. Gleiches gilt für eventuelle Anbauten.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hatte zuletzt im Oktober 2024 beschlossen, dass es seitens der Stadt Langenzenn wünschenswert wäre, wenn eine Erweiterung der Halle mit einer Tribüne (vgl. Anlage) in die Planungen des Landkreises mit aufgenommen wird. Dies wurde dem Landkreis mitgeteilt.\n\nZuletzt hatte der Stadtrat in seiner Sitzung vom 12.02.2026 beschlossen, dass beim Bau einer Turnhalle die feste / „kleine“ Variante einer Tribüne mit dazu gebaut werden soll.\n\nBei einem Gespräch mit der Abteilung für Gebäudewirtschaft im Landratsamt Fürth im März 2026 wurde der Stadtverwaltung mitgeteilt, dass sich der Landkreis inzwischen auf den Bau einer Fünffachhalle für reinen Schulsport verständigt hat. Sämtliche Baumaßnahmen / Anpassungen für eine Tribüne wären durch den Veranlasser zu tragen. Laut Auskunft des Landkreises handelt es sich um eine Summe in Höhe von rund 900.000 Euro.\n\nEine überschlägige Berechnung über BKI ergibt annähernd die genannten Werte und Summen.\n\nDer Landkreis plant daher aktuell eine Bauausführung ähnlich der Schulturnhalle am Klaushofer Weg mit einem „Turnschuhgang“ oberhalb des Spielfeldes.",
+        "decision": "Der Stadtrat beschließt am Einbau einer Tribüne in der Turnhalle am Schulcampus festzuhalten.\n\nDie Baukosten in Höhe von voraussichtlich rund 900.000 Euro sind durch die Stadt Langenzenn zu übernehmen und in die künftigen Haushaltsplanungen aufzunehmen.\n\nDie Entscheidung ist an die Abteilung für Gebäudemanagement im Landratsamt Fürth weiterzuleiten.\n\n(Stadträtin Schlager ist zum Zeitpunkt der Abstimmung nicht mehr im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 15,
+          "against": 3
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "11.1.",
+        "title": "2. Stadtratssitzung",
+        "facts": "Zweiter Bürgermeister Ell, ab 01.Mai – erster Bürgermeister informiert die Stadträte über das Abhalten der Ehrung der langjährigen Stadträte bei der Verabschiedung der ausscheidenden Stadträte bei der 2. Stadtratssitzung der neuen Legislaturperiode."
+      },
+      {
+        "number": "11.2.",
+        "title": "Bezuschussung mobiler Endgeräte",
+        "facts": "Die Verwaltung informiert den Stadtrat, dass der Tagesordnungspunkt: „Bezuschussung mobiler Endgeräte“ in der neuen Legislaturperiode geladen wird."
+      },
+      {
+        "number": "12.",
+        "title": "Sonstiges öffentlich"
+      },
+      {
+        "number": "12.1.",
+        "title": "Sachstand Baumpflanzungen",
+        "facts": "Stadtrat Roscher bittet um einen Sachstand zu der geplanten Baumpflanzaktion der UBLgz."
+      },
+      {
+        "number": "12.2.",
+        "title": "Baken bei der Treppe am Loher Berg",
+        "facts": "Stadträtin Meyer erkundigt sich, wann die Baken bei der Treppe in Lohe – „Am Loher Berg“ wieder entfernt werden."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "183512",
+    "minutes": "185608"
+  }
+}

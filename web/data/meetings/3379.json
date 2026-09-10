@@ -1,0 +1,29 @@
+{
+  "meetingId": "3379",
+  "announcement": {
+    "heading": "Sitzung des Ferienausschusses",
+    "date": "2025-09-09",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "4. September 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "177785"
+  }
+}

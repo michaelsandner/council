@@ -1,0 +1,102 @@
+{
+  "meetingId": "3359",
+  "announcement": {
+    "heading": "Sitzung des Redaktionsausschusses",
+    "date": "2025-06-24",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 6. Juni 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "12. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 12,
+    "date": "2025-06-24",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Ströbel, Marion",
+            "note": "für Stadtrat Jäger"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Zur Veröffentlichungen zählen folgende Inhalte:\n\n-   Niederschrift des 09.RedA für das Mitteilungsblatt -   Niederschrift des 06.RedA für das Mitteilungsblatt -   Niederschrift des 07.RedA für das Mitteilungsblatt\n\nStadtrat Durlak stellt einen Antrag auf Vertagung der Beschließung der Niederschriften.\n\neinstimmig beschlossen                          Dafür: 4 Dagegen:0",
+        "decision": "zurückgestellt"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift",
+        "facts": "Nach der Geschäftsordnung des Stadtrats gilt hiermit folgende Niederschrift als genehmigt:\n\nNiederschrift über den                    Sitzungsdatum       NS im RIS eingestellt am 07.Redaktionsausschuss                    27.05.25            06.06.2025 09. Redaktionsausschuss                   03.06.2025          17.06.2025\n\neinstimmig beschlossen                       Dafür: 4 Dagegen: 0"
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "175836",
+    "minutes": "181447"
+  }
+}

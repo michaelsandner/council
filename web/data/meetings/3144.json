@@ -1,0 +1,226 @@
+{
+  "meetingId": "3144",
+  "announcement": {
+    "heading": "47. Sitzung des Stadtrates",
+    "sessionNumber": 47,
+    "date": "2023-06-15",
+    "startTime": "18:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Informationssicherheit nach ISIS12 bei der Stadt Langenzenn hier: Kündigung der geschlossenen Zweckvereinbarung zum Zwecke der Einführung eines IT-Sicherheitsmanagement System in Kommunen mit ISIS12 gem. Art. 3 und 11 BayEGovG"
+      },
+      {
+        "number": "2.",
+        "title": "Unterzeichnung der gemeinsamen Absichtserklärung zum Aufbau einer regionalen Wasserstoffwirtschaft zwischen dem Landkreis Fürth und der Stadt Langenzenn bzw. den Stadtwerken Langenzenn"
+      },
+      {
+        "number": "3.",
+        "title": "Bezuschussung von Photovoltaik-Dachanlagen; hier: Sachstandsbericht und ggf. Beschlussfassung zur weiteren Vorgehensweise"
+      },
+      {
+        "number": "4.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Mittagsbetreuung der Stadt Langenzenn;"
+      },
+      {
+        "number": "5.",
+        "title": "Neuerlass der Satzung für die Einrichtung \"Mittagsbetreuung\" der Stadt Langenzenn an der Grundschule"
+      },
+      {
+        "number": "6.",
+        "title": "1. Änderung der Gebührensatzung für die Kindertagesstätten vom 12.05.2023 (KiTtaGebS 2023)"
+      },
+      {
+        "number": "7.",
+        "title": "Mittelschulverbund Dillenberg-Zenngrund; hier: 1. Nachtrag zum Kooperationsvertrag"
+      },
+      {
+        "number": "8.",
+        "title": "Abschlussbericht des Rechnungsprüfungsausschusses für den Prüfungszeitraum 2018 und 2019"
+      },
+      {
+        "number": "9.",
+        "title": "2. Änderung der Geschäftsordnung des Stadtrats Langenzenn; hier: Antrag der SPD Stadtratsfraktion"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "6. Juni 2023",
+    "signedBy": "Christian Ell, Zweiter Bürgermeister"
+  },
+  "minutes": {
+    "heading": "47. Sitzung des Stadtrates",
+    "sessionNumber": 47,
+    "date": "2023-06-15",
+    "startTime": "18:30",
+    "endTime": "21:12",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Informationssicherheit nach ISIS12 bei der Stadt Langenzenn hier: Kündigung der geschlossenen Zweckvereinbarung zum Zwecke der Einführung eines IT-Sicherheitsmanagement System in Kommunen mit ISIS12 gem. Art. 3 und 11 BayEGovG",
+        "facts": "Zwischen den Städten, Märkten und Gemeinden des Landkreises Fürth und dem Landratsamt Fürth wurde am 27. Februar 2018 eine Zweckvereinbarung zum Zwecke der Einführung eines IT-Sicherheitsmanagement System nach ISIS12 gem. Art. 3 und 11 BayEGovG geschlossen.\n\nHintergrund war, dass aufgrund Art. 11 BayEGovG alle Behörden im Freistaat Bayern unabhängig von der Größe der Organisation die Sicherstellung ihrer informationstechnischen Systeme gewährleisten müssen. Dazu mussten die Behörden angemessene technische und organisatorische Maßnahmen im Sinne des Art. 7 des Bayerischen Datenschutzgesetzes (BayDSG) treffen und die zu diesem Zweck erforderlichen Informationssicherheitskonzepte erstellen. Die Gemeinden des Landkreises Fürth und der Landkreis Fürth haben sich im Rahmen der Zweckvereinbarung zur gemeinsamen Einführung und den Betrieb eines ISMS (Informationssicherheitsmanagementsystems) verpflichtet. Die Inanspruchnahme von Fördergeldern, die für diesen Zweck zur Verfügung gestellt wurden, wurde durch das Landratsamt abgewickelt. Die für die Stadt Langenzenn anteiligen Fördergelder wurden im April 2023 überweisen.\n\nSeither hat sich die Stadt Langenzenn im Januar 2021 erfolgreich dem ersten Abnahmeaudit unterzogen und hat ein entsprechendes Zertifikat der DQS über die erfolgreiche Implementierung eines ISMS erhalten. Im Januar 2022 sowie im Januar 2023 unterzog sich die Stadt Langenzenn dem ersten bzw. zweiten Überwachungsaudit mit Erfolg – das ausgestellte Zertifikat wurde jeweils um ein Jahr verlängert. Die Stadt Langenzenn hat damit die im Rahmen der Zweckvereinbarung definierten Ziele erfüllt.\n\nDie Stadt Langenzenn plant nunmehr, das erarbeitete Sicherheitskonzept vorerst in Eigenregie weiterzuführen. Die geschlossene Zweckvereinbarung kann nach Einführung des ISMS unter Einhaltung einer halbjährigen Kündigungsfrist jeweils zum Ende eines Kalenderjahres von beiden Beteiligten gekündigt werden. Eine Kündigung bis zum 30.06.2023 hätte eine\n\nwirksame Kündigung zum 31.12.2023 zur Folge. Die Kündigung ist schriftlich gegenüber allen Beteiligten zu erklären.",
+        "decision": "Der Stadtrat beschließt, die mit den Kommunen des Landkreises Fürth und dem Landratsamt Fürth geschlossene Zweckvereinbarung zur Implementierung und Fortführung eines gemeinsamen ISMS ist fristgerecht zu kündigen.\n\nDer erste Bürgermeister, oder sein Vertreter im Amt, wird ermächtigt ein entsprechendes Kündigungsschreiben zu unterzeichnen und an die beteiligten Gemeinden sowie das Landratsamt Fürth zu übersenden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Unterzeichnung der gemeinsamen Absichtserklärung zum Aufbau einer regionalen Wasserstoffwirtschaft zwischen dem Landkreis Fürth und der Stadt Langenzenn bzw. den Stadtwerken Langenzenn",
+        "facts": "Am 15.03.2023 hat ein vom Landkreis Fürth und den 14 Landkreiskommunen initiierter Workshop zu Wasserstoffpotentialen im Landkreis stattgefunden, bei dem leider aus Termingründen kein Vertreter der Stadt bzw. der Stadtwerke Langenzenn anwesend sein konnte.\n\nAm 20.06.2023 findet nunmehr in den Räumlichkeiten der BÄKO Franken Oberbayern-Nord eG die Abschlussveranstaltung mit Vorstellung der H2-Potentialanalyse im Landkreis Fürth sowie der Unterzeichnung der „Gemeinsamen Absichtserklärung zum Aufbau einer regionalen Wasserstoffwirtschaft zwischen dem Landkreis Fürth und den Bündnispartnern aus Wirtschaft, Wissenschaft und Kommunen der Region“ statt.\n\nIn einer E-Mail vom 30.05.2023 wird seitens der vom Landkreis Fürth diesbezüglich beauftragten endura kommunal GmbH nachgefragt, ob sich die Stadtwerke Langenzenn bzw. die Stadt Langenzenn vorstellen könnten den Entwurf der im Ratsinformationssystems eingestellten Absichtserklärung zu unterzeichnen. Die Absichtserklärung enthält folgende Eckpunkte bzw. Ziele:"
+      },
+      {
+        "number": "1.",
+        "title": "Aufbau einer lokalen Wasserstoffwirtschaft"
+      },
+      {
+        "number": "2.",
+        "title": "Lokale Produktion und Nutzung von Wasserstoff"
+      },
+      {
+        "number": "3.",
+        "title": "Einsatz, Erprobung und Einführung von Wasserstoff-basierter Elektromobilität als emissionsfreie Antriebstechnologie insbesondere im ÖPNV, in der Schwerlast- und Intralogistik, der regionalen Logistik und bei Abfallsammelfahrzeugen."
+      },
+      {
+        "number": "4.",
+        "title": "Auf- und Ausbau der notwendigen Tankstellen-Infrastruktur"
+      },
+      {
+        "number": "5.",
+        "title": "Einbindung der Bevölkerung und lokaler Unternehmer*innen in die Entwicklung der lokalen Wasserstoffwirtschaft bspw. durch gemeinsame Veranstaltungen und Workshops. Aus Sicht der Verwaltung steht einer Unterzeichnung der Absichtserklärung nichts im Wege.",
+        "decision": "Der Stadtrat stimmt der Unterzeichnung der „Gemeinsamen Absichtserklärung zum Aufbau einer regionalen Wasserstoffwirtschaft zwischen dem Landkreis Fürth und den Bündnispartnern aus Wirtschaft, Wissenschaft und Kommunen der Region“ durch die Stadt Langenzenn bzw. der Stadtwerke Langenzenn zu.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bezuschussung von Photovoltaik-Dachanlagen; hier: Sachstandsbericht und ggf. Beschlussfassung zur weiteren Vorgehensweise",
+        "facts": "Der Stadtrat hat am 14.12.2022 ein Förderprogramm zur Förderung von Photovoltaik- Dachanlagen verabschiedet. Die Fördersumme beträgt 50.000 € und ist im Haushalt 2023 der Stadt Langenzenn veranschlagt worden.\n\nDa es sich bei der Fördersumme um eine freiwillige Leistung der Stadt Langenzenn handelt, sind die Förderrichtlinien vorbehaltlich der rechtsaufsichtlichen Genehmigung des Haushaltes 2023 in Kraft getreten.\n\nVon Seiten der Stadtwerke Langenzenn wurde zum 30.04.2023 eine Bestandsaufnahme gemacht, in welcher Höhe bereits Anträge vorliegen.\n\nFür bereits installierte und in Betrieb genommene Anlagen steht die Auszahlung einer Fördersumme in Höhe von ca. 11.000 € an. Des Weiteren liegen Anträge von Bürgern in Höhe von ca. 120.000 € vor, bei denen die Anlage beauftragt aber noch nicht installiert ist. Insgesamt liegen somit Anträge für rund 131.000 € Förderung vor, von denen nur 50.000 € ausgezahlt werden können.\n\nDie Verwaltung weist nochmals ausdrücklich darauf hin, dass eine Auszahlung der Fördermittel erst nach Genehmigung des Haushaltsplanes 2023 der Stadt Langenzenn erfolgen kann.\n\nDa nicht abgesehen werden kann wie viele Anträge noch eingehen und auf welchen Betrag die Fördersumme noch ansteigt sollte man sich Gedanken machen, ob das Förderprogramm zur Förderung von Photovoltaik-Dachanlagen nicht zeitnah eingestellt werden sollte.\n\nDer Hauptausschuss hat in seiner Sitzung am 25.05.2023 vom Sachvortrag Kenntnis genommen und folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat nimmt Kenntnis und bestätigt nochmals den einmaligen Ansatz von 50.000 € für das Haushaltsjahr 2023.\n\nDie Verwaltung wird beauftragt, die Bevölkerung erneut über den Sachstand im Mitteilungsblatt und auf der Homepage zu informieren\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Mittagsbetreuung der Stadt Langenzenn;",
+        "facts": "Bisher war in der Mittagsbetreuung nur die pauschale Buchung von allen fünf Wochentagen möglich. Ab dem Schuljahr 2023/2023 soll die Buchung von zwei bis fünf Wochentagen möglich sein.\n\nHierdurch soll ein Platzsplitting ermöglicht werden und mehr Kinder in der Mittagsbetreuung aufgenommen werden.\n\nDer Hauptausschuss hat in seiner Sitzung vom 14.06.2023 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der „Satzung über die Erhebung von Gebühren für die Mittagsbetreuung an der Grundschule Langenzenn“ als Satzung.\n\nDie Satzung ist der Niederschrift als Anlage 1 beigefügt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Neuerlass der Satzung für die Einrichtung \"Mittagsbetreuung\" der Stadt Langenzenn an der Grundschule",
+        "facts": "Die Benutzungssatzung für die Mittagsbetreuung an der Grundschule Langenzenn stammt in ihrer Grundform noch aus dem Jahr 1999.\n\nEine Anpassung an die heutigen Gegebenheiten ist daher notwendig.\n\nIm Zuge der Überarbeitung ist auch die Buchbarkeit von einzelnen Wochentagen berücksichtigt worden. Durch diese Änderung können mehr Kinder in der Mittagsbetreuung aufgenommen werden (Platzsplitting).\n\nDer Hauptausschuss hat in seiner Sitzung vom 14.06.2023 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der „Satzung für die Mittagsbetreuung an der Grundschule Langenzenn“ als Satzung.\n\nDie Satzung ist der Niederschrift als Anlage 2 beigefügt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "1. Änderung der Gebührensatzung für die Kindertagesstätten vom 12.05.2023 (KiTtaGebS 2023)",
+        "facts": "Bisher sind in der Gebührensatzung für die städtischen Kindertagesstätten alle Einrichtungen namentlich aufgeführt.\n\nDa zum Kita-Jahr 2023/2024 die Krippe Klaushofer Weg in der Berliner Straße um je eine Krippen- und Kindergartengruppe erweitert wird, müssen die Einrichtungsnahmen in der Satzung angepasst werden.\n\nUm bei zukünftigen Namensänderungen der Kindertagesstätten die Satzung nicht ändern zu müssen, werden im Vorschlag zur Änderung der Satzung alle Einrichtungsnamen entfernt.\n\nDer Hauptausschuss hat in seiner Sitzung vom 14.06.2023 einstimmig, mit 7 : 0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat beschließt die 1. Änderung der Gebührensatzung für die Kindertagesstätten (Kindertagesstättengebührensatzung – KiTaGebS 2023) als Satzung.\n\nDer Satzungsentwurf ist der Niederschrift als Anlage 3 beigefügt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Mittelschulverbund Dillenberg-Zenngrund; hier: 1. Nachtrag zum Kooperationsvertrag",
+        "facts": "Der „Schulverband Cadolzburg“ (Vertragspartner im „Mittelschulverbund Dillenberg- Zenngrund) wurde niemals formal gegründet, hat aber faktisch die Sachaufwandsträgerschaft u.a. auch der Mittelschule Cadolzburg übernommen. Der von Gesetzes wegen entstandene und eigentlich zuständige „Mittelschulverband Cadolzburg“ wurde erst seit November 2022 gegründet.\n\nDer Kooperationsvertrag für den „Mittelschulverbund Dillenberg-Zenngrund“ muss daher mit dem Mittelschulverband Cadolzburg abgeschlossen werden.\n\nFaktisch handelt es sich nur um eine Namensänderung. Weitere Änderungen ergeben sich nicht.\n\nDer Hauptausschuss hat in seiner Sitzung vom 25.05.2023 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat ermächtigt den ersten Bürgermeister, oder seinen Vertreter im Amt, zum Abschluss des 1. Nachtrag zum öffentlich-rechtlichen Kooperationsvertrag für den „Mittelschulverbund Dillenberg-Zenngrund“.\n\nDer Nachtrag zum Kooperationsvertrag ist der Niederschrift als Anlage 4 beigefügt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Abschlussbericht des Rechnungsprüfungsausschusses für den Prüfungszeitraum 2018 und 2019",
+        "facts": "Stadtrat Wolfgang Erhart, Vorsitzender des Rechnungsprüfungsausschusses, stellt den Abschlussbericht des Rechnungsprüfungsausschusses über die örtliche Rechnungsprüfung der Jahre 2018 und 2019 vor.\n\nDer Hauptausschuss hat in der Sitzung vom 25.05.2023 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat nimmt vom Abschlussbericht des Rechnungsprüfungsausschusses über die örtliche Rechnungsprüfung der Jahre 2018 und 2019 Kenntnis.\n\nDie Prüfungsanmerkungen werden in die Fachausschüsse zur weitere Beratung verwiesen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "2. Änderung der Geschäftsordnung des Stadtrats Langenzenn; hier: Antrag der SPD Stadtratsfraktion",
+        "facts": "Der Verwaltung liegt ein Antrag der SPD-Stadtratsfraktion auf Änderung der Geschäftsordnung des Stadtrats Langenzenn (GeschO) vom 24.7.2020 vor\n\nStadtrat Durlak schlägt vor, dass auch in den Fraktionen konkrete Vorschläge erarbeitet werden, die in der Geschäftsordnung geändert werden sollen.",
+        "decision": "Der Stadtrat befürwortet den Antrag der SPD Stadtratsfraktion und beauftragt die Verwaltung mit der rechtlichen Prüfung in Bezug auf die beantragten Änderungswünsche.\n\nEbenso wird der Antrag in die Fraktionen verwiesen, um einzelne Änderungsvorschläge zu konkretisieren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 20,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Lagerfläche für Baustelleneinrichtungen",
+        "facts": "Die Verwaltung informiert, dass im Rahmen des Breibandausbaus nach einer Fläche zur Lagerung von Baustelleneinrichtungen angefragt wurde. Hierfür ist eine geeignete Fläche in der Nähe der Grundschule vorhanden. Demnächst wird ein befristeter Pachtvertrag mit der beauftragten Firma geschlossen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "11.1.",
+        "title": "Blühwiese Laubendorf",
+        "facts": "Stadträtin Osswald moniert, dass sich bei der Blühwiese in Laubendorf immer noch nichts getan hat und beantragt eine Darstellung der entstandenen Kosten sowie aller Beteiligten."
+      },
+      {
+        "number": "11.2.",
+        "title": "Nutzungsgebühren Wrestling Run",
+        "facts": "Stadträtin Osswald beantragt, auf die Nutzungsgebühren für den Sportverein Laubendorf im Rahmen des Wrestling Runs 2023 zu verzichten. Sie teilt mit, dass die Veranstaltung aus Haftungsgründen nicht vom Verein selbst organisiert wird und hält die Kosten für die Wald- und Parkplatznutzung in der Höhe für nicht angemessen."
+      },
+      {
+        "number": "11.3.",
+        "title": "Informationen zum digitalen Bauantrag",
+        "facts": "Stadtrat Jäger erkundigt sich zum digitalen Bauantrag und bittet um aktuelle Informationen hierzu."
+      },
+      {
+        "number": "11.4.",
+        "title": "Anfragen aus der letzten Sitzung des Hauptausschusses",
+        "facts": "Stadtrat Roscher bittet um Auskunft zu seinen Anfragen aus der Sitzung des Hauptausschusses vom 20.04.2023 bezüglich PV-Anlagen in Neubaugebieten sowie zum Projekt Sudetenstraße."
+      },
+      {
+        "number": "11.5.",
+        "title": "Auflistung der Anträge aus den Stadtratsfraktionen",
+        "facts": "Stadträtin Osswald erkundigt sich zu der Auflistung der Anträge aus den Stadtratsfraktionen. Hier wurde eine jährliche Vorstellung im Mai und November beschlossen.\n\nDie Verwaltung teilt mit, dass die Auflistung in einer der nächsten Sitzungen des Stadtrates vorgestellt wird."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "156810",
+    "minutes": "157549"
+  }
+}

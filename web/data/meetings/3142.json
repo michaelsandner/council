@@ -1,0 +1,65 @@
+{
+  "meetingId": "3142",
+  "announcement": {
+    "heading": "21. Sitzung des Werkausschusses",
+    "sessionNumber": 21,
+    "date": "2023-05-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2023 Stadtwerke Langenzenn; hier: Fortsetzung der Beratungen"
+      },
+      {
+        "number": "2.",
+        "title": "Bürgerbus; hier: Bericht Seitens der Verwaltung über das vergangene Jahr, Ausblick auf das laufende und kommende Jahr"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "16. Mai 2023",
+    "signedBy": "Christian Ell, Zweiter Bürgermeister"
+  },
+  "minutes": {
+    "heading": "21. Sitzung des Werkausschusses",
+    "sessionNumber": 21,
+    "date": "2023-05-25",
+    "startTime": "16:01",
+    "endTime": "17:36",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2023 Stadtwerke Langenzenn; hier: Fortsetzung der Beratungen",
+        "facts": "Der Werkleiter stellt den Wirtschafts- und Investitionsplan 2023 der Stadtwerke Langenzenn vor, dieser wird der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Bürgerbus; hier: Bericht Seitens der Verwaltung über das vergangene Jahr, Ausblick auf das laufende und kommende Jahr",
+        "facts": "Vorstellung der Fahrgastzahlen sowie die finanzielle Aufstellung des Projekts „Bürgerbus“ der Stadt Langenzenn für das Jahr 2022 mit Rückblick.\n\nFahrgastzahlen: bis 10   ab 07                  bis 04/2023 Fahrgastzahlen. Jahr            2019             2020     2021          2022            2023 Gesamt                         13577             3747     2811          8012            3073 Unentgeltlich                   4191             1189      828          3532            1549\n\nUnentgeltlich sind Fahrgäste mit gültigem VGN-Ticket, Fahrgäste die im Besitz einer Ehrenamtskarte sind und Kinder bis einschließlich 5 Jahre.\n\nWirtschaftlichkeit:                                                                  bis 04/23 Aufwand        in Euro         84.386            68.607   61.483        70.950         25.186 Ertrag         in Euro         46.223            29.048   23.864        30.317         15.062 Saldo          in Euro         38.163            39.559   37.619        40.633         10.123\n\nAnhand der Auflistung der Anzahl der Fahrgäste in den vorhergegangenen Jahren ist ein starker Rückgang in den Jahren 2020 und 2021 zu erkennen, was allerdings auf die Pandemiezeit zurückzuführen ist. Im Jahr 2022 konnte noch nicht an die Fahrgastzahlen vor Corona angeschlossen werden. Es ist aber ein Anstieg zu erkennen.\n\nDurch das 49.—Euro Ticket ist ein Anstieg der Fahrgäste zu erwarten, von denen wir allerdings keine direkten Einnahmen haben. Die Akzeptanz der VAG Tickets wurde als Bedingung für den Zuschuss der Busse vom Landratsamt gefordert.\n\nUm das Projekt „BüBLa“ aufrecht zu erhalten wird eine große Anzahl an freiwilligen ehrenamtlichen Fahrerinnen und Fahrern benötigt, die über den Bürgerbusverein rekrutiert werden. Die Anzahl der Personen, die sich der Prüfung für den P- Schein stellen, um den Bürgerbus fahren zu können ist im Moment stabil. Dies liegt an dem großen Engagement des Bürgerbusvereines unter der Führung von Herrn Krippner.\n\nDie Stadtwerke sehen den Bürgerbus der Stadt Langenzenn als eine sehr gelungene und soziale Einrichtung, die auch nach über 10 Jahren immer noch ein PLUS, nicht nur für die Einwohner der Außenorte von Langenzenn, sondern für alle Bürger in Langenzenn ist.\n\nUm allerdings die Genehmigung der Regierung von Mittelfranken aufrecht zu erhalten ist für den Linienverkehr mit Kraftfahrzeugen nach § 42 PBefG, der Linie FÜ4, ein Verkehrsleiter mit einer „persönlichen und fachlichen Eignung für den Personenverkehr“ notwendig. Die aktuelle Genehmigungsurkunde ist bis zum 28.02.2027 gültig. Bei dem jetzigen Verkehrsleiter ist es möglich, dass dieser vor Ablauf der Gültigkeit in den Ruhestand geht.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "156402",
+    "minutes": "156759"
+  }
+}

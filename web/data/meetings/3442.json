@@ -1,0 +1,37 @@
+{
+  "meetingId": "3442",
+  "announcement": {
+    "heading": "Sitzung des Ferienausschusses",
+    "date": "2026-09-01",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "2.1.",
+        "title": "Genehmigung der Haushaltssatzung 2026 Stadt Langenzenn"
+      },
+      {
+        "number": "2.2.",
+        "title": "Einstellung des Langenzenner Bauernmarktes"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "27. August 2026",
+    "signedBy": "Christian Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "186713"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "meetingId": "3394",
+  "announcement": {
+    "heading": "87. Sitzung des Stadtrates",
+    "sessionNumber": 87,
+    "date": "2026-01-13",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Ersatzneubau Hallenbad, hier: Information zum aktuellen Sachstand, zur interkommunalen Zusammenarbeit und zur Einreichung der Projektskizze für das Bundesförderprogramm SKS"
+      },
+      {
+        "number": "4.",
+        "title": "Antrag der Stadträtin Plevka, zum Thema Finanzierung der Landesgartenschau"
+      },
+      {
+        "number": "5.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit offentlichen WC-Trakt und einer Freischankfläche \"Biergarten Oase\" auf den Grundstück Försterallee"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "8. Januar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "88. Sitzung des Stadtrates",
+    "sessionNumber": 88,
+    "date": "2026-01-13",
+    "startTime": "17:00",
+    "endTime": "18:21",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis Ende TOP 8"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vorsitz ab TOP 9"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab Mitte TOP 2"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab Mitte TOP 2"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Weber, Thomas"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n64. Sitzung des Bau-; Umwelt und Verkehrsausschuss vom 24.06.2026\n\n1. Städtischer Bauhof – Ersatzbeschaffungen einer Spielkombination und einer Schaukel für den Spielplatz in Laubendorf hier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung einer Spielkombination und Schaukel an die Firma Westfalia Spielgeräte GmbH, Hovelhof, auf Grundlage des Angebots vom 28.11.2025 in Höhe von brutto 15.799,63 Euro.\n\n2. Städtischer Bauhof – Ersatzbeschaffung eines Kompressors hier: Vorbereitung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung eines Kompressors an die Firma Kaeser Kompressoren SE, Coburg, auf Grundlage des Angebots vom 02.12.2025 in Höhe von brutto 26.841,64 Euro.\n\n3. Städtischer Bauhof – Beschaffung eines ortsunveränderlichen Schwerlastregals hier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung eines Schwerlastregals an die Firma Lagertechnik Hahn Vertriebs-GmbH, Bruckmühl, auf Grundlage des Angebots vom 03.12.2025 in Höhe von brutto 6.503,67 Euro.\n\n4. Städtischer Bauhof – Ersatzbeschaffung eines 13-Tonnen-LKWs hier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung eines 9,5-Tonnen-LKW – Fabrikat Hansa - an die Firma Henne Nutzfahrzeuge GmbH, Nürnberg, auf Grundlage des Angebots vom 05.12.2025 in Höhe von brutto 212.907,95 Euro.\n\n5. Städtischer Bauhof – Ersatzbeschaffung eines Ladekrans hier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung eines Ladekrans an die Firma Henne Nutzfahrzeuge GmbH, Nürnberg, auf Grundlage des Angebots vom 05.12.2025 in Höhe von brutto 62.142,70 Euro.\n\n6. Städtischer Bauhof – Ersatzbeschaffung eines Schneepflugs und eines Streuautomatens\n\nhier: Vorberatung und Vergabe\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung eines Schneepflugs und eines Streuautomaten an die Firma Henne Nutzfahrzeuge GmbH, Nürnberg, auf Grundlage des Angebots vom 01.12.2025 in Höhe von brutto 43.149,40 Euro\n\n7. Straßenbeleuchtung hier: Standsicherheitsprüfung für Beleuchtungsmaste 2026\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Standsicherheitsprüfung für Maste der Straßenbeleuchtung an die Firma Roch Service GmbH, Lübeck, auf Grundlage des Angebots vom 26.11.2025 in Höhe von brutto 18.166,30 Euro.\n\n8. Kläranlage Langenzenn hier: Vergabe von Ingenieurleistungen für die Erneuerung von verfahrens- und elektrotechnischer Anlagenteile\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe von Ingenieurleistungen für die Erneuerung von verfahrens- und elektrotechnischer Anlagenteile der Kläranlage an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 09.12.2025 in Höhe von brutto 32.315,31 Euro.\n\n9. Kläranlage Langenzenn hier: Vergabe von Ingenieurleistungen für die Bedarfsplanung der Rechenanlage\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe von Ingenieurleistungen für die Bedarfsplanung der Rechenanlage der Kläranlage an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 08.12.2025 in Höhe von brutto 30.642,50 Euro.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Ersatzneubau Hallenbad, hier: Information zum aktuellen Sachstand, zur interkommunalen Zusammenarbeit und zur Einreichung der Projektskizze für das Bundesförderprogramm SKS",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 2.12.2025 beschlossen, dass die Verwaltung mit der Abgabe der Interessensbekundung – möglichst in Zusammenarbeit mit den anderen Gemeinden und dem Landkreis – beauftragt wird.\n\nInteressensbekundung - Antrag\n\nDie Verwaltung hat den Antrag ausgearbeitet, dieser ist zur Abgabe bereit. Der Stadtbaumeister stellt den Antrag kurz vor.\n\nFinanzierungskonzept\n\nEin Finanzierungsplan ist erst mit der Einreichung der Planunterlagen nach Zuschlag – also vermutlich im Herbst 2026 – einzureichen. Dieser könnte grob skizziert wie folgt aussehen:\n\nFiktive Beispielrechnung:\n\nGesamtkosten (ohne Grundstück und Erschließung)                        22 Mio. € FAG-Förderung 70 % (nur anteilig und nur für den Schulbetrieb)         8 Mio. € Verbleibender Eigenanteil nach FAG-Förderung                           14 Mio. € SKS-Förderung 45 % (für die Öffentlichkeit)                            6 Mio. € verbleibender Eigenanteil nach SKS-Förderung                           8 Mio. €\n\nEin Kostenblock von ca. 15 Mio. der Investition ist für das Schulschwimmen (5 Bahnen 25 m, ein Lehrschwimmbecken) nötig, ein Kostenblock von ca. 7 Mio. entfällt auf den „öffentlichen“ kleinen Familienbereich, mehr und größere Umkleiden, Bewegungsflächen, Lagerflächen für Vereine etc.\n\nDer Kostenblock des Schulschwimmens muss zu 100 % von den schulischen Nutzern getragen werden – in Investition und Betrieb. Die Investition von ca. 15 Mio. € abzüglich FAG- Förderung ca. 8 Mio. € und SKS-Förderung von ca. 2 Mio. € muss also auf die zu verrechnenden Betriebskosten als Abschreibung inklusive entsprechender Verzinsung aufgeschlagen werden. Damit sind die 15 Mio. € planmäßig durchfinanziert.\n\nDer zusätzliche „öffentliche“ Bereich mit ca. 7 Mio. € soll über das Bundesförderprogramm mit 45 % gefördert werden, womit hierfür am Ende noch ein Eigenanteil von 3-4 Mio. € bei den Kommunen verbleiben dürfte.\n\nDieser Betrag müsste im Finanzierungplan also tatsächlich planmäßig aus Eigenmitteln dargestellt werden. Ob und inwiefern wir noch Fremdnutzer (Schwimmschulen o.ä.) im Investbereich mit einbeziehen können, ist noch offen.\n\nInterkommunale Zusammenarbeit\n\nDie Verwaltung hat versucht, mit den Gemeinden der Zenngrund-Allianz sowie mit dem Landkreis konkrete Verhandlungen hinsichtlich einer interkommunalen Zusammenarbeit, Nutzungszusagen oder Investitionsbeteiligungen zu treffen oder einzuholen.\n\nGemeinden der Zenngrund-Allianz:\n\nIn der Sitzung am 10. Dezember kam nach langer Diskussion eine gemeinsame Erklärung zustande, die aber noch keine finanziellen Zusagen enthält:\n\n„Nach der Schließung des Langenzenner Hallenbades und vor dem Hintergrund der überschaubaren Restnutzungsdauer des Wilhermsdorfer Hallenbades sind die Bürgermeister und die Bürgermeisterin der Allianzgemeinden in großer Sorge über die dauerhafte Sicherstellung überhaupt der Möglichkeit des Schulschwimmens im nördlichen Landkreis.\n\nDie noch vorhandenen Schwimmflächen bspw. im Veitsbad werden nicht ausreichend sein, um den Schwimmunterricht mehrerer Schulen zu gewährleisten.\n\nMit Interesse verfolgen wir deshalb nicht nur die Planungen zur Errichtung eines Lehrschwimmbeckens in Seukendorf von privat, sondern auch das Bestreben der Stadt Langenzenn und des Marktes Wilhermsdorf, den Neubau eines Hallenbades am geplanten Schulcampus Langenzenn über das aktuelle Förderprogramm zu realisieren.\n\nZwar sind alle baulichen Voraussetzungen nicht relevant, wenn – insbesondere seitens des Freistaats – kein Lehrpersonal zur Verfügung steht, doch darf Schulschwimmen auch nicht an fehlenden Ressourcen scheitern.\n\nInsofern sehen sich die Gemeinden mit-verantwortlich bei der Sicherstellung der wichtigen Aufgabe des Schulschwimmens.“\n\nZusammenarbeit mit Wilhermsdorf:\n\nAls einzige Gemeinde hat die Marktgemeinde Wilhermsdorf beschlossen, sich an einem gemeinsamen Bad zu beteiligen, wenn dieses neben dem vom Landkreis neu geplanten Schulcampus an der Gauchsmühle und somit von Wilhermsdorf gut angebunden erreichbar ist. Dies war auch Teil der Berichterstattung in den Medien der vergangenen Tage. Mit dieser Zusage kann die Stadt Langenzenn den Antrag als interkommunalen Antrag einreichen, was einen Aufschlag von 60 % auf 70 % der FAG-Mittel bedeutet und gleichzeitig für das Bundesförderprogramm ein wesentlich bepunkteter Vorteil ist.\n\nLandkreis:\n\nDer Landkreis als schulischer Hauptnutzer des Bades hat der Stadt Langenzenn die klare Absage hinsichtlich einer Beteiligung mitgeteilt.\n\nGleichzeitig hat der Landrat mitgeteilt, dass der Landkreis bereits geprüft habe, ob, wenn auch das Wilhermsdorfer Bad nicht mehr weiterbetrieben werden sollte, die ca. 1.800 Schüler auch nach Neustadt/ Aisch zum Schwimmen gefahren werden könnten.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Antrag der Stadträtin Plevka, zum Thema Finanzierung der Landesgartenschau",
+        "facts": "Frau Stadträtin Plevka hat in der Sitzung des Hauptausschusses vom 26.11.2025 folgenden Antrag gestellt:\n\n„Sehr geehrter Herr Bürgermeister Habel, sehr geehrter Herr 2. Bürgermeister Ell, liebe Kolleginnen und Kollegen des Stadtrates,\n\nals Stadträtin beantrage ich, das sich der Stadtrat im Vorfeld der nächsten Schritte mit dem Finanzierungsplan der Landesgartenschau auseinandersetzt. Ich möchte, dass wir in dieser Sitzung den Haushalt durchgehen, alle freiwilligen Leistungen benennen, die dann rausfallen würden. Beziehungsweise welche Gebühren und Beiträge auf Grund der LGS Finanzierung steigen würden.\n\nWelche Grundstücke veräußert werden müssen. Welche Schritte wir bei den Bebauungsplanen durchführen müssten um Einnahmen zu akquirieren.\n\nErst mit dieser Grundlage kann ich weitere Entscheidungen treffen. […]“",
+        "vote": {
+          "summary": "vertagt",
+          "inFavour": 18,
+          "against": 3
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit öffentlichen WC-Trakt und einer Freischankfläche \"Biergarten Oase\" auf den Grundstück Försterallee",
+        "facts": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit öffentlichem WC-Trakt und einer Freischankfläche auf den Grundstücken Flur-Nr. 231, 241 und 230/3, Gemarkung Langenzenn.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 25.11.2025 über den Antrag auf Verlängerung der Genehmigung zur Errichtung einer Außenbewirtschaftung mit öffentlichem WC-Trakt und einer Freischankanlage („Biergarten-Oase“) beraten und beschlossen, das gemeindliche Einvernehmen nicht zu erteilen.\n\nDas Landratsamt Fürth hat daraufhin mit Schreiben vom 03.12.2025 aufgrund des widersprüchlichen Vorgehens um Rückmeldung bis zum 16.01.2026 gebeten, ob der Antrag auf Verlängerung der Baugenehmigung aufrechterhalten oder zurückgenommen wird. Dabei wurde darauf hingewiesen, dass das Landratsamt gegebenenfalls das gemeindliche Einvernehmen ersetzen könnte.\n\nDie Verwaltung bittet den Ausschuss um entsprechende Mitteilung zur weiteren Vorgehensweise.\n\nIn der Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 16.12.2025 wurde die Beschlussfassung zu diesem Tagesordnungspunkt auf die nächstmögliche Stadtratssitzung vertagt.\n\nDer Stadtrat zieht die Angelegenheit bezüglich der Beschlussfassung an sich.",
+        "decision": "Der Stadtrat bekräftigt den Beschluss des Bau-, Umwelt- und Verkehrsausschuss vom 25.11.2025. Das gemeindliche Einvernehmen wird weiterhin nicht erteilt, und der Antrag auf Verlängerung wird zurückgezogen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 12,
+          "against": 9
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "6.1.",
+        "title": "Laudatio zu Ehrung von 35 Jahren Stadtratstätigkeiten",
+        "facts": "Ehrenamtsbeautragter Stadtrat Durlak hält eine Laudatio zu Ehren der Stadtratsmitglieder Klaus Roscher und Thomas Ziegler für Ihre 35 Jährige Tätigkeit im Stadtrat."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "7.1.",
+        "title": "Wiederaufnahme des Neubürgerampfangs und Senioren Jubiläen",
+        "facts": "Stadtrat Roscher merkt an, dass wieder ein Neubürgerempfang sowie Jubiläen von Senioren stattfinden können."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "180977",
+    "minutes": "182603"
+  }
+}

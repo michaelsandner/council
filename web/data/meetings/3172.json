@@ -1,0 +1,246 @@
+{
+  "meetingId": "3172",
+  "announcement": {
+    "heading": "38. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 38,
+    "date": "2023-12-19",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "4.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "4.1.",
+        "title": "Antrag zur Errichtung einer Dachgaube und eines Balkons auf dem Grundstück Farrnbachstr. 14 a"
+      },
+      {
+        "number": "4.2.",
+        "title": "Antrag zum Austausch von Werbeanlagen auf dem Grundstück Nürnberger Straße 210"
+      },
+      {
+        "number": "4.3.",
+        "title": "Antrag zur Anbringung einer Werbeanlage auf dem Grundstück Nürnberger Str. 46"
+      },
+      {
+        "number": "5.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "5.1.",
+        "title": "Markt Wilhermsdorf - Änderung des Flächennutzungsplanes, Aufstellung des Bebauungsplanes WEST - Wohn- und Gewerbegebiet; hier: Beteiligung der Nachbargemeinden gem. § 2 Abs. 2 BauGB, Behördenbeteiligung gem. § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "6.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "6.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; Förderzusage durch den Verein Lorenzer Reichswald e.V.; hier: Beschluss zum Ausbau und zur Verbesserung von Wegen in Kirchfembach"
+      },
+      {
+        "number": "6.2.",
+        "title": "Zollner Straße; hier: Antrag auf Tempo 30 km/h wegen Straßenschäden und Verkehrsunfällen"
+      },
+      {
+        "number": "7.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bauwerksanierung 2023; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht und Kostenübersicht"
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.1.",
+        "title": "Ergänzende Auswertung zum Sachstandsbericht Eigenüberwachung Entwässerung"
+      },
+      {
+        "number": "8.2.",
+        "title": "Bauhof - Baumkontrolle und -unterhalt; hier: Aktuelle Baumfällungen"
+      },
+      {
+        "number": "8.3.",
+        "title": "Biergarten; hier: Information über die Verlängerung der Baugenehmigung"
+      },
+      {
+        "number": "8.4.",
+        "title": "Test notwendiger Parkplatzkapazitäten für die Altstadt: Verwendung der Parkplätze des ehemaligen Edeka-Marktes"
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "13. Dezember 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "38. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 38,
+    "date": "2023-12-19",
+    "startTime": "16:00",
+    "endTime": "18:15",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen",
+        "facts": "Stadtrat Schwämmlein möchte für die eventuelle Errichtung einer Parkanlage auf der neu erworbenen Fläche an der Veit-Stoß-Straße eine Kostenaufstellung mit Angabe der zu erwartenden Mieteinnahmen, etc.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "4.1.",
+        "title": "Antrag zur Errichtung einer Dachgaube und eines Balkons auf dem Grundstück Farrnbachstr. 14 a",
+        "facts": "Antrag zur Errichtung einer Dachgaube und eines Balkons auf dem Grundstück Flur-Nr. 37, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "Antrag zum Austausch von Werbeanlagen auf dem Grundstück Nürnberger Straße 210",
+        "facts": "Antrag zum Austausch von Werbeanlage gemäß beiliegender Baubeschreibung an der bestehenden Tankstelle auf dem Grundstück Fl.-Nr. 1019, Gemarkung Horbach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe der Anlage wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "Antrag zur Anbringung einer Werbeanlage auf dem Grundstück Nürnberger Str. 46",
+        "facts": "Antrag zur Anbringung einer Werbeanlage gemäß beiliegender Baubeschreibung und Entwurfsplanung – hier: Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenzen auf dem Grundstück Flur.Nr. 638/3, Gemarkung Langenzenn.\n\nDer Antrag zur Befreiung von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe der Anlage wurde bereits im Bau-, Umwelt- und Verkehrsausschuss vom 24.10.2023 erteilt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "5.1.",
+        "title": "Markt Wilhermsdorf - Änderung des Flächennutzungsplanes, Aufstellung des Bebauungsplanes WEST - Wohn- und Gewerbegebiet; hier: Beteiligung der Nachbargemeinden gem. § 2 Abs. 2 BauGB, Behördenbeteiligung gem. § 4 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zum o. g. Verfahren der Gemeinde Wilhermsdorf vor.\n\nDie Unterlagen sind ins Ratsinformationssystem zur Ansicht eingestellt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass die Belange der Stadt Langenzenn nicht berührt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "6.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; Förderzusage durch den Verein Lorenzer Reichswald e.V.; hier: Beschluss zum Ausbau und zur Verbesserung von Wegen in Kirchfembach",
+        "facts": "Durch das Stadt- und Verkehrsplanungsbüro Kaulen wurde gemäß dem Beschluss des Bau-, Umwelt- und Verkehrsausschusses vom 24.01.2023 die Planung der Maßnahmen „Fahrradweg nach Puschendorf“ als überörtliche Verbindung (Maßnahme 64) durchgeführt.\n\nIm Rahmen der Auflösung des Wasserverbandes Kirchfembach-Oberfembach wurden ein Forderungskatalog der Mitglieder erarbeitet. Der Übergang des Verbandsvermögens von 20.000 € und der Übergang diverser Grundstücke des Verbandsvermögens an die Stadt Langenzenn und die Gemeinde Hagenbüchach soll erst nach Zusage der Erfüllung der Anforderungen stattfinden. Eine Anforderung ist die Verbesserung des Weges zwischen Kirchfembach und Oberfembach.\n\nAm 05.10.2023 wurde gemäß Beschluss des Bau-, Umwelt- und Verkehrsausschusses vom 26.09.2023 für die Maßnahmen der Förderantrag beim Verein Naherholungsgebiet Lorenzer Reichswald und Umgebung e.V. eingereicht. Die Förderung beträgt 40 % auf die zuwendungsfähigen Kosten.\n\nKostenschätzung:\n\n   Verbindungsweg Kirchfembach – Hagenbüchach: förderfähige Kosten (Teil- und Vollausbau in wassergebundener Bauweise) etwa 103.000 Euro = Zuwendung: ca. 41.000 €\n\nMit Zuwendung und den Mitteln der Wassergenossenschaft verbleibt eine Eigeninvestition von ca. 50.000 Euro\n\n   Radwegeverbindung Kirchfembach – Puschendorf: Kosten (im Bereich des Wirtschaftsweges) etwa 45.000 Euro davon förderfähig 27.200 Euro. = Zuwendung ca. 11.000 Euro\n\nMit Zuwendung verbleibt eine Eigeninvestition von ca. 34.000 Euro.\n\nIn der Vereinsversammlung am 30.11.2023 wurden beide Maßnahmen zur Förderung für das Jahr 2024 beschlossen.",
+        "decision": "Der Tagesordnungspunkt wird vertagt.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung mit den Gemeinden Puschendorf und Hagenbüchach Kontakt aufzunehmen, um nachzufragen, ob prinzipiell Interesse besteht, die Lücken über die Gemeindegrenzen hinaus zu schließen.\n\nzurückgestellt"
+      },
+      {
+        "number": "6.2.",
+        "title": "Zollner Straße; hier: Antrag auf Tempo 30 km/h wegen Straßenschäden und Verkehrsunfällen",
+        "facts": "In der Stadtratssitzung vom 07.12.2023 berichtete Stadtrat Gawehn über starke Frostschäden der Straßenoberfläche in der Zollnerstraße und stellte einen Antrag auf eine Geschwindigkeitsbegrenzung auf Tempo-30 zum Schutz und Erhalt der Fahrbahn.\n\nStadtrat Gawehn erkundigte sich außerdem zu einem Antrag aus der Bürgerversammlung bezüglich einer Geschwindigkeitsbegrenzung auf Tempo-30 aufgrund vermehrter Verkehrsunfälle in der Flurstraße. Er hatte um Nachfrage bei der Polizei gebeten, welche Unfälle sich dort ereignet haben.\n\nDer Bau-, Umwelt- und Verkehrsausschuss wurde in seiner Sitzung am 28.03.2023 über die starke Beschädigung informiert. Es wurde mitgeteilt, dass die Fahrbahn dringend saniert werden muss.\n\nEine Ausschreibung zur Sanierung der Straßendecke wird zeitnah erfolgen und im Frühjahr bzw. Frühsommer 2024 durchgeführt werden.\n\nIm Haushaltsplan 2023 wurden für die Deckensanierung auf einer Fläche von rund 1.700 m² bereits Mittel in Höhe von 100.000 € vorgesehen. Die Haushaltsmittel für 2024 sind entsprechend vorzusehen und ggf. anzupassen.\n\nDurch den Straßenbaulastträger wurden entsprechende Gefahrenzeichen aufgestellt, die auf die Straßenschäden hinweisen.\n\nAufgrund der aktuellen akuten Frostschäden wurden Baken gestellt, um den Sicherungsbereich optisch zu verdeutlichen.\n\nWeiterhin werden bis zum Ausbau der Fahrbahn (voraussichtlich im Frühjahr 2024) erhöhte tägliche Streckenkontrollen vorgenommen.\n\nBei weiteren Forstperioden wird die Fahrbahn in einem schlechten Zustand bleiben und kann ausschließlich mit provisorischen Auffüllungen in einem befahrbaren Zustand erhalten werden.\n\nAndere Maßnahmen zur provisorischen Erhaltung bis zum Ausbau wie ein Abfräsen, oder Abnahme und Neuaufbau der Deckschickt würden den Untergrund schädigen oder sich bei den winterlichen Temperaturen nicht mit der Tragschicht verbinden. Eine weitere Auskofferung des Asphaltes bis zum Ausbau im Frühjahr sind aufwandstechnisch und kostentechnisch nicht verhältnismäßig.\n\nAus Sicht der Verkehrsfachbehörden ist im aktuellen Zustand eine Anordnung einer Geschwindigkeitsreduzierung, kein geeignetes Mittel zur Verbesserung oder Gefahrenabwehr. Die Straßenschäden sind soweit wie möglich verbessert und werden in einem erhöhten Turnus kontrolliert und unter Kontrolle gehalten.\n\nHaftungsrechtlich sowie verkehrsrechtlich schöpft die Aufstellung der Gefahrenzeichen in Verbindung mit den Sicherungsbaken in diesem Bereich bereits die begründbaren Möglichkeiten der StVO aus.\n\nNach Rücksprache mit der PI Zirndorf teilte diese mit, dass in den letzten Jahren keinerlei Unfälle gemeldet wurden. Der PI Zirndorf ist auch aktuell kein Unfall bekannt. Es gab somit keinen offiziell gemeldeten Unfall im Strecken bzw. Einmündungsbereich.\n\nEine Lärmproblematik durch zu schnelles Fahren ist aus der kommunalen Verkehrsüberwachung nicht bekannt. Erst Mitte des Jahres 2023 zeigte eine Messung über den Wochenzeitraum (tags und nachts) hinweg, dass die Verstoßzahlen überdurchschnittlich gering sind. Turnusmäßige Geschwindigkeitskontrollen werden, um die Lage nicht zu verschlechtern, weiterhin durchgeführt.\n\nAufgrund der überörtlichen Bedeutung der Straße, kann eine Kategorisierung als Wohnstraße nicht angenommen werden. Auf Vorfahrtsstraßen die (faktisch) dem überörtlichen Verkehr dienen, wäre nach aktueller Gesetzeslage auch grundsätzlich keine Temporeduzierung nach StVO vorgesehen.\n\nSollten weitere Schäden an der Fahrbahn entstehen, wäre durch den Straßenbaulastträger zu prüfen, ob zum Schutz der Fahrbahn eine Tonnagenbeschränkung angeordnet werden muss.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Ausschreibung und Durchführung der Deckensanierung für das erste Halbjahr 2024. Benötigte Haushaltsmittel sind im Haushalt 2024 vorzusehen.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt darüber hinaus bis zur Fahrbahnsanierung eine Geschwindigkeitsreduzierung auf Tempo 30 km/h anzuordnen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bauwerksanierung 2023; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht und Kostenübersicht",
+        "facts": "Die Sanierung der Friedhofsmauer am Stadtfriedhof wurde Ende November abgeschlossen. Eine Ortsbesichtigung mit dem Bau-, Umwelt- und Verkehrsausschuss fand zuletzt statt.\n\nDie prüffähigen Unterlagen zu Mehraufwendungen und geänderten Leistungen im Rahmen der Sanierungsarbeiten wurden Ende November gemeinsam von Bauamt, planenden Ingenieurbüro und Baufirma abschließend besprochen.\n\nIm Rahmen der Sanierungsarbeiten an der südlichen Friedhofsmauer wurde die geplante Mauerwerkssanierung aufgrund statischen und bauausführungstechnischen Gründen nach mehreren Ortsterminen verworfen und die vorhandene Mauerwerkswand im oberen Drittel komplett abgebrochen. Vor der verbleibenden Mauerwerkswand wurde über die komplette Höhe eine neue Stahlbetonwand, einschließlich Fundament errichtet. Das obere Drittel wurde wegen der geänderten Ausführung ebenfalls in Stahlbeton hergestellt. Faktisch handelt es sich bei der Südwand um einen „Ersatzneubau“ vor der bisherigen Wand.\n\nMit dem Ingenieurbüro Balling wurden die wesentlichen Kosten (brutto) für die Sanierung der südlichen Wand nochmals herausgearbeitet:\n\n   Gesamtkosten Südwand:                  202.538 Euro    Entfall Mauerwerkssanierung:           103.747 Euro\n\nAuf den unteren Teil der Südwand (= Neubau, ca. 95m² Wandfläche) einschließlich Fundamentierung fällt dabei ein Anteil von ca. 130.000 Euro.\n\nWeiterhin haben sich durch die nachfolgend aufgeführten zusätzlichen Leistungen Mehrkosten ergeben:\n\n   Fußwege und Pflasterflächen im Friedhof                           35.700 Euro    Asphaltierung Fußweg in Bereich der Oberen Ringstraße             13.000 Euro    Sanierung Südwand (Bereich Treppenanlage)                         12.600 Euro    Fußwege und Wandstreifen in Splitt                                 5.400 Euro\n\nDie Abrechnung der Gesamtmaßnahme beläuft sich auf rund 560.000 Euro. Durch das Ingenieurbüro Balling wird derzeit der Anteil der förderfähigen Kosten ermittelt, der durch die Städtebauförderung bezuschusst wird.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.1.",
+        "title": "Ergänzende Auswertung zum Sachstandsbericht Eigenüberwachung Entwässerung",
+        "facts": "Der Sachstandsbericht Eigenüberwachung Entwässerung wurde in der Bau-, Umwelt- und Verkehrsausschusssitzung am 18.07.2023 vorgestellt. Die ergänzenden Auswertungen der Gebiete sind zur Ansicht in das Ratsinformationssystem eingestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.2.",
+        "title": "Bauhof - Baumkontrolle und -unterhalt; hier: Aktuelle Baumfällungen",
+        "facts": "Bei den regelmäßigen Kontrollen der städtischen Bäume wurden die Notwendigkeit zur Fällung festgestellt:\n\n   Friedhof Keidenzell: eine Birke, die Neubepflanzung ist geplant    Waldfriedhof Langenzenn: eine Waldkiefer\n\nDie Bilddokumentation ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.3.",
+        "title": "Biergarten; hier: Information über die Verlängerung der Baugenehmigung",
+        "facts": "Die Verlängerung der Baugenehmigung wird dem Bau-, Umwelt- und Verkehrsausschuss zur Kenntnis gegeben.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.4.",
+        "title": "Test notwendiger Parkplatzkapazitäten für die Altstadt: Verwendung der Parkplätze des ehemaligen Edeka-Marktes",
+        "facts": "Die Stadt Langenzenn hat den Parkplatz des ehemaligen Edeka-Marktes in der Altstadt angepachtet. Dies soll den städtebaulichen Test ermöglichen, zu erfahren, wie groß die notwendige Kapazität des Parkplatzes hinter dem Autohaus Besenbeck sein müsste, um die Altstadt gut abzudecken. Dieser Parkplatz ist bisher vormittags meist bis auf den letzten Platz belegt.\n\nEs war gewünscht, dass die Nutzung des Parkplatzes, ob er beispielsweise für die Öffentlichkeit oder nur für Mitarbeiter genutzt werden soll, oder eine Kombination daraus oder begrenzte Öffnungszeiten etc. im Ausschuss beraten und beschlossen werden. Dies steht nun zur Beratung an.\n\nVon Seiten der Verwaltung wird vorgeschlagen, dass der Parkplatz für alle zur Nutzung freigegeben wird, dies aber nur tagsüber von 6-23 Uhr, so dass keine Dauerparker ihre Fahrzeuge abstellen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt, dass der Parkplatz für alle zur Nutzung freigegeben wird, dies aber nur tagsüber von 6-23 Uhr.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.5.",
+        "title": "Kommunale Wärmeplanung; hier: Antragsstopp für Fördermittel",
+        "facts": "Mit Beschluss vom 24.08.2023 im Ferienausschuss wurde die Verwaltung beauftragt, einen Förderantrag für die kommunale Wärmeplanung unter Einbeziehung von Beratungsleistungen vorzubereiten und einzureichen. Die Vorbereitungen sind getroffen. Jedoch ist zurzeit wegen der Haushaltsperre des Bundes keine Antragstellung möglich.\n\nHier die aktuelle Information vom BMWK:\n\n„Die Bundesregierung prüft derzeit die Auswirkungen des Urteils vom Bundesverfassungsgericht vom 15. November 2023. Das Bundesfinanzministerium hat eine sofortige Haushaltssperre verfügt, nach der aktuell keine neuen finanziellen Zusagen getätigt werden dürfen, die mit Zahlungen für die Jahre ab 2024 verbunden sind. Entsprechend werden mit sofortiger Wirkung und bis auf Weiteres sowohl die Annahme als auch die Bewilligung von Anträgen pausiert. Dies betrifft u.a. die Förderprogramme zur Energieberatung (EBN und EBW), Bundesförderung für effiziente Wärmenetze (BEW) und der Energieeffizienz in der Wirtschaft (EEW). Wichtig: Maßnahmen zu bereits erfolgten Förderzusagen können weiterverfolgt werden.“",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "9.1.",
+        "title": "Einzäunung des Spielplatzes Von-Wildenfels-Straße/Lukas-Cranach- Straße",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos erkundigt sich, warum der Spielplatz eingezäunt wurde.\n\nDie Verwaltung teilt mit, dass dies bei der jährlich stattfindenden Spielplatzprüfung 2023 bemängelt wurde. Den entsprechenden Prüfbericht und die Kostenaufstellung der Einzäunung wird die Verwaltung in der Januar-Sitzung vorstellen."
+      },
+      {
+        "number": "9.2.",
+        "title": "Sanierung der Friedhofsmauer; hier: fehlende Beleuchtung",
+        "facts": "Der Ausschuss stellt fest, dass entlang der neu sanierten Friedhofsmauer im Bereich des Fußweges oberhalb der Oberen Ringstraße auf der unteren Treppenstufe eine Beleuchtung fehlt.\n\nDie Verwaltung wird gebeten, eine Beleuchtung anzubringen."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "161911",
+    "minutes": "162753"
+  }
+}

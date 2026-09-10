@@ -1,0 +1,100 @@
+{
+  "meetingId": "3345",
+  "announcement": {
+    "heading": "Sitzung des Redaktionsausschusses",
+    "date": "2025-05-06",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Festlegung allgemeiner Arbeitsprinzipien des Ausschusses"
+      },
+      {
+        "number": "2.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      }
+    ],
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Festlegung allgemeiner Arbeitsprinzipien des Ausschusses, 2.       Freigabe aktueller Veröffentlichungen, Langenzenn, 30. April 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "2. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 2,
+    "date": "2025-05-06",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Osswald, Birgit"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Festlegung allgemeiner Arbeitsprinzipien des Ausschusses",
+        "facts": "Die Verwaltung stellt Veröffentlichungen (Plakate, Flyer, Veröffentlichungen auf der Homepage, sozialen Netzwerken, etc.) zu jährlich wiederkehrenden Veranstaltungen vor und bittet um eine Ermächtigung, dass diese in Zukunft nicht mehr dem Redaktionsausschuss zur Genehmigung vorgelegt werden müssen.",
+        "decision": "Die Verwaltung wird ermächtigt, dass Veröffentlichungen (Plakate, Flyer, Veröffentlichungen auf der Homepage, sozialen Netzwerken, etc.) zu jährlich wiederkehrenden Veranstaltungen selbstständig freigegeben werden. Eine Freigabe durch den Redaktionsausschuss ist nicht notwendig.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Das Citymanagement würde bitte gerne in den nächsten Tagen und Wochen folgende Posts schalten und bittet um Freigabe:\n\nFolgende weitere Veröffentlichungen sind für das Mitteilungsblatt vorgesehen:\n\nInformation zu Ausschreibungen in Langenzenn und Ortsteilen Die Stadt Langenzenn bietet derzeit folgendes zum Verkauf an: • Ein multifunktionales Modulgebäude Die Details zum Ausschreibungsverfahren können Sie dem jeweiligen Expose, welches unter langenzenn.de -> Leben & Wohnen -> Bauen -> Flächenmanagement einsehbar ist, entnehmen. Dieses ist entsprechend zu beachten und einzuhalten\n\nAb 01. Mai 2025: Digitale Lichtbilder für Personalausweise, Reisepässe und elD-Karten Das Bürgerbüro informiert: Ab 01. Mai 2025 ist es erforderlich, Lichtbilder für Personalausweise, Reisepässe und elD-Karten ausschließlich in digitaler Form bei der Beantragung von Ausweisdokumenten einzureichen. Ausgedruckte Lichtbilder sind dann nicht mehr zulässig und können von den Behörden nicht mehr angenommen werden. Wir weisen darauf hin, dass das Beantragungsverfahren bei Führerscheinanträgen hiervon unberührt bleibt. Im Beantragungsprozess wird sich zu Beginn für den Antragsteller nicht viel ändern. Die Passbilder werden weiterhin durch Fotografen oder die Drogeriemarktkette „dm\" erstellt, dann jedoch in verschlüsselter Form digital an das Bürgeramt übermittelt. Hierfür erhält der Antragsteller einen QR-Code, den er zur Beantragung im Bürgeramt mitbringt.\n\nZukünftig wird es ebenfalls möglich sein, die digitalen Bilder direkt bei Beantragung im Bürgerbüro der Stadt Langenzenn erstellen zu lassen. Die Bundesdruckerei GmbH liefert bundesweit entsprechende Geräte aus. Aktuell hat die Stadt Langenzenn noch kein Gerät erhalten. Wann genau die Auslieferung erfolgen soll, ist derzeit noch nicht bekannt. Die bundesweite Auslieferung soll bis Sommer 2025 abgeschlossen sein. Sobald neue Erkenntnisse vorliegen, werden wir entsprechend darüber informieren. Rückfragen können gerne zu den Dienstzeiten telefonisch oder per Mail an das Bürgerbüro gerichtet werden. (Tel:: 09101 / 703 - 231; -232; -233; -234; 235 / Mail: buergerbuero@langenzenn.de)\n\nMitteilung aus dem Bürgerbüro Nach Aufzeichnungen des Bürgerbüros Langenzenn sind im April 2025 mit Hauptwohnung gemeldet: 11.034 Einwohnerinnen und Einwohner.\n\nStädtische Einrichtungen bleiben geschlossen Am Mittwoch, 28. Mai 2025 sind alle städtischen Einrichtungen geschlossen. Wir bitten um Ihr Verständnis.\n\nStädtische Einrichtungen bleiben geschlossen Am Freitag, 20. Juni 2025 sind alle städtischen Einrichtungen geschlossen. Das Standesamt/Bürgerbüro ist in Notfällen unter Tel. 09101 703-230 zu erreichen. Wir bitten um Ihr Verständnis.\n\nFolgende Posts für Facebook hat die Verwaltung noch vorgesehen:\n\nNeue Wanderkarte Langenzenn\n\nEs gibt eine neue Wanderkarte mit allen bestehenden Wanderwegen und Tourenvorschlägen in Langenzenn. Diese ist ab sofort im Rathaus erhältlich und auf unserer Homepage zum Download bereit. Die letzten Wandermarkierung-Neuerungen werden Ende April/Anfang Mai angebracht. Sie können flexibel Ihre eigene Wanderung gestalten oder die Tourenvorschläge ausprobieren, welche auch bei komoot zum Download verfügbar sind. Weitere Informationen finden Sie auf unserer Homepage.\n\nFolgende Veröffentlichung hat die Verwaltung für die Homepage vorgesehen:\n\nZeidler Wanderweg zum Druidenstein\n\n+ Erlebnispfad am Dillenberg\n\nAm 14.04.1350 wurden die Zeidler-Rechte von Kaiser Karl IV auf den Arnold von Seckendorff übertragen. Dies haben wir zum Anlass genommen, den Zeidler-Wanderweg ins Leben zu rufen.\n\nEr führt vom Parkplatz zum ca. 1,3 km entfernten Arboretum FiohriX, das 2023 mit dem Nachhaltigkeitspreis des Landkreises ausgezeichnet wurde.\n\nDie Zeidlerei ist die ursprünglichste Art der Bienenhaltung, bei der ein Imker künstliche Höhlungen in Bäumen anlegte. Sie wurde, wie geschichtlich dokumentiert ist, viele Jahrhunderte lang auch in den Wäldern um Nürnberg betrieben.\n\nDie Wiederansiedlung der Biene in Zeidler-Bäumen im Arboretum FiohriX bildet somit eine Verbindung zwischen Vergangenheit und Zukunft.\n\nDer virtuelle Wanderweg bietet Ihnen die Möglichkeit, sich über die Bereiche Geschichte, Natur und Umwelt, sowie die örtlichen Sagen und Geschichten aus Langenzenn und Cadolzburg zu informieren. Drücken Sie auf das Zeidler-Logo, hier bekommen Sie von Ihrem virtuellen Wanderführer Arnold von Seckendorff dann eine genaue Einführung.\n\nWir wünschen Ihnen einen interessanten Aufenthalt und viel Freude am Erleben der Natur.\n\nAuf der Zeidler-Wanderung nimmt Sie Arnold von Seckendorff unter dem Symbol des Zeidlers auf eine spannende Zeitreise von der Trias bis in Jahr 2100 mit. Sie sollten dieses zuerst abrufen, dann kann sich Ihr persönlicher Reisebegleiter auch selbst kurz vorstellen und Ihnen weitere wichtige Informationen zur Wanderung übermitteln.\n\nStart ist am „Wanderparkplatz Dillenberg\" zwischen Keidenzell und Deberndorf.\n\nhttps://www.flohreus-forst.de/start\n\nDie Verwaltung weißt darauf hin, dass sämtliche weiteren Veröffentlichungen für die nächste Ausgabe des Mitteilungsblattes, die bis jetzt nicht vorliegen (beispielsweise die Veröffentlichung des Seniorenrates) und vom Ausschuss genehmigt wurden, von der Verwaltung abgelehnt werden, sofern der Ausschuss die Verwaltung nicht ermächtigt, diese selbständig freizugeben. Die Verwaltung empfiehlt dem Ausschuss, die Verwaltung dazu zu ermächtigen.",
+        "decision": "1. Der Ausschuss gibt die oben genannten Veröffentlichungen frei. 2. Er ermächtigt die Verwaltung, die Veröffentlichung des Seniorenrates sowie sämtliche weiteren Veröffentlichungen selbst freizugeben. 3. Desweiteren ermächtigt er den 1. Bürgermeister, am 7.5. ein Interview zum Thema Zusammenarbeit der Bäder Wilhermsdorf und Langenzenn sowie zum geplanten gemeinsamen Bad im nördlichen Landkreis zu geben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "174715",
+    "minutes": "181367"
+  }
+}

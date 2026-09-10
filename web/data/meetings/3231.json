@@ -1,0 +1,236 @@
+{
+  "meetingId": "3231",
+  "announcement": {
+    "heading": "56. Sitzung des Hauptausschusses",
+    "sessionNumber": 56,
+    "date": "2024-06-27",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "FSJ-Stelle an der Mittelschule Langenzenn - Veitsbronn"
+      },
+      {
+        "number": "2.",
+        "title": "LEADER-Projekt \"Steigerung der Attraktivität der Stadt Langenzenn durch Erstellung von professionellen Kurzvideos\""
+      },
+      {
+        "number": "3.",
+        "title": "Pflegestützpunkt hier: aktueller Sachstand und weitere Vorgehensweise"
+      },
+      {
+        "number": "4.",
+        "title": "Nachbericht zur Langenzenner Kirchweih 2024"
+      },
+      {
+        "number": "5.",
+        "title": "Städtische Friedhöfe; hier: Sachstand zur Grabmalprüfung 2024"
+      },
+      {
+        "number": "6.",
+        "title": "Hundesteuer; hier: Rückblick, Ausblick"
+      },
+      {
+        "number": "7.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Fortsetzung der Haushaltsplanberatungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Anträge der Stadtratsfraktionen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "9.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "9.1.",
+        "title": "Neues Angebot in Langenzenn: Beratung für pflegende Angehörige"
+      },
+      {
+        "number": "9.2.",
+        "title": "Friedhof Laubendorf; hier: Information zur Anlegung weiterer Urnengrabfelder"
+      },
+      {
+        "number": "10.",
+        "title": "Vergabe von sonstigen Lieferungen und Leistungen (UVgO) und freiberuflichen Leistungen (VgV); hier: Vergabebeschlüsse"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "20. Juni 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "56. Sitzung des Hauptausschusses",
+    "sessionNumber": 56,
+    "date": "2024-06-27",
+    "startTime": "17:30",
+    "endTime": "20:10",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vertreter für ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Ritter, Margit",
+            "note": "Vertreter für Stadtrat Schwämmlein"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "Vertreter für Stadträtin Osswald"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 1"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "FSJ-Stelle an der Mittelschule Langenzenn - Veitsbronn",
+        "facts": "Die Mittelschule Langenzenn - Veitsbronn hat bei der Stadt Langenzenn um eine FSJ-Kraft gebeten. Die Mittelschule benötigt jedoch keine komplette FSJ-Stelle. Nachdem der Jugendtreff Veitsbronn ebenfalls keine volle FSJ-Stelle benötigt, schlägt die Schulleitung der Mittelschule eine Kooperation mit der Gemeinde Veitsbronn vor.\n\nNach derzeitigem Stand könnten von der Stelle ca. 30 % auf die Mittelschule und 70 % auf den Jugendtreff Veitsbronn entfallen. Die Kosten der FSJ-Kraft werden bei der Mittelschule zu ca. einem Drittel von der Regierung über die Ganztagesförderung Finanziert.\n\nGeht man von Kosten für eine komplette FSJ-Stelle von ca. 1.000 € pro Monat aus, würde bei der vorgeschlagenen Regelung mit der Gemeinde Veitsbronn, ca. 2.400 € (nach Abzug der Förderung) an Aufwendungen bei der Stadt Langenzenn verbleiben.\n\nDie Schulleitung der Mittelschule erläutert dem Ausschuss die Aufgaben / das Konzept der FSJ-Stelle.",
+        "decision": "Der Hauptausschuss genehmigt eine FSJ-Stelle an der an der Mittelschule Langenzenn – Veitsbronn mit einem Anteil von 30 % einer vollen Stelle.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "LEADER-Projekt \"Steigerung der Attraktivität der Stadt Langenzenn durch Erstellung von professionellen Kurzvideos\"",
+        "facts": "Die Stadt Langenzenn plant professionelle Kurzvideos (Reels) zu verschiedenen Themen erstellen zu lassen, die zur Öffentlichkeitsarbeit dienen sollen.\n\nU.a. sind folgende Themen geplant:  Tourismus       Altstadt historisch  Freizeit        z.B. ZennOase/Swingolf/Skateplatz/Jump4all/Wander- und Radwege  Kultur          z.B. Kulturhof und ansässige Theatervereine  Märkte und Feste  Wirtschaftsstandort  Schulstandort  Stadt Langenzenn als Arbeitgeberin\n\nDiese Reels sollen in den Bereichen Social Media, städtische Homepage, Displaywerbung (z.B. im Eingangsbereich Rathaus, Messen wie Azubi- und Jobmesse) platziert werden. Bei Bedarf kann man diese auch zu einem Imagefilm zusammenfügen lassen. Die Intention ist es, die Stadt in Kurzvideos zu präsentieren und entsprechende Zielgruppen anzusprechen und zu gewinnen, wie z.B. Arbeitnehmer, Neubürger, Touristen, Besucher sowie die junge Generation.\n\nDie Gesamtkosten für dieses Projekt betragen insgesamt ca. 20.000,- €, hiervon fördert LEADER 50 % der zuwendungsfähigen Nettokosten = 8.100, €. (20.000 € - 19 % MWSt = 16.200,- €, davon 50 % = 8.100,- €) Die Mindestfördersumme muss 7.000,- € betragen.\n\nDie Umsetzung des Projektes erfolgt erst im Jahr 2025. Entsprechende Haushaltsmittel wären ggfs. vorzusehen.\n\nzurückgestellt"
+      },
+      {
+        "number": "3.",
+        "title": "Pflegestützpunkt hier: aktueller Sachstand und weitere Vorgehensweise",
+        "facts": "Der Seniorenrat der Stadt Langenzenn beantragte die Beratung der aktuellen Situation zum Thema Pflegestützpunkt im Ausschuss. Die Verwaltung konnte dazu Folgendes ermitteln.\n\nEin Pflegestützpunkt ist eine zentrale und wohnortnahe Beratungsstelle mit einem umfassenden Informationsangebot rund um die Pflege- Koordination der pflegerischen, medizinischen und sozialen Leistungen in der Pflege. Die Beratung ist kassenübergreifend, neutral und kostenlos und richtet sich primär an Pflegebedürftige bzw. deren Angehörige. Pflegestützpunkte tragen zur Sicherstellung und Vernetzung von wohnortnahen Angeboten der Pflege, Versorgung, Betreuung und Beratung bei. Die vorhandenen Beratungsstrukturen werden bei der Arbeit des Pflegestützpunktes eingebunden.\n\nGrundsätzlich ist ein Pflegestützpunkt eine freiwillige Aufgabe der Kommune, da die Kassen die grundsätzliche Beratungspflicht haben. Träger und Antragsteller der Förderungen können grundsätzlich Landkreise, kreisfreie Städte, oder Bezirke sein. Der Antrag auf Förderung beim Bayerischen Landesamt für Pflege kann nur zum 31.12. für das Folgejahr gestellt werden.\n\nDie Anpassung der Kostenträgerschaft in den Rahmenverträgen wurde zum 1.1.2020 neu erarbeitet. Zwischen den Kranken- und Pflegekassen sowie den kommunalen Spitzenverbänden wurde eine ergänzte Rahmenvereinbarung geschlossen, welche die Kosten für den Landkreis bzw. dann für die Kommune deutlich senkt. Von einer 1/3 Beteiligung wurde diese auf 1/6 verringert. Innerhalb des Angestelltenmodells werden die laufenden Personal- und Sachkosten zu 2/3 von den Kranken- und Pflegekassen, 1/6 von der Kommune -> Landkreis Fürth, 1/6 vom Bezirk Mittelfranken getragen. Regel- und Anschubforderung durch das Landesamt für Pflege sind möglich.\n\nAktueller Sachstand:\n\nBisher wurde vom Landkreis ein Pflegestützpunkt abgelehnt. Es sollte die neue Verteilung der Kostenträgerschaft abgewartet werden und die Umsetzung des Pflegestützpunktes der Stadt Fürth. Des Weiteren war der Bedarf an Beratungen bis vor 2 Jahren noch nicht ausreichend im Landkreis. Der Bedarf ist seitdem gestiegen, die Zahlen liegen der Gesundheitsregion Plus bereits vor.\n\nAm 22.4.2024 wurde dem Kreisausschuss von der Gesundheitsregion Plus vorgestellt: Aufgabenschwerpunkt eines Pflegestützpunktes, Abgrenzung zu den Fachstellen für pflegende Angehörige sowie die Vor- und Nachteile eines Pflegestützpunktes im Landkreis Fürth. Der Kreisausschuss zeigte sich positiv zur Implementierung eines Pflegestützpunktes.\n\nDas Landratsamt hat nun bei der Gesundheitsregion Plus eine Arbeitsgruppe zur Erstellung eines Konzeptes für einen Pflegestützpunkt im Landkreis Fürth beauftragt. Diese Konzeption\n\nsoll im Oktober dem Kreisrat vorgestellt werden. Bei positiver Beschlussfassung wird auf Implementierung eines Pflegestützpunktes noch Ende 2025, oder Anfang 2026, gehofft.\n\nSeitens des Landratsamtes liegt die Information vor, dass sich Langenzenn schon seit 2016 für die Errichtung eines Pflegestützpunktes am Ort einsetzt. Der Aufbau eines Pflegestützpunktes in einer Kommune oder als Zusammenschluss einiger weniger Landkreiskommunen wird allerdings als nicht zweckmäßig erachtet. Das Angebot sollte zentral und landkreisweit entstehen. Des Weiteren erfolgt eine Förderung für Personalkosten nur ab einer Einwohnerzahl von 60.000 Einwohnern, bei derzeitiger Einwohnerzahl des Landkreises könnten 1,99 Vollzeitkräfte eingestellt werden.\n\nAktuell ist ein Pflegestützpunkt in Zirndorf am Landratsamt sowie dezentral in einer Landkreiskommune angedacht. Die Landkreiskommunen können sich als Standort für eine Außenstelle bewerben.\n\nIn Langenzenn werden seit Mai 2024 Räumlichkeiten für Sprechstunden der Fachstelle für pflegende Angehörige zur Verfügung gestellt. Weitere Räumlichkeiten für den Pflegestützpunkt würden zur Verfügung stehen. Es könnte sich positiv auswirken, Synergien entstehen, wenn der Pflegestützpunkt räumlich an bereits vorhandenen Fachstellen angegliedert wird, dies könnte eventuell auch mit einer Regel- und Anschubfinanzierung unterstützt werden.\n\nAufgrund der qualifizierten fachlichen Beratung durch Frau Götz, welche in aller Kürze sehr gut angenommen wurde, besteht bereits ein sehr gutes Beratungsangebot in Langenzenn. Es wäre wünschenswert dieses Angebot mit einem dezentralen Pflegestützpunkt hier in Langenzenn noch auszubauen.",
+        "decision": "Der Ausschuss nimmt vom Sachvortrag Kenntnis.\n\nDie Verwaltung wird beauftragt, Bewerbungsunterlagen als Standort für den dezentralen Pflegestützpunkt des Landkreises Fürth vorzubereiten und bei der zuständigen Stelle am Landratsamt einzureichen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Nachbericht zur Langenzenner Kirchweih 2024",
+        "facts": "Vom 24.05. – 28.05.2024 fand die Kirchweih in Langenzenn statt. Das Veranstaltungsgelände führte wie bereits letztes Jahr vom Prinzregentenplatz über die Friedrich-Ebert-Straße bis zum Denkmalplatz zu den Zennwiesen.\n\nDas Wetter hat, bis auf einen kleinen Regenschauer, gut mitgespielt. Es wurde versucht die Beleuchtungssituation des Mörtelsgässchens zwischen Rathaus und den Zennwiesen zu verbessern. Dies ist leider nicht ganz optimal gelungen. Der Lichtmast gab zwar viel Helligkeit ab, war allerdings an die Zeitschaltung der sonstigen Straßenbeleuchtung gekoppelt, was laut Rückmeldung von den Schaustellern als zu spät erachtet wurde. Des Weiteren war der Weg Richtung Jugendzentrum „Alte Post“ weiterhin sehr dunkel.\n\nDie geplante Schiffschaukel an den Zennwiesen konnte dieses Jahr leider nicht aufgebaut werden, hier hat uns kurzfristig noch eine Absage erreicht. An den Zennwiesen wurde daher ein anderes Kinderfahrgeschäft platziert. Es gab dazu gute Resonanz, allerdings ist die Marktversorgung an den Zennwiesen nun komplett ausgeschöpft.\n\nAnfang August 2024 soll noch eine allgemeine Nachbesprechung mit den Schaustellern stattfinden. Bei Nachfragen während der Veranstaltung zeigte sich ein Großteil der Schausteller zufrieden und signalisierte bereits die Teilnahme im kommenden Jahr. Vereinzelte Schausteller an den Zennwiesen waren etwas unzufrieden. Es wurde der Wunsch geäußert, die Schausteller an den Zennwiesen ins Kirchweihprogramm noch etwas mehr einzubinden. Am Sonntag nach dem Kirchweihfestzug waren die Zennwiesen sehr gut besucht.Für kommendes Jahr werden wieder Großplakate als Wegweiser angebracht, um auch den auswärtigen Besuchern zu signalisieren, dass die Kirchweih an den Zennwiesen weitergeht.Seitens der Verwaltung wird noch um eine Nachbesprechung im Kirchweihausschuss gebeten, in den nächsten Tagen erfolgt hierzu ein Anschreiben mit Terminvorschlägen.\n\nStadtrat Jäger trägt einen Antrag zur Kirchweih-Umfrage vor.\n\nDer Antrag ist der Niederschrift als Anlage 1 beigefügt.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Städtische Friedhöfe; hier: Sachstand zur Grabmalprüfung 2024",
+        "facts": "Bei der jährlichen Grabmalprüfung vom 20.05. – 24.05.2024 wurden insgesamt 981 Grabmale auf den städtischen Friedhöfen durch die beauftragte Fachfirma Grabmalprüfung Becker & Weißbach GbR überprüft.\n\nDie Überprüfung wurde mit dem Grabmalstandsicherheitsprüfgerät KÖNIG mit integriertem Display für Last-Zeit-Diagramm bzw. „Isis-Twin“ mit Kraftsensor und Datenlogger oder Kipp- Tester Plus mit Kraftmessanzeige, im Einzelfall per Hand- und Sichtprüfung, durchgeführt.\n\nEs wurde die Standfestigkeit eines jeden Grabmales geprüft. Insgesamt wurde ein Grabmal am Waldfriedhof beanstandet.\n\nDa das Grabnutzungsrecht bereits abgelaufen ist, wurde die Nutzungsberechtigte zur Instandsetzung des Grabmales bzw. zur Räumung des Grabes aufgefordert, falls eine Verlängerung des Grabrechtes nicht gewünscht ist.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Hundesteuer; hier: Rückblick, Ausblick",
+        "facts": "Die Finanzverwaltung informiert zum Thema Hundesteuer.\n\nDie letzte Erhöhung der Hundesteuer erfolgte im Jahr 2015. Damals wurde die Steuer für den  ersten Hund                 von 60,00 € auf 85,00 € für den  zweiten Hund                von 90,00 € auf 115,00 € und für  jeden weiteren Hund         von 120,00 € auf 145,00 € erhöht.\n\nDer Steuersatz für Kampfhunde ohne Negativzeugnis beträgt 425,00 €.\n\nZum 01.01.2022 erfolgte die Anpassung unserer bisherigen Hundesteuersatzung an die Mustersatzung des Bayerischen Staatsministeriums. Hierbei wurden keine Steueranpassungen vorgenommen.\n\nDie Hundesteuer hat sich seit 2018 folgendermaßen entwickelt:\n\nEntwicklung der Hundesteuer seit dem Jahr 2018 Jahr        angemeldete Hunde            davon Kampfhunde     HS Einnahmen\n\n2018                  733                       15              61.730,00 €\n\n2019                  734                       17              62.330,00 €\n\n2020                  731                       18              62.067,50 €\n\n2021                  756                       17              64.235,00 €\n\n2022                  783                       15              66.677,50 €\n\n2023                  830                       16              69.547,50 €\n\n2024                  785                       16              66.992,50 €\n\nIm Stadtgebiet Langenzenn gibt es keine angemeldeten Kampfhunde ohne Negativzeugnis.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Fortsetzung der Haushaltsplanberatungen",
+        "facts": "Die Verwaltung informiert den Hauptausschuss über die aktuellen Daten zum Haushaltsplanentwurf 2024 der Stadt Langenzenn aufgrund der zwischenzeitlich eingearbeiteten Änderungen bzw. Anpassungen von Ansätzen. Die Mindestzuführung wird durch den aktuellen Entwurf erreicht. Die geplanten Kreditaufnahmen belaufen sich nun auf 1.123.435 €. Dadurch ist der Haushaltsplanentwurf 2024 somit immer noch nicht genehmigungsfähig.\n\nAnhand einer Auflistung der geplanten Hoch- und Tiefbaumaßnahmen für die Jahre 2024 bis 2027 soll eine Priorisierung für alle Jahre erfolgen, um einen genehmigungsfähigen Haushalt zu erreichen. Dies hat zur Folge, dass nachrangige Maßnahmen voraussichtlich erst nach 2027 wieder berücksichtigt werden können..",
+        "decision": "Der Hauptausschuss beschließt Folgendes,\n\n   die Hochbaumaßnahme für die Feuerwehr Kirchfembach - Generalsanierung - wie geplant umzusetzen.\n\n   die Hochbaumaßnahme Ausbau Ganztag Grundschule wie geplant umzusetzen.\n\n   bezüglich der Hochbaumaßnahme Sanierung der Mittelschulturnhalle die Beratungen zur Umsetzung im Rahmen der Haushaltsplanung 2031 wiederaufzunehmen.\n\n   den Ansatz für die Sanierung des Daches der KiTa Plapperkiste, jeweils um Jahr nach hinten zu schieben.\n\n   die Hochbaumaßnahme KiTa Reichenberger Straße wie geplant umzusetzen.\n\n   die Hochbaumaßnahmen in der Stadthalle in den Jahren 2025 und 2026 ersatzlos zu streichen. Es soll nur ein allgemeiner Ansatz von 5.000 € pro Jahr veranschlagt werden.\n\n   den Ansatz für die Abbruchs- und Aufschließungskosten der Städtebauförderung aufrechtzuerhalten.\n\n   den Ansatz für die Errichtung einer öffentlichen WC-Anlage im Rahmen der städtebaulichen Förderung zu streichen. Der Bau der WC-Anlage erfolgt durch den neuen Betreiber.\n\n   den Ansatz für die Maßnahme Lahma Bräu Dachsanierung im Rahmen der städtebaulichen Förderung weiter aufrechtzuerhalten.\n\n   die Hochbaumaßnahme Sanierung der Kläranlage wie geplant umzusetzen.\n\n   die Hochbaumaßnahme Sanierung des Daches am Nebengebäude des Bauhofs / Salzhalle um ein Jahr zu schieben und nach den Bedürfnissen anzupassen.\n\n   den Ansatz der bautechnischen Anlage des Bauhofes inkl. Nebenkosten, bzgl. des vorgenannten Vorhabens entsprechend anzupassen.\n\n   die Ansätze der Hochbaumaßnahme inkl. Baunebenkosten, bzgl. des Modulbaus, jeweils um ein Jahr zu schieben.\n\n   die Tiefbaumaßnahme bzgl. der Löschwasserbauwerke inkl. Baunebenkosten wie geplant umzusetzen.\n\n   die Tiefbaumaßnahme Laufbahn/Hartplatz der Mittelschule wie geplant umzusetzen.\n\n   den Ansatz für die Maßnahme der Städtebauförderung (Stadtfriedhof Fußweg u. Schießhausplatz) weiter aufrechtzuerhalten.\n\n   die Tiefbaumaßnahme inkl. Baunebenkosten des Straßenbaus Zollnerstraße wie geplant umzusetzen.\n\n   die Tiefbaumaßnahme inkl. Baunebenkosten von Geh- und Radwegen „Radweg Kirchfembach und Veit-Stoß-Str. Markierung“ wie geplant umzusetzen.\n\n   den Ansatz der Tiefbaumaßnahmen inkl. Baunebenkosten für die Brückenbauwerke beizubehalten.\n\n   die Tiefbaumaßnahmen inkl. Baunebenkosten für den Ausbau von Gehsteigen „Bushaltestelle Horbach und Kirchfembach“ wie geplant umzusetzen.\n\n   die Tiefbaumaßnahme inkl. Baunebenkosten für den Hochwasserschutz wie geplant umzusetzen.\n\n   die Tiefbaumaßnahmen inkl. Baunebenkosten der Abwasserbeseitigung für die Imhofstraße / Franken- und Protsorgstr. wie geplant umzusetzen.\n\n   die Betriebskostenunterstützung für das Hallenbad der Stadtwerke Langenzenn weiterhin aufrechtzuerhalten.\n\n   die Ansätze für den städtebaulichen Realisierungswettbewerb LGS jeweils um ein Jahr zuschieben.\n\n   nur die tatsächlich erforderliche Summe für die Schlussrate des Cowana Erwerbes einer Sonderrücklage zugeführt wird. Die Schlussrate beläuft sich auf aktuell 2.380.000 €. Hierzu ist auch noch die Änderung des Beschlusses des Stadtrates vom 20.07.2023 erforderlich. Im Haushaltsjahr 2025 soll zunächst nur 1.000.000 € der Sonderrücklagen zugeführt werden.\n\n   die Sonderrücklage Dorfplatz Lohe bis auf 200.000,00 € aufzulösen und diese Mittel für die Finanzierung des Vermögenshaushaltes 2024 zu verwenden, damit ist der Beschluss des Hauptausschusses vom 14.07.2024 aufgehoben. Nachrichtlich wird darauf hingewiesen, dass eine Förderung der Maßnahme durch das ALEF zuletzt mehrfach abgelehnt wurde",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.1.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Anträge der Stadtratsfraktionen",
+        "facts": "Der Tagesordnungspunkt wurde nicht beraten."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine Punkte vor."
+      },
+      {
+        "number": "9.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "9.1.",
+        "title": "Neues Angebot in Langenzenn: Beratung für pflegende Angehörige",
+        "facts": "Die Verwaltung informiert, dass es seit 2.Mai 2024 ein neues Beratungs- und Unterstützungsangebot rund um die „Pflege“ im Rathaus gibt.\n\nFrau Götz, Mitarbeiterin des AWO Kreisverbandes Fürth-Land, bietet neben ihrer Fachstelle für pflegende Angehörige in Stein und Veitsbronn, nun auch eine Sprechstunde in Langenzenn an. Zu ihren Beratungsthemen gehören unter anderem die Einzelfallbetreuung und psychosoziale Beratung, ein umfassendes Pflegenetzwerk sowie Angehörigen-schulungen im Alltag.\n\nDie Sprechstunde findet immer donnerstags von 9:00 bis 14:00 Uhr im Rathaus, Friedrich- Ebert-Str. 7 statt."
+      },
+      {
+        "number": "9.2.",
+        "title": "Friedhof Laubendorf; hier: Information zur Anlegung weiterer Urnengrabfelder",
+        "facts": "Am Friedhof Laubendorf ist der Bestand an Urnenerdgräbern ausgeschöpft. Daher wird derzeit in Zusammenarbeit mit dem Bauamt geprüft, wo und in welchem Umfang neue Urnenerdgräber angelegt werden können.\n\nAngedacht ist unter anderem die Errichtung einer Urnenwand. Die unterschiedlichen Varianten samt Kostenaufwand werden in einer der nächsten Sitzung vorgestellt."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "166443",
+    "minutes": "170083"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "meetingId": "3340",
+  "announcement": {
+    "heading": "54. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 54,
+    "date": "2025-04-02",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Interessenbekundung für den Betrieb einer Kita in Langenzenn durch den Arbeiterwohlfahrt Kreisverband Fürth-Land e.V."
+      },
+      {
+        "number": "2.",
+        "title": "Information über Bau und Finanzierung des Hochwasserschutzes Wassertrüdingen"
+      },
+      {
+        "number": "3.",
+        "title": "Bilanz und Auswirkungen der Landesgartenschau Wassertrüdingen 2019"
+      },
+      {
+        "number": "4.",
+        "title": "Bericht über die Erfahrungsaustausche Landesgartenschauen 2023 Freyung und 2024 Kirchheim"
+      },
+      {
+        "number": "5.",
+        "title": "Teilnahme am Erfahrungsaustausch der Landesgartenschauen in Furth im Wald 2025 zur Optimierung der städtebaulichen und gesamtstädtischen Entwicklung"
+      },
+      {
+        "number": "6.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "28. März 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "54. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 54,
+    "date": "2025-04-02",
+    "startTime": "16:01",
+    "endTime": "18:09",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "bei TOP 5 nicht anwesend"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Gawehn, Michael",
+            "note": "bis TOP 7.1"
+          },
+          {
+            "name": "Roscher, Klaus",
+            "note": "Vertretung für Stadträtin Franz"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Vogel, Markus",
+            "note": "bis TOP 7.1"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Interessenbekundung für den Betrieb einer Kita in Langenzenn durch den Arbeiterwohlfahrt Kreisverband Fürth-Land e.V.",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 12.11.2024 beschlossen, einen eigenen Kindergarten zu bauen.\n\nHierfür wurde ein Bauplatz an der Reichenberger Straße nördlich des Hallenbades mit Anbindung an die Straße „An der Schlucht“ ausgewählt.\n\nDie Kosten des Gebäudes (ohne Bauplatz und Erschließung des Grundstückes) belaufen sich auf geschätzt 6,41 Mio. €, hier der Auszug aus dem beschlossenen Finanzierungsplan:\n\nDer Kreisverband der AWO Fürth-Land e.V. hat Interesse am Betrieb einer Kita in Langenzenn. Der Vorstand, stellt die AWO, ihr Portfolio, ihre Möglichkeiten und Vorstellungen diesbezüglich vor. Dieser erklärt zudem, dass sich die AWO aufgrund einer Pressemitteilung zum Neubau der Kindertagesstätte mit der Stadt Langenzenn in Verbindung gesetzt hatte, da eine Zusammenarbeit im Bereich der Kindertagesstätten inhaltlich übereinstimmt. Die AWO Fürth-Land e.V. betreut in ihren Kinder- und Hortgruppen ca. 900-1000 Kinder pro Tag und bietet hierzu eine entsprechende Verpflegung an. Für die Betreuung der Kinder wird geschultes Personal eingesetzt. Der Kreisverband finanziert sich durch Elternbeiträge und Förderungen.\n\nFalls ein Dritter den Bau einer Kindertagesstätte übernimmt, würde/müsste die Stadt einen kommunalen Baukostenzuschuss in Höhe des Differenzbetrages zwischen FAG-Förderung und den vollen zuwendungsfähigen Kosten gewähren. Dies sind derzeit ca. 40% der zuwendungsfähigen Kosten, wenn der Fördersatz 60% beträgt.\n\nDie oben genannten 40 % wären bei diesem Bauvorhaben ca. 1,9 Mio. €.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Information über Bau und Finanzierung des Hochwasserschutzes Wassertrüdingen",
+        "facts": "(Tagesordnungspunkt 2 wird im öffentlichen Teil vor Tagesordnungspunkt 1 behandelt.)\n\nDer Hochwasserschutz in Langenzenn wird derzeit vom Wasserwirtschaftsamt geplant. Details zum aktuellen Stand den Planungen wurden in der letzten Sitzung des Ausschusses bekanntgegeben.\n\nEs liegt noch keine Kostenschätzung zum Hochwasserschutz Langenzenn vor. Aussagen des Wasserwirtschaftsamtes bezüglich Kosten sind inzwischen über ein Jahr alt und ergaben in etwa, dass\n\n-   der Hochwasserschutz überschlägig geschätzt ca. 15 Mio. € kosten könnte, wovon -   das Wasserwirtschaftsamt vermutlich nur fünf Mio. € tragen würde.\n\nDies würde einen Eigenanteil der Stadt Langenzenn von ca. zehn Mio. € bedeuten.\n\nUmso spannender ist es, wenn wir eine Gemeinde anschauen, die ein mit uns vergleichbares Hochwasserproblem hatte, welches im Zuge einer Landesgartenschau mit gelöst wurde.\n\nDie bauliche Umsetzung des Hochwasserschutzes in Wassertrüdingen erfolgte 2015-2019. Insgesamt wurde eine ca. 2 km lange Schutzlinie errichtet, die aus Deichen, Mauern und mobilen Elementen besteht.\n\nHochwasserschutz in Wassertrüdingen, 2 km Deich, Mauer und mobile Elemente, Kosten 13,4 Mio. €, davon trug Wassertrüdingen 1,8 Mio. €\n\nIm Zuge des Hochwasserschutzes 2019 über Städtebauförderung mit hergerichtete „Alte Säge“\n\nFolgende Information aus Wassertrüdingen, Landesgartenschaustadt 2019, hat uns diese Woche erreicht:\n\n„Mit dem Bau eines Hochwasserschutzes hatte das Wasserwirtschaftsamt die Stadt Wassertrüdingen schon des längeren konfrontiert, es gab auch etliche Vorskizzen, die allerdings wenig ansehnlich waren, in der Bevölkerung sprach man von einer \"Wurst durch die Stadt\". Im Stadtrat bestand wenig Begeisterung, hier öffentliche Gelder einzusetzen, allerdings drang das Wasserwirtschaftsamt auf eine Umsetzung, insbesondere mit dem Hinweis auf ggf. auf die Stadt zukommende Schadenersatzforderungen, falls durch ein Hochwasser, das durch einen Hochwasserschutz vermeidbar gewesen wäre, ein Schaden bei Dritten entstehen würde.\n\nDrei Komponenten führten dann zu einer erfolgreichen Umsetzung des Projekts:\n\n1. Mit dem Zuschlag zur Gartenschau bestand die einzigartige Möglichkeit, den Hochwasserschutz \"attraktiv\" als Naherholungsgebiet zu gestalten. 2. Das Wasserwirtschaftsamt erklärte sich bereit dazu, den landschaftspflegerischen Begleitplan in Kooperation mit dem zukünftigen Gartenschauplaner abzustimmen.\n\n3. Der Freistaat Bayern erhöhte die Förderung von 50:50 auf eine 2/3 - Förderung und ließ großzügig die Gegenrechnung von unbaren Leistungen zu.\n\nLaut unserem Kämmerer verblieben 1,8 Millionen von den 13,4 Millionen, die der Hochwasserschutz gekostet hat, bei der Stadt.\n\nDer damalige Leiter des Wasserwirtschaftsamtes, kam auf die Idee, die Wörnitz (die aus industriellen Gründen von rund 150 Jahren an die Stadt herangerückt war), wieder in das alte Bett zu verlegen; um den Höhenunterschied auszugleichen, wurde eine Sohlgleite mit Fischtreppe eingeplant, ein altes, wenig rentables Wasserkraftwerk wurde abgerissen. Der Deich wurde, den Ansprüchen an ein Naherholungsgebiet entsprechend, sehr breit ausgebaut (ein sehr großes Entgegenkommen des Wasserwirtschaftsamtes). Es sollte ein Hochwasserschutz weitgehend ohne Mauern werden.\n\nDas Ganze war natürlich mit hohem technischen Aufwand (Pumpentechnik) verbunden, weil es hilft der beste Hochwasserschutz nichts, wenn - etwa bei Starkregen - die Badewanne innen vollläuft (Stichwort: Binnenentwässerung). Der erste Planer, den das WWA beauftragt hatte, kam mit unserem Gartenschauplaner nicht zurecht, was besonders die städtische Verwaltung forderte, um hier die Zusammenarbeit einigermaßen am Laufen zu halten. Nachdem das WWA das Büro gewechselt hatte, funktionierte es einwandfrei.\n\nDie Gesamtkosten des Hochwasserschutzes beliefen sich auf etwas über 13 Millionen Euro, für den BA I gab es noch eine 50:50 - Förderung (hier beteiligte sich auch ein Landwirt, der dadurch Erweiterungsfläche bekam), die BA II bis V fielen in die 2/3 - Förderung. An drei Stellen im Bereich des Festplatzes müssen wir mobile Elemente setzen, sobald der Hochwasserstand am Pegel Gerolfingen eine gewisse Höhe erreicht. Der mobile Hochwasserschutz wird nach Alarmierung von Bauhof/Feuerwehr aufgebaut, das geht relativ schnell und unkompliziert.\n\nDie Beteiligtenleistungen der Stadt konnten durch \"unbare Leistungen\" weiter reduziert werden, dazu wurde ein ganzer Katalog ausgehandelt, d.h. die Stadt kümmert sich um Pflege, Wartung etc. Das Naherholungsgebiet Wörnitzpark wurde überwiegend mit Mitteln der Städtebauförderung (aufgrund eines heftigen finanziellen Engpasses durch Minderung der Gewerbesteuer erhielten wir 80 %) gestaltet, der Regionalpavillon (Aussichtsplattform) wurde durch den Europäischen Meeres- und Fischereifonds mit 80 % gefördert. Für den Festplatz, der Hochwassergebiet verblieb, erhielten wir leider nur eine sehr geringe Förderung.\n\nWassertrüdingen war bis zur Gartenschau eine Stadt am Fluss, aber \"keiner hat‘s gemerkt\". Durch die Verlagerung der Wörnitz in die Sohlgleite und das verbindende Element \"Deich als Naherholungsgebiet\" können die Bürger und ihre Gäste jetzt direkt ans Wasser und können es zur Erholung nutzen. Unser Stadtrat hat hier die Ideen aus Nagold (da war Gartenschau Baden-Württemberg, der Stadtrat ist fast komplett hingefahren) positiv aufgenommen und hat dieses Konzept, Stadt und Fluss wieder zu verbinden, verfolgt.\n\nDas kann ich auch nur anraten, wenn es Zweifler im Stadtrat gibt: Packen Sie alle in einen Bus und machen Sie eine Ortsbesichtigung in Wassertrüdingen, das kann nur förderlich sein. Wir empfangen Sie gerne in der \"Alten Säge\", die nach dem Abbruch des Wasserkraftwerkes zu einer beliebten Feierstelle für die Bürger geworden ist, und wir zeigen Ihnen auch auf, wie schnell wir den Hochwasserschutz aufbauen.\n\nDas Wehr im Wörnitzbad, das insbesondere aus Gründen der Steuerung des Zuflusses zwischen Forstgraben und Wörnitz diente und zum Betrieb des Wasserkraftwerkes notwendig war, wurde in diesem Zusammenhang umgebaut.“\n\nPeter Schubert, Geschäftsleiter Stadt Wassertrüdingen.\n\nDer Ausschuss empfiehlt, die Mitteilung ebenfalls an den Stadtrat weiterzugeben.\n\nDer Ausschuss wünscht sich konkrete Daten, welche Fördermittel in Anspruch genommen werden können und welche Risiken hierzu in Betracht gezogen werden müssen. Zudem muss bedacht werden, dass die Kostenberechnungen zum Stand der Bewerbung für die Landesgartenschau an die aktuellen Preise angepasst werden müssen.\n\nDer Ausschuss lässt verlauten, dass eine Förderung der Kosten für die Maßnahmen im Hochwasserschutz durch die Landesgartenschau in Erwägung gezogen werden sollen. Vor allem wurde die Dringlichkeit der Umsetzung von Maßnahmen für den Hochwasserschutz betont.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Bilanz und Auswirkungen der Landesgartenschau Wassertrüdingen 2019",
+        "facts": "Im Jahr 2022 hat uns der Bürgermeister von Wassertrüdingen, Landkreis Ansbach, besucht und uns von der aus seiner Sicht mehr als erfolgreichen Landesgartenschau Wassertrüdingen 2019 berichtet.\n\nInzwischen sind einige Jahre vergangen und es gibt weitere Entwicklungen aus Wassertrüdingen, die aufhorchen lassen.\n\nEinwohnerzahl:\n\nEntgegen der Einwohnerentwicklung im restlichen Landkreis Ansbach bzw. weit über dessen Zahlen hinausgehend sticht Wassertrüdingen heraus und entwickelt sich glänzend.\n\nInformationen aus Wassertrüdingen ergaben, dass alle Baugebiete voll seien und sogar vorher schwer verkäufliche Grundstücke inzwischen verkauft seien.\n\nReaktivierung der Hesselbergbahn\n\nWie Langenzenn mit zahlreichen Bahn-Themen zu kämpfen hat, die gefühlt seit Jahrzehnten nicht vorangehen (Elektrifizierung, 30-min-Takt, barrierefreie Bahnhaltepunkte, Sanierung der Bahnübergänge etc.) hatte dies auch Wassertrüdingen, sogar noch wesentlich schlimmer, da die Bahnlinie dort nur noch mit Museumsbahnen gelegentlich befahren wurde und ansonsten stillgelegt und eine Reaktivierung seitens der Bahn noch 2013 abgelehnt worden war.\n\nNoch spannender dürfte deshalb ein Blick auf die Entwicklung der Bahnanbindung Wassertrüdingens sein, nachdem der Zuschlag zur Landesgartenschau 2019 erfolgt war:\n\nDie stillgelegte Bahnlinie wurde zur Landesgartenschau testweise reaktiviert (für 1,4 Mio. € Seitens der Bahn und nur 50.000 € Seitens Wassertrüdingen) und nun, fünf Jahre später, wieder voll in Betrieb genommen.\n\nFolgendes Zitat des Geschäftsleiters der Stadt Wassertrüdingen kann hier vorab schon genannt werden:\n\nStadtrat Schramm schlägt vor, dass dem Gremium auch über die Steuereinnahmen und die Verschuldung Wassertrüdingens betrachtet werden soll.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Bericht über die Erfahrungsaustausche Landesgartenschauen 2023 Freyung und 2024 Kirchheim",
+        "facts": "Die Teilnehmer der Erfahrungsaustausche der vergangenen beiden Jahre berichten über diese.\n\nDie Ausschussmitglieder ziehen eine positive Bilanz und empfanden vor allem den Austausch über die Potenziale und Erfahrungen als einprägsam.\n\nStadtrat Sieber bittet darum, den Durchführungshaushalt von Wassertrüdigen in einer der nächsten Sitzungen des Bau-, Umwelt- und Verkehrsausschusses vorzustellen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Teilnahme am Erfahrungsaustausch der Landesgartenschauen in Furth im Wald 2025 zur Optimierung der städtebaulichen und gesamtstädtischen Entwicklung",
+        "facts": "Die Vertreter von Verwaltung und Stadtrat wurden wie in den letzten beiden Jahren seit dem Zuschlag zur LGS 2032 zum Erfahrungsaustausch der Landesgartenschauen 2025 nach Furth im Wald eingeladen.\n\nEine Buchung/Zusage müsste zeitnah erfolgen.\n\nEs werden Kosten in Höhe von 60 – 110 €/Person/Nacht, je nach Hotel anfallen. Zuzüglich der Fahrtkosten, je nach Verfügbarkeit der Dienstwägen und teilnehmenden Personen, könnten dies zumindest (teilweise) entfallen.\n\nVon Seiten der Verwaltung sollten folgende Personen teilnehmen:\n\nDer Geschäftsleiter, Stadtbaumeister, Zuständiger Bearbeiter aus den Liegenschaften, Herr Bürgermeister Habel, sowie die fünf Vertreter des Arbeitskreises (aus jeder Fraktion einer).\n\nEs sollten auch möglichst alle Teilnehmer des Arbeitskreises möglichst kurzfristig zusagen, damit diese rechtzeitig gemeldet werden können.\n\nDie Erfahrungsaustausche der vergangenen beiden Landesgartenschauen waren sehr informativ und ergiebig im Hinblick auf:\n\n-   verschiedenste Fördermöglichkeiten im Rahmen von und neben Landesgartenschauen, -   städtebaulichen Entwicklungsmöglichkeiten, -   Förderungen und Erfahrungen im Bereich Hochwasserschutz, -   Leader-Förderungen -   Weitere Förderwege aus staatlichen Programmen, -   Sponsorenaquise -   und vielem mehr.\n\nLangenzenn profitiert ungeachtet einer möglichen Landesgartenschau von diesem Erfahrungsaustausch.\n\nDie Verwaltung empfiehlt daher eine Teilnahme..",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt, dass die oben genannten Mitglieder der Verwaltung sowie des Arbeitskreises LGS am Erfahrungsaustausch der Landesgartenschauen 2025 in Furth im Wald durch Vertreter der Stadt teilnehmen dürfen, die Kosten hierfür werden übernommen und freigegeben.\n\n(Stadtrat Sieber ist während der Abstimmung nicht im Sitzungsaal anwesend.)",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 4,
+          "against": 3
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "6.1.",
+        "title": "Landesgartenschau 2032; hier: Finanzplan",
+        "facts": "Erster Bürgermeister Habel stellt den aktualisierten Finanzplan vor. Es handelt sich hierbei um den 2022 vom Stadtrat beschlossenen Finanzplan, der mit den inzwischen vorliegenden Finanzdaten zur Verschuldung ergänzt wurde.\n\nDer Finanzplan ist der Niederschrift als Anlage 1 beigefügt."
+      },
+      {
+        "number": "6.2.",
+        "title": "Antrag der CSU zum Thema Hochwasserschutz",
+        "facts": "Stadträtin Schlager stellt einen Antrag zum Thema Hochwasserschutz.\n\nSie beantragt eine Behandlung des Antrags in der nächsten Sitzung des BUVA."
+      },
+      {
+        "number": "6.3.",
+        "title": "Parkplatz am städtischen Kindergarten Plapperkiste",
+        "facts": "Stadtrat Roscher gibt bekannt, dass am Parkplatz des städtischen Kindergarten Plapperkiste das Pflaster an zwei Parkplätzen eingesunken ist.\n\nDer Verwaltung ist der Umstand bekannt. Die Maßnahme ist wiederholt aus dem Haushalt gestrichen worden. Da das Pflaster im Zuge der Ausbesserung neu verlegt werden muss, kann der Bauhof hier nicht tätig werden.\n\nDie Verwaltung wird geben, die zwei Parkplätze zu überprüfen und ggf. zu sperren. Die Maßnahme kann im Rahmen der Haushaltsberatungen 2025 diskutiert werden."
+      },
+      {
+        "number": "6.4.",
+        "title": "Aktueller Stand zum geplanten Seniorenheim an der Reichenberger Straße",
+        "facts": "Stadträtin Ritter erkundigt sich nach dem aktuellen Sachstand zum geplanten Seniorenheim an der Reichenberger Straße.\n\nDer Tagesordnungspunkt wird im nichtöffentlichen Teil unter Tagesordnungspunkt 8.3 behandelt."
+      },
+      {
+        "number": "6.5.",
+        "title": "Verkehrsbeschilderung in der Nürnberger Straße, auf Höhe AWO Seniorenheim",
+        "facts": "Stadtrat O. Vogel bittet um Stellungnahme zur Änderung der Beschilderung in der Nürnberger Straße, auf Höhe des AWO Seniorenheims.\n\nDie Verwaltung gibt die Anfrage an den Straßenbaulastträger weiter."
+      },
+      {
+        "number": "6.6.",
+        "title": "Schlaglöcher in der Sportplatzstraße 2",
+        "facts": "Stadtrat O. Vogel gibt Schlaglöcher in der Sportplatzstraße 2 an. Konkret geht es um den Buswendeplatz vor dem Gymnasium Langenzenn.\n\nDie Verwaltung gibt die Meldung an das Landratsamt Fürth weiter."
+      },
+      {
+        "number": "6.7.",
+        "title": "Einwand zur Niederschrift des Bau-, Umwelt- und Verkehrsausschusses vom 25.03.2025",
+        "facts": "Stadtrat Schramm gibt Einwände zur Genehmigung der Niederschrift des Bau-, Umwelt- und Verkehrsausschusses vom 25.03.2025 bekannt.\n\nDie Verwaltung verweist Stadtrat Schramm auf den nichtöffentlichen Teil der Sitzung. Der Tagesordnungspunkt wird im nichtöffentlichen Teil unter Tagesordnungspunkt 8.6 weitergeführt."
+      },
+      {
+        "number": "6.8.",
+        "title": "Parkplatz Schießhausplatz",
+        "facts": "Stadtrat Sieber gibt an, dass das Fugenbild auf dem neu gestalteten Bereich des Parkplatzes am Schießhausplatz bei den PKW-Stellplätzen eine andere Fugenbreite hat als die Querung.\n\nEr bittet darum im nächsten Bauabschnitt auf die Breite der Fugen zu achten, damit ein unbeschwertes Befahren des Pflasters möglich ist."
+      },
+      {
+        "number": "6.9.",
+        "title": "Hallenbad Langenzenn; hier: Information zur zukünftigen Finanzierung",
+        "facts": "Stadträtin Schlager gibt bekannt, dass ihr die Information vorliegt, dass sowohl der Freistaat, als auch der Landkreis Fürth von einer Finanzierung eines übergreifenden Schwimmbades absehen.\n\nDie Verwaltung merkt an, dass sie aus anderen Kommunen einstimmig die Rückmeldung erhalten habe, dass für alle Gemeinden Schulschwimmen und eine gemeinsame Lösung wichtig sei."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "173833",
+    "minutes": "178611"
+  }
+}

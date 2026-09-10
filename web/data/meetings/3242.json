@@ -1,0 +1,130 @@
+{
+  "meetingId": "3242",
+  "announcement": {
+    "heading": "29. Sitzung des Werkausschusses",
+    "sessionNumber": 29,
+    "date": "2024-10-24",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Antrag der CSU-Stadtratsfraktion auf Stellenbesetzungssperre f"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Oktober 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "29. Sitzung des Werkausschusses",
+    "sessionNumber": 29,
+    "date": "2024-10-24",
+    "startTime": "16:00",
+    "endTime": "17:15",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "Vertreter für Herrn Stadtrat Ströbel"
+          },
+          {
+            "name": "Plevka, Melanie",
+            "note": "Vertreter für Herrn Stadtat Roscher"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Antrag der CSU-Stadtratsfraktion auf Stellenbesetzungssperre",
+        "facts": "Bei den Stellungnahmen der Fraktionen zum Haushalt 2024 wurde nachfolgender Antrag gestellt.\n\n„Die CSU – Fraktion stimmt dem Haushalt 2024 zu und beantragt gleichzeitig eine Wiederbesetzungssperre für den ganzen Stellenplan 2024 der Stadt und der Stadtwerke. Die aktuelle Finanzlage zwingt uns leider zu unpopulären Maßnahmen.“",
+        "decision": "Der Werkausschuss beauftragt den Werkleiter mit der Bearbeitung des Antrags der CSU- Stadtratsfraktion zur Wiederbesetzungssperre für den Stellenplan 2024 der Stadtwerke.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 4,
+          "against": 3
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "169252",
+    "minutes": "171208"
+  }
+}

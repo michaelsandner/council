@@ -1,0 +1,475 @@
+{
+  "meetingId": "3281",
+  "announcement": {
+    "heading": "51. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 51,
+    "date": "2025-02-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "5.",
+        "title": "Projekt Gewässerbiotopverbund hier: Vergabe von Aufträgen innerhalb des Finanzplans mit zugesicherten Fördermitteln; Ermächtigungsbeschluss"
+      },
+      {
+        "number": "6.",
+        "title": "Integriertes Gewässerbiotopverbundkonzept Langenzenn; hier: Gründung der Steuerungsgruppe, ggf. Entsendung von Mitgliedern aus dem Stadtrat in die Steuerungsgruppe"
+      },
+      {
+        "number": "7.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "7.1.",
+        "title": "Antrag zur Errichtung einer kieferorthopädischen Praxis im Erdgeschoss, sowie 4 Wohneinheiten im Obergeschoss auf dem Grundstück Komotauer Str. 10"
+      },
+      {
+        "number": "7.2.",
+        "title": "Antrag zum Neubau eines Zweifamilienhauses auf dem Grundstück Nähe Meiersberger Straße"
+      },
+      {
+        "number": "7.3.",
+        "title": "Tekturantrag zur Errichtung eines Labors auf dem Grundstück Kapellleite"
+      },
+      {
+        "number": "7.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Preismastes auf dem Grundstück Nähe Mühlsteig"
+      },
+      {
+        "number": "7.5.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienhauses auf dem Grundstück Puschendorfer Str. 10"
+      },
+      {
+        "number": "7.6.",
+        "title": "Bauvoranfrage zum Abbruch eines Bestandsgebäudes und Neubau einer Doppelhaushälfte auf dem Grundstück Wilhermdsorfer Str. 10"
+      },
+      {
+        "number": "7.7.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung eines Geräteraums auf dem Grundstück Nähe Fürther Straße 10"
+      },
+      {
+        "number": "7.8.",
+        "title": "Antrag auf Denkmalschutzrechtlichen Erlaubnis zum Einbau von Dachflächenfenster auf dem Grundstück Klosterstraße 5"
+      },
+      {
+        "number": "8.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "8.1.",
+        "title": "28. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplan Nr. 87 \"Lagerplatz Beim Weißen Stein\"; hier: Sachstand zur Bauleitplanung"
+      },
+      {
+        "number": "8.2.",
+        "title": "Antrag Stadträtin Ritter; hier: Auflistung der Ausgleichsflächen"
+      },
+      {
+        "number": "9.",
+        "title": "Sportanlagen Langenzenn; Schüleranfrage neuer Bikepark; hier: Machbarkeitsprüfung"
+      },
+      {
+        "number": "10.",
+        "title": "Anträge aus der Bürgerversammlung"
+      },
+      {
+        "number": "10.1.",
+        "title": "Antrag aus der Bürgerversammlung hier: Baumscheibenpflege"
+      },
+      {
+        "number": "10.2.",
+        "title": "Antrag aus der Bürgerversammlung hier: Pflege der Grünanlagen und des Wasserspenders"
+      },
+      {
+        "number": "10.3.",
+        "title": "Antrag aus Bürgerversammlung hier: Überquerungshilfe Flurstraße / Untere Ringstraße / Südstraße"
+      },
+      {
+        "number": "10.4.",
+        "title": "Antrag aus der Bürgerversammlung hier: 30km/h Schild Zollner Straße"
+      },
+      {
+        "number": "10.5.",
+        "title": "Antrag aus der Bürgerversammlung hier: 30 km/h Schild Flurstraße bei Cadolzburger Weg"
+      },
+      {
+        "number": "11.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "11.1.",
+        "title": "Wohnmobil-Stellplätze; hier: Schaffung von mehreren Parkflächen auf dem Grundstück Fl.-Nr.: 433/2, Gemarkung Langenzenn"
+      },
+      {
+        "number": "12.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "12.1.",
+        "title": "Feuerwehr Keidenzell - Errichtung eines Geräteraums inkl. einer überdachten Bushaltestelle; hier: Sachstandsbericht"
+      },
+      {
+        "number": "12.2.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung"
+      },
+      {
+        "number": "13.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "13.1.",
+        "title": "Städtischer Bauhof - Baumkontrolle und -unterhalt; hier: Aktuelle Baumfällungen"
+      },
+      {
+        "number": "14.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die Öffentliche Sitzung beginnt um ca. 17:00 Uhr"
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "20. Februar 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "51. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 51,
+    "date": "2025-02-25",
+    "startTime": "16:00",
+    "endTime": "19:47",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis TOP 12.2"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Ritter, Margit",
+            "note": "bis TOP 12.2"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta",
+            "note": "Vorsitz ab TOP 12.2"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "bis TOP 17.1"
+          },
+          {
+            "name": "Gawehn, Michael",
+            "note": "Vertretung für Stadträtin Ritter ab TOP 12.2"
+          },
+          {
+            "name": "Roscher, Klaus",
+            "note": "bis TOP 7.1"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Vogel, Markus",
+            "note": "bis TOP 16.1"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "5.",
+        "title": "Projekt Gewässerbiotopverbund hier: Vergabe von Aufträgen innerhalb des Finanzplans mit zugesicherten Fördermitteln; Ermächtigungsbeschluss",
+        "facts": "Die Verwaltung teilt mit, dass für das Projekt zur Gewässerbiotopvernetzung Vergaben von Aufträgen wie Beratungen, Kartierungen, Konzeptionen (Vergabe, Werkverträge) innerhalb dem Finanzrahmen des bereits beschlossenen Finanzplans des Projektes von insgesamt 117.500,00 € über die gesamte Projektdauer notwendig sind. Mit Stadtratsbeschluss vom 13.03.2024 wurde beschlossen, dass die \"Projektumsetzung“ vorbehaltlich der genehmigten Haushaltsmittel, erfolgen soll.\n\nWeitere Vorgehensweise:\n\nFür die Vergaben von Beratungen, Kartierungen und Konzeptionen innerhalb des Rahmenkonzeptes soll die zuständige Sachbearbeiterin als Projektmanagerin ermächtigt werden um folgende Aufträge zu vergeben:\n\n2025 Beschreibung                                                              Gesamtkosten Erstellung eines Maßnahmenkonzeptes nach Zielarten                        bis 20.000,00€ Bachmuschelkartierung                                                     bis 20.000,00€ 2026 Beschreibung                                                              Gesamtkosten Monitoring vorhandener Artvorkommen (vergabe teils Ende 2025)             bis 30.000,00€ Über den Projektzeitraum, vermutlich durch mehrere Einzelvergaben Beschreibung                                                              Gesamtkosten Beratungen von landwirtschaftlichen Betrieben zur Bewirtschaftungsan-     35.000,00€ passung vor allem innerhalb der Auen Herstellung von Informationsmaterialien für die Öffentlichkeitsarbeit und bis 6.000,00€ Bewusstseinsbildung Einrichten einer Projektpräsentation auf bestehenden Websites (Honora- Bis 5.000,00€ re für Konzept, zum Teil auch über Projektmanagement, Programmierung und Grafik) Aktionen zu Naturerleben u. Bewusstseinsbildung (über Projektmanagement)  1.500,00€ Honorare für spezielle Themeneinblicke\n\nDie Finanzmittel, welche für die Vergaben im Wert von insgesamt 117.500,00€ anfallen, sind über die gesamte Projektlänge mit einer 85% Förderung von Bayerischen Naturschutzfonds abgedeckt. Der 25% Eigenanteil wird, wie bereits mit Stadtratsbeschluss vom 13.03.2024 beschlossen, vom Landesbund für Vogel- und Naturschutz in Bayern e.V. (LBV) und von der Stadt Langenzenn durch die Bürgerstiftung der Stadt Langenzenn abgedeckt.\n\nDer Ermächtigungsbeschluss gilt lediglich für die Kosten, die innerhalb des Projektes geplant und durch Förderungen innerhalb der Gesamtkosten von 395.00,00€ abgedeckt und bereits schriftlich im Rahmenkonzept aufgeführt sind.\n\nDer Bau-, Umwelt- und Verkehrsausschuss wird über die durchgeführten Vergaben entsprechend informiert. Auch der Vorstand des LBV hat bereits einen Vorstandsbeschluss zur Ab-\n\nwicklung des Projektes im geplanten Finanzrahmen im Sinne eines Ermächtigungsbeschlusses zugestimmt.\n\nIm ersten Projektjahr muss die Erstellung eines Maßnahmenkonzepts nach Zielarten und eine Kartierung der Bachmuschelvorkommen vergeben werden, um die Durchführung des Projektes sowohl im naturschutzfachlichen Sinne, aber auch mit Berücksichtigung des Regenrückhaltes zu ermöglichen.\n\nFür diese Vergaben sind insgesamt bis zu 40.000,00 € in diesem Jahr eingeplant. Im Haushaltsplan 2024 sind unter der Haushaltstellte 1.1141.6555 46.700 € veranschlagt. Eine Abrechnung mit dem Bayerischen Naturschutzfonds ist jährlich im November geplant, eine Zwischenabbuchung der Fördermittel, sofern die Leistung erbracht wurde, ist ebenfalls möglich, falls notwendig.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis und fasst folgenden Ermächtigungsbeschluss:\n\nDie zuständige Sachbearbeiterin wird ermächtigt, die Vergabe von Aufträgen, die innerhalb des Projekt Gewässerbiotopverbundprojektes in Höhe von 117.500,00 € über den Projektzeitraum anfallen, zu vergeben.\n\nMit den für das Jahr 2025 vorgesehenen Vergaben (hier: Bachmuschelkartierung, Erstellung Maßnahmenkonzept) besteht bis zur einer Gesamtkostensumme von 40.000 Einverständnis. Der Bau-, Umwelt- und Verkehrsausschuss ist über entsprechende Vergaben weiterhin zu unterrichten.\n\nDie Vorauszahlungen der Stadt Langenzenn sind jeweils im Monat November mit dem Bayerischen Naturschutzfond abzurechnen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Integriertes Gewässerbiotopverbundkonzept Langenzenn; hier: Gründung der Steuerungsgruppe, ggf. Entsendung von Mitgliedern aus dem Stadtrat in die Steuerungsgruppe",
+        "facts": "Für das neu gestartete Projekt zur Gewässerbiotopvernetzung muss eine Steuergruppe gebildet werden. Diese dient als fachliches Begleitgremium und ist eine ständig beratende so- wie wegweisende Instanz.\n\nDiese würde bestehen aus Vertretern von Unterer Naturschutzbehörde des Landkreises Fürth, Höherer Naturschutzbehörde der Regierung von Mittelfranken, Ein Vertreter vom LBV, dem LBV-Vorsitzenden der Kreisgruppe Fürth, Landschaftspflegeverband Mittelfranken e.V., einem Vertreter des Bayerischen Bauernverbandes, einem Vertreter der Stadt Langenzenn und der Projektmanagerin der Stadt Langenzenn Aus dem Stadtrat sollen 1-2 Mitglieder berufen werden, die möglichst auch im Bau- und Umweltausschuss einen Sitz haben.\n\nDie Anzahl der Teilnehmer sowie deren Teilnahme wurden mit dem Landesbund für Vogel- und Naturschutz in Bayern e.V. (LBV) als Teil der Trägergemeinschaft des Projektes abgestimmt.\n\nFür die Teilnahme werden Stadträtin Ritter, mit Stadtrat Roscher als Stellvertreter, und Stadträtin Schlager, mit Stadtrat O. Vogel als Stellvertreter, gemeldet.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "7.1.",
+        "title": "Antrag zur Errichtung einer kieferorthopädischen Praxis im Erdgeschoss, sowie 4 Wohneinheiten im Obergeschoss auf dem Grundstück Komotauer Str. 10",
+        "facts": "Der Tagesordnungspunkt wird abgesetzt.\n\nBeschlussvorschlag:\n\nzurückgestellt"
+      },
+      {
+        "number": "7.2.",
+        "title": "Antrag zum Neubau eines Zweifamilienhauses auf dem Grundstück Nähe Meiersberger Straße",
+        "facts": "Antrag zum Neubau eines Zweifamilienhauses auf dem Grundstück Flur-Nr. 1147, Gemarkung Laubendorf.\n\nDie Verwaltung teilt mit, dass hierzu bereits eine entsprechende Bauvoranfrage vom Landratsamt Fürth positiv in Aussicht gestellt wurde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.3.",
+        "title": "Tekturantrag zur Errichtung eines Labors auf dem Grundstück Kapellleite",
+        "facts": "Tekturantrag zum Neubau eines Labors und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform und einer Unterbrechung des Grünsteifens im Osten für eine Grundstückszufahrt auf dem Grundstück Flur-Nr. 1226/23, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform und einer Unterbrechung des Grünstreifens im Osten für eine Grundstückszufahrt wird erteilt.\n\n(Stadträtin Schlager ist während der Beschlussfassung nicht im Sitzungsaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Preismastes auf dem Grundstück Nähe Mühlsteig",
+        "facts": "Bauvoranfrage zur Errichtung eines Preismastes und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze und Antrag auf Befreiung von den Festsetzungen der Werbeanlagensatzung bezüglich der Größe auf dem Grundstück Flur-Nr. 966/1, Gemarkung Keidenzell.\n\nDie Verwaltung teilt mit, dass in der 8. Änderung des Bebauungsplanes GE V bereits eine entsprechende Festsetzung zur Aufstellung eines Werbepylons (Preismastes) vorgesehen wurde, die wie folgt lautet: „Am nordöstlichen bzw. südöstlichen Rand des GEe1 ist die Errichtung eines Werbepylons auch außerhalb der überbaubaren Grundstücksfläche, aber nicht innerhalb der Bauverbotszone der Kreisstraße, bis max. 10 m freie Höhe zulässig. Bezüglich der Größe der Ansichtsflächen gelten die Maßgaben der Werbeanlagensatzung der Stadt Langenzenn“.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird in Aussicht gestellt.\n\nEine Abweichung von den Festsetzungen der Werbeanlagensatzung hinsichtlich der Werbeanlagengröße wird in Aussicht gestellt.\n\nEine Zustimmung bezüglich einer Abweichung der Abstandsflächen wird in Aussicht gestellt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.5.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienhauses auf dem Grundstück Puschendorfer Str. 10",
+        "facts": "Bauvoranfrage zum Neubau eines Einfamilienhauses mit Gartenteich/Schwimmteich auf dem Grundstück Flur-Nr. 186, Gemarkung Kirchfembach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.6.",
+        "title": "Bauvoranfrage zum Abbruch eines Bestandsgebäudes und Neubau einer Doppelhaushälfte auf dem Grundstück Wilhermdsorfer Str. 10",
+        "facts": "Bauvoranfrage zum Abbruch eines Bestandsgebäudes und Neubau einer Doppelhaushälfte auf dem Grundstück Flur-Nr. 47, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.7.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung eines Geräteraums auf dem Grundstück Nähe Fürther Straße 10",
+        "facts": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Errichtung eines Geräteraums inklusive einer überdachten Bushaltestelle auf dem Grundstück Flur-Nr. 12/0, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.8.",
+        "title": "Antrag auf Denkmalschutzrechtlichen Erlaubnis zum Einbau von Dachflächenfenster auf dem Grundstück Klosterstraße 5",
+        "facts": "Antrag auf Denkmalschutzrechtlicher Erlaubnis zum Einbau von Dachflächenfenster auf dem Grundstück Flur-Nr. 218/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "8.1.",
+        "title": "28. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplan Nr. 87 \"Lagerplatz Beim Weißen Stein\"; hier: Sachstand zur Bauleitplanung",
+        "facts": "Zur weiteren Ausarbeitung des Bebauungsplans Nr. 87 war es erforderlich, einen Vorschlag für die Verteilung der geplanten Nutzungen innerhalb des festgesetzten Plangebietes zu erarbeiten. Der beauftragte Planer hat hierfür einen mit der Verwaltung abgestimmten Vorschlag erarbeitet, welcher als Anhang dem Tagesordnungspunkt beigefügt ist.\n\nDie Konkretisierung der Nutzungsverteilung ist notwendig, da im Rahmen des Bebauungsplans für die Teilflächen unterschiedliche Arten der baulichen Nutzungen festgesetzt werden müssen. Das Planungskonzept sieht nun einen Teilbereich für den Fortbestand und die Weiterentwicklung der Freizeitsportnutzungen sowie einen Teilbereich für die Schaffung einer\n\nrechtlich gesicherten Fläche für dringend benötigte Lagerplatznutzungen der Stadt Langenzenn vor.\n\nFür die Freizeitsportnutzungen wird das Umfeld der bestehenden Hammerwurfanlage sowie der am Westrand in der Vergangenheit als Erdlagerflächen genutzte Teil des Plangebietes vorgeschlagen. Die Hammerwurfanlage würde hiermit im Bestand weitergenutzt werden können. Im südwestlichen Teil könnte mit dem Planungskonzept ein „Bike-Park“ für Mountain-Biker entsprechend der an die Stadt gestellten Anfrage entstehen. Der Bereich der bisherigen Bolzplatzfläche soll aus funktionalen Gründen dem zukünftigen Nutzungsbereich des Lagerplatzes der Stadt Langenzenn zugeschlagen werden. Für den Bolzplatz wird eine Verlegung in den Bereich östlich der Hammerwurfanlage vorgesehen. Dort sind aus planerischer Sicht ausreichende Flächen für die Verlegung vorhanden. Durch die Nutzungsverteilung kann eine gute Zonierung erreicht werden und Konflikte zwischen den Nutzungsarten vermieden werden.\n\nFür den Bereich der Freizeitsportnutzungen wird die Festsetzung eines sonstigen Sondergebiets im Sinne des § 11 BauNVO vorgeschlagen. Hiermit kann der zulässige Nutzungskanon nachvollziehbar geregelt werden. Zudem können mit dieser Gebietskategorie auch ggf. erforderliche immissionsschutzrechtliche Festsetzungen zur verträglichen Entwicklung für das städtebauliche Umfeld rechtssicher bestimmt werden. Eine alternativ denkbare Festsetzung als Gemeinbedarfsflächen für sportliche Zwecke oder Grünflächen mit Sportnutzungen ist hier aufgrund der Entwicklungen in der Rechtsprechung zu Flächen für Sportnutzungen nicht ratsam und wird nicht empfohlen.\n\nDie Flächen sollen als Freizeitsportflächen genutzt werden und sind explizit nicht als Wettkampfstätten mit Zuschauerbetrieb vorgesehen. Sie dienen der lokalen Bevölkerung zur Erholung und sportlichen Betätigung. Es wird daher davon ausgegangen, dass für diese Nutzungen nicht mit PKW-Fahrverkehr zu rechnen ist. Die Nutzer können hier über den Feldweg „An der Reiherbeize“ die Freizeitsportflächen sicher und verträglich für das Umfeld erreichen. Wesentliche Hochbaumaßnahmen sind hier nicht zu erwarten. Kleinere untergeordnete Bauwerke könnten ggf. durch textliche Festsetzungen zugelassen werden.\n\nIm südlichen Teil des Plangebietes sollen die geplanten Lagernutzungen der Stadt Langenzenn realisiert werden. Die Flächen wurden bewusst von der Wohnbebauung abgerückt, um Immissionskonflikte aus der Art der Nutzung mit den bestehenden Wohnnutzungen nördlich des Plangebietes zu Minimieren. Es muss noch ein Schallschutzgutachten erstellt werden, welches die möglichen Immissionskonflikte ermittelt, bewertet und Festsetzungsvorgaben für den Bebauungsplan trifft. Entsprechende Honorarangebote werden derzeit eingeholt.\n\nDie Erschließung der Lagerplatznutzung soll möglichst von Osten über eine Anbindung an den Klaushofer Weg erfolgen.\n\nDer Bereich des Lagerplatzes wird durch eine 20 kV- Freileitung der N-Ergie Netz GmbH überspannt. Aus dem Leitungsverlauf ergeben sich im Schutzzonenbereich der Freileitung Einschränkungen für die Nutzbarkeit. Es ist insbesondere von Höhenbeschränkungen auszugehen. Aktuell ist noch eine Anfrage bei der N-Ergie Netz GmbH bzgl. der konkreten Parameter der Einschränkungen anhängig. Eine Antwort steht noch aus.\n\nEs zeigt sich aber, dass im Schutzzonenbereich so erhebliche Einschränkungen zu erwarten sind, dass eine Verlegung des bisherigen Bolzplatzes sowie die Zuordnung der Flächen zum Lagerplatz unabdingbar sind, um eine fachlich sinnvolle Nutzung des Lagerplatzes zu ermöglichen.\n\nIn diesem Bereich soll insbesondere eine Lagerhalle für noch unbeprobte Aushubmaterialien entstehen, welche sonst im Freien aufgrund der unklaren Gefährdungspotenziale nur auf abgedichteten Flächen mit Reinigungseinrichtungen und Anschluss an die Schmutzwasserkanalisation gelagert werden dürften. Diese Lagerhalle muss zwingend einen ausreichenden\n\nAbstand zur Freileitung besitzen, dass durch Ablade-/Beladeprozesse der LKW keine Gefahrenquellen für die Freileitung entstehen.\n\nAls Art der baulichen Nutzung wird auch für den Bereich des Lagerplatzes die Festsetzung eines sonstigen Sondergebietes i. S. d. § 11 BauNVO angestrebt. Die mit baulichen Anlagen überbaubaren Flächen würden hier mittels Baugrenzen (blaue Linien in der Planskizze) abgegrenzt.\n\nIn den Randbereichen im Westen, Süden und nördlich der geplanten Zufahrt zum Lagerplatz haben sich in der Vergangenheit Ruderalflächen mit tw. Heckenstrukturen entwickelt, welche aus Artenschutzsicht (Zauneidechsen) relevant sind.\n\nZu Vermeidung von artenschutzrechtlichen Verbotstatbeständen sollen diese Flächen von einer Lagernutzung ausgenommen werden. Diese Flächenbereiche wurden daher als private Grünflächen mit einem Erhaltungsgebot vorgesehen. Somit werden artenschutzrechtliche Belange weitestgehend bereits ausgeräumt. Voraussichtlich werden zusätzlich noch im Bereich des „Bike-Parks“ in kleinerem Umfang Vergrämungsmaßnahmen erforderlich. Im Bereich des Westrandes sollen zusätzlich neue Zauneidechsenhabitate hergerichtet werden.\n\nFür den Bebauungsplan ist eine naturschutzrechtliche Eingriffs-/Ausgleichsregelung durchzuführen. Vorgeschlagen wird hierzu am Nordrand die bereits als Grünfläche bestehenden Bereiche als Ausgleichsflächen weiterzuentwickeln. Hier könnte als Vorschlag eine Streuobstbaumwiese entstehen, welche eine optische Abtrennung der neuen Strukturen von den Wohnbaustrukturen schafft und zudem die Biotopvernetzung von Westen nach Osten entlang der Reiherbeize stärkt.\n\nZusätzliche Ausgleichsflächen wurden im Westen als Extensiv-Grünland sowie am Ostrand als Blühstreifen vorgesehen.\n\nZiel ist, mit den internen Ausgleichsmaßnahmen die notwendige Kompensation des sich ergebenden Eingriffes vor Ort durchzuführen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt das vorgeschlagene Nutzungs- und Entwicklungskonzept zur Kenntnis und billigt dieses als Grundlage für die weitere Ausarbeitung des Bebauungsplans.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.2.",
+        "title": "Antrag Stadträtin Ritter; hier: Auflistung der Ausgleichsflächen",
+        "facts": "In der Stadtratssitzung am 15.01.2025 wurde durch die Stadträtin Ritter der Antrag auf Auflistung der städtischen Ausgleichsflächen gestellt.\n\nDie Verwaltung teilt mit, dass hierzu bereits in der Bau-, Umwelt- und Verkehrsausschuss am 25.01.2022 ein entsprechender Übersichtsplan mit Beschreibungen vorgestellt wurde, welcher nunmehr überarbeitet bzw. ergänzt wurde.\n\nFerner wurde darum gebeten, dass die bereits ausgewiesenen Ausgleichsflächen auf mögliche Erweiterungen / Vergrößerungen geprüft werden sollten.\n\nStadträtin Ritter bedankt sich für die Aktualisierung der Liste. Von einer weiteren Prüfung der potenziellen erweiterungsfähigen Ausgleichsflächen wird zunächst abgesehen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Sportanlagen Langenzenn; Schüleranfrage neuer Bikepark; hier: Machbarkeitsprüfung",
+        "facts": "Der Stadt Langenzenn wurde im Januar 2025 eine Anfrage einer Gruppe Schüler aus der Mittelschule Langenzenn-Veitsbronn zugestellt. Diese möchten als Schulprojekt die Errichtung einer Mountainbike-Strecke in Langenzenn umsetzen und haben bei der Stadt Langenzenn um Genehmigung gebeten.\n\nDiese Schülergruppe (Frei-Day) hat bereits erste Überlegungen über mögliche Standorte und eine mögliche Gestaltung vorgelegt. Ebenfalls würden sie sich an der Planung und der baulichen Umsetzung beteiligen.\n\nDie Stadt Langenzenn hat in Zusammenarbeit mit dem Jugendzentrum „Alte Post“ bereits einen Skatepark in Langenzenn entwickelt und mit großem Erfolg umgesetzt. Dieser Skatepark ist zur Anlaufstelle vieler Skater aus Langenzenn und einem großen Einzugsgebiet (u. a. Erlangen, Forchheim, Höchstadt, Fürth, Nürnberg) geworden. Bei passender Witterung können hier ganzjährig Skateborder, Inlineskater und Scooter- Fahrer allen Altersstufen angetroffen werden.\n\nDie Gemeinde Rückersdorf hat vor wenigen Jahren ebenfalls einen neuen Bikepark errichtet, welcher sich im Sommer einer hohen Beliebtheit erfreut.\n\nDer Neubau einer Mountainbike-Strecke wäre für das Freizeitangebot der Stadt Langenzenn eine lückenfüllende Ergänzung und würde die Stadt Langenzenn zu einem einzigartigen Anlaufpunkt für „Extremsportler“ machen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Prüfung der baulichen Machbarkeit ohne externe Kosten einer Mountainbike-Strecke inklusive Prüfung möglicher Haftungsansprüche bei Unfällen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Anträge aus der Bürgerversammlung"
+      },
+      {
+        "number": "10.1.",
+        "title": "Antrag aus der Bürgerversammlung hier: Baumscheibenpflege",
+        "facts": "Sämtliche Baumscheiben, vor allem in der Frankenstraße und Veit-Stoß-Straße, sollen besser gepflegt werden.\n\nAntwort der Verwaltung:\n\nDie Pflege der Baumscheiben erfolgt etwa 3 – 4 / Jahr.\n\nLaut Bauhofleitung sind starkwuchernde Luzerne meist ursächlich für das ungepflegte Aussehen.\n\nAbhilfe kann teilweise durch den Austausch des Erdreichs auf eine Tiefe bis ca. 40 - 50cm bzw. durch die Erhöhung des Umfangs der Unterhaltspflege erfolgen.\n\nDer Bau-, Umwelt- und Verkehrsausschuss schlägt vor, dass die Verwaltung einen Aufruf über das Mitteilungsblatt starten soll, ob Bürger sich als Pfleger der Baumscheiben melden bzw. ob Patenschaften übernommen werden. Das Motto soll heißen: „Stadtgrün ist Dein Grün“.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt den jährlichen Pflegeturnus von 3-4 Pflegegängen beizubehalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.2.",
+        "title": "Antrag aus der Bürgerversammlung hier: Pflege der Grünanlagen und des Wasserspenders",
+        "facts": "Eine Bürgerin moniert, dass die Grünanlagen der „ZennOase“, beginnend vom Boulderfelsen bis hin zum Abenteuerspielplatz sehr pflegebedürftig sind. Ebenso ist der sog. „Wasserspielbereich“ nicht nutzbar. Hier fließt seit langem kein Wasser mehr. Der Wasserspender am Boulderfelsen ist öfters defekt.\n\nSie beantragt die Behebung der aufgeführten Mängel.\n\nAntwort der Verwaltung:\n\nLaut Bauhofleitung wurden die Rasenflächen in der Försterallee zuletzt im dreiwöchigen Turnus gemäht, die Pflege der Beete erfolgte aufgrund Personalmangels unregelmäßiger. Eine Erhöhung des Pflegeaufwandes kann nur durch eine Erhöhung des Personalaufwands erreicht werden.\n\nIm Bereich des Wasserspielplatzes ist es vermehrt zu Beschädigungen durch Vandalismus gekommen. Hier ist bereits eine neue Pumpe bestellt, die im Frühjahr 2025 eingebaut wird. Leider ist die Beschaffung von Ersatzteilen langwierig.\n\nBeim Trinkbrunnen im Bereich des Boulderfelsens konnten keine größeren Ausfälle festgestellt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nWeiterhin beschließt der Bau-, Umwelt- und Verkehrsausschuss den Pflegeturnus im Bereich der Försterallee nach Möglichkeit zu erhöhen. Die Verwaltung soll prüfen, ob anderweitig durch Änderungen des Unterhaltsaufwandes die notwendigen Kapazitäten entstehen können.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.3.",
+        "title": "Antrag aus Bürgerversammlung hier: Überquerungshilfe Flurstraße / Untere Ringstraße / Südstraße",
+        "facts": "Ein Bürger beantragt die Umsetzung einer Überquerungshilfe auf Höhe Flurstraße/Untere Ringstraße/Südstraße.\n\nAntwort der Verwaltung:\n\nBei der Unteren Ringstraße handelt es sich um eine Kreisstraße in der Baulast des Staatlichen Bauamtes Nürnberg.\n\nDie Hinweise werden im Rahmen der Verkehrsplanungen für die Sanierung der Unteren Ringstraße / Burggrafenhofer Straße aufgegriffen und an den zuständigen Baulastträger übermittelt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Prüfung auf Umsetzung der Überquerungshilfe auf Höhe Flurstraße/Untere Ringstraße/Südstraße.\n\nDer Straßenbaulastträger ist zu informieren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.4.",
+        "title": "Antrag aus der Bürgerversammlung hier: 30km/h Schild Zollner Straße",
+        "facts": "Ein Bürger beantragt ein 30 km/h-Schild in der Zollner Straße Richtung Bienenstand (Naturerlebnisfeld). Antwort der Verwaltung:\n\nDer Antrag wird im Rahmen der Verkehrsschau 2025, die im ersten Quartal 2025 stattfindet, bewertet.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "10.5.",
+        "title": "Antrag aus der Bürgerversammlung hier: 30 km/h Schild Flurstraße bei Cadolzburger Weg",
+        "facts": "Ein Bürger beantragt ein 30 km/h-Schild, beginnend an der Flurstraße bis zum Cadolzburger Weg.\n\nAntwort der Verwaltung: Gemäß dem Verkehrskonzept wird die Flurstraße im Frühjahr 2025 eine Tempo-30 Zone.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "11.1.",
+        "title": "Wohnmobil-Stellplätze; hier: Schaffung von mehreren Parkflächen auf dem Grundstück Fl.-Nr.: 433/2, Gemarkung Langenzenn",
+        "facts": "Der Verwaltung liegt eine Anfrage bzw. Anregung zur Schaffung von 2 – 3 kostenlosen Wohnmobil-Stellplätzen für eine Parkdauer von 48 oder 72 Stunden in Langenzenn vor. Schon in der Vergangenheit gingen immer wieder ähnliche Anfragen ein.\n\nDie öffentliche Stellplatz- bzw. Parkplatzsituation wurde bereits im Rahmen der Altstadtsanierung betrachtet. Hierzu gab es bereits diverse Planungen sowie Kostenschätzungen, u. a. auch für eine Neugestaltung des Parkplatzes „Sanktustorstraße“ hinter dem Autohaus Besenbeck. Eine Realisierung konnte bislang aber noch nicht erfolgen, auch wegen der temporären Nutzung als Kirchweihplatz.\n\nAufgrund der direkten Lage an der Zenn, wird die Fläche hinter dem Autohaus Besenbeck/Sanktustor zunächst bei den aktuell durch das WWA Nürnberg aufgenommenen Planungen zum Hochwasserschutz mitbetrachtet werden. Durch die Einbeziehung der Flächen in das künftig erweiterte Sanierungsgebiet „Altstadt“ könnte später auch eine förderfähige Umsetzung eines Parkplatzes im Rahmen der Städtebauförderung möglich sein.\n\nDes Weiteren wurde das Areal bei neueren Überlegungen auch als künftiger Kärwa-Platz angedacht. In diesem Zusammenhang wäre ggfs. auch ein extra für Wohnmobile angelegter Stellplatz ggfs. auch mit entsprechenden Strom- und Wasseranschlüssen denkbar. Ungefähre Kosten hierfür lägen je nach Befestigung und Anschlussmöglichkeiten (Wasser, Strom, Abwasser) grob geschätzt ab ca. 10.000 bis 12.000 Euro pro Stellplatz.\n\nO. g. Sachverhalt ist aktuell jedoch noch nicht absehbar. Eine konkrete Umsetzung kann erst im Rahmen der weiteren Planungen näher betrachtet werden.\n\nDa hierzu dennoch regelmäßig Anfragen nach Abstellmöglichkeiten für Wohnmobile eingehen, schlägt die Verwaltung nach interner Abstimmung vor, vorübergehend auf dem Grundstück Fl.-Nr.: 433/2, Gemarkung Langenzenn, gelegenen Parkplatz „Sanktustorstraße“ mehrere Parkflächen für Wohnmobile, lediglich zum Parken für max. 48 Stunden, vorzusehen, bis weitere Planungen fort- bzw. umgesetzt werden können.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Schaffung von zwei bis drei Parkflächen zum kostenfreien Abstellen von Wohnmobilen für max. 48 Stunden auf dem Parkplatz „Sanktustorstraße“. Diese sind entsprechend zu kennzeichnen/zu beschildern.\n\nDie Umsetzung eines ausgebauten Wohnmobil-Stellplatzes (mit entsprechendem Strom- und Wasseranschluss) soll im Rahmen der Gesamtplanungen für das Areal näher betrachtet werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "12.1.",
+        "title": "Feuerwehr Keidenzell - Errichtung eines Geräteraums inkl. einer überdachten Bushaltestelle; hier: Sachstandsbericht",
+        "facts": "Anfang 2024 fand ein Gespräch zwischen Stadtbauamt und den Verantwortlichen der Feuerwehr Keidenzell statt. Dabei wurde das von der Feuerwehr gewünschte „Bauvorhaben“ besprochen.\n\nAuf Anregung der FFW Keidenzell fand ein weiterer gemeinsamer Abstimmungstermin Anfang November 2024 mit dem Stadtbauamt zur konkreten Standortbestimmung des Erweiterungsbaus der Feuerwehr Keidenzell statt.\n\nEs handelt sich hierbei im Wesentlichen um eine „Fertiggarage“ am Parkplatz vor dem Feuerwehrhaus mit einer Grundfläche von rund 25-30 Quadratmetern. Die Fassadengestaltung erfolgt dreiseitig als Putzfassade, an der Nordseite zum Straßenraum mit Holzverkleidung und mit einem begrünten Flachdach. Auf der Nordseite soll eine überdachte Bushaltestelle mit Sitzplätzen zur vorhandenen Brunnenanlage errichtet werden.\n\nDie Leistungsphasen 1 -2 (Grundlagenermittlung und Entwurfsplanung) wurden Ende November an das Planungsbüro Planquadrat, Langenzenn vergeben. Weiterhin wurden die Anregungen und Wünsche der Feuerwehr Keidenzell aufgenommen.\n\nSämtliche Ergebnisse wurden in die Entwurfsplanung eingearbeitet. In diesem Zuge wurde auch die Kostenschätzung (u.a. der Gewerke Fertigteilgarage, Erd-/Rohbau, Elektro, Bushaltestelle, Zimmerarbeiten) erstellt. Die Leistungsphasen 1-2 sind somit abgeschlossen.\n\nDas Stadtbauamt hat bereits Angebote der o.g. Gewerke eingeholt und teilweise um unverbindliche Angebote gebeten. Daraus ergibt sich nachfolgende Gesamtkostenaufstellung (gerundet):\n\n   Fertiggarage                    17.700 Euro    Erd-/Rohbau                     25.000 Euro    Bushaltestelle                  10.200 Euro    Zimmererarbeiten                 3.500 Euro    Elektro                          2.400 Euro    Planungsleistung                 1.200 Euro 60.000 Euro\n\nDas Bauvorhaben ist gemäß Art. 57 Abs. 1 Nr. 1 BayBO als Gebäude mit einem Bruttorauminhalt bis zu 75 m³ genehmigungsfrei. Aufgrund des nahestehenden Einzeldenkmals ist ein Antrag auf denkmalrechtlichen Erlaubnis zu stellen (vgl. TOP Ö 6.7).\n\nIm Haushaltsplan 2024 waren unter HH-Stelle 1.1300.9450 Finanzmittel in Höhe von 30.000 Euro für den Baukörper eingestellt. Für die Grünanlagen und die Bushaltestelle sind im Haushaltsplan 2025 unter HH-Stelle 1.5800.9510 Mittel in Höhe von 20.000 Euro und unter HH-Stelle 0.7911.5000 Mittel in Höhe von 10.000 Euro vorgesehen.\n\nStadtbaumeister Wittmann schlägt vor, die Baumaßnahme zu teilen. Für die im Haushaltsplan 2024 eingestellten 30.000 Euro könnte zunächst der Geräteraum einschließlich Fundamentierung und Elektroanschluss umgesetzt werden.\n\nAntrag von Stadtrat Sieber auf Vertagung des Tagesordnungspunktes in die anstehenden Haushaltsberatungen.\n\nmehrheitlich beschlossen                     Dafür: 5 Dagegen: 3",
+        "decision": "Der Tagesordnungspunkt ist vertagt.\n\nzurückgestellt"
+      },
+      {
+        "number": "12.2.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung",
+        "facts": "Am 10.02.2025 wurden der Verwaltung sowie dem Architekturbüro Aicher + Hautmann durch LernLandSchaft die Erstentwürfe der funktionalen Machbarkeitsstudie in zwei Varianten vorgestellt.\n\nVariante 1 - Erweiterung Prinzip „Knochen“\n\nHier soll das Gebäude im Norden sowie im Süden erweitert werden. Diese Variante hat den Vorteil, dass die Bauarbeiten im laufenden Schulbetrieb erfolgen könnten und das Bestandsgebäude kaum verändert werden muss.\n\nVariante 2 - Erweiterung Prinzip „Hof“\n\nBei dieser Variante soll das Bestandsgebäude südlich und westlich zusammengeführt werden, somit würde ein innenliegender Pausenhof entstehen. Hier sind die Umbauarbeiten am Bestandsgebäude enorm und die Bauarbeiten im laufenden Schulbetrieb könnten sich als schwierig erweisen.\n\nAus vorgenannten Gründen, hat sich die Verwaltung entschieden, die Variante 1 intensiver zu überprüfen. Die Anregungen und Fragen der Verwaltung werden durch LernLandSchaft aktuell bis zum 24.02.2025 geprüft und in die Flächenlayouts eingearbeitet. Der daraus resultierende Erstentwurf der funktionalen Machbarkeitsstudie liegt nun vor.\n\nDie ausgearbeiteten Unterlagen, bestehend aus funktionalem Raumprogramm und Erstentwurf der funktionalen Machbarkeitsstudie können nun der Regierung erstmals vorgelegt werden.\n\nIm Rahmen dieser Abstimmungen werden dann die schulaufsichtlichen Genehmigungen und die Grundlagen des förderfähigen Raumprogramms ermittelt. Diese bilden im weiteren Verlauf die Grundlagen für die Förderung.\n\nSobald detaillierte Kenntnisse vorliegen, erfolgt die weitere Beratung in den zuständigen, städtischen Gremien.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\n(Erster Bürgermeister Habel übergibt den Vorsitz an Stadträtin Schendzielorz-Kostopoulos.)\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "13.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "13.1.",
+        "title": "Städtischer Bauhof - Baumkontrolle und -unterhalt; hier: Aktuelle Baumfällungen",
+        "facts": "Bei den regelmäßigen Baumkontrollen wurde festgestellt, dass 3 Bäume in der Försterallee im Bereich zwischen Schießhausplatz und Biergarten den Fußweg anheben und die Gefahr besteht, dass diese in die Zenn stürzen.\n\nDie Bäume werden daher aus Gründen der Verkehrssicherheit gefällt.\n\nWeiterhin werden im Bereich des Schießhausplatzes im Vorgriff auf die im Frühjahr anstehenden Kanal- und Wasserleitungsarbeiten sowie die Fortführung der Arbeiten an den Parkplätzen eine Kastanie und der Heckenstreifen im Böschungsbereich der Zenn im Bereich der Sitzbank entfernt.\n\nZudem musste am Regenrückhaltebecken in Horbach eine Birke entfernt werden.\n\nDie Verwaltung soll über das Mitteilungsblatt eine entsprechende Mitteilung über die Fällungen und deren Gründe veröffentlichen.\n\nWeiter wird gebeten, dass durch den Bauhofleiter bzw. durch die für die Baumkontrollen zuständige Firma in der nächsten Sitzung die Entscheidungen über die Baumprüfung und die Fällungen erklärt werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "14.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "14.1.",
+        "title": "Aktueller Stand zur Erneuerung der Informationstafeln",
+        "facts": "Stadträtin Schlager erkundigt sich nach dem aktuellen Stand zur Erneuerung der Informationstafeln an den Ortseingängen.\n\nDie Verwaltung erklärt, dass für die Informationstafeln aktuell ein neues Konzept erarbeitet wird."
+      },
+      {
+        "number": "14.2.",
+        "title": "Freiwillige Feuerwehr Langenzenn; hier: Ausbesserungsarbeiten",
+        "facts": "Stadtrat Schramm spricht die Abnutzungserscheinungen am Feuerwehrhaus Langenzenn an, beispielsweise sei der Fußboden im großen Saal durch die Schiebetür zerkratzt.\n\nDie Verwaltung erklärt, dass die Gewährleistung der Baumaßnahme im September 2025 ausläuft. Vorher sind Begehungen mit Sachverständigen zur Überprüfung der Mängel angesetzt.\n\nStadtrat Schramm will die Beschädigungen am Außenputz vor dem nächsten Frost repariert sehen.\n\nHier teilt die Verwaltung mit, dass der Auftrag bereits erteilt wurde und die Durchführung in Kürze ansteht."
+      },
+      {
+        "number": "14.3.",
+        "title": "Stadthalle Langenzenn; hier: Parkplatz",
+        "facts": "Stadtrat Sieber gibt an, dass der Parkplatz an der Stadthalle oft durch dauerhaft abgestellte Fahrzeuge und Wohnmobile blockiert wird.\n\nEr bittet die Verwaltung um Prüfung einer Beschränkung für Wohnmobile und regelmäßige Kontrollen durch die Verkehrsüberwachung."
+      },
+      {
+        "number": "14.4.",
+        "title": "Städtische Regenrückhaltebecken; hier: Baumrückschnitt",
+        "facts": "Stadtrat O. Vogel gibt bekannt, dass der Bewuchs am Regenrückhaltebecken an der „alten“ B8, Richtung Hardgraben / Erlachskirchen, zurückgeschnitten werden muss."
+      },
+      {
+        "number": "14.5.",
+        "title": "Geh- und Fahrradweg in der Windsheimer Straße",
+        "facts": "Stadtrat O. Vogel moniert, dass an dem Geh- und Fahrradweg in der Windsheimer Straße ein Teil der Grünanlage durch Schotter ersetzt wurde."
+      },
+      {
+        "number": "14.6.",
+        "title": "Absenkung des Gehsteigs in der Nürnberger Straße",
+        "facts": "Stadtrat O. Vogel erkundigt sich über die Möglichkeit zur Absenkung des Gehsteigs in der Nürnberger Straße, auf Höhe der Radfahrhilfe an der AWO Langenzenn. Bewohner der AWO würden statt der Fußgängerquerung die Radfahrhilfe als Straßenquerung nutzen und mit ihrer Gehhilfe nicht mehr auf den Gehsteig hochkommen.\n\nDie Verwaltung teilt mit, dass eine Absenkung des Gehsteigs Fahrradfahrer verleiten könnte, auf dem Gehsteig zu fahren. Zudem ist die Radfahrhilfe nicht für Fußgänger gedacht.\n\nDie Verwaltung will im Rahmen der nächsten Verkehrsschau eine optische Kennzeichnung der Fußgängerquerung ansprechen."
+      },
+      {
+        "number": "14.7.",
+        "title": "Gebäudebeleuchtung am Anwesen Flurstraße 2c",
+        "facts": "Stadtrat O. Vogel teilt mit, dass zuletzt am Anwesen Flurstraße 2c eine LED-Beleuchtung installiert wurde, wodurch der Gehsteig stark beleuchtet wird. Er bittet die Verwaltung um Prüfung."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "172808",
+    "minutes": "178600"
+  }
+}

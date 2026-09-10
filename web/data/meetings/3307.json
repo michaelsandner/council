@@ -1,0 +1,379 @@
+{
+  "meetingId": "3307",
+  "announcement": {
+    "heading": "59. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 59,
+    "date": "2025-07-23",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "1.1.",
+        "title": "Antrag auf denkmalschutzrechtlicher Erlaubnis zur Errichtung einer Wärmepumpe auf dem Grundstück Obere Ringstr. 9"
+      },
+      {
+        "number": "1.2.",
+        "title": "Antrag zur Errichtung einer Balkonanlage auf dem Grundstück Finkenschlag 40"
+      },
+      {
+        "number": "1.3.",
+        "title": "Antrag zur Errichtung eines Einfamilienhauses mit Garage und Carport auf dem Grundstück Nähe Flurstraße"
+      },
+      {
+        "number": "1.4.",
+        "title": "Antrag auf Vorbescheid zur Errichtung von vier Reihenhäusern auf dem Grundstück Laubendorfer Weg 1"
+      },
+      {
+        "number": "1.5.",
+        "title": "Antrag auf Vorbescheid zur Errichtung von vier Reihenhäusern auf dem Grundstück Gartenstraße 20"
+      },
+      {
+        "number": "2.",
+        "title": "Neuerlass einer Satzung zur Einführung einer Pflicht zum Nachweis von Stellplätzen für Kraftfahrzeuge und Fahrräder (Stellplatzsatzung)"
+      },
+      {
+        "number": "3.",
+        "title": "Erlass einer Satzung zur Einführung einer Pflicht zum Nachweis eines Spielplatzes für Kinder (Spielplatzsatzung)"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Antrag zur 1. Änderung des Bebauungsplanes \"Gewerbegebiet-Ost VII Horbach\" für die Grundstücke Fl.-Nrn. 526 und 526/2, Gemarkung Langenzenn; hier: Aufstellungsbeschluss"
+      },
+      {
+        "number": "4.2.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Abwägung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB"
+      },
+      {
+        "number": "4.3.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Billigungs- und Auslegungsbeschluss"
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/Verkehrssperrungen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Buslinie 122; hier: Stellungnahme zu den Planungen für den Fahrplanwechsel 2026"
+      },
+      {
+        "number": "5.3.",
+        "title": "Beschlussfassungen zur Verkehrsschau 2025"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Feuerwehr Kirchfembach; hier: Aktueller Sachstandsbericht"
+      },
+      {
+        "number": "6.2.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht"
+      },
+      {
+        "number": "6.3.",
+        "title": "Sachstandsbericht; Schießhausplatz; Zennquerung - Neubau Düker"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Hallenbad Langenzenn; hier: Mitteilung zur Prüfung auf Denkmaleigenschaft"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "18. Juli 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "59. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 59,
+    "date": "2025-07-23",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vertretung für Ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Osswald, Birgit",
+            "note": "für Stadtrat Schramm"
+          },
+          {
+            "name": "Plevka, Melanie",
+            "note": "für Stadträtin Franz"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Schramm, Alexander"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "1.1.",
+        "title": "Antrag auf denkmalschutzrechtlicher Erlaubnis zur Errichtung einer Wärmepumpe auf dem Grundstück Obere Ringstr. 9",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer Wärmepumpe, Sockelgröße 150 cm x 54 cm x 30 cm auf dem Grundstück Flur-Nr. 319, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "1.2.",
+        "title": "Antrag zur Errichtung einer Balkonanlage auf dem Grundstück Finkenschlag 40",
+        "facts": "Antrag zur Errichtung einer Balkonanlage auf dem Grundstück Flur-Nr. 1399/16, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "1.3.",
+        "title": "Antrag zur Errichtung eines Einfamilienhauses mit Garage und Carport auf dem Grundstück Nähe Flurstraße",
+        "facts": "Antrag zur Errichtung eines Einfamilienhauses mit Garage und Carport, einschließlich eines nebengewerblich genutzten Praxisraumes, sowie auf die Zulassung von Abweichungen von Artikel 6 (Grenzbebauung) der Bayerischen Bauordnung (BayBO), § 2 der Garagen- und Stellplatzverordnung (GasStellV) (Sicht- und Stauraum) sowie der Stellplatzsatzung der Stadt Langenzenn (Aufstellfläche) auf dem Grundstück Flur-Nr. 7108/16, Gemarkung Langenzenn.\n\nDie Verwaltung informiert, dass bereits eine Bauvoranfrage für das betreffende Grundstück eingereicht wurde, die vom Landratsamt positiv beschieden wurde.\n\nWeiterhin teilt die Verwaltung mit, dass den beantragten Abweichungen von der Stellplatzsatzung hinsichtlich der Aufstellfläche sowie von den Regelungen des Artikel 6 der Bayerischen Bauordnung (zulässige Gesamtlänge der Grenzbebauung) aufgrund der eingeschränkten Grundstücksverhältnisse und der topographischen Gegebenheiten zugestimmt werden kann.\n\nAuch einer Abweichung von § 2 der Garagen- und Stellplatzverordnung (Sicht- und Stauraum) kann zugestimmt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nAufgrund der begrenzten Grundstücksverhältnisse und der topographischen Gegebenheiten können die beantragten Abweichungen von der Stellplatzsatzung hinsichtlich der Aufstellfläche sowie die Abweichungen von den Vorgaben des Art. 6 BayBO, sowie die Befreiungen von den Festlegungen der Garagen- und Stellplatzverordnung (GaStellV) bezüglich des Sicht- und Stauraums zugestimmt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "1.4.",
+        "title": "Antrag auf Vorbescheid zur Errichtung von vier Reihenhäusern auf dem Grundstück Laubendorfer Weg 1",
+        "facts": "Antrag auf Vorbescheid zur Errichtung von 4 Reihenhäusern, sowie Antrag auf Stellplatzablöse auf dem Grundstück Fl.-Nr. 1298, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDas gemeindliche Einvernehmen zum Antrag auf Stellplatzablöse wird nicht in Aussicht gestellt.\n\nHinweis: Gemäß dem Flächennutzungsplan (FNP) ist der nördliche Teil des Grundstücks als „Fläche für die Landwirtschaft“ dargestellt.\n\nDer südliche Bereich liegt innerhalb des FFH-Gebietes und ist im FNP als Schutzzone für Natur und Landschaft (Erhaltung und Entwicklung des Zenngrundes) ausgewiesen.\n\nDie immissionsschutzrechtlichen Belange bzw. Auswirkungen zum Nachbargrundstück sind zu prüfen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "1.5.",
+        "title": "Antrag auf Vorbescheid zur Errichtung von vier Reihenhäusern auf dem Grundstück Gartenstraße 20",
+        "facts": "Antrag auf Vorbescheid zur Errichtung von vier Reihenhäusern auf dem Grundstück Flur.Nr. 721/1, Gem. Langenzenn.\n\nDie Verwaltung teilt mit, dass in der Urfassung des rechtskräftigen Bebauungsplanes Nr. 2 eine Baugrenze mit einem Gesamtabstand von 12 Metern (5,0 + 7,0 m) festgelegt wurde. Der Bebauungsplan stammt aus dem Jahre 1975 und spiegelte die damalige städtebauliche Zielsetzung wieder, da seinerzeit überwiegend groß dimensionierte Grundstücke bebaut wurden.\n\nIm Zuge der heutigen Nachverdichtung kann der beantragten Befreiungen des Abstandes auf 5,0 Meter sowie des festgesetzen Sichtdreieckes aus städtebaulicher Sicht als vertretbar angesehen werden, so dass dieser zugestimmt werden kann.\n\nDie Erschließung des betroffenen Grundstückes erfolgt über die Gartenstraße. Eine Beeinträchtigung der im südlichen Bereich vorgesehenen zukünftigen Straßenverbindung zwischen der Blumenstraße und Gartenstraße (gemäß 2. Änderung des Bebauungsplanes) ist dadurch nicht gegeben.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDie Befreiungen von den Festsetzungen des Bebauungsplans hinsichtlich der Baugrenze und der Sichtdreiecke können aus städtebaulicher Sicht im Rahmen der Nachverdichtung des Baugebiets in Aussicht gestellt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Neuerlass einer Satzung zur Einführung einer Pflicht zum Nachweis von Stellplätzen für Kraftfahrzeuge und Fahrräder (Stellplatzsatzung)",
+        "facts": "Wie bereits in der Bau-, Umwelt- und Verkehrsausschusssitzung am 28.01.2025 bekanntgegeben wurde, trat am 01.01.2025 eine umfassende Reform der Bayerischen Bauordnung (BayBO) in Kraft. Eine der zentralen Änderungen, die ab dem 01.10.2025 gelten, betrifft die Stellplatzpflicht.\n\nBisherige Regelung: Bisher waren die Stellplatzzahlen in der Anlage zur Garagen- und Stellplatzverordnung festgelegt. Gemeinden konnten durch eine kommunale Stellplatzsatzung sowohl nach oben als auch nach unten von diesen Vorgaben abweichen.\n\nNeue Regelung:\n\n Die Gemeinde entscheidet künftig selbst, ob in ihrem Gebiet eine Stellplatzpflicht besteht oder nicht.    Es gilt eine Obergrenze von 2 Stellplätzen je Wohnung. Diese dient dazu, die Baukosten zu senken und den Flächenverbrauch zu reduzieren. Bei Gebäuden mit Wohnungen unter 70 qm Wohnfläche wird weiterhin die Zahl der Stellplätze um 50 % reduziert.\n\nSpezialfall geförderter Wohnbau:\n\n   Für Bauvorhaben, die auf Grundlage des Gesetzes über die Wohnraumförderung in Bayern (BayWoFG) gefördert werden, gilt eine Obergrenze von 0,5 Stellplätzen je geförderter Mietwohnung.    Diese Regelung berücksichtigt den geringeren Stellplatzbedarf geförderter Haushalte und unterstützt ein günstiges Wohnraumangebot.    Gemeinden können die Höchstzahlen nach unten anpassen.    Die freiwillige Herstellung zusätzlicher Stellplätze bleibt weiterhin möglich.\n\nAuswirkungen auf die bisherige Stellplatzsatzung:\n\n   Die bestehende Stellplatzsatzung der Stadt muss aufgrund der neuen gesetzlichen Vorgaben aufgehoben werden.    Zur Sicherstellung von Rechtsklarheit und Umsetzungssicherheit ist der Erlass einer neuen, an die geänderten Regelungen angepassten Stellplatzsatzung bis spätestens zum 01.10.2025 erforderlich.    Regelungen zu Größe, Beschaffenheit, Ausstattung und Erschließung von Stellplätzen – wie beispielsweise der bisherige Mindestabstand von 5,0 Metern vor Garagen – können künftig nicht mehr getroffen werden.    Ebenso sind Vorgaben zur Bepflanzung oder Begrünung von Stellplätzen künftig nicht mehr zulässig.\n\nRechtsgrundlage:\n\nDie Rechtsgrundlage für die Stellplatzpflicht bildet nunmehr Art. 47 BayBO i.V.m. Art. 81 Abs. 1 Nr. 4 BayBO.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf zur Einführung einer Pflicht zum Nachweis von Stellplätzen für Kraftfahrzeuge und Fahrräder (Stellplatzsatzung) als Satzung.\n\nDie Satzung tritt zum 01.10.2025 in Kraft.\n\nGleichzeitig wird die bisherige Satzung über die Herstellung, Ablösung und Gestaltung von Garagen und Stellplätzen für Kraftfahrzeuge sowie die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder vom 08.11.2018 (zuletzt geändert am 07.05.2024 – 1. Änderung) zum 01.10.2025 aufgehoben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Erlass einer Satzung zur Einführung einer Pflicht zum Nachweis eines Spielplatzes für Kinder (Spielplatzsatzung)",
+        "facts": "Mit dem Zweiten Gesetz zur Modernisierung der Bayerischen Bauordnung wurde die bisher landesweit geltende Pflicht zur Errichtung von Kinderspielplätzen (bislang geregelt im Art. 7 Abs. 3 BayBO; hier: …bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist ein ausreichend großer Kinderspielplatz anzulegen) aufgehoben. Ab dem 01.10.2025 liegt die Entscheidung darüber nun ausschließlich bei den Kommunen.\n\nNach Art. 81 Abs. 1 Nr. 3 BayBO n. F. sind die Gemeinden ermächtigt, durch Satzung zu bestimmen, unter welchen Voraussetzungen bei der Errichtung von Wohngebäuden ein Kinderspielplatz auf dem Baugrundstück oder in der Nähe geschaffen werden muss.\n\nDie Verwaltung schlägt vor, um auch künftig eine bedarfsgerechte Versorgung mit wohnungsnahen Spielflächen sicherzustellen, eine entsprechende Spielplatzsatzung zu erlassen. Diese Regelung gilt dabei nur für Gebäude mit mehr als fünf Wohnungen, wie es die BayBO ausdrücklich vorgibt.\n\nDie Satzung regelt unter anderem:\n\n   Herstellungspflicht für Kinderspielplätze bei Wohnbauvorhaben mit mehr als fünf Wohneinheiten,\n\n   Anforderungen an Lage, Größe, Erschließung und Ausstattung,\n\n   Möglichkeit der Ablöse durch Geldleistung. Diese Regelung würde der Verwaltung sowie dem Bauherrn eine gewisse Planungssicherheit für Bauherren und Verwaltung schaffen und dem Ziel dienen, die Lebensqualität für Familien mit Kindern auch bei dichter Bebauung zu erhalten.\n\nDie Ausschussmitglieder stimmen der Bitte aus dem Rat zu, dass im Rahmen der Satzung eine Prüfung zur Umwandlung von nicht oder wenig genutzten Spielplätzen in Bewegungsflächen für Senioren erfolgen soll.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat der Stadt Langenzenn beschließt die Satzung zur Einführung einer Pflicht zum Nachweis eines Spielplatzes für Kinder auf Grundlage des Art. 81 Abs. 1 Nr. 3 der Bayerischen Bauordnung (BayBO) in der Fassung des Zweiten Gesetzes zur Modernisierung des Bauordnungsrechts in Bayern.\n\nDie Satzung tritt am 01.10.2025 in Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Antrag zur 1. Änderung des Bebauungsplanes \"Gewerbegebiet-Ost VII Horbach\" für die Grundstücke Fl.-Nrn. 526 und 526/2, Gemarkung Langenzenn; hier: Aufstellungsbeschluss",
+        "facts": "zurückgestellt",
+        "decision": "Der Tagesordnungspunkt wird auf die nächste Sitzung des Bau-, Umwelt- und Verkehrsausschusses vertagt.\n\n4.2. 27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Abwägung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Billigungs- und Auslegungsbeschluss",
+        "facts": "zurückgestellt"
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/Verkehrssperrungen",
+        "facts": "   Wilhermsdorfer Straße 8 / halbseitige Sperrung Fahrbahn / Absicherung einsturzgefährdetes Gebäude, Sicherung Straße bis 29.08.25    Hindenburgstraße 10/ Sperrung Gehweg / Fassadenarbeiten, Baugerüst bis 25.07.2025    Hindenburgstraße 18 / Wohnhaus Sanierung, Sperrung Gehweg bis 31.07.2025    Hindenburgstraße 44-46 / hier: Nachtrag Aufstellen eines Baugerüstes bis 30.08.2025    BG 59 Rothenburger Straße 14; Fahrbahneinengung / Kranstellung, Materiallager NB EFH vom 20.05. - 20.09.2025    Div. Straßen / Wanderbaustelle / geschlossene Kanalsanierung vom 06.05. - 31.12.2025    Div. Straßen / Wanderbaustelle / Standsicherheitsprüfung an Beleuchtungsmasten / 30.04. - 31.10.2025    Untere Ringstraße 27 / teilweise Sperrung Gehweg / Fassadenarbeiten bis 15.08.2025    Stuttgarter Str. 10 halbseitige Sperrung Fahrbahn/ Gasanschluss vom 21.07.- 25.07.2025    Schießhausplatz, halbseitige Sperrung Fahrbahn, Sperrung Gehweg, Sperrung Parkflächen / Neubau Düker Schießhausplatz / 07.07.-14.08.2025    Clausenberg/ Vollsperrung Fahrbahn/ Behebung Wasserrohrbruch vom 06.07.- 25.07.2025    Heinersdorf, Mühlberg 2/ Sperrung Gehweg, Fahrbahneinengung/ Behebung Wasserrohrbruch vom 20.07.-26.07.2025    Laubendorf Hügelauweg 7a /halbseitige Sperrung Fahrbahn/ Arbeiten am Netz N- Ergie Hausanschluss / 21.07.-22.08.2025    Cadolzburger Weg 44/ halbseitige Sperrung Fahrbahn, Sperrung Wendehammer/ Austausch Wasserschieber bis 25.07.2025    Wiesenweg 7-11/ Sperrung Gehweg / Behebung Kabelschaden vom 15.07.- 01.08.2025    Pfaffenleite 18-19 /halbseitige Sperrung Fahrbahn, Vollsperrung Gehweg/Aufgrabung wegen Gastrennung vom 28.7.-15.08.2025    Hausener Weg 69, Im Kessel /halbseitige Sperrung Fahrbahn, Vollsperrung Gehweg Glasfaser Hausanschluss Telekom vom 14.07.-15.08.2025    Vollsperrung 4 Fußwege BG 11 Diverse Straßen/ Glasfasernetzausbau / 01.07.2025- 02.08.2025    Gewerbestraße + Fußweg Gewerbestraße / Glasfasernetzausbau bis 02.08.2025    Cadolzburger Weg / Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 16.07.-15.08.2025    Nelken-, Tulplen-, Lilienstr. / Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 30.07.-30.08.2025    Adam-Klein-Straße, Hans-Sachs-Straße, Albrecht-Dürer-Straße, Veit-Stoß-Straße /\n\nGlasfasernetzausbau vom 01.07.-02.08.2025    Gehwege Albrecht-Dürer-Straße, Lukas-Cranach-Straße / Glasfasernetzausbau vom 01.07.-02.08.2025",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Buslinie 122; hier: Stellungnahme zu den Planungen für den Fahrplanwechsel 2026",
+        "facts": "Der Verwaltung liegt ein Schreiben des Landratsamtes Fürth, ÖPNV vom 01.07.2025 vor. Es wird mitgeteilt, dass sich der Landkreis derzeit in der Planung und Vorbereitung für die Vergabe der Buslinie 122 befindet. Zum Fahrplanwechsel 2026 findet die Neuvergabe statt. Die Stadt Langenzenn wurde um Abgabe einer Stellungnahme bis zum 31.07.2025 gebeten.\n\nSeitens des Bauamtes wurden Punkte für eine gemeinsame Stellungnahme zusammengefasst. Im Wesentlichen geht es um die Beachtung von Hinweisen zur Befahrung der Obere Ringstraße, der Sanktustorstraße und des Prinzregentenplatzes, sowie um den Hinweis auf die 2023 beschlossenen Eckpunkte zur Buslinienumstellung.\n\nDie Stellungnahme an das Landratsamt wird um den Hinweis auf die Begegnungsproblematik mit der Abfallentsorgung ergänzt.\n\nIn diesem Zusammenhang bittet der Ausschuss um Überwachung der Falschparker in der Oberen Ringstraße. Die Bitte wird an die Kommunale Verkehrsüberwachung zur Kontrolle weitergegeben. Vor allem ab September zum Schulbeginn sollen verstärkte Kontrollen durchgeführt werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.3.",
+        "title": "Beschlussfassungen zur Verkehrsschau 2025",
+        "facts": "Neubaugebiet Klaushofer Weg:\n\nStellungnahme der Fachbehörden: Die Vorfahrtsstraße ist zu überprüfen. Die Stadt soll verkehrsplanerisch die Straßenführung und die Kreuzungssituation betrachten. Ggfls. ist eine abknickende Vorfahrt zu realisieren. Die Verkehrsströme sind zu berücksichtigen. Die Vz. 301 sind durch Vz. 306 zu ersetzen; das Ende ist mit Vz. 307 zu kennzeichnen. Ggfls. ist darüber nachzudenken, ob der Klaushofer Weg in Gänze als Tempo 30-Zone ausgewiesen werden sollte; Die vorfahrtsberechtigte Straße könnte dann die Frankenstraße/Zollner Straße werden.\n\nDer Ausschuss favorisiert mehrheitlich die aktuelle Vorfahrtsregelung in die Süd-Nord- Richtung. Dies soll im Rahmen der verkehrsplanerischen Betrachtung mitberücksichtigt werden. In der Umsetzungsplanung soll eine Prüfung zur Änderung des Straßenbelages oder eine Prüfung für eine Kreisverkehrslösung durchgeführt werden. Weiterhin soll die Möglichkeit der Streckenbegrenzung auf Tempo 30 km/h an Spielplätzen, Kindergärten im Bereich der Zollnerstraße / Frankenstraße geprüft werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt auf Empfehlung der Verkehrsfachbehörden die Einrichtung einer Tempo 30 Zone für den gesamten Ortsteil Laubendorf auf Probe für ein Jahr. Die Verwaltung wird mit dem Vollzug beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Feuerwehr Kirchfembach; hier: Aktueller Sachstandsbericht",
+        "facts": "Im Rahmen der Prüfung einer möglichen Sanierung oder eines Ersatzneubaus des Feuerwehrhauses Kirchfembach auf dem vorhandenen Grundstück wurden die Leitungsphasen 1 + 2 gemäß Beschluss des Bau- Umwelt- und Verkehrsausschusses vom 17.12.2024 an das Planungsbüro Planquadrat, Langenzenn, vergeben.\n\nEine Sanierung des bestehenden Feuerwehrgerätehauses wurde schnell ausgeschlossen, da der Gebäudebestand mit seinen Abmessungen und Strukturen für ein funktionales Feuerwehrhaus nicht geeignet ist.\n\nGründe für den Ausschluss der Sanierung:\n\n   Das Bestandsgebäude befindet sich zur östlichen Grundstücksgrenze nur ca. 1m entfernt. Aus diesem Grund, kann das Gebäude nicht aufgestockt werden, da die Abstandsflächen zum Nachbargrundstück nicht mehr eingehalten werden könnten.\n\n   Ohne Aufstockung / Erweiterung um ein Obergeschoss ist der Raumbedarf der Feuerwehr nicht erfüllt.\n\nDas planende Architekturbüro hat einen Vorentwurf für den Ersatzneubau auf dem bestehenden Grundstück erarbeitet. Die Planung wurde gemeinsam mit der Feuerwehr und dem Bauamt besprochen.\n\nSämtliche Ergebnisse wurden in die Vorentwurfsplanung eingearbeitet. In diesem Zuge wurde auch die Kostenschätzung nach BKI erstellt. Die Kosten betragen rund 1.060.000 Euro.\n\nDie Leistungsphasen 1 + 2 sind somit abgeschlossen.\n\nAm 04.06.2025 hat ein Besprechungstermin mit Kreisbrandmeister Brüchert stattgefunden. Hierbei wurde dem Bauamt mitgeteilt, dass aufgrund der baulichen Situation derzeit voraussichtlich mit keiner Förderung zu rechnen ist.\n\nAm 07.07.2025 fand ein Besprechungstermin mit der Feuerwehr Kirchfembach, dem Bauamt und dem zuständigen Sachbearbeiter von der Kommunalen Unfallversicherung Bayern (KUVB) statt, um die Vorentwurfsplanung bezüglich der Unfallverhütungsvorschriften zu prüfen. Dieser teilte mit, dass die ausgearbeitete Planung so realisierbar ist und eine erhebliche Verbesserung des Feuerwehrhauses darstellt. Alle nicht eingehaltenen Vorgaben der DIN- 14092-1 können durch eine detailliert ausgearbeitete Gefährdungsbeurteilung und eine darauffolgende Unterweisung kompensiert werden.\n\nAufgrund der positiven Bewertung der Kommunalen Unfallversicherung Bayern hat die Verwaltung die Prüfung einer möglichen Förderung bei der Regierung von Mittelfranken veranlasst.\n\nIm weiteren Verlauf wären daher folgende Optionen zu prüfen:\n\n   Fortführung der Planungen und Festhalten am bisherigen Standort. Für die Sanierung sind voraussichtlich keine Förderungen möglich. Diese belaufen sich für Feuerwehren mit einem Stellplatz auf 160.000 Euro (Neubau) bzw. 60.600 Euro Sanierung.\n\n   Für einen Neubau der Feuerwehr Kirchfembach ist ein geeignetes Grundstück zu suchen. Für dieses wäre eine Vorentwurfsplanung mit Kostenschätzung zu erstellen. Die für einen Neubau zu erwartende Förderung beträgt 160.000 Euro (ein Stellplatz). Der Nutzflächenbedarf für ein normgerechtes Feuerwehrhaus mit einem Stellplatz beträgt 250 m² (Mindestanforderung), die Bau- und Baunebenkosten nach BKI belaufen sich auf etwa 1.426.000 (Quelle BKI Neubau 2024, Stand I/2024: 4.100 €/m² NUF KG 300+400, KG 500 = 14% von KG 300+400, KG 700 = 22% von KG 300+400)\n\nDer Bodenrichtwert in Kirchfembach liegt zwischen 220 €/m² und 250 €/m². Gegebenenfalls könnte das bisherige Grundstück veräußert werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt mit den bisherigen Planungen für einen Ersatzneubau auf dem vorhandenen Grundstück fortzufahren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.2.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht",
+        "facts": "Die Module 1 und 2 des kommunalen Denkmalkonzeptes (KDK) sind inhaltlich abgeschlossen und werden aktuell durch die beteiligten Planer final zusammengestellt.\n\nDie Wohnungsbaugesellschaft Langenzenn hat inzwischen auch Gespräche mit möglichen Investoren für einen Teil der dort befindlichen städtischen Flächen geführt.\n\nGemeinsam mit dem Bayerischen Landesamt für Denkmalpflege (BLfD) konnten zuletzt auch vertiefende Planungen abgestimmt werden (Modul 3), die mit 80% bezuschusst werden.\n\n   Modul 3.1 - Generalsanierung Untere Ringstraße 2 (Konzept liegt bereits vor und kann als Baugenehmigung fortgeschrieben werden)\n\n   Modul 3.2 - Statisches Konzept Untere Ringstraße 2\n\n   Modul 3.3 - Neubau Friedrich-Ebert-Straße                 28   (Neubau   von   Senioren/Sozialwohnungen mit Parkgarage, LPH 1+2+3)\n\n   Modul 3.4 - Generalsanierung Friedrich-Ebert-Straße 22/24 (Bestandsaufnahme, Sanierungskonzept und Kostenschätzung in Anlehnung an LPH 1+2+3, speziell für Wohnungsbaugesellschaft Langenzenn)\n\n   Modul 3.5 - Quartiers-Energiekonzept (Sektorgekoppeltes, realisierbares Energieversorgungskonzept)\n\n   Modul 3.6 - Vermessung Rosenstraße (Vermessung eines Kellers mit vermutlicher Anbindung an die Stadtmauer)\n\n   Modul 3.7 - Generalsanierung Friedrich-Ebert-Straße 39 (Bestandsvermessung, Verformungsgerechtes Aufmaß, Bestandspläne Modernisierungsstudie)\n\n   Modul 3.8 - Geologie Untere Ringstraße 2 / Neubau Friedrich-Ebert-Straße 28\n\nDiese Planungen können künftig für Eigentümer und Bauherren zur Verfügung gestellt werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.3.",
+        "title": "Sachstandsbericht; Schießhausplatz; Zennquerung - Neubau Düker",
+        "facts": "Die Arbeiten verlaufen plan- und termingemäß.\n\nAktuell sind sowohl die Wasserleitung, als auch die neue Kanaltrasse unter der Zenn gebohrt. Anfang KW 30/2025 wird voraussichtlich die Kanalleitung eingezogen.\n\nNach aktuellem Fortschritt könnten die Kanal- und Leitungsbauarbeiten am Schießhausplatz Ende August abgeschlossen werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Hallenbad Langenzenn; hier: Mitteilung zur Prüfung auf Denkmaleigenschaft",
+        "facts": "Die Verwaltung informiert, dass bislang noch keine Entscheidung des Bayerischen Landesamtes für Denkmalpflege zur Feststellung der Denkmaleigenschaft des Hallenbades getroffen wurde. Das Ergebnis steht noch aus. Auf eine Nachfrage beim Bayerischen Landesamt für Denkmalpflege wurde am 17.07.2025 mitgeteilt, dass mit einer Entscheidung erst im vierten Quartal 2025 zu rechnen ist.\n\nZu diesem Sachverhalt ist folgende Stellungnahme eingegangen:\n\n„Sehr geehrter ….\n\nIhre Rückfrage, bis wann mit einem Ergebnis zum Langenzenner Hallenbad gerechnet werden könne, haben wir an die zuständige Stelle beim Bayerischen Landesamt für Denkmalpflege weitergeleitet.\n\nVon dort haben wir heute die Mittelung erhalten, dass die denkmalfachliche Bewertung des Mitte der 1970er Jahre errichteten kleinstädtischen Hallenbades aufwendigere Untersuchungen erfordert. Da es zu dieser Bauaufgabe kaum Forschungsliteratur gibt, gestaltet sich die Recherche, die zwingend den bayernweiten und nach Möglichkeit auch einen deutschlandweiten Vergleich mit einbeziehen muss, als zeitaufwendig.\n\nAls Prognose wurde uns vom Bayerischen Landesamt für Denkmalpflege mitgeteilt, dass mit einem belastbaren Ergebnis deshalb voraussichtlich erst im IV. Quartal zu rechnen ist.“",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "LKW-Verkehr in der Drosselstraße",
+        "facts": "Stadträtin Ritter weist darauf hin, dass in der Straße „Amselschlag“ Hinweise auf eine Sackgasse fehlen. Die Problematik ist hier, dass LKW in die Straße fahren, nicht wenden können und somit wieder rückwärts hinausfahren müssen.\n\nDie Verwaltung wird um Prüfung gebeten, ob entsprechende Verkehrsschilder als Hinweis für eine Sackgasse angebracht werden können."
+      },
+      {
+        "number": "8.2.",
+        "title": "Pflanzenrückschnitt in der Sudetenstraße",
+        "facts": "Stadtrat O. Vogel bemängelt, dass in der Sudetenstraße Hecken und Bäume aus öffentlichen Anwesen in den Gehweg ragen und dieser somit teilweise blockiert wird.\n\nDie Verwaltung teilt mit, dass der Sachverhalt an die entsprechende Stelle weitergegeben wird."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176960",
+    "minutes": "178622"
+  }
+}

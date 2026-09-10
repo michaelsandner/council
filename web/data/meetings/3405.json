@@ -1,0 +1,26 @@
+{
+  "meetingId": "3405",
+  "announcement": {
+    "heading": "36. Sitzung des Werkausschusses",
+    "sessionNumber": 36,
+    "date": "2026-02-26",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. Februar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "182263"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "meetingId": "3263",
+  "announcement": {
+    "heading": "31. Sitzung des Werkausschusses",
+    "sessionNumber": 31,
+    "date": "2025-01-29",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Betriebsgebäude Stadtwerke; hier: Sachstandsbericht Umzug etc."
+      },
+      {
+        "number": "3.",
+        "title": "Hallenbad Langenzenn; hier: Information zu Benutzungsgebühren für und deren mögliche Anpassung"
+      },
+      {
+        "number": "4.",
+        "title": "Hallenbad Langenzenn; hier: Stellungnahme zum Artikel in der Tagespresse am 11.01.2025 bzgl. Sanierung"
+      },
+      {
+        "number": "5.",
+        "title": "Hallenbad Langenzenn; hier: weitere Vorgehensweise"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der Öffentliche Teil der Sitzung beginnt ca. 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "22. Januar 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "31. Sitzung des Werkausschusses",
+    "sessionNumber": 31,
+    "date": "2025-01-29",
+    "startTime": "16:00",
+    "endTime": "17:26",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 1"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "Vertreter für O.Vogel"
+          },
+          {
+            "name": "Schramm, Alexander",
+            "note": "Vertreter für T.Ziegler"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Betriebsgebäude Stadtwerke; hier: Sachstandsbericht Umzug etc.",
+        "facts": "Erstmalig wurde der Werkausschuss in der Sitzung am 24.10.2024 über den Sachstand bzgl. des Umzuges in das neue Betriebsgebäude in der Kapell-Leite 1 informiert. Damals wurde noch davon ausgegangen, dass der Aufbau der IT-Infrastruktur einfacher zu gestalten ist, insbesondere der Anschluss der Glasfaserleitungen durch die verschiedenen Provider, und dass ein Umzug evtl. bis Ende 2024 denkbar erscheint.\n\nLeider war alleine der Internet-Anschluss durch die verschiedenen Provider sehr problematisch und ist immer noch nicht endgültig ausgestanden (Stand 20.01.2025), so dass nur punktuell die Verbindungen zwischen den Serverräumen getestet werden konnte. Die Stadtwerke arbeiten aber zusammen mit der IT-Abteilung sehr intensiv daran, die IT-Struktur in das neue Betriebsgebäude zu bringen.\n\nWeiterhin wurde im Rahmen der beantragten Nutzungsänderung festgestellt, dass der vorherige Eigentümer sich nicht an die Vorgaben des Bebauungsplanes für das Freistellungsverfahren gehalten hat, so dass ein normaler Bauantrag für die Nutzungsänderung beim Landratsamt Fürth eingereicht werden musste.\n\nDie Technik der Stadtwerke ist mit ihren Lagerstätten soweit umgezogen, dass ein provisorischer Betrieb möglich ist, die Verwaltung der Stadtwerke ist leider doch sehr stark von der IT-Struktur abhängig, so dass ein Umzug eher im Februar wahrscheinlicher erscheint.",
+        "decision": "Der Werkausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Hallenbad Langenzenn; hier: Information zu Benutzungsgebühren für und deren mögliche Anpassung",
+        "facts": "Der Stadtrat der Stadt Langenzenn hat in seiner Sitzung am 09.01.2020 beschlossen, dass für die Benutzung durch Schulen, je Unterrichtsstunde (45 Min.) und je Übungseinheit 33,25 € (incl. 7%) an den jeweiligen Sachaufwandsträger in Rechnung zu stellen ist. Für die Nutzung der gesamten Wasserfläche des Hallenbades (5 Bahnen) fallen daher 66,50 € je Unterrichtsstunde an. Diese Benutzungsgebühren für Schulen sind – wie sicherlich erwartbar – nicht kostendeckend. Der Gemeinderat des Marktes Wilhermsdorf hat in seiner Dezember-Sitzung beschlossen, dass alle Schulen, die das Hallenfreibad Wilhermsdorf nutzen, nunmehr einheitlich mit einem Pauschalsatz von 200,00 €/Std. (netto) abgerechnet werden, dies sind 214,00 €/Std. brutto. Mit den Benutzungsstunden der Schulen, die das Hallenbad Langenzenn im Jahr 2024 genutzt haben, könnte bei einer Anpassung der Benutzungsgebühren im Hallenbad Langenzenn auf 100 € netto je Unterrichtsstunde (45 Min.) und je Übungseinheit ein voraussichtlicher Mehrerlös von rund 53 T€ pro Jahr erwirtschaftet werden. Auch wären mit einer Anpassung der Benutzungsgebühren für Schulen eine gleichartige Behandlung der Schulen für die Nutzung von Schulschwimmbädern im nördlichen Landkreis gewährleistet. Die Verwaltung bittet um Mitteilung ob eine Anpassung der Benutzungsgebühren für Schulen rückwirkend zum 01.01.2025 in Betracht gezogen und ausgearbeitet werden soll.",
+        "decision": "Der Werkausschuss nimmt Kenntnis und beauftragt die Verwaltung die Anpassung der Benutzungsgebühren rückwirkend zum 01.01.2025 als Beschlussempfehlung für die Stadtratssitzung am 13.02.2025 aufzubereiten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Hallenbad Langenzenn; hier: Stellungnahme zum Artikel in der Tagespresse am 11.01.2025 bzgl. Sanierung",
+        "facts": "In den Fürther Nachrichten vom 11.01.2025 wurde über das Hallenbad Langenzenn unter der Überschrift „Hallenbad Langenzenn: Warum Architekt Wolfram Heid das Werk seines Vaters gerne erhalten möchte – Sanierung ist wirtschaftlicher“ berichtet. Vorangestellt gilt es zu erwähnen, dass es bislang keine Beschlüsse bzw. Bestrebungen gab, das Hallenbad vollständig abzureißen. Es wurde jedoch in der Sitzung des Werkausschusses im März 2024 umfassend über das Hallenbad Langenzenn durch die Werkleitung berichtet. Dabei wurden auch die Handlungsalternativen „Sanierung-Neubau-Schließung“ offen angesprochen. Letztendlich ist möglicherweise mit einer Schließung natürlich auch ein Rückbau bzw. ein Abriss verbunden, dieser Sachverhalt wurde ebenfalls aufgegriffen. Es ist aber unverständlich, wenn aus Sicht des Architekten nur der rein energetische Sachverhalt des Hallenbades als Argument „pro Sanierung“ betrachtet wird, weil im Rohbau 40-50 % des gesamten Energieaufkommens stecken. Es steht außer Frage, dass neu geplante und zu errichtende Bäder einen ganz anderen Standard aufweisen wie ein Hallenbad aus den 70er Jahren, deshalb muss die Frage gestellt werden, ob es vernünftig ist ein nahezu fünfzig Jahre altes Bad auf das gleiche Niveau zu heben, wenn ein Neubau aus gesamt energetischer Sicht vielleicht sinnvoller wäre. Auch stellt sich die Frage, wenn dies technisch möglich ist dann zu welchen Kosten. Unabhängig davon gilt es festzuhalten, dass weder ein Neubau noch eine Sanierung derzeit von den Stadtwerken Langenzenn bzw. der Stadt Langenzenn finanziell gestemmt werden können. Weiterhin gilt es ausdrücklich zu erwähnen, dass weder die Stadtwerke Langenzenn noch der Stadtrat der Stadt Langenzenn Vorschläge für Instandhaltungen abgeschmettert haben. Wie auch bereits im Vortrag der Werkleitung im März 2024 ausdrücklich dargestellt war eine Sanierung in drei Abschnitten geplant, wobei jedoch eine europaweite Ausschreibung für alle Gewerke nach Information der Regierung von Mittelfranken ausdrücklich erforderlich ist, die jedoch durch die Problematik „Urheberrecht“ nicht möglich war.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Hallenbad Langenzenn; hier: weitere Vorgehensweise",
+        "facts": "Dieser Punkt wird zu einem anderen Zeitpunkt behandelt."
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "171982",
+    "minutes": "173358"
+  }
+}

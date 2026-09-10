@@ -1,0 +1,286 @@
+{
+  "meetingId": "3286",
+  "announcement": {
+    "heading": "52. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 52,
+    "date": "2025-03-13",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Information zur Interessengemeinschaft Wasserstoff im Landkreis Fürth hier: Aktueller Stand"
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf denkmalschutzrechtlicher Erlaubnis zum Abbruch des ehemaligen Bauernhauses auf dem Grundstück Wilhermsdorfer Str. 8"
+      },
+      {
+        "number": "2.2.",
+        "title": "Bauvoranfrage zur Errichtung eines Austragshauses auf dem Grundstück In Hausen"
+      },
+      {
+        "number": "2.3.",
+        "title": "Bauvoranfrage zur Nutzungsänderung einer Scheune auf dem Grundstsück Greimersdorfer Weg 1"
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Wohnbauentwicklung Westlich der Reichenberger Straße; hier: Vorstellung Rahmenkonzept"
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Aktuelle Verkehrssperrungen / Baustellen"
+      },
+      {
+        "number": "4.2.",
+        "title": "Verkehrsanlagen Langenzenn: Baugebiet Nr. 53 \"Stinzendorf Südwest\"; hier: Anbringung eines Verkehrsspiegels"
+      },
+      {
+        "number": "5.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "5.1.",
+        "title": "Feuerwehr Keidenzell - Errichtung eines Geräteraums inkl. einer überdachten Bushaltestelle; hier: Sachstandsbericht"
+      },
+      {
+        "number": "5.2.",
+        "title": "Badestelle Keidenzell; hier: Instandsetzungsarbeiten für Übergabe an Verein"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "7. März 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "52. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 52,
+    "date": "2025-03-13",
+    "startTime": "16:00",
+    "endTime": "16:54",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Ritter, Margit",
+            "note": "zu 2.2, ab 16:03 Uhr"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Roscher, Klaus",
+            "note": "für Stadtrat Sieber"
+          },
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "für Stadträtin Ritter"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Vogel, Markus",
+            "note": "ab 2.1, ab 16:02 Uhr"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Information zur Interessengemeinschaft Wasserstoff im Landkreis Fürth hier: Aktueller Stand",
+        "facts": "Im Landkreis Fürth hat sich eine Interessensgemeinschaft zusammengeschlossen, um die Möglichkeiten einer regionalen Wasserstoffwirtschaft zu ermitteln.\n\nIm ersten Schritt wurde dazu eine Potentialanalyse erstellt. Über diese Ergebnisse wurde im BUV am 25.06.2024 informiert.\n\nAm 25.02.2025 fand ein Austauschtreffen der Interessengemeinschaft im Landratsamt Fürth statt. Der Kreis der Anwesenden setzte sich zusammen aus Bürgermeistern, Leiter von Stadtwerken, Vertreter von Unternehmen und Landwirten.\n\nVorgestellt wurden die „Transferstelle Wasserstoff-Metropolregion Nürnberg hy+“ und eine größere Agri-PV Anlage, für die ein Landwirt mit Forschung und Unternehmen zusammenarbeitet um eine optimale Nutzung zu erreichen.\n\nEinen Überblick über aktuelle und geplante Wasserstoffprojekte in der Region ist in der angehängten Präsentation.\n\nIn der weiteren Diskussion kristallisierten sich folgende Themen als relevant für den Austausch bzw. das Netzwerk heraus: - Abnehmer für produzierten Wasserstoff finden - Bessere Vernetzung unter den Akteuren - Regelmäßig neue Informationen erhalten am „Ball bleiben“ - Vernetzung von Projekten in der Region ermöglichen; voneinander wissen und gemeinsam agieren - Nutzungen von Wasserstoff diskutieren: Heizen, Einspeisen ins Erdgasnetz, E- Mobilität, Wärmeplanung, Strom\n\nDarüber hinaus wurde über die zukünftige Ausrichtung dieses Netzwerkes diskutiert. Die Teilnehmerinnen und Teilnehmer sind sich einig, dass das Netzwerk weiterhin bestehen bleiben soll, wünschen sich aber eine breitere Ausrichtung. Das Thema „Wasserstoff“ ist ihnen zu kleinteilig, vielmehr soll es um Energie im Allgemeinen gehen. Zum Wasserstoff möchte die Gruppe auf dem Laufenden gehalten werden, aber der Fokus soll nicht mehr darauf liegen. Ziel ist: Energienetzwerke in der Region aufzuzeigen, voneinander zu lernen und Best Practice kennenzulernen, um dann ggf. gemeinsam im Landkreis Maßnahmen aufzugreifen.\n\nDie Regional- und Wirtschaftsförderung leitet weiterhin relevante Informationen, wie Veranstaltungen, Fördermöglichkeiten etc. von externen Stellen weiter. Zudem organisiert sie 2-3 Treffen für das Netzwerk, mal mit inhaltlichem Input sowie einer Exkursion zu einem Best Practice.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf denkmalschutzrechtlicher Erlaubnis zum Abbruch des ehemaligen Bauernhauses auf dem Grundstück Wilhermsdorfer Str. 8",
+        "facts": "Antrag auf denkmalschutzrechtlicher Erlaubnis zum Abbruch des ehemaligen Bauernhauses auf dem Grundstück Flur-Nr. 42, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.2.",
+        "title": "Bauvoranfrage zur Errichtung eines Austragshauses auf dem Grundstück In Hausen",
+        "facts": "Bauvoranfrage zur Errichtung eines Austragshauses auf dem Grundstück Flur-Nr. 1288, Gemarkung Horbach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.3.",
+        "title": "Bauvoranfrage zur Nutzungsänderung einer Scheune auf dem Grundstsück Greimersdorfer Weg 1",
+        "facts": "Bauvoranfrage zur Nutzungsänderung einer Scheune in Wohnraum und einer Nutzungsänderung eines Gebäudes zu Garagen auf dem Grundstück Flur-Nr. 1085, Gemarkung Horbach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Wohnbauentwicklung Westlich der Reichenberger Straße; hier: Vorstellung Rahmenkonzept",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 23.07.2024 im Zuge der Vergabe zur schalltechnischen Untersuchung des Bebauungsplanes Nr. 86 „KiTa Reichenberger Straße“ eine Machbarkeitsuntersuchung zur Wohnbebauung „Westlich der Reichenberger Straße“ in Auftrag gegeben\n\nDas Ergebnis der Machbarkeitsuntersuchung liegt nunmehr vor und wurde in Ratsinformationssystem eingestellt.\n\nAus schallimmissionsschutzrechtlicher Sicht ist eine geplante städtebauliche Entwicklung als allgemeines Wohngebiet (WA) denkbar. Aufgrund der Verkehrs- und Anlagengeräusche ist eine Umsetzung durch entsprechende Maßnahmen der architektonischen Selbsthilfe (z.B. Grundrissorientierung in Verbindung mit konstruktiven Schallschutzmaßnahmen durch Einbau von Lüftungsfenster etc.) als machbar einzustufen.\n\nDurch das Büro Grosser-Seeger, Nürnberg, wurden hierzu zwei Rahmenkonzepte (Variante 1 und 2) mit unterschiedlichen Erschließungsmöglichkeiten ausgearbeitet. Da es sich lediglich um ein Rahmenkonzept handelt, wird auf folgendes explizit hingewiesen:  Aufgrund der Hanglage mit umfangreichen Geländemodellierungen und erhöhten Erschließungskosten zu rechnen.  Vertiefende Fachplanungen, auf Grundlage von Bestandsvermessungen sowie Baugrunduntersuchungen, sind zwingend erforderlich.  Steile Straßenneigungen von bis zu ca. 20 % sind nicht auszuschließen.  Die Erschließungsvorschläge sind diesbezüglich vertieft in einem weiteren Schritt zu prüfen.\n\nDie Verwaltung teilt mit, dass die Erschießungsvariante 2 durch die Anbindung von ggf. privaten Stichstraßen die kostengünstigere Variante darstellt und empfiehlt diese weiter zu verfolgen. Entsprechende Grundstücksverhandlungen wären zudem noch zu führen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis vom Rahmenkonzept. Die Verwaltung wird beauftragt, aufgrund der Erschließungsvariante 2 entsprechende Grundstücksverhandlungen zu führen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Aktuelle Baustellen/Verkehrssperrungen",
+        "facts": "   Obere Ringstraße 17 / Vollsperrung Gehweg / Montage einer PV-Anlage vom 14.04.- 17.04.2025\n\n   Hardgraben 8/ Halbseitige Sperrung Fahrbahn / Behebung Wasserrohrbruch vom 10.03.-14.03.2025    Vollsperrung Fahrbahn im OT Lohe Im Gründl 25 ggü. /Err. EFH; Kellerbau mittels Kran vom 24.03.-15.04.2025    Laubendorf Dürrnbucher Str. 7/ Halbseitige Sperrung Fahrbahn / Arbeiten an Wasserleitung, Stilllegung Schieber vom 13.3.-14.3.2025    Mühlsteig 22 / halbseitige Sperrung Fahrbahn, Sperrung Gehweg und Sperrung Parkplätze wegen Anlieferung PV-Anlagenteile mit Autokran am 21.03.2025\n\n   Friedrich-Ebert-Str. 22-24 / Sperrung Parkplätze wegen Anlieferung bei Uni Credit am 21.03.2025\n\n   Schulstraße Ecke Tilsiter Str. halbseitige Sperrung Fahrbahneinengung / Arbeiten an Wasserleitung, Neuverlegung vom 10.03.-22.03.2025\n\n   Hindenburgstr. 44-46 / Sperrung Gehweg / Sanierung MFH / SN Baustelleneinrichtung, Baukran bis 30.08.2025\n\n   Wilhermsdorfer Straße 8/ halbseitige Sperrung Fahrbahn / Absicherung einsturzgefährdetes Gebäude, Sicherung Straße bis 11.04.2025\n\n   Falkenstraße 24/ halbseitige Sperrung Fahrbahn / Aufstellung Container Kellersanierung vom 28.02.-02.06.2025\n\n   Hindenburgstraße 18 /Wohnhaus Sanierung_ Sperrung Gehweg/ 01.02.-30.04.25\n\n   Im Kessel 2a /halbseitige Sperrung Fahrbahn, Teilweise Sperrung Gehweg/ Gasanschluss/ vom 20.3-28.3.25",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.2.",
+        "title": "Verkehrsanlagen Langenzenn: Baugebiet Nr. 53 \"Stinzendorf Südwest\"; hier: Anbringung eines Verkehrsspiegels",
+        "facts": "Die Verwaltung teilt mit, dass im Rahmen des Bebauungsplanverfahrens zum Neubaugebiet Nr. 53 „Stinzendorf Südwest“ die Errichtung eines Verkehrsspiegels angeregt wurde.\n\nDie Verkehrsfachbehörden stehen grundsätzlich einer Aufstellung eines Verkehrsspiegels nicht entgegen, da die Entscheidung über Spiegel durch den Straßenbaulastträger zu erfolgen hat, weisen aber auf die Schwächen von Verkehrsspiegeln hin, die möglicherweise gefährliche Situationen im Straßenverkehr begünstigen könnten (verzerrtes Bild, beschlagene Spiegel etc.) Hier kommt es auf die Sichtverhältnisse im Einmündungsbereich an. Ein Unfallschwerpunkt liegt nicht vor.\n\nAus Sicht des Straßenbaulastträgers kann eine Aufstellung erfolgen. Die Sicht aus dem Neubaugebiet in Richtung Süden ist durch die Dorfscheune extrem eingeschränkt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Vorschlag der Verwaltung zu. Der Straßenbaulastträger wird mit der Aufstellung eines Verkehrsspiegels an geeigneter Stelle beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "5.1.",
+        "title": "Feuerwehr Keidenzell - Errichtung eines Geräteraums inkl. einer überdachten Bushaltestelle; hier: Sachstandsbericht",
+        "facts": "Der Tagesordnungspunkt wurde in der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 25.02.2025 behandelt und mit 5:3 Stimmen vertagt.\n\n„Anfang 2024 fand ein Gespräch zwischen Stadtbauamt und den Verantwortlichen der Feuerwehr Keidenzell statt. Dabei wurde das von der Feuerwehr gewünschte „Bauvorhaben“ besprochen.\n\nAuf Anregung der FFW Keidenzell fand ein weiterer gemeinsamer Abstimmungstermin Anfang November 2024 mit dem Stadtbauamt zur konkreten Standortbestimmung des Erweiterungsbaus der Feuerwehr Keidenzell statt.\n\nEs handelt sich hierbei im Wesentlichen um eine „Fertiggarage“ am Parkplatz vor dem Feuerwehrhaus mit einer Grundfläche von rund 25-30 Quadratmetern. Die Fassadengestaltung erfolgt dreiseitig als Putzfassade, an der Nordseite zum Straßenraum mit Holzverkleidung und mit einem begrünten Flachdach. Auf der Nordseite soll eine überdachte Bushaltestelle mit Sitzplätzen zur vorhandenen Brunnenanlage errichtet werden.\n\nDie Leistungsphasen 1 -2 (Grundlagenermittlung und Entwurfsplanung) wurden Ende November an das Planungsbüro Planquadrat, Langenzenn vergeben. Weiterhin wurden die Anregungen und Wünsche der Feuerwehr Keidenzell aufgenommen.\n\nSämtliche Ergebnisse wurden in die Entwurfsplanung eingearbeitet. In diesem Zuge wurde auch die Kostenschätzung (u.a. der Gewerke Fertigteilgarage, Erd-/Rohbau, Elektro, Bushaltestelle, Zimmerarbeiten) erstellt. Die Leistungsphasen 1-2 sind somit abgeschlossen.“\n\nDas Stadtbauamt hat bereits Angebote der o.g. Gewerke eingeholt und teilweise um unverbindliche Angebote gebeten. Inzwischen liegen auch die Kosten für die Erd-/Rohbauarbeiten vor. Daraus ergibt sich nachfolgende Gesamtkostenaufstellung (gerundet):\n\n   Fertiggarage                    17.700 Euro    Erd-/Rohbau                     20.000 Euro    Bushaltestelle                  10.200 Euro    Zimmererarbeiten                 3.500 Euro    Elektro                          2.400 Euro    Planungsleistung                 1.200 Euro 55.000 Euro\n\n„Das Bauvorhaben ist gemäß Art. 57 Abs. 1 Nr. 1 BayBO als Gebäude mit einem Bruttorauminhalt bis zu 75 m³ genehmigungsfrei. Aufgrund des nahestehenden Einzeldenkmals ist ein Antrag auf denkmalrechtlichen Erlaubnis zu stellen.“\n\nDie denkmalrechtliche Erlaubnis liegt mit Schreiben vom 06.03.2025 inzwischen vor. Darin wird explizit auch eine Verkleidung der Nordfassade gefordert.\n\n„Im Haushaltsplan 2024 waren unter HH-Stelle 1.1300.9450 Finanzmittel in Höhe von 30.000 Euro für den Baukörper eingestellt. Für die Grünanlagen und die Bushaltestelle sind im Haushaltsplan 2025 unter HH-Stelle 1.5800.9510 Mittel in Höhe von 20.000 Euro und unter HH-Stelle 0.7911.5000 Mittel in Höhe von 10.000 Euro vorgesehen.“\n\nIm Rahmen der Gesamtmaßnahme sollen zunächst nur die Bauleistungen beauftragt und erbracht werden, die für den Geräteraum erforderlich sind. Dies wären die Fertiggarage, teilweise die Erd- und Rohbauarbeiten, die Zimmererarbeiten sowie die Elektroarbeiten. Die Kosten hierfür belaufen sich auf brutto rund 32.000 Euro.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt zunächst nur die Umsetzung des Geräteraums für die Feuerwehr Keidenzell.\n\nDie notwendigen Finanzmittel in Höhe von 30.000 Euro für den Baukörper sind im Haushaltsplan 2024 unter HH-Stelle 1.1300.9450 eingestellt und aktuell verfügbar.\n\nDie Beschlüsse zur möglichen Errichtung der Bushaltestelle erfolgen gesondert in den Haushaltsberatungen 2025. Die notwendigen Finanzmittel in Höhe von rund 25.000 Euro sind dann für den Haushalt 2025 einzuplanen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.2.",
+        "title": "Badestelle Keidenzell; hier: Instandsetzungsarbeiten für Übergabe an Verein",
+        "facts": "Aktuell werden / wurden an der Badestelle die Zimmerer- und Maurerarbeiten ausgeführt. Die Zimmererarbeiten – speziell im Bereich der Betonquader - werden nach den Baumeisterarbeiten auch wieder fortgesetzt.\n\nDie Spachtelarbeiten an den Betonquadern wurden am 10.03.2025 fertiggestellt. Hierfür wurde das Wasser im Flachwasserbereich abgelassen und die Fläche vom Schlamm gereinigt. Eine weitere Reinigung dieses Bereichs fand am 10.03.2025 statt. Die Wiederbefüllung der Flachwasserzone ist nach Trocknungszeit ab spätestens 12.03.2025 vorgesehen.\n\nDie Teichbaufirma zur Ausführung der Pflege - und Wartungsarbeiten hat sich inzwischen beim Bauamt gemeldet und die Grundreinigung ab ca. KW 13 angekündigt. Da auch für den Austausch der Skimmer der Wasserstand gesenkt werden muss können diese Arbeiten zeitgleich ausgeführt werden. Hierzu unterstützen auch Feuerwehr, Stadtwerke und Bauhof.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "6.1.",
+        "title": "Teilsanierung Grundschule Langenzenn; Vergabe Mobile Trennwände; hier: Mitteilung der Auftragsvergabe",
+        "facts": "In der Sitzung vom 22.02.2024 hat der Bau-, Umwelt- und Verkehrsausschuss den ersten Bürgermeister bzw. dessen Vertreter im Amt zur Vergabe der Bauleistung „Mobile Trennwand“ für die Teilsanierung der Grundschule Langenzenn ermächtigt.\n\nIm Angebotsverfahren wurden insgesamt 5 Angebote abgegeben.\n\nDas wirtschaftlichste Angebot hat dabei die Firma BLS GmbH & Co. KG, Wölfersheim, in Höhe von brutto 12.807,97 Euro abgegeben. Die Auftragsvergabe erfolgte am 18.03.2024.\n\nDer Ausführungszeitraum beläuft sich von Mitte bis Ende Mai 2024.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.2.",
+        "title": "Städtischer Bauhof - Baumkontrollen und -unterhalt; hier: Baumfällungen an der Hochstraße",
+        "facts": "Die Verwaltung wurde von Seiten der N-ERGIE darüber informiert, dass in dem Gebiet der Hochstraße Obstbäume zu nahe an die Stromleitungen gewachsen sind und daher die Sicherheitsabstände zu den Leitungen nicht mehr eingehalten werden.\n\nDer Bauhof hat diese Bäume nun entfernt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "7.1.",
+        "title": "Zustand Gehweg Hindenburgstraße auf Höhe des Anwesens Hs.-Nr. 18",
+        "facts": "Stadtrat O.Vogel weist auf den Zustand des Gehweges im Bereich der Baustelle Hindenburgstraße 18 hin. Es sind starke Verschmutzungen evtl. auch Beschädigungen sichtbar. Er bittet bei Abnahme der Baustelle ein besonderes Augenmerk auf die Widerherstellung des ursprünglichen Zustands zu legen."
+      },
+      {
+        "number": "7.2.",
+        "title": "Verunreinigung am Flurweg Richtung Eichensee Burggrafenhof",
+        "facts": "Stadtrat Roscher informiert darüber, dass am Flurweg Burggrafenhof Richtung Eichensee auf Höhe des einzelnen Baumes (Nähe Fl.-Nr. 1136, Gemarkung Keidenzell) großflächig Verschmutzungen am Fahrbahnrand und am Entwässerungsgrabens festgestellt wurden. Er bittet um Überprüfung."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "173237",
+    "minutes": "178609"
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "meetingId": "3200",
+  "announcement": {
+    "heading": "36. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 36,
+    "date": "2023-10-24",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Hochwasserschutz Zenn, hier: Stand Umsetzung Planungskonzept"
+      },
+      {
+        "number": "3.",
+        "title": "Kommunaler Klimaschutz hier: Projektvorstellung Klix³"
+      },
+      {
+        "number": "4.",
+        "title": "Überflutungsvorsorge bei Hochwasser und Starkregen; hier: Vorstellung Auditbericht"
+      },
+      {
+        "number": "5.",
+        "title": "Integrales Konzept zum kommunalen Sturzflut-Risikomanagement hier: aktueller Stand Ausschreibeverfahren"
+      },
+      {
+        "number": "6.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "6.1.",
+        "title": "Kommunale Verkehrsüberwachung; hier: Sachstandsbericht"
+      },
+      {
+        "number": "6.2.",
+        "title": "Antrag des Stadtrates O. Vogel auf Errichtung eines stationären Blitzers in Langenzenn Höhe Finkenschlag"
+      },
+      {
+        "number": "6.3.",
+        "title": "Anfrage des Seniorenrates auf Anbringung eines Straßenpfostens im Bereich An der Bahn"
+      },
+      {
+        "number": "6.4.",
+        "title": "Buslinien; hier: Fortführung des Fahrplanes für 2024 und Einbahnstraßenregelung Altstadt"
+      },
+      {
+        "number": "6.5.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Sachstand der Entwurfsplanungen"
+      },
+      {
+        "number": "7.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "7.1.",
+        "title": "24. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 84 \"FF-PV-Anlage Kirchfembach am Oberfembacher Weg; hier: Vorstellung des Vorentwurfes"
+      },
+      {
+        "number": "7.2.",
+        "title": "Aufstellung des Bebauungsplanes Nr. 81 \"Klaushofer Weg / Zollnerstraße\"; hier. Vorstellung des Rahmenplanes"
+      },
+      {
+        "number": "7.3.",
+        "title": "23. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 83 \"Agri-PV Göckershof\" im Parallelverfahren; hier: Aufhebung des Aufstellungsbeschlusses"
+      },
+      {
+        "number": "8.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "8.1.",
+        "title": "Antrag auf Ausbau eines Dachgeschosses und Errichtung von Dachgauben auf dem Grundstück Laubendorfer Weg 10"
+      },
+      {
+        "number": "8.2.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung einer Terrassenüberdachung aus Holz auf dem Grundstück Mühlberg 5"
+      },
+      {
+        "number": "8.3.",
+        "title": "Antrag zum Bau eines Gartenhauses auf dem Grundstück Kulmbacher Str. 3"
+      },
+      {
+        "number": "8.4.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer PV-Anlage auf dem Grundstück Würzburger Str. 14"
+      },
+      {
+        "number": "8.5.",
+        "title": "Tekturantrag zum Umbau und Sanierung der bestehenden Gebäude zu 7 Wohneinheiten auf dem Grundstück Ansbacher Str. 28"
+      },
+      {
+        "number": "8.6.",
+        "title": "Antrag zur Errichtung einer Werbeanlage auf dem Grundstück Nürnberger Str. 46"
+      },
+      {
+        "number": "8.7.",
+        "title": "Antrag zur Anbringung eines Stabmattenzaunes auf dem Grundstück Brandenburger Str. 23"
+      },
+      {
+        "number": "8.8.",
+        "title": "Antrag zur Erweiterung der bestehenden landwirtschaftlichen Maschinenhalle mit bestehenden Solardach - Überdachung der bestehenden Güllgrube auf dem Grundstück Peterstrich"
+      },
+      {
+        "number": "8.9.",
+        "title": "Antrag auf Umnutzung eines Gewerbegebäudes in eine Wohnung auf dem Grundstück Hardgraben 3a"
+      },
+      {
+        "number": "8.10.",
+        "title": "Vollzug des Bundesimmissionsschutzgesetzes (BImSchG); hier: Antrag auf immissionsschutzrechtliche Neugenehmigung (§§ 4,19 BImSchG) zur Errichtung und Inbetriebnahme von zwei Flüssiggasanlagen auf dem Grundstück Fl.Nr. 675, Gem. Keidenzell, Deberndorfer Str. 50"
+      },
+      {
+        "number": "9.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "9.1.",
+        "title": "Bauwerksanierung 2023; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht und Kostenübersicht"
+      },
+      {
+        "number": "9.2.",
+        "title": "Brückenprüfung und Sanierungen; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr"
+      },
+      {
+        "number": "9.3.",
+        "title": "Straßenbeleuchtung; hier: Sachstandsbericht zu verschiedenen Maßnahmen"
+      },
+      {
+        "number": "9.4.",
+        "title": "Sachstandsbericht zum Winterdienst Ausblick 2023/2024; hier: Salzbestellung"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 17:00 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Oktober 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "36. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 36,
+    "date": "2023-10-24",
+    "startTime": "16:05",
+    "endTime": "18:45",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "2.",
+        "title": "Hochwasserschutz Zenn; hier: Stand Umsetzung Planungskonzept",
+        "facts": "Die Unterlagen zur Vergabe von Planungsleistungen wurden durch das WWA fertiggestellt. Für eine Veröffentlichung wird die Zustimmung der vorgesetzten Behörden benötigt.\n\nLeider ist die finanzielle Situation im Budget der Regierung im aktuellen Haushaltsjahr sehr angespannt, deshalb wurde die Priorisierung auf bereits laufende, also schon in fortgeschrittenen Planungen oder Bau befindlichen Hochwasserschutzprojekten gelegt.\n\nDamit sind die Haushaltsmittel der Regierung für das laufende Jahr erschöpft und eine Fortführung bzw. Aufnahme von Planungen im Hochwasserschutz Langenzenn in diesem Jahr leider nicht mehr möglich.\n\nAnfang des kommenden Haushaltsjahres 2024 werden von der Regierung und dem Ministerium erneut Projektpriorisierungen vorgenommen. Über das Ergebnis der Mittelzuweisungen wird das WWA zeitnah informieren, was voraussichtlich im Frühsommer 2024 sein wird.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Kommunaler Klimaschutz hier: Projektvorstellung Klix³ Der Tagesordnungspunkt wird vertagt."
+      },
+      {
+        "number": "4.",
+        "title": "Überflutungsvorsorge bei Hochwasser und Starkregen; hier: Vorstellung Auditbericht",
+        "facts": "Die DWA (Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V.) wurde nach Stadtratsbeschluss vom 07.04.2022 beauftragt, bei der Stadt Langenzenn ein Hochwasseraudit durchzuführen. Dieses fand statt am 15. und 16. März 2023.\n\nDie Ergebnisse werden in Form eines Auditberichts übermittelt. Der Auditor wird sie in der Stadtratssitzung am 7. Dezember 2023 vorstellen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Integrales Konzept zum kommunalen Sturzflut-Risikomanagement hier: aktueller Stand Ausschreibeverfahren",
+        "facts": "Die Stadt Langenzenn wurde im Juli 2021 vor Augen geführt, welche Auswirkungen Starkregenereignisse nach sich ziehen können.\n\nUm auf künftige Ereignisse besser vorbereitet zu sein, soll ein „Integrales Konzept zum kommunalen Sturzflut-Risikomanagement“, welches sowohl Hochwasser aus Fließgewässern als auch sogenanntes „wild abfließendes Wasser“ berücksichtigt, erstellt werden. Dies wurde vom Stadtrat in der Sitzung am 07.04.2022 beschlossen.\n\nAuf Grund des Umfangs und der Deckelung der Förderkosten wurde dazu das Stadtgebiet in drei Bereiche aufgeteilt, so dass insgesamt drei Konzepte erstellt werden, jeweils für das Gebiet Langenzenn Nord, Langenzenn Mitte und Langenzenn Süd. Wie im Beschluss festgelegt, wurden daraufhin drei Förderanträge gestellt. Die Zuwendungsbescheide liegen vor. Nach Beschluss im Ferienausschuss vom 03.08.2023 wurde das Ausschreibungsverfahren an IB Miller vergeben.\n\nSeitdem wurden die Ausschreibungsunterlagen erarbeitet und sind zurzeit in der letzten Feinabstimmung.\n\nDie Ausschreibung erfolgt bis Ende Oktober über das Portal Bay. Staatsanzeiger, e- Services, so dass im Laufe des Novembers Angebote eingestellt werden können. Die Auswertung der Angebote sowie die Wahl des Ingenieurbüros erfolgen im Anschluss, so dass bis Jahresende der Auftrag vergeben werden kann. Mit der Erarbeitung des Konzepts kann das beauftragte Ingenieurbüro dann im Januar beginnen. Geplante Laufzeit 1,5 Jahre.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "6.1.",
+        "title": "Kommunale Verkehrsüberwachung; hier: Sachstandsbericht Der Tagesordnungspunkt wird vertagt."
+      },
+      {
+        "number": "6.2.",
+        "title": "Antrag des Stadtrates O. Vogel auf Errichtung eines stationären Blitzers in Langenzenn Höhe Finkenschlag Der Tagesordnungspunkt wird vertagt."
+      },
+      {
+        "number": "6.3.",
+        "title": "Anfrage des Seniorenrates auf Anbringung eines Straßenpfostens im Bereich An der Bahn",
+        "facts": "Der Verwaltung liegt eine Anfrage des Seniorenrates Langenzenn vor.\n\nEs wird beobachtet, dass die Straße An der Bahn hinter der AWO-Seniorenbetreuung zunehmend, auch seit Einrichtung des Kreisverkehres, als Durchgangsstraße genutzt wird.\n\nDie Straße ist für den Anliegerverkehr zugelassen und endet in einem Wendehammer. Der P+R Parkplatz ist über die Zufahrt des Bahnhofes erreichbar und endet in einer Sackgasse.\n\nDer Seniorenrat hat darum gebeten eine Lösung zu finden, die Situation des Durchgangsverkehrs, der teilweise mit überhöhten Geschwindigkeiten die Straße passiert, zu verbessern.\n\nDie derzeitige Situation stellt für Besucher und für die Bewohner eine zunehmende Gefährdung dar.\n\nDas AWO-Seniorenheim würde es begrüßen, wenn die Straße An der Bahn mit einer Geschwindigkeitsbegrenzung auf Tempo 30 km/h versehen wird.\n\nDie AWO geht von durchschnittlich ca. 80 Fahrzeugen pro Tag an Besucher, Angestellte, Lieferverkehr aus. Im Sommer kann die Zahl etwas höher sein, so auch bezüglich der Zahl der Eisdielenbesucher. Für die ansässige Firma sollte man nach Einschätzung der AWO ebenfalls 10-20 Bewegungen dazu rechnen, sodass man insgesamt auf ca. 100 Fahrzeugen pro Tag kommt.\n\nFür weitere Abstimmungen wurden zwei Verkehrszählungen an zwei Standorten (1x direkt vor dem Hintereingang AWO und 1x direkt an der Schwelle des Wendehammers) an den Bauhof beauftragt.\n\nDie erste Messung mit dem Zählgerät in der Nähe des Hintereingangs AWO hat ergeben, dass täglich ca. 400 Fahrzeuge vorbeikommen, mit einer Durchschnittsgeschwindigkeit von 22 bis 32 km/h.\n\nIn 8 Tagen wurden ca. 2.900 Fahrzeuge erfasst. Insgesamt nur 1,3 % der Fahrzeuge war zu schnell unterwegs.\n\nDie zweite Messung mit dem Zählgerät an der Schwelle des Wendehammers hat ergeben, dass täglich ca. 590 Fahrzeuge vorbeikommen, mit einer Durchschnittsgeschwindigkeit von 19 bis 25 km/h.\n\nIn 8 Tagen wurden ca. 4.113 Fahrzeuge erfasst. Insgesamt nur 0,1 % der Fahrzeuge war zu schnell unterwegs.\n\nDurch Verkehrszeichen ist das Durchfahrtsverbot vom Bahnhof kommend, die Anzeige einer Sackgasse und das erlaubte Befahren nur durch den Anliegerverkehr klar geregelt. Eine polizeiliche Überwachung der Verkehrszeichen ist hier stichprobenartig jedoch nicht ausreichend und auch teilweise kaum durchzusetzen (Anlieger frei).\n\nAls mögliches Mittel wird nur eine optische Barriere zur Verdeutlichung der Verbotsbeschilderungen gesehen. Die Verkehrsfachbehörden haben hier die Absperrung mit zwei klappbaren Straßenpfosten empfohlen.\n\nDer Straßenbaulastträger folgt der Empfehlung teilweise und schlägt vor, einen Straßenpfosten anzubringen, sowie den Wendehammer mit Halteverboten zu versehen.\n\nZudem könnte eine Geschwindigkeitsbegrenzung auf Tempo 30 km/h gemäß StVO direkt vor der AWO angebracht werden, was lediglich die Verkehrsmessungen bestätigen würde, jedoch die Problematik des Durchgangsverkehrs nicht verbessern würde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung mit der Anordnung einer Geschwindigkeitsreduzierung auf 20 km/h vor dem Hintereingang der AWO Seniorenbetreuung. Die zuständige Polizeiinspektion wird um stichpunktartige Überwachung des Durchgangsverkehrs gebeten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.4.",
+        "title": "Buslinien; hier: Fortführung des Fahrplanes für 2024 und Einbahnstraßenregelung Altstadt",
+        "facts": "Mit Umstellung der Buslinien im Jahr 2022 wurden dem ÖPNV für den Fahrplanbetrieb 2023 Vorschläge zur Verbesserung unterbreitet. Der Stadtrat hat in seiner Sitzung am 15.09.2022 beigefügte Eckpunkte beschlossen.\n\nRückblickend auf den Fahrbetrieb 2023 konnte festgestellt werden, dass der Landkreis sowie auch die Busunternehmer mit dem Verlauf sowie den Änderungen zufrieden sind.\n\nDie Routen haben sich innerhalb des Probebetriebs bewährt, sodass auch die Empfehlung ist, die Einbahnstraßenregelungen weiterhin beizubehalten.\n\nDie Ausnahmegenehmigungen sind jährlich neu zu beantragen. Die Beantragung ist zwischenzeitlich erfolgt. Die Routen bleiben bestehen. Die Fahrten werden sich geringfügig ändern. (18 Fahrten am Stadtfriedhof statt 15; 13 Fahrten über die Sanktustorstraße statt 16; 8 Fahrten für den N 22 sind gleichgeblieben).\n\nAuf die Eckpunkte, sowie die jährliche Ausnahmegenehmigung und die Fahrplanbekanntgabe wird weiterhin verwiesen",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt den Buslinienverkehrs innerhalb der Kernstadt gemäß dem Fahrbetrieb 2023 weiterzuführen.\n\nDie Einbahnstraßenregelung in der Oberen Ringstraße und in der Straße Schreiberstorberg soll vom Probebetrieb in die feste Umsetzung gehen. Die Markierungsarbeiten sollen gemäß den Planungen (Skizzierung vom 06.07.2023) umgesetzt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.5.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Sachstand der Entwurfsplanungen",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 25.01.2023 u. g. Maßnahmen zur Umsetzung in einer gemeinschaftlichen Initiative mit dem Landkreis Fürth beschlossen.\n\nAuf Grundlage des Beschlusses wurde im Weiteren beschlossen, das Stadt- & Verkehrsplanungsbüro Kaulen mit den Planungen zu beauftragen.\n\nDer Planungsumfang für die nachfolgenden Maßnahmen enthält im Wesentlichen die Realisierung und Ertüchtigung von Fahrradwegen und Fahrradstraßen und Knotenpunkten mittels Ausbaumaßnahmen, Beschilderung und Markierung in der Planungstiefe einer Vorplanung. Die Ergebnisse der Planung dienen in einem weiteren Schritt als Grundlage für einen förderfähigen Ausbau.\n\n1) Rad-Pendlerroute in Ost-West-Richtung (1.3.1.1), Klaushofer Weg und Route durch Horbach (Maßnahmen 176, 160, 159, 158, 157, 117) als durchgängige Fahrradstraße, abschnittsweise ist dabei auch der Oberbau in Asphaltbauweise herzustellen, Maßnahmen für den landwirtschaftlichen Verkehr sind ebenfalls vorzusehen. Streckenlänge ca. 4,6 km. (Die Pendler-Route soll südlich, statt nördlich, der B8 verlaufen. Die Ortsdurchfahrt von Horbach soll ebenfalls geprüft werden, inwieweit diese bei geänderter Ost-West-Wegeführung notwendig erforderlich ist.)\n\n2) Verbindung zwischen Fuß- und Radweg am Klaushofer Weg über die B8 Brücke (1.3.1.2) bis zum Parkplatz am Waldrand (Maßnahmen 163, 233) eventuell als Fahrradstraße bzw. mit Abschnitten als verkehrsberuhigte Bereiche. Prüfung und Vorplanung eines Fuß- und Radwegs ab der Baugebiet in Richtung Klaushof mit Vorplanung der Wegeführung über die B8-Brücke. Streckenlänge ca. 1,4 km.\n\n3) Südliche Route durch Horbach (Maßnahme 111, 114, 115 und eventuell 116) mit Anschluss an die Pendlerroute 117 bis Auffahrt zur B8 (1.3.1.3) eventuell als Fahrradstraße bzw. mit Maßnahmen zur Reduzierung des Durchgangsverkehrs sowie Bau einer Querungshilfe in der Nürnberger Straße. Streckenlänge ca. 2,5 km.\n\n4) Fahrradweg nach Puschendorf (1.3.2) als überörtliche Verbindung (Maßnahme 64) abschnittsweise mit Oberbau in Asphaltbauweise, Maßnahmen für den landwirtschaftlichen Verkehr sind ebenfalls vorzusehen. Streckenlänge ca. 1,7 km.\n\n5) Veit-Stoß-Straße (1.3.3) im Bereich zwischen Nürnberger Straße und Flurstraße abschnittsweise als kombinierter Fuß- und Radweg (Maßnahme 110) bzw. unter Berücksichtigung einer Neuaufteilung der Verkehrsflächen. Streckenlänge ca. 1,1 km.\n\n6) Radwegeverbindung von der Kreuzung Windsheimer Straße/Würzburger Straße (1.3.4) über den Bahnübergang mit Ein- und Ausleitung Fahrradverkehr von der alten B 8 (Maßnahme 167, überwiegend Baulast Landkreis). Die Planung der Gesamtmaßnahme erfolgt zusammen mit dem staatlichen Bauamt unter Berücksichtigung der anstehenden Sanierung der Zennbrücke sowie der Fußgänger- und Radfahrerführung im Bereich zwischen den Kreuzungsbereichen „Schwaiger“ und Bahnübergang Hardhof. Die Baulast liegt im Wesentlichem beim Landkreis Fürth bzw. staatlichen Bauamt. Streckenlänge ca. 2,2 km. Die gesamte Verkehrssituation Knotenpunkt Windsheimer Straße (Kreuzung, Kreisverkehr oder ähnliches) soll geprüft und betrachtet werden).\n\n7) Entschärfung des Knotens Äußere Windsheimer Straße – Lohäckerstraße (1.3.5) als Gefahrenpunkt (Maßnahme ohne Benennung bei Landkreiskonzept, Nähe 194), Streckenlänge ca. 0,3 km.\n\n8) Abstellanlagen für den Bahnhof Laubendorf (1.4) im Rahmen einer Vorplanung für die Gestaltung von Abstellanlagen für Fahrräder, Fußgängerwege und Aufenthaltsflächen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "7.1.",
+        "title": "24. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 84 \"FF-PV-Anlage Kirchfembach am Oberfembacher Weg; hier: Vorstellung des Vorentwurfes",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 12.10.2023 die 24. Änderung des Flächennutzungsplanes sowie die Aufstellung des Bebauungsplanes Nr. 84 „FF-PV-Anlage Kirchfembach am Oberfembacher Weg“ im Parallelverfahren gemäß § 8 Abs. 3 BauGB beschlossen.\n\nWesentliches Ziel der Bauleitplanung ist es, im Umfeld des Ortsteils Kirchfembach die Errichtung einer Freiflächenphotovoltaikanlage auf der Flurnummer 405, Gemarkung Kirchfembach, zu ermöglichen.\n\nMit dem Bebauungsplan sollen die baurechtlichen Voraussetzungen für ein Sondergebiet zur großflächigen Nutzung der Solarenergie mittels Photovoltaik geschaffen werden.\n\nMit der Ausarbeitung der Planungsunterlagen wurde das Büro TB Markert, Nürnberg, beauftragt.\n\nDie Vorentwürfe der 24. Änderung des Flächennutzungsplanes sowie des Bebauungsplanes Nr. 84 „FF-PV-Anlage Kirchfembach am Oberfembacher Weg“ werden dem Ausschuss vorgestellt.\n\nDie Verwaltung wurde bereits mit Stadtratsbeschluss vom 12.10.2023 mit der Durchführung der frühzeitigen Öffentlichkeit- und Behördenbeteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB beauftragt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt die Vorentwürfe der 24. Änderung des Flächennutzungsplanes sowie des Bebauungsplanes Nr. 84 „FF-PV-Anlage Kirchfembach am Oberfembacher Weg“ zur Kenntnis.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.2.",
+        "title": "Aufstellung des Bebauungsplanes Nr. 81 \"Klaushofer Weg / Zollnerstraße\"; hier. Vorstellung des Rahmenplanes",
+        "facts": "Der Stadtrat der Stadt Langenzenn hat in seiner Sitzung am 27.07.2023 die Aufstellung des Bebauungsplanes Nr. 81 „Klaushofer Weg/Zollnerstraße“ beschlossen. In gleicher Sitzung wurde der Änderungsbeschluss zur 13. Änderung des Flächennutzungsplans (FNP) mit integriertem Landschaftsplan geändert.\n\nDer Aufstellungsbeschluss zum Bebauungsplan sowie die Änderung des Änderungsbeschlusses zur 13. FNP-Änderung wurden am 08.09.2023 öffentlich bekannt gemacht.\n\nZur Deckung des Bedarfs an Wohnbauflächen speziell im Geschosswohnungsbau, soll das Plangebiet entwickelt werden. Der Standort bietet sich aufgrund des Anschlusses an bestehende Wohngebiete sowie der in der näheren Umgebung vorhandenen Kindergärten an.\n\nZiel der Bauleitplanung ist daher die Festsetzung von allgemeinen Wohngebieten gem. § 4 BauNVO.\n\nBereits im Zuge der 11. Änderung des FNP wurde unter der Voraussetzung des Rückbaus der 110 kV-Leitung der N-Ergie 2016 und 2017 eine Rahmenplanung für den Bereich südlich der Zollnerstraße entwickelt (s. Abb. u.) und auch im Bauausschuss vorgestellt. Die Freileitung wird jedoch nicht wie damals vorgesehen rückgebaut, sondern soll nach aktuellen Angaben der N-Ergie erhalten und weiter in Betrieb bleiben. Damit ändern sich die Voraussetzungen für die Überplanung des Bereichs östlich des Klaushofer Weges und südlich der Zollnerstraße aufgrund der einzuhaltenden Bau- und Bewuchsbeschränkungsbereiche maßgeblich. Zudem sind die damaligen Nutzungsvorgaben (Busparkplatz, Nahversorger) an dieser Stelle nicht mehr aktuell (vgl. Stadtratsbeschluss zur 13. FNP-Änderung am 27.07.2023). Zur Ermöglichung einer Bebauung des Bereichs unter den nun gegebenen Voraussetzungen waren daher alternative Bebauungskonzepte zu entwickeln, die im Folgenden beschrieben werden.\n\nRahmenplanung 02.06.2017, Grosser- Seeger & Partner\n\nMit der Ausarbeitung der Planungsunterlagen wurde das Büro GSP, Nürnberg beauftragt. Vorgesehen ist entsprechend der Bedarfsanalyse Geschosswohnungsbau, je nach Bedarf in größerem Umfang für einkommensorientierte Förderung (EOF) (sog. sozialer Wohnungsbau). Hier hat die Wohnungsbaugesellschaft der Stadt Langenzenn bereits gute Erfahrungswerte, auf die bei der Einordnung zurückgegriffen werden sollte.\n\nIm Trassenbereich der Freileitung wären diejenigen Nutzungen zu legen, die dort aufgrund der Beschränkungsbereiche möglich sind (z.B. Stellplatzanlagen).\n\nIm Rahmenplan ist nur die grobe Erschließung für den fließenden und ruhenden Verkehr dargestellt, sowie mögliche Platzhalter für die Stellung der Hauptgebäude. Eine detailliertere Planung mit Wegeverbindungen (Erschließung Hauszugängen), erforderlichen Fahrradabstellplätzen (lt. Stellplatzsatzung je angefangene 70 m² Wohnfläche ein Fahrradabstellplatz, möglichst überdacht), Müllhäusern etc. erfolgt in der weiteren Detailplanung.\n\nFür alle baulichen Anlagen, die im Baubeschränkungsbereich liegen, ist die Zustimmung der N-Ergie erforderlich.\n\nDie Bündelung des Stellplatznachweises im Norden des Plangebiets führt zu einer mehr oder weniger stark ausgeprägten, städtebaulich unattraktiven aber praktikablen und für geförderten Wohnraum akzeptablen Situation. Aus diesem Grund könnte in Erwägung gezogen werden, Abstimmungen mit der N-Ergie hinsichtlich einer Erdverlegung der 110 kV-Leitung oder ggf. einer Verlegung der Trassenführung zu führen, um an dieser Stelle eine für die Stadt Langenzenn langfristig, problematische und unbefriedigende Situation möglichst zu vermeiden.\n\nWie schon bei der Änderung des Aufstellungsbeschlusses der 13. FNP-Änderung (Stadtrat vom 27.07.2023) ausgeführt, könnte gegebenenfalls im Plangebiet selbst auch eine Kindertagesstätte vorgesehen werden. Diese wäre im Rahmen eines Wohngebietes allgemein zulässig und muss nicht gesondert ausgewiesen werden. Sie könnte beliebig im Gebiet angesiedelt werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.3.",
+        "title": "23. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 83 \"Agri-PV Göckershof\" im Parallelverfahren; hier: Aufhebung des Aufstellungsbeschlusses",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 28.02.2023 einen empfehlenden Beschluss an den Stadtrat bzgl. der 23. Änderung des Flächennutzungsplanes sowie zur Aufstellung des Bebauungsplanes Mr. 83 „Agri-PV Göckershof“ im Parallelverfahren gefasst.\n\nEine abschließende Beschlussfassung im Stadtrat konnte bislang nicht erfolgen, da noch Abstimmungs- bzw. Klärungsbedarf seitens des Antragsstellers mit dem Grundstückseigentümer bestand.\n\nZwischenzeitlich liegt der Verwaltung eine Rückmeldung des Antragsstellers vor, in der mitgeteilt wurde, dass das Bauleitplanverfahren aufgrund der Nichtverfügbarkeit der landwirtschaftlichen Fläche nicht weiter fortgeführt werden kann.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer empfehlende Beschluss zur 23. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 83 \"Agri-PV Göckershof\" im Parallelverfahren vom 28.02.2023 wird hiermit aufgehoben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "8.1.",
+        "title": "Antrag auf Ausbau eines Dachgeschosses und Errichtung von Dachgauben auf dem Grundstück Laubendorfer Weg 10",
+        "facts": "Antrag auf Ausbau eines Dachgeschosses in eine Wohnung und Errichtung von vier Dachgauben auf dem Grundstück Flur-Nr. 1330/12, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.2.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung einer Terrassenüberdachung aus Holz auf dem Grundstück Mühlberg 5",
+        "facts": "Antrag auf isolierte Befreiung von den Festsetzungen der nördlichen Baugrenze auf dem Grundstück Flur-Nr. 1097/20, Gemarkung Laubendorf zur Errichtung einer Terrassenüberdachung aus Holz.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.3.",
+        "title": "Antrag zum Bau eines Gartenhauses auf dem Grundstück Kulmbacher Str. 3",
+        "facts": "Antrag zum Bau eines Gartenhauses aus Holz mit max. 5-6 m² Grundfläche an der Grundstücksgrenze und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der nordöstlichen Baugrenze auf dem Grundstück Flur-Nr. 891/4, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der nordöstlichen Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.4.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer PV-Anlage auf dem Grundstück Würzburger Str. 14",
+        "facts": "Antrag zur Errichtung einer PV-Anlage auf einem Privatdach (rahmenlos, schwarz) auf dem Grundstück Flur-Nr. 1295/3, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis: Bei der Anordnung der Module ist auf eine geschlossene Fläche zu achten. Eine kompakte und rechteckige Anordnung ist vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.5.",
+        "title": "Tekturantrag zum Umbau und Sanierung der bestehenden Gebäude zu 7 Wohneinheiten auf dem Grundstück Ansbacher Str. 28",
+        "facts": "Tekturantrag zum Umbau und Sanierung der bestehenden Gebäude zu 7 Wohneinheiten auf dem Grundstück Flur-Nr. 921, Gemarkung Keidenzell.\n\nDie Verwaltung teilt mit, dass hierzu bereits in der BUVA-Sitzung am 25.04.2023 ein Bauantrag behandelt wurde. Das gemeindliche Einvernehmen wurde bereits erteilt.\n\nIm Zuge des Genehmigungsverfahrens wurde festgestellt, dass sich das Bauvorhaben aufgrund der eingereichten Planunterlagen (u.a. wegen der Baumasse) nicht nach § 34 BauGB einfügen würde. Die Planunterlagen mussten deshalb nochmals überarbeitet werden.\n\nBei dem Tekturantrag erfolgte nun eine Reduzierung der entsprechenden Baumassen (gemäß Abstimmung Landratsamt Fürth).",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDer beantragten Abweichung gemäß Art. 6 BayBO (Abstandsflächen) wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.6.",
+        "title": "Antrag zur Errichtung einer Werbeanlage auf dem Grundstück Nürnberger Str. 46",
+        "facts": "Antrag zur Anbringung von Werbeanlagen und Antrag auf Befreiung von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe auf dem Grundstück Flur-Nr. 638/3, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe der Anlage wird erteilt.\n\nHinweis: Die Sichtfelder zur Nürnberger Straße sind einzuhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.7.",
+        "title": "Antrag zur Anbringung eines Stabmattenzaunes auf dem Grundstück Brandenburger Str. 23",
+        "facts": "Antrag zur Anbringung eines Stabmattenzaunes, Höhe 1,60 m und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Einfriedungshöhe auf dem Grundstück Flur-Nr. 1055, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Einfriedungshöhe wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.8.",
+        "title": "Antrag zur Erweiterung der bestehenden landwirtschaftlichen Maschinenhalle mit bestehenden Solardach - Überdachung der bestehenden Güllgrube auf dem Grundstück Peterstrich",
+        "facts": "Antrag zur Erweiterung der bestehenden landwirtschaftlichen Maschinenhalle mit bestehendem Solardach und Überdachung der bestehenden Güllegrube und Antrag auf Abweichung von den Vorschriften der BayBO hinsichtlich der Abstandsflächenregelung (Abweichung von Art. 6 Satz 2 BayBO) auf dem Grundstück Flur-Nr. 512, Gemarkung Laubendorf.\n\nDie Verwaltung teilt mit, dass für das Bauvorhaben „Erweiterung landwirtschaftliche Maschinenhalle mit bestehenden Solardach“ im Mai 2023 eine Baugenehmigung ergangen ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDer Abweichung nach Art. 6 Abs. 2 BayBO (Abstandsflächen) wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.9.",
+        "title": "Antrag auf Umnutzung eines Gewerbegebäudes in eine Wohnung auf dem Grundstück Hardgraben 3a",
+        "facts": "Antrag zur Umnutzung eines Gewerbegebäudes in eine Wohnung, Dachgeschoss mit Dachgaube und Errichtung eines Lageranbaues (Bestand) auf dem Grundstück Flur-Nr. 1604, Gemarkung Langenzenn. Dieser Antrag wurde bereits in der Bau-, Umwelt- und Verkehrsausschuss-Sitzung am 26.09.2023 behandelt. Das gemeindliche Einvernehmen wurde erteilt.\n\nHierzu wird nun vom Landratsamt noch eine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachneigung gefordert.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachneigung wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.10.",
+        "title": "Vollzug des Bundesimmissionsschutzgesetzes (BImSchG); hier: Antrag auf immissionsschutzrechtliche Neugenehmigung (§§ 4,19 BImSchG) zur Errichtung und Inbetriebnahme von zwei Flüssiggasanlagen auf dem Grundstück Fl.Nr. 675, Gem. Keidenzell, Deberndorfer Str. 50",
+        "facts": "Der Verwaltung liegt ein Antrag auf immissionsschutzrechtliche Neugenehmigung (§§ 4,19 BImSchG) zur Errichtung und Inbetriebnahme von zwei Flüssiggasanlagen auf dem Grundstück Fl.Nr. 675, Gem. Keidenzell, Deberndorfer Str. 50 vor.\n\nDas Landratsamt Fürth (Immissionsschutz) bittet um eine gemeindliche Stellungnahme sowie um Äußerung zu § 15 BauNVO und zur gegenwärtigen und in absehbarer Zeit beabsichtigten baulichen Nutzung im Einwirkungsbereich der Anlage.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDerzeit in Aufstellung befindet sich südlich des Vorhabensgelände der Bebauungsplan Nr. 80 „Westlich der Deberndorfer Straße“ mit der 21. FNP-Änderung im Parallelverfahren. Dort ist die Festsetzung eines Sondergebietes nach § 11 BauNVO mit der Zweckbestimmung „Biogas/Kompostierung“ bzw. die Darstellung von Sonderbauflächen (Zweckbestimmung „Biogas/Kompostierung“) vorgesehen.\n\nDie Stadt Langenzenn sieht in dem beantragten Vorhaben keine Belästigungen oder Störungen, die sich im Hinblick auf die Berücksichtigung von § 15 BauNVO (insb. Abs. 3) nachteilig auf Baugebiete im Umfeld auswirken könnten.\n\nFerner hat die Stadt Langenzenn Kenntnis vom Antrag eines weiteren Gartenbaubetriebes zur Errichtung einer Gewächshausanlage östlich der Deberndorfer Straße, zu der sie aber das gemeindliche Einvernehmen versagt hat.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "9.1.",
+        "title": "Bauwerksanierung 2023; Stadtfriedhof - Sanierungsarbeiten der südlichen Friedhofsmauer; hier: Sachstandsbericht und Kostenübersicht",
+        "facts": "Die prüffähigen Unterlagen zu Mehraufwendungen und geänderten Leistungen im Rahmen der Sanierungsarbeiten wurden durch den Unternehmer erst am vergangenen Freitag an die Stadt Langenzenn und das planende Ingenieurbüro zugestellt. Eine Bearbeitung konnte somit nicht termingerecht erfolgen.\n\nBei der Herstellung der Pflasteroberflächen im Bereich der obersten Grabreihe entlang der Friedhofsmauer sowie der Überarbeitung und Sicherung der Wandflächen des südwestlichen Mauerteils handelt es sich um Mehraufwendungen, die in der bisherigen Ausschreibung nicht aufgeführt waren.\n\nEine exakte Darstellung erfolgt in der kommenden Sitzung des Bau-, Umwelt- und Verkehrsausschusses.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.2.",
+        "title": "Brückenprüfung und Sanierungen; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr",
+        "facts": "Die Brückenbauwerke und Sonderbauwerke der Stadt Langenzenn werden durch das Ingenieurbüro Kurt Balling GmbH, Würzburg, regelmäßig den notwendigen Haupt- und Zwischenprüfungen unterzogen. Zudem werden zusätzlich zweimal pro Jahr Zusatzkontrollen durch das Ingenieurbüro durchgeführt.\n\nEs müssen insgesamt 48 Bauwerke geprüft werden, auf Grundlage der Ergebnisse der Brückenprüfungen 2022 sind im Jahr 2023 und 2024 folgende Maßnahmen notwendig.\n\nBauwerk 42, Mauer am Stadtfriedhof  Die Arbeiten werden bis Anfang November fertiggestellt\n\nBauwerk 47, Stützmauern Falkenstraße  Die Arbeiten wurden Ende September fertiggestellt\n\nWeitere Maßnahmenbeschreibung erfolgt kurzfristig.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.3.",
+        "title": "Straßenbeleuchtung; hier: Sachstandsbericht zu verschiedenen Maßnahmen",
+        "facts": "Zuletzt wurden in den Außenorten noch ca. 150 Straßenbeleuchtungen mit LED- Leuchtmitteln umgerüstet.\n\nIm Hinblick auf eine künftige zeitliche Steuerung und ggf. Anpassung der Leuchtstärke der Straßenbeleuchtung wurden verschiedenste Einstellmöglichkeiten geprüft. So ist es beispielsweise künftig auch möglich, die bisher umgerüsteten LED-Leuchtköpfe in ihrer Leuchtstärke weiter zu dimmen. Hierzu laufen Abstimmungen mit dem Hersteller der vorhandenen Straßenbeleuchtung. Es ist davon auszugehen, dass für das Jahr 2024 weitere Optimierungen und damit weitere Energieeinsparungen möglich sind.\n\nFür den Bereich der Altstadt konnten bisher leider keine adäquaten Leuchtköpfe gefunden werden. Die verschiedenen getesteten Modelle konnten meist weder technisch noch optisch die Kriterien erfüllen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.4.",
+        "title": "Sachstandsbericht zum Winterdienst Ausblick 2023/2024; hier: Salzbestellung",
+        "facts": "Ein Sachstandsbericht zum Winterdienst des Jahres 2022/2023 und ein Ausblick auf 2023/2024 erfolgte im Mai 2023.\n\nIm vergangenen Winter wurde die eher geringe Menge von ca. 200 Tonnen Streusalz verbraucht. Inzwischen wurden die Salzvorräte auf die übliche Menge von rund 350 – 400 Tonnen aufgefüllt.\n\nDie Kosten für die bestellten 208 Tonnen belaufen sich auf brutto 17.326,40 Euro.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "11.1.",
+        "title": "Verlegung von Kunstrasen im Neubaugebiet \"Klaushofer Weg II\"",
+        "facts": "Stadträtin Ritter bemängelt das Verlegen von Kunstrasen im Neubaugebiet und bittet die Verwaltung um Prüfung, ob eine Beschränkung der Verwendung von festverbauten Plastikmaterialien im Bebauungsplan möglich ist."
+      },
+      {
+        "number": "11.2.",
+        "title": "Uferbefestigung am Farrnbach",
+        "facts": "Stadträtin Franz bittet um den aktuellen Stand der Uferbefestigung am Farrnbach.\n\nDie Verwaltung teilt mit, dass sich die Angelegenheit derzeit in Klärung befindet."
+      },
+      {
+        "number": "11.3.",
+        "title": "Sachstand der Baustelle in der Imhofstraße",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos erkundigt sich nach dem Sachstand der Kanal- und Straßenarbeiten in der Imhofstraße.\n\nDie Verwaltung erklärt, dass die Asphaltierarbeiten voraussichtlich Mitte November 2023 stattfinden werden und die Baustelle noch in diesem Jahr fertiggestellt werden soll."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "160343",
+    "minutes": "161190"
+  }
+}

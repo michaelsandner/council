@@ -1,0 +1,112 @@
+{
+  "meetingId": "3363",
+  "announcement": {
+    "heading": "16. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 16,
+    "date": "2025-07-08",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Antrag Stadträtin Osswald: Nichtveröffentlichung der Niederschriften des Redaktionsausschusses"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "4.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "16. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Antrag Stadträtin Osswald: Nichtveröffentlichung der Niederschriften des, Redaktionsausschusses, 3.       Sonstiges, 4.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 3. Juli 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "16. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 16,
+    "date": "2025-07-08",
+    "startTime": "10:31",
+    "endTime": "10:42",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Folgende Inhalte sind zur Veröffentlichung freizugeben:\n\n1. Hans Meyer zum Ehrensiebener ernannt Seit 1986, also seit über 39 Jahren, ist Hans Meyer Feldgeschworener in der Stadt Langenzenn. Nach der Beendigung des aktiven Dienstes wurde Hans Meyer jetzt von der Feldgeschworenenvereinigung zum Ehrensiebener ernannt. Bürgermeister Habel sprach die Ehrung aus und dankte ihm zusammen mit Herrn Satzinger für seine Lebensleistung und seinen unermüdlichen Einsatz. Von der Feldgeschworenenvereinigung erhielt Hans Meyer eine Ehrenurkunde und ein goldenes Lot für seine besonderen Dienste und Leistungen.\n\neinstimmig beschlossen                       Dafür: 7 Dagegen: 0"
+      },
+      {
+        "number": "2.",
+        "title": "Antrag Stadträtin Osswald: Nichtveröffentlichung der Niederschriften des Redaktionsausschusses",
+        "facts": "Frau Stadträtin Osswald hat in der Sitzung des Redaktionsausschusses am 27.06.2025 den Antrag auf Nichtveröffentlichung der Niederschriften des Redaktionsausschuss im Mitteilungsblatt gestellt.",
+        "decision": "Der Redaktionsausschuss verweist die Bearbeitung an den Hauptausschuss.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges Es wird mitgeteilt, dass in den Sommerferien der Ferienausschuss statt des Redaktionsausschusses tagen muss (lt. GeschO)."
+      },
+      {
+        "number": "4.",
+        "title": "Genehmigung der letzten Niederschrift Es liegen keine Niederschriften zur Genehmigung vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176504",
+    "minutes": "181457"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "meetingId": "3372",
+  "announcement": {
+    "heading": "82. Sitzung des Stadtrates",
+    "sessionNumber": 82,
+    "date": "2025-07-23",
+    "startTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltssatzung 2025 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "1.1.",
+        "title": "Vorbericht des ersten Bürgermeisters zum Haushalt 2025 der Stadt Langenzenn"
+      },
+      {
+        "number": "1.2.",
+        "title": "Stellungnahmen der Parteien / Wählergemeinschaft Haushalt 2025"
+      },
+      {
+        "number": "1.2.1.",
+        "title": "Stellungnahme der CSU-Stadtratsfraktion"
+      },
+      {
+        "number": "1.2.2.",
+        "title": "Stellungnahme der SPD-Stadtratsfraktion"
+      },
+      {
+        "number": "1.2.3.",
+        "title": "Stellungnahme der Freien Wähler Langenzenn e.v. - Stadtratsfraktion"
+      },
+      {
+        "number": "1.2.4.",
+        "title": "Stellungnahme von BÜNDNIS 90 / Die Grünen - Stadtratsfraktion"
+      },
+      {
+        "number": "1.2.5.",
+        "title": "Stellungnahme der FDP-Stadtratsfraktion"
+      },
+      {
+        "number": "1.3.",
+        "title": "Verlesen der Haushaltssatzung der Stadt Langenzenn"
+      },
+      {
+        "number": "1.4.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2025 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "2.",
+        "title": "Beschlussfassung über den Wirtschafts- und Investitionsplan 2025 der Stadtwerke Langenzenn samt Anlagen (Stellenplan, Finanzplan und Investitionsprogramm der Jahre 2025-2028)"
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "12. Änderung des Flächennutzungsplanes sowie 2. Änderung und Erweiterung des Bebauungsplanes Nr. 61 GE VIII \"Langenzenn Nord\" im Parallelverfahren; hier: Änderung der Aufstellungsbeschlüsse"
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "18. Juli 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "82. Sitzung des Stadtrates",
+    "sessionNumber": 82,
+    "date": "2025-07-23",
+    "startTime": "18:00",
+    "endTime": "19:37",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "kam um 18:38 Uhr zu TOP 1.2.5"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Haushaltssatzung 2025 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm) Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "1.1.",
+        "title": "Vorbericht des ersten Bürgermeisters zum Haushalt 2025 der Stadt Langenzenn",
+        "facts": "Zweiter Bürgermeister Ell gibt einen Vorbericht zum Haushalt 2025.\n\nEin wesentlicher Anhaltspunkt für die Beurteilung der dauernden Leistungsfähigkeit ist bei kameraler Haushaltswirtschaft die Höhe der Zuführung vom Verwaltungshaushalt zum Vermögenshaushalt im laufenden Haushaltsjahr wie auch im Zeitraum der mittelfristigen Finanzplanung.\n\nNach langem Streichen und Schieben konnte zumindest für das Haushaltsjahr 2025 für den städtischen Haushalt noch die Mindestzuführung erreicht werden, für die Folgejahre jedoch nicht. Von Seiten der Kommunalaufsicht wird deshalb die Finanzlage der Stadt Langenzenn weiterhin als angespannt betrachtet. Während die Zuführungen in den letzten Jahren sehr hoch waren, sind sie ab 2026 kaum vorhanden. Das bedeutet, dass die Leistungsfähigkeit der Stadt Langenzenn gefährdet ist und sie sich keine neuen Kreditaufnahmen leisten kann.\n\nDarüber hinaus kommt es bei der Umsetzung der Investitionsprogramme weiterhin zu erheblichen Verzögerungen, so dass der Investitionsrückstand weiter steigt.\n\nEs ist dringend notwendig mit einer offenen und ehrlichen Diskussion darüber zu beginnen, welche Leistungen und Standards, auch mit Blick auf die Zukunft, dauerhaft und nachhaltig erfüllt werden können. Unter Berücksichtigung der vorherrschenden Rahmenbedingungen und mit Blick auf die Prognose für die Zukunft ist festzustellen, dass nicht alles was wünschenswert und notwendig erscheint, auch umgesetzt und dauerhaft finanziert werden kann.\n\nGeplante Investitionen sind einer genauen Prüfung zu unterziehen und entsprechend den Erfordernissen zu reihen, Prioritäten sind neu zu überdenken. Die Stadt sollte sich in den künftigen Jahren eine maßvolle Ausgabendisziplin auferlegen.\n\nInnerhalb des Landkreises Fürth nimmt die Stadt Langenzenn finanztechnisch gesehen folgende Position ein: Bei der Umlagekraft, die sich aus Gewerbesteuer, Grundsteuer, Einkommensteuerbeteiligung und Schlüsselzuweisung zusammensetzt, nimmt die Stadt Langenzenn mit 15.163.630 € (Vorjahr 14.113.441 €) den 3. Rang (Vorjahr 7. Rang) unter 14 Gemeinden im Landkreis ein.\n\nDer Kreisumlagenhebesatz wurde von 45,50 auf 49,45 Punkten erhöht. Durch die Erhöhung des Hebesatzes und unter Berücksichtigung der gestiegenen Umlagekraft hat die Stadt Langenzenn in diesem Jahr 1.076.720 € mehr Kreisumlage zu zahlen. In diesem Jahr sind 7.498.420 € (Vorjahr 6.421.700 €) an den Landkreis abzuführen.\n\nBei den Personalausgaben sind die tariflichen Lohnerhöhungen bereits berücksichtigt.\n\nDer Haushalt schließt bei dem vorliegenden Entwurf im Verwaltungshaushalt in Einnahmen und Ausgaben mit 33.752.631 € (Vorjahr 31.329.620 €) und im Vermögenshaushalt in Einnahmen und Ausgaben mit 5.897.085 € (Vorjahr 6.899.200 €) ab.\n\nDie Zuführung vom Verwaltungshaushalt an den Vermögenshaushalt beträgt 1.722.435 € (Vorjahr 1.716.410 €).\n\nBedingt durch die konjunkturelle Entwicklung und unter Berücksichtigung der aktuellen Veranlagungen wurde der Ansatz der Gewerbesteuer auf 7.200.000 € (Vorjahr 5.800.000 €) festgesetzt. Der Anteil an der Umsatzsteuer beträgt ca. 850.000 € (Vorjahr 860.000 €) und an der Einkommensteuer einschließlich Anteil am Familienlastenausgleich ca. 9.225.000 € (Vorjahr 8.840.000 €).\n\nIm Vermögenshaushalt sind 481.000 € (Vorjahr 1.000.000 €) für allgemeine Grunderwerbe eingeplant. Dieser Haushaltsansatz schließt auch Grunderwerbe im Rahmen der Städtebauförderung im Bereich der Altstadt ein.\n\nFür den Erwerb von beweglichen Sachen des Anlagevermögens sind 619.585 € (Vorjahr 616.200 € veranschlagt.\n\nFür Investitionen in Hochbaumaßnahmen sind in diesem Haushaltsjahr 1.482.000 € (Vorjahr 1.804.500 €) veranschlagt. Allen voran für den Abschluss der energetischen Sanierung der Grundschule und die Vorplanungen für den Ausbau der Ganztagesschule, Brandschutzmaßnahmen u.a. Garage Keidenzell und Vorplanung Kirchfembach, Stadtbücherei Elektroinstallation und Brandschutz, Dachsanierung Jugendhaus Alte Post, Planungskosten für die KiTa Hallenbad, Naturbad Keidenzell, Abbruch Hindenburgstraße 48 und Friedrich-Ebert-Straße 28 (Städtebaumaßnahmen), Kläranlage SPS-Steuerung und Photovoltaikanlage und für den Bauhof.\n\nFür Tiefbaumaßnahmen sind insgesamt 2.176.000 € (Vorjahr 2.241.000 €) vorgesehen. Darunter fallen die Generalsanierung der Lauf- und Sprungbahn der Mittelschule, Grünanlage Raindorfer Weg, Schießhausplatz BA II (Städtebaumaßnahme), verschiedene Straßen- und Kanalbaumaßnahmen (u.a. Frankenstraße und Dücker am Schießhausplatz), Radwegeverbindung Kirchfembach/Puschendorf und der Ausbau von Gehsteigen im Bereich Bushaltestelle Kirchfembach und Hammerschmiede.\n\nFür die Straßenbeleuchtung sind 95.000 € und für den Breitbandausbau 10.000 € eingeplant.\n\nZu Beginn des Haushaltsjahres 2025 beläuft sich die Verschuldung der Stadt Langenzenn auf 14.956.465,34 € (Vorjahr 15.968.698,48 €) und der Stadtwerke Langenzenn auf 2.068.664,31 € (Vorjahr 2.256.016,25 €) insgesamt somit auf 17.025.129,65 (Vorjahr 18.224.714,73 €). Demnach beträgt die Pro-Kopf-Verschuldung bei einer Einwohnerzahl von 10.409 (Stand 30.06.2024) insgesamt rund 1.635,62 €.\n\nDer Gesamtbetrag der vorgesehenen Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt in diesem Jahr bei der Stadt Langenzenn Null und bei den Stadtwerken 2.044.000 €.\n\nIch bedanke mich beim Gremium für die konstruktive Zusammenarbeit und bei allen Mitarbeiterinnen und Mitarbeitern in der Verwaltung die am Haushalt mitgearbeitet haben, besonders bei Kämmerin Daniela Vogel und ihrem Team.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "1.2.",
+        "title": "Stellungnahmen der Parteien / Wählergemeinschaft Haushalt 2025 Der Stadtrat nimmt Kenntnis. 1.2.1. Stellungnahme der CSU-Stadtratsfraktion",
+        "facts": "Herr Vogel verliest die Stellungnahme der FDP Stadtratsfraktion.\n\nSehr geehrte Damen und Herren der Stadt Langenzenn, liebe Daniela, zweiter Bürgermeister Ell, liebe Zuhörer,\n\nes ist mir eine ehre heute an meinem Geburtstag die Haushaltsrede 2025 vorzutragen, für mein geliebtes Langenzenn. Meine Vorredner können mir teils zustimmen, gleichzeitig sehe ich Enttäuschung in ihren Gesichtern.\n\nWir alle gemeinsam im Stadtrat wollen nur das Beste für Langenzenn. Doch was ist das Beste? Und was ist Politik eigentlich? Eine gängige Definition habe ich nicht parat, gleichzeitig eine simple Erklärung: “Jeder einzelne hat seine besondere Sichtweise und Haltung, die dann nach längeren Diskussionen in einer Abstimmung einen Haushalt schafft. Jede individuelle Haltung schafft im Ganzen eine Sache für alle.“\n\nPolitik eben.\n\nDoch ja, Zahlen Fakten Hoffnung - Realität und Zuversicht sind in einem Haushaltsplan vertreten. Nur was nicht in schriftlicher Form niedergeschrieben ist, sind Emotionen und Interesse für unser aller Zusammenleben. Eine Stadt eben, die nicht unterschiedlicher sein kann.\n\nEs kommen immer wieder finanzielle Aufgaben auf die Stadt zu, wie Kläranlagen, Kindergarten, Kanal oder Hochwasserschutz usw.\n\nEs gilt bei solchen Herausforderungen zusammen einen guten Weg zu finden, der uns die Aufgaben bewältigen lässt. Wir wollen nicht mit dem Finger auf andere zeigen, sondern erst vor der eigenen Haustür kehren und immer wieder über den Tellerrand hinausblicken, um den Horizont zu erweitern und das Beste für Langenzenn zu erreichen.\n\nWir haben gemeinsam einstimmig unser Hallenbad geschlossen. Nicht um die Bürger zu ärgern, sondern weil es wirtschaftlich und finanziell nicht mehr tragbar ist. Aber auch muss mit der Gemeinde Wilhermsdorf zusammen einen neuen gemeinsamen Weg für ein neues schönes Schwimmbad zu gehen.\n\nWir haben jetzt die einmalige Chance unsere Stadt aus dem Dornröschenschlaf zu holen und neue Geschichte für Langenzenn zu schreiben. Lasst uns ein neues Kapitel angehen…\n\nUnd ich weiß auch schon, welche Überschrift das Kapitel tragen wird…\n\nLandesgartenschau 2032!\n\nDie Landesgartenschau wird – um in die Gaming-Sprache zu verfallen – unsere Stadt ins nächste Level heben. Dieses Vorhaben wird den Tourismus voranbringen, privilegiertes, individuelles bauen fördern, gleichzeitig die Barrierefreiheit und den Hochwasserschutz verstärken.\n\nEs geht immer um das Geld, das wir nicht haben.\n\nWenn wir es aber nicht für Langenzenn nutzen, wird es eine andere Stadt oder Gemeinde tun und zahlen? Tja, das müssen wir trotzdem und zwar mit unseren Steuergeldern.\n\nDeshalb müssen wir dies für unser Langenzenn durchziehen. Durch diese Qualitätsverbesserungen werden neue Bürger nach Langenzenn gezogen. Wir haben es in der Hand, unsere Heimat attraktiver zu machen und nicht wegen Befindlichkeiten einzelner jene hinter anzustellen.\n\nWir stimmen dem Haushalt in allen Punkten zu. Danke an alle Mitwirkenden, danke für die Kollegiale Zusammenarbeit.\n\nFDP Fraktionsvorsitzender Markus Vogel Langenzenn\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "1.3.",
+        "title": "Verlesen der Haushaltssatzung der Stadt Langenzenn",
+        "facts": "Die Haushaltssatzung 2025 der Stadt Langenzenn wird verlesen.\n\nBeschlussvorschlag:\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "1.4.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2025 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)",
+        "facts": "Der Haushalt des Rechnungsjahres 2025 der Stadt Langenzenn ist im Verwaltungshaushalt mit 33.752.631,00 € und im Vermögenshaushalt mit 5.897.085,00 € in Einnahmen und Ausgaben ausgeglichen.\n\nDie Zuführung des Verwaltungs- an den Vermögenshaushalt beträgt 1.722.435,00 €.\n\nDer Gesamtbetrag der Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt Null.\n\nDer Gesamtbetrag der Verpflichtungsermächtigungen im Vermögenshaushalt beträgt Null.\n\nDer Höchstbetrag der Kassenkredite wird auf 5.600.000,00 € festgesetzt.\n\nDer Entwurf der Haushaltssatzung sowie der Stellenplan sind der Niederschrift als Anlage 6, 7, 8 und 9 beigefügt.\n\nDer Werkausschuss hat in der Sitzung am 22.07.2025 einstimmig, mit 8 : 0 Stimmen, den Beschluss empfohlen.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf der Haushaltssatzung 2025 der Stadt Langenzenn vom 21.07.2025 samt Anlagen, wie Haushaltsplan, Stellenplan, Finanzplan und Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 17,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Beschlussfassung über den Wirtschafts- und Investitionsplan 2025 der Stadtwerke Langenzenn samt Anlagen (Stellenplan, Finanzplan und Investitionsprogramm der Jahre 2025-2028)",
+        "facts": "Dem Werkausschuss wurde in der Sitzung am 21.07.2025 der Entwurf des Wirtschafts- und Investitionsplan 2025 der Stadtwerke Langenzenn mit Finanz- und Investitionsplan der Jahre 2025 – 2028 vorgestellt.\n\nDer Werkausschuss hat dem Wirtschafts- und Investitionsplan 2025 der Stadtwerke Langenzenn mit Finanz- und Investitionsplan der Jahre 2025 – 2028 am 21.07.2025 einstimmig zur Beschlussfassung empfohlen.\n\nDer Werkausschuss hat den Stellenplan 2025 der Stadtwerke Langenzenn ebenfalls in der Sitzung am 21.07.2025 zur Kenntnis genommen und dem Stadtrat einstimmig zur Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat stellt den Wirtschaftsplan 2025, den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2025 – 2028 fest (Art. 88 Abs. 6 GO).\n\nNach dem Erfolgsplan weisen die Stadtwerke mit den Sparten Stromversorgung, Wasserversorgung, Hallenbad und ÖPNV für das Wirtschaftsjahr 2025 einen Verlust in Höhe von 1.234.151,00 € aus.\n\nDer Gesamtbetrag der geplanten Kreditaufnahmen für Investitionen und Investitionsfördermaßnahmen beträgt 2.044.000,00 €.\n\nDer Wirtschaftsplan 2025 mit den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2025 – 2028 ist dem Haushaltsplan 2025 der Stadt Langenzenn als Anlage beizufügen.\n\nDer Wirtschaftsplan 2025 ist der Niederschrift als Anlage 11 beizufügen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 17,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "12. Änderung des Flächennutzungsplanes sowie 2. Änderung und Erweiterung des Bebauungsplanes Nr. 61 GE VIII \"Langenzenn Nord\" im Parallelverfahren; hier: Änderung der Aufstellungsbeschlüsse",
+        "facts": "Die Verwaltung informiert, dass der Hauptausschuss am 24.02.2021 den Aufstellungsbeschluss für die 12. Änderung des Flächennutzungsplans sowie für die 2. Änderung und Erweiterung des Bebauungsplans Nr. 61 GE VIII „Langenzenn Nord“ im Parallelverfahren ge-\n\nfasst hat. Mit der Erstellung der entsprechenden Planunterlagen wurde das Planungsbüro Grosser-Seeger beauftragt.\n\nDas Bauleitplanverfahren konnte bislang nicht weiterverfolgt werden, da nicht alle Grundstücke verfügbar waren und zusätzliche Planungen – unter anderem zum Schulbedarf und zum Hallenbad etc. – berücksichtigt werden mussten.\n\nIm Zusammenhang mit der vom Landkreis angestrebten Schulentwicklung am Standort Langenzenn ist ggf. eine Anpassung des Geltungsbereiches erforderlich.\n\nEin Lageplan zum möglichen neuen Geltungsbereich der 12. Änderung des Flächennutzungsplans sowie der 2. Änderung und Erweiterung des Bebauungsplans Nr. 61 GE VIII „Langenzenn Nord“ wurde im Ratsinformationssystem hinterlegt.",
+        "decision": "Der Stadtrat bestätigt den Beschluss des Hauptausschusses vom 24.01.2021 zur 12. Änderung des Flächennutzungsplans sowie zur 2. Änderung und Erweiterung des Bebauungsplans Nr. 61 GE VIII „Langenzenn Nord“.\n\nDie Verwaltung wird beauftragt, in Abstimmung mit dem Landkreis und dem Planungsbüro Grosser-Seeger, Nürnberg, die hierfür erforderlichen Änderungen und Anpassungen des Flächennutzungsplans sowie des Bebauungsplans auszuarbeiten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 17,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges",
+        "facts": "Herr Stadtrat Durlak wollte Informationen, was aus der Stellungnahme der Rechtsaufsicht geworden ist. Die von der Stadträtin Osswald geforderte Stellungnahme der Rechtsaufsicht ist bei der Stadt Langenzenn eingegangen. Entsprechend des gefassten Beschlusses die Stellungnahme unverzüglich an das Stadtratsgremium weiterzuleiten ist die Verwaltung nachgekommen. Die Behandlung im Gremium erfolgt zu einem späteren Zeitpunkt.\n\nHerr Gawehn merkte an, dass im Bürgerinformationssystem vereinzelte Niederschriften für die Bürger nicht ersichtlich sind. Die Verwaltung kümmert sich darum."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176962",
+    "minutes": "181345"
+  }
+}

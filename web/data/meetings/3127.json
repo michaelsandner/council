@@ -1,0 +1,64 @@
+{
+  "meetingId": "3127",
+  "announcement": {
+    "heading": "Sitzung des Werkausschusses",
+    "date": "2023-02-27",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Informationen zur Strompreisbremse"
+      },
+      {
+        "number": "2.",
+        "title": "Informationen zur Bearbeitungsdauer von Aufträgen im E-Werk und W-Werk"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "20. Februar 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "19. Sitzung des Werkausschusses",
+    "sessionNumber": 19,
+    "date": "2023-02-27",
+    "startTime": "16:00",
+    "endTime": "17:07",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Informationen zur Strompreisbremse",
+        "facts": "Der Bundestag hat am 15.12.2022 die Gesetzentwürfe für die Strom-, Gas- und Wärmepreisbremsen beschlossen, das Strompreisbremsegesetz – StromPBG wurde am 20. Dezember 2022 (BGBl. I S. 2512) veröffentlicht. Die Strompreisbremse soll bewirken, dass ab 01.03.2023 rückwirkend zum 01.01.2023 der Strompreis für Letztverbraucher gedeckelt wird. Durch die Strompreisbremse sollen die sehr hohen Zufallsgewinne für eine begrenzte Zeit teilweise abgeschöpft und an Haushalte und Unternehmen umverteilt werden. Die Abschöpfung erfolgt ab dem 1. Dezember 2022, wobei hier anzumerken ist, dass die sog. Übergewinne von Anlagenbetreibern sich bereits im Juli 2022 abzeichneten und im September 2022 bei fast 1.000 €/MWh baseload-Preis an der EEX (European Energy Exchange) Ihren Höhepunkt fand (Beispiel WKA):\n\nMarktwert „Wind an Land“:              Januar 2022        12,883 ct/kWh August 2022       46,092 ct/kWh Dezember 2022     14,164 ct/kWh Januar 2023       8,726 ct/kWh\n\nDer Marktwert „Wind an Land“ Januar 2023 entspricht somit fast dem Durchschnittsniveau des Jahres 2021 mit 7,85 ct/kWh.\n\nSeit Inkrafttreten des StromPBG, haben sich die Verbände, die Übertragungs- und Verteilnetzbetreiber, die Stromlieferanten und nicht zuletzt die Softwarelieferanten intensiv mit der Umsetzung beschäftigt. Ziel war es, dass ab dem Abschlag März 2023 die Stromlieferanten den Abschlag für ihre Kunden entsprechend reduzieren und dies ihren Kunden bis zum 28.02.2023 schriftlich mitteilen. Auch sollte eine erste Datenmeldung an den Übertragungsnetzbetreiber zur Rückerstattung des ersten Quartals bis zum 19.02.2023 um 00.00 Uhr erfolgen.\n\nDie Auslieferung der Softwareupdates durch den Lieferanten erfolgte jedoch erst zum 22.02.2023, so dass erst ab Mittwoch erste Probeläufe durchgeführt werden konnten. Leider wurden bei diesem Softwarestand bereits erste Nachbesserungen nötig bzw. Verbesserungsvorschläge eingebracht, so dass ein neuer Softwarestand am Mittwochabend in das\n\nRechenzentrum eingespielt wurde. Dieser Softwarestand ist am Donnerstagvormittag (Stand der Erstellung des Sachvortrages) im Test bei den Stadtwerken Langenzenn, auch hier wurden jedoch Probleme bei der Ermittlung des Abschlagsbetrages festgestellt. Wenn man in Betracht zieht, dass bei ca. 4.000 Kunden die Anschreiben für die Ermittlung der neuen Abschläge noch erstellt und zugestellt werden müssen ist eine fristgemäße Zustellung der Schreiben nicht möglich, auch in Anbetracht der Tatsache, dass selbst mit der Auslieferung der neuen Softwareupdates anscheinend längst noch nicht alle Fehler beseitigt wurden. Dies wurde auch auf Rückfrage bei anderen Werken bestätigt. Aus diesem Grund werden die Stadtwerke Langenzenn mit der Erstellung und Versendung der Schreiben bis KW 09 (27.02.-05.03.2023) warten, damit hoffentlich die gröbsten „Fehler“ softwareseitig behoben sind.\n\nDer BDEW hat die Politik immer wieder darauf hingewiesen, dass zwei Monate für die Umsetzung der Entlastungen sehr knapp bemessen sind.\n\nZitat:\n\n„Um die Preisbremsen mit der nötigen Sorgfalt umzusetzen, braucht es Zeit, die rechtlichen Anforderungen genau zu prüfen, technische Prozesse in einem Massenmarkt zu installieren, Probeläufe durchzuführen und auch noch Gelegenheit zu haben, aufgetretene Fehler zu korrigieren. Dazu kommt der hohe Aufwand der stark individualisierten Regelungen für Geschäftskunden.\n\nDie Regelungen der Preisbremsen führen auch zu einem drastischen Anstieg der Kundenanfragen. Aus den Energieversorgungsunternehmen hören wir, dass die Beratungskapazitäten in den Kundencentern trotz Aufstockung und dem Einsatz von Dienstleistern nicht mehr ausreichen. Natürlich möchten die Unternehmen die Fragen der Kundinnen und Kunden so umfassend wie möglich beantworten. Alle Unternehmen, vom kleinen Stadtwerk vor Ort bis hin zum überregionalen Energieversorger, gehen mit der Preisbremsen-Umsetzung personell an die Grenze des Machbaren, da sie parallel hierzu weiterhin ihre eigentlichen Aufgaben als zuverlässiger Energieversorger für ihre Kundinnen und Kunden garantieren.\n\nEs ist ein absolutes Novum, dass die Bundesregierung einer Branche Aufgaben überträgt, die eigentlich zum klassischen Kernbereich des Staates gehören. Wir als Energiebranche haben in der jetzigen Ausnahmesituation die Abwicklung der Entlastungen zugewiesen bekommen, weil der Staat derzeit keine rechtssichere und praktikable Grundlage hat, mit denen er solche Energiepreisbremsen oder finanziellen Hilfen direkt an die Bürgerinnen und Bürger auszahlen kann. Der Staat muss jedoch schleunigst ein System schaffen, um selbst staatliche Unterstützung in Form von finanziellen Entlastungen an die Bürgerinnen und Bürger zielgerichtet und schnell auszahlen zu können.“\n\nDem ist nichts mehr hinzuzufügen …",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Informationen zur Bearbeitungsdauer von Aufträgen im E-Werk und W-Werk",
+        "facts": "Aufgrund einer Vielzahl von Erleichterungen bei Erneuerbaren Energien wie zum Beispiel der Wegfall der Umsatzsteuer bei der Errichtung von PV-Anlagen und der massenhaften Zunahme von sog. „Balkonanlagen“ haben die Anfragen und Netzanschlussbegehren an die\n\nStadtwerke Langenzenn massiv zugenommen. Auch die Nachfrage und Umrüstung von Wärmepumpen hat stark zugenommen.\n\nSo ist zum Beispiel bei den sog. „Balkonanlagen“ ein Zählertausch auf einen Zwei- Richtungszähler erforderlich und der Anlagenbetreiber muss seine „Balkonanlage“ bei den Stadtwerken Langenzenn als Netzbetreiber sowie im Marktstammdatenregister der Bundesnetzagentur registrieren. Diese Registrierung muss dann wiederum vom Netzbetreiber geprüft und freigegeben werden, eventuell müssten zurückgespeiste Strommengen vom Netzbetreiber in den EEG-Ausgleichsmechanismus einbezogen werden.\n\nNeben der massenhaften Zunahme von „Balkonanlagen“ haben durch die gesetzlichen Erleichterungen und die Strombezugskostensteigerungen die Anfragen und Netzanschlussbegehren von „normalen PV-Anlagen“ bzw. Wärmepumpen an das Stromnetz der Stadtwerke ebenfalls massiv zugenommen, so dass sich die Bearbeitungsdauer für die Prüfung der eingereichten Unterlagen sowie der Netzverträglichkeit der anzuschließenden PV-Anlagen bzw. Wärmepumpen ebenfalls stark erhöht hat.\n\nWährend in den vergangenen Jahren die Bearbeitungsdauer von Anfragen sich ca. auf zwei Wochen belief, beträgt die Bearbeitungsdauer in der Stromversorgung derzeit ca. vier Wochen. Im Wasserwerk konnte die durchschnittliche Bearbeitungsdauer von zwei Wochen gehalten werden.\n\nAuf der Internetseite der Stadtwerke wurde unter dem Punkt „Aktuelles - Erhöhtes Aufkommen von Anfragen auf Grund der aktuellen Lage“ veröffentlicht, um die Kunden zu informieren.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "153600",
+    "minutes": "154058"
+  }
+}

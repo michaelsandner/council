@@ -1,0 +1,230 @@
+{
+  "meetingId": "3244",
+  "announcement": {
+    "heading": "67. Sitzung des Stadtrates",
+    "sessionNumber": 67,
+    "date": "2024-10-29",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "3.",
+        "title": "Bekanntgabe von in nichtöffentlicher Sitzung gefassten Beschlüssen"
+      },
+      {
+        "number": "4.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Vorstellung der Planungen"
+      },
+      {
+        "number": "5.",
+        "title": "Übertragung von Haushaltsausgaberesten beim Rechnungsabschluss 2023 der Stadt Langenzenn"
+      },
+      {
+        "number": "6.",
+        "title": "Berichte städtischer Beauftragter"
+      },
+      {
+        "number": "7.",
+        "title": "Berichte der Waldbeauftragten sowie Information aus dem Forstrevier"
+      },
+      {
+        "number": "8.",
+        "title": "Informationen zum Thema nicht abgeschlossener Mietverträge Geflüchteter; hier: Mietverträge sowie Korrespondenz dazu"
+      },
+      {
+        "number": "9.",
+        "title": "Zensus 2022 hier: Bekanntgabe der Zensusergebnisse für die Stadt Langenzenn"
+      },
+      {
+        "number": "10.",
+        "title": "Landesgartenschau: Fördersystematik"
+      },
+      {
+        "number": "11.",
+        "title": "Spendenaktion der Sparkasse Fürth; hier: Einreichung von Vorschlägen durch die Stadt Langenzenn"
+      },
+      {
+        "number": "12.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "13.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "13.1.",
+        "title": "Antrag von Frau Stadträtin Franz; hier: Übernahme der Folgekosten für den AED am Feuerwehrhaus Keidenzell"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt. Langenzenn, 24. Oktober 2024 STADT LANGENZENN",
+    "issuedOn": "24. Oktober 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "67. Sitzung des Stadtrates",
+    "sessionNumber": 67,
+    "date": "2024-10-29",
+    "startTime": "16:00",
+    "endTime": "19:19",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 2"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Osswald, Birgit",
+            "note": "ab TOP 16.4"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Ströbel, Marion",
+            "note": "bis TOP 11"
+          },
+          {
+            "name": "Ströbel, Rainer",
+            "note": "bis TOP 11"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "ab TOP 3"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "3.",
+        "title": "Bekanntgabe von in nichtöffentlicher Sitzung gefassten Beschlüssen",
+        "facts": "Der Stadtrat gibt folgende in nichtöffentlicher Sitzung gefassten Beschlüsse öffentliche bekannt:\n\n62. Sitzung des Stadtrats vom 03.07.2024\n\n1. Erwerb des Grundstücks Fl.-Nr. 1226/32, Gem. Langenzenn (Cowana-Immobilie) Der Stadtrat beschließt den Erwerb des Grundstücks Fl.-Nr. 1226/32, Gemarkung Langenzenn, von der Grundstücksverwaltungsgesellschaft Haller Straße mbH gemäß dem am 13.03.2024 unter TOP N 10.1 vom Stadtrat gefassten Beschluss mit folgender Maßgabe: Das Grundstück wird gekauft (kein „Mietkauf“). Der Kaufpreis wird durch die Grundstücksverwaltungsgesellschaft Haller Straße mbH für die ersten 10 Jahre teilweise gestundet und zwar in der Weise, dass zunächst 120 monatliche Kaufpreisraten zu je 14.083,33 EURO netto zzgl. einer ggf. anfallenden USt. und nach Ablauf von 10 Jahren eine Schlusszahlung in Höhe von 2.380.000,00 EURO netto zzgl. einer ggfs. anfallenden USt. zu leisten sind. Als Gegenleistung ist an den Verkäufer für die Dauer von zehn Jahren ein monatliches Stundungsentgelt in Höhe von 12.416,67 EURO netto zzgl. ggfs. anfallenden USt zu bezahlen.\n\nDer Erwerb des Grundstücks erfolgt durch die Stadt Langenzenn. Im Grundbuch soll die Stadt Langenzenn als künftige Eigentümerin mit Klammerzusatz Stadtwerke Langenzenn eingetragen werden.\n\nBesitz, Nutzen und Lasten sowie das Eigentum am Kaufgegenstand gehen nach Zahlung der ersten Kaufpreisrate auf die Stadt Langenzenn (Stadtwerke Langenzenn) über.\n\nZur Sicherung des Kaufpreises wird für den Verkäufer eine Sicherungshypothek in gleicher Höhe am Kaufgegenstand bestellt.\n\nDer Kaufvertrag kommt durch Vermittlung der VR-Immo Center der VR Bank im südlichen Franken eG zustande. Käuferseitig ist eine Provision in Höhe von 1,5% des Kaufpreises zzgl. gesetzlicher Umsatzsteuer zu entrichten.\n\nDer Bürgermeister wird aufgefordert, umgehend den Werkleiter zum Vollzug des Beschlusses sowie Vertretung der Stadt Langenzenn (Stadtwerke Langenzenn) bei der notariellen Beurkundung zu bevollmächtigen.\n\nIm Übrigen bleibt es bei dem Inhalt des am 13.03.2024 unter TOP N 10.1 vom Stadtrat gefassten Beschlusses.\n\nFerner wird zu dem vom Stadtrat am 15.07.2021 unter TOP 1 in der nicht öffentlichen Sitzung gefassten Beschluss klargestellt, dass durch den Ankauf der Cowana- Immobilie das von der Stadt Langenzenn beschaffte Modulgebäude nicht mehr für die (teilweise) Unterbringung der Stadtwerke Langenzenn benötigt wird. Über die künftige Verwendung des Modulgebäudes wird der Stadtrat zu einem späteren Zeitpunkt gesondert entscheiden.\n\n66. Sitzung des Stadtrats vom 12.09.2024\n\n2. Nachbesetzung der Stelle der Fachbereichsleitung Hauptamt Der Stadtrat beschließt, dem Beschäftigten Thomas Wörner die Tätigkeiten als Fachbereichsleitung des Haupt- und Personalamtes übertragen. 3. Weitere Vorgehensweise Modulgebäude Der Stadtrat beschließt die Veräußerung des Modulgebäudes. Das Modulgebäude soll gegen Höchstgebot auf dem freien Markt angeboten werden. Der Abtransport muss vom Erwerber selbst getragen und geregelt werden. 4. Kläranlage Langenzenn – Vergabe der Arbeiten zum Austausch der SPS Der Stadtrat beschließt die Beauftragung des Nachtrags 02 an die Firma K + S Richter zu einem Preis von 16.610,97 € brutto\n\n5. Ertüchtigung Schießhausplatz – Neugestaltung der Parkplätze; Aufwertung der Platzgestaltung sowie Fortführung der Försterallee (Geh- und Radweg) – Vergabe von Straßenbauarbeiten Der Stadtrat beschließt die Vergabe der Straßenbauarbeiten im Rahmen der Ertüchtigung des Schießhausplatzes an die Firma Dienstbier GmbH & Co.KG, Markt Erlbach, in Höhe von brutto 597.769,43 Euro.\n\n6. Genehmigung der letzten Niederschriften Nach der Geschäftsordnung des Stadtrats gilt hiermit folgende Niederschrift als genehmigt: Niederschrift über die     Sitzungsdatum                  Niederschrift vom 61. Sitzung des Stadtrates 20.06.2024                     21.06.2024 19. Sitzung des Ferienaus- 20.08.2024                     27.08.2024 schusses\n\n46. Sitzung Bau-; Umwelt und Verkehrsausschuss 7. Verkehrs- und Abwasseranlagen Langenzenn; Neugestaltung Raindorfer Weg Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Asphaltarbeiten in der Nürnberger Straße an die Firma Gustav Meyer GmbH, Windsbach, in Höhe von brutto 39.512,34 Euro. Der Anteil der Stadt Langenzenn beträgt etwa 7.900 Euro (20%).\n\n8. Kindergarten Plapperkiste; Geländeerhöhung Spielebenen Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Schreinerarbeiten zur Ertüchtigung der Absturzsicherungen an die Firma Schreinerei Keppner, Langenzenn, in Höhe von 14.236,74 EUR.\n\n9. Bebauungsplan Nr. 53 „Stinzendorf Süd-West“ – Vergabe für Planleistungen im wasserrechtlichen Verfahren Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen im wasserrechtlichen Verfahren für das Baugebiet Nr. 53 „Stinzendorf Südwest“ an das Ingenieurbüro Miller, Nürnberg, in Höhe von brutto 8.121,75 Euro.\n\n10. Städtischer Bauhof – Neubeschaffung einer fahrbaren Absperrtafel Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung einer fahrbaren Absperrtafel an die Firma Gebrüder Mayer GmbH & Co. KG, Fürth, in Höhe von brutto 21.345,33 Euro.\n\n11. Städtischer Bauhof – Neubeschaffung von Akku-Ladeschränken\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe zur Beschaffung der Akku-Ladeschränke an die Firma Meier Handwerkerbedarf, Ansbach, in Höhe von brutto 9.244,21 Euro.\n\n12. Breitbandausbau – Verkauf von Leerrohren Der Bau-, Umwelt- und Verkehrsausschuss beschließt, den Abschluss eines Kaufvertrages mit der Telekom Deutschland GmbH, vertreten durch die Deutsche Telekom Services Europe SE, Bonn auf Basis des in der Anlage beigefügten Vertragsentwurfes. Inhalt des Kaufvertrages ist u. a. der Verkauf und Übereignung eines „Leerrohrnetzes“ in der Imhofstraße, Pilgerstraße sowie im gesamten Baugebiet Nr. 51 „Wohnen am Klaushofer Weg“. Der Kaufpreis hierfür beträgt insgesamt 90.000,-- Euro.\n\n13. Genehmigung der letzten Niederschriften Nach der Geschäftsordnung des Stadtrats gilt hiermit folgende Niederschrift als genehmigt: Niederschrift über die      Sitzungsdatum                  Niederschrift vom 45. Sitzung des BUVA        25.07.2024                     30.08.2024\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Vorstellung der Planungen",
+        "facts": "Der aktuelle Sachstand zur Anpassung des Sanierungsgebietes „Altstadt Langenzenn“ wird durch Frau Güttler-Opitz vom Büro Projekt 4, Nürnberg, vorgestellt. Die aktuellen Unterlagen werden ins Ratsinformationssystem eingestellt.\n\nDie Vorbereitenden Untersuchungen sind weitgehend abgeschlossen, so dass in Kürze die Öffentliche Auslegung gemäß § 136 ff. BauGB durchgeführt werden soll.\n\nEine entsprechende Beschlussfassung zur Billigung der auszulegenden Unterlagen erfolgt in der nächsten Stadtratssitzung am 07.11.2024.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Übertragung von Haushaltsausgaberesten beim Rechnungsabschluss 2023 der Stadt Langenzenn",
+        "facts": "Seitens der Verwaltung wurde dem Hauptausschuss in der Sitzung vom 24.10.2024 eine Aufstellung der Haushaltsausgabereste beim Rechnungsabschluss 2023 der Stadt Langenzenn vorgelegt. Die einzelnen Positionen wurden im Rahmen der Haushaltsplanung 2024 bereits besprochen und bei der Ansatzplanung berücksichtigt.\n\nDer Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:",
+        "decision": "Der Stadtrat beschließt, beim Rechnungsabschluss 2023 der Stadt Langenzenn folgende Haushaltsausgabereste (neu) zu übertragen:\n\nVermögenshaushalt der Stadt Langenzenn Haushaltsausgabereste lt. Aufstellung in der Summe von 1.282.000 €.\n\nDie Aufstellung der Haushaltsausgabereste des Vermögenshaushaltes der Stadt Langenzenn liegt der Niederschrift als Anlage 1 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Berichte städtischer Beauftragter",
+        "facts": "Die Terminierung zur Berichterstattung der städtischen Beauftragten im Stadtratsgremium hat dieses Jahr leider nicht planmäßig geklappt.\n\nNachdem bereits das 4. Quartal 2024 angebrochen ist, wäre auch eine komprimierte Berichtserstattung an der turnusmäßig getakteten Berichterstattungsrunde im nächsten Jahr möglich.\n\nFrau Stadträtin Meyer wird den Bericht als Sozialbeauftragte an einer Stadtratssitzung persönlich dem Gremium vorstellen. Folgende Berichte sind zur Kenntnisnahme, ggf. weiteren Beratung, im Ratsinformationssystem eingestellt,\n\n   Bericht der städtischen Schul- und KiTa-Beauftragten, Frau Stadträtin Plevka    Bericht des Ehrenamtsbeauftragten, Herrn Stadtrat Durlak    Bericht des Kommunalen Behindertenbeauftragten, Herrn Stadtrat M. Vogel    Bericht des Jugendbeauftragten, Herrn Mathias Leupoldt\n\nDie Berichte sind der Niederschrift als Anlage 2 beigefügt.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Berichte der Waldbeauftragten sowie Information aus dem Forstrevier",
+        "facts": "Dem Stadtrat werden Berichte der Waldbeauftragten sowie des Försters, Herrn Serwotka, zur Kenntnis gegeben.\n\n   Waldungen in Kirchfembach; Waldbeauftragter Herr Grasser    Waldungen in Laubendorf; Waldbeauftragter Herr Pattaro    Waldungen in Keidenzell, Waldbeauftragter Herr Sand    Waldungen am Dillenberg, Waldbeauftragter Herr Däumler\n\nDie Berichte sind der Niederschrift als Anlage 3 beigefügt.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Informationen zum Thema nicht abgeschlossener Mietverträge Geflüchteter; hier: Mietverträge sowie Korrespondenz dazu",
+        "facts": "Hypothetisch einnehmbare Miete\n\nUm einen „Ausfall“ der Mieterträge bzw., welche Miete theoretisch hätte eingenommen werden können, zu beziffern, sind für die o. g. Objekte jeweils die Zeitdauer ab Einzug (Anmeldung lt. Bürgerbüro) bis zum Beginn der Laufzeit der Mietverhältnisse unter Zugrundelegung der Miethöhe zu eruieren.\n\nIn den bereitgestellten Liegenschaften der Stadt Langenzenn ergaben sich in der mietvertragslosen Zeit mehrere Bewohnerwechsel (Ein- und Auszüge). Es ist daher ggf. fraglich, ob die veranschlagte Miete voll durch das Jobcenter übernommen worden wäre. Bei der nachfolgenden dargestellten Kalkulation wurde eine volle Mietzahlung unterstellt. Tendenziell ist daher der berechnete Mietausfall ggf. geringer anzusetzen.\n\nMietausfall:\n\nObjekt                                      Miete mtl.    Zeitdauer mtl.        Ausfall Mietertrag\n\nUntere Ringstraße 13 EG 643,00 €             ca. 13         8.359,00 €\n\nUntere Ringstraße 13 OG 643,00 €             ca.13          8.359,00 €\n\nNürnberger Straße 29 DG links 719,00 €             ca.11          7.909,00 €\n\nAllensteiner Straße 8 1.444,00 €           ca.12          17.328,00 €\n\nSumme cirka                                                                     41.955,00 €\n\nDer Kassenversicherung wurde vorsorglich ein „Schaden“ dem Grunde nach gemeldet.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Zensus 2022 hier: Bekanntgabe der Zensusergebnisse für die Stadt Langenzenn",
+        "facts": "Im Jahr 2022 fand in Deutschland ein Zensus statt. Mit dieser statistischen Erhebung wird ermittelt, wie viele Menschen in Deutschland leben, wie sie wohnen und arbeiten. Mit dem Zensus 2022 werden die amtlichen Einwohnerzahlen unter anderem der Gemeinden auf eine aktualisierte Datengrundlage gestellt. Die amtliche Einwohnerzahl ist eine wichtige Grundlage für zahlreiche Regelungen, wie z.B. der Besoldung der Bürgermeisterinnen und Bürgermeister sowie zur Bestimmung der Größe des Stadtrates.\n\nIn einer öffentlichen Pressekonferenz am 25.06.2024 wurden die amtlich ermittelten Ergebnisse durch das Statistische Bundesamt vorgestellt. Im Rahmen des Zensus 2022 wurde für die Stadt Langenzenn eine amtliche Einwohnerzahl von 10.318 Einwohner festgestellt.\n\nAn die Veröffentlichung der Zensusergebnisse schließt sich das Verfahren zur förmlichen Feststellung der amtlichen Einwohnerzahl an. Diese beginnt zunächst mit einer Anhörungsphase, ehe Anfang 2025 eine Verbescheidung erfolgt.\n\nMit Schreiben vom 23.09.2024 startete das Anhörungsverfahren für die Stadt Langenzenn. Die für die Stadt Langenzenn relevanten Unterlagen liegen der Beschlussvorlage als Anlage bei. Diese beinhalten neben dem Anhörungsschreiben und zusätzlichen Erläuterungen das Datenblatt, dass das Zustandekommen der Einwohnerzahl für die Stadt Langenzenn im Detail nachvollziehbar macht.\n\nDie im Rahmen des Zensus 2022 amtlich festgestellte Einwohnerzahl hat aus\n\n-   Sicht der Geschäftsleitung keine kommunalrechtlichen Auswirkungen (wie z.B. Besoldung des Ersten Bürgermeisters, Anzahl der Stadtratsmitglieder gem. Art. 31 Abs. 2 Satz 2 GO).\n\n-   Sicht des Bauamts/Stadtbaumeister keine Auswirkungen, da die maßgebliche Einwohnerzahl von 10.000 Einwohnerinnen und Einwohner nicht unterschritten wird\n\n-   Sicht der Kämmerei/Kämmerin keine gravierenden Auswirkungen auf die Finanzzuweisungen nach dem BayFAG für die Stadt Langenzenn, da bei den Berechnungen der Finanzzuweisungen nicht nur die Einwohnerzahlen für die Verteilung ausschlaggebend ist. Lediglich bei den Kopfbeträgen nach Art. 7 BayFAG wird bei der Berechnung der Zuweisung nur die Einwohnerzahl für die Verteilung herangezogen.\n\nDer Stadtrat nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "169541",
+    "minutes": "171118"
+  }
+}

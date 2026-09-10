@@ -1,0 +1,112 @@
+{
+  "meetingId": "3362",
+  "announcement": {
+    "heading": "15. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 15,
+    "date": "2025-07-04",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "15. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 26. Juni 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "15. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 15,
+    "date": "2025-07-04",
+    "startTime": "10:30",
+    "endTime": "10:32",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Meyer, Evelyn",
+            "note": "für Herr Gawehn"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Folgende Inhalte sind freizugeben:\n\n1.\n\nBericht zum Kindergarten Cup der Langenzenner Kindergärten Am 28. Juni 2025 wurde das Sportgelände de SF Laubendorf zum Schauplatz eines fröhlichen Fußballturniers der Langenzenner Kindergärten. Vier Einrichtungen gingen mit großer Begeisterung an den Start: Die Plapperkiste, St. Marien, Regenbogen und Pusteblume. Unter der engagierten Organisation von Harald Sommer entwickelte sich der Tag zu einem echten Höhepunkt für Kinder, Eltern und Betreuer. Bei strahlendem Sonnenschein und bester Laune lieferten sich die jungen Fußballer spannende, faire und mitreißende Partien. Mit großem Einsatz, Teamgeist und viel Freude am Spiel feuerten sich die Kinder gegenseitig an, jubelten gemeinsam – und trafen natürlich auch fleißig ins Tor. Besonders stolz sind wir auf unseren Kindergarten Plapperkiste, der sich nach einem starken Turnierverlauf den hervorragenden 2. Platz sichern konnte. Herzlichen Glückwunsch an alle teilnehmenden Kinder – ihr wart fantastisch! Ein großes Dankeschön geht an den SFL, an die Betreuer, Eltern und Helfer, die diesen wunderschönen Tag möglich gemacht haben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift",
+        "facts": "Es liegen keine Niederschriften zur Genehmigung vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176307",
+    "minutes": "181456"
+  }
+}

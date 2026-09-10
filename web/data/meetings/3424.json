@@ -1,0 +1,258 @@
+{
+  "meetingId": "3424",
+  "announcement": {
+    "heading": "1. Sitzung des Stadtrates",
+    "sessionNumber": 1,
+    "date": "2026-05-12",
+    "startTime": "18:30",
+    "location": "Großen Saal des Kulturhofs, Langenzenn, Hindenburgstraße 32",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Eröffnungsrede des Ersten Bürgermeisters"
+      },
+      {
+        "number": "2.",
+        "title": "Kirchlicher Segen"
+      },
+      {
+        "number": "3.",
+        "title": "Vereidigung des Ersten Bürgermeisters Christian Ell"
+      },
+      {
+        "number": "4.",
+        "title": "Vereidigung der neu gewählten Stadtratsmitglieder"
+      },
+      {
+        "number": "4.1.",
+        "title": "Vereidigung von Stadtrat Jörg Bauereiß"
+      },
+      {
+        "number": "4.2.",
+        "title": "Vereidigung von Stadtrat André Goos"
+      },
+      {
+        "number": "4.3.",
+        "title": "Vereidigung von Stadtrat Gunther Höfler"
+      },
+      {
+        "number": "4.4.",
+        "title": "Vereidigung von Stadtrat Daniel Kempe"
+      },
+      {
+        "number": "4.5.",
+        "title": "Vereidigung von Stadtrat Florian Kesselring"
+      },
+      {
+        "number": "4.6.",
+        "title": "Vereidigung von Stadtrat Michael Kimberger"
+      },
+      {
+        "number": "4.7.",
+        "title": "Vereidigung von Stadträtin Britta Runge"
+      },
+      {
+        "number": "4.8.",
+        "title": "Vereidigung von Stadtrat Horst Urbanc"
+      },
+      {
+        "number": "5.",
+        "title": "Beschlussfassung über die Anzahl der weiteren Bürgermeisterinnen / der weiteren Bürgermeister"
+      },
+      {
+        "number": "6.",
+        "title": "Beschlussfassung über die Rechtsstellung der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters"
+      },
+      {
+        "number": "7.",
+        "title": "Wahl der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bildung des Wahlausschusses"
+      },
+      {
+        "number": "7.2.",
+        "title": "Wahlvorschläge für die Wahl der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters"
+      },
+      {
+        "number": "7.3.",
+        "title": "Durchführung und Abstimmungsergebnis der Wahl der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters"
+      },
+      {
+        "number": "7.4.",
+        "title": "Vereidigung der gewählten Zweiten Bürgermeisterin / des gewählten Zweiten Bürgermeisters nach KWBG"
+      },
+      {
+        "number": "8.",
+        "title": "Beschlussfassung über die Rechtsstellung der weiteren Bürgermeisterin / des weiteren Bürgermeisters"
+      },
+      {
+        "number": "9.",
+        "title": "Wahl der weiteren Bürgermeisterin / des weiteren Bürgermeisters"
+      },
+      {
+        "number": "9.1.",
+        "title": "Bildung des Wahlausschusses"
+      },
+      {
+        "number": "9.2.",
+        "title": "Wahlvorschläge für die Wahl der weiteren Bürgermeisterin / des weiteren Bürgermeisters"
+      },
+      {
+        "number": "9.3.",
+        "title": "Durchführung und Abstimmungsergebnis der Wahl der weiteren Bürgermeisterin / des weiteren Bürgermeisters"
+      },
+      {
+        "number": "9.4.",
+        "title": "Vereidigung der gewählten weiteren Bürgermeisterin / des gewählten weiteren Bürgermeisters nach KWBG"
+      },
+      {
+        "number": "10.",
+        "title": "Neufassung der Satzung der Stadt Langenzenn zur Regelung von Fragen des örtlichen Gemeindeverfassungsrechts"
+      },
+      {
+        "number": "11.",
+        "title": "Neufassung der Geschäftsordnung des Stadtrats Langenzenn"
+      },
+      {
+        "number": "12.",
+        "title": "Benennung der Fraktionsvorsitzenden und deren Stellvertreter / bzw. Ansprechpartner und Stellvertreter"
+      },
+      {
+        "number": "13.",
+        "title": "Benennung der Ausschussmitglieder"
+      },
+      {
+        "number": "14.",
+        "title": "Bestellung des Vorsitzes & Stellvertreter für den Rechnungsprüfungsausschusses"
+      },
+      {
+        "number": "15.",
+        "title": "Teilnahme Dritter an Stadtrats- und Ausschusssitzungen"
+      },
+      {
+        "number": "16.",
+        "title": "Entsendung und Bestellung gemeindlicher Vertreter in andere Institutionen"
+      },
+      {
+        "number": "16.1.",
+        "title": "Entsendung in die Verbandsversammlung des Zweckverbandes der Sparkasse Fürth"
+      },
+      {
+        "number": "16.2.",
+        "title": "Entsendung in den Verwaltungsrat der Sparkasse Fürth"
+      },
+      {
+        "number": "16.3.",
+        "title": "Benennung der Mitglieder für die Verbandsversammlung des Zweckverbandes Wasserversorgung Dillenberggruppe"
+      },
+      {
+        "number": "16.4.",
+        "title": "Benennung der Aufsichtsratsmitglieder für den Aufsichtsrat der Wohnungsbaugesellschaft der Stadt Langenzenn GmbH"
+      },
+      {
+        "number": "16.5.",
+        "title": "Vertretung der Stadt Langenzenn im Planungsverband Industrieregion Mittelfranken"
+      },
+      {
+        "number": "16.6.",
+        "title": "Entsendung in den Umweltbeirat der Sonderabfalldeponien Schwabach und Raindorf"
+      },
+      {
+        "number": "16.7.",
+        "title": "Entsendung von Mitgliedern in die Steuerungsgruppe „Gewässerbiotopverbund“"
+      },
+      {
+        "number": "17.",
+        "title": "Änderung der Errichtungsvereinbarung der Bürgerstiftung Langenzenn"
+      },
+      {
+        "number": "18.",
+        "title": "Bestellung der Mitglieder des Stiftungsrates für die Bürgerstiftung Langenzenn durch die im Stadtrat vertretenen Parteien oder Wählergruppen"
+      },
+      {
+        "number": "19.",
+        "title": "Bestellung der Pfleger und Beauftragten der Stadt Langenzenn"
+      },
+      {
+        "number": "19.1.",
+        "title": "Bestellung eines Rad- und Mobilitätsbeauftragten"
+      },
+      {
+        "number": "19.2.",
+        "title": "Bestellung eines Ehrenamtsbeauftragten"
+      },
+      {
+        "number": "19.3.",
+        "title": "Bestellung eines Heimat- und Denkmalpflegenden"
+      },
+      {
+        "number": "19.4.",
+        "title": "Bestellung eines Jugendbeauftragten"
+      },
+      {
+        "number": "19.5.",
+        "title": "Bestellung eines Kulturbeauftragten"
+      },
+      {
+        "number": "19.6.",
+        "title": "Bestellung eines Schul- und Kindertagesstättenbeauftragten"
+      },
+      {
+        "number": "19.7.",
+        "title": "Bestellung eines Sozialbeauftragten"
+      },
+      {
+        "number": "19.8.",
+        "title": "Bestellung eines kommunalen Behindertenbeauftragten"
+      },
+      {
+        "number": "19.9.",
+        "title": "Bestellung der Waldbeauftragten"
+      },
+      {
+        "number": "19.9.1.",
+        "title": "der Waldungen in Langenzenn"
+      },
+      {
+        "number": "19.9.2.",
+        "title": "der Waldungen Hospitalstiftung am Dillenberg im Bereich Oberreichenbach"
+      },
+      {
+        "number": "19.9.3.",
+        "title": "der Waldungen Stadt in Kirchfembach"
+      },
+      {
+        "number": "19.9.4.",
+        "title": "der Waldungen Stadt in Laubendorf und Hospitalstiftung in Laubendorf"
+      },
+      {
+        "number": "19.9.5.",
+        "title": "der Waldungen Stadt in Keidenzell und Hospitalstiftung am Dillenberg im Bereich Keidenzell"
+      },
+      {
+        "number": "19.9.6.",
+        "title": "der Waldungen Stadt in Horbach"
+      },
+      {
+        "number": "20.",
+        "title": "Bestellung des Ersten Bürgermeisters zum Eheschließungsstandesbeamten"
+      },
+      {
+        "number": "21.",
+        "title": "Generalsanierung Hallenbad; Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Aktueller Stand zur Beschlussfassung des Marktes Wilhermsdorf und ggf. Neufassung / Änderung des Stadtratsbeschlusses vom 16.04.2026"
+      },
+      {
+        "number": "22.",
+        "title": "Mitteilungen"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "Hindenburgstraße 32 die",
+    "signedBy": "1. Sitzung des Stadtrates, mit folgender öffentlicher, Tagesordnung, statt:, 1.         Eröffnungsrede des Ersten Bürgermeisters, 2.         Kirchlicher Segen, 3.         Vereidigung des Ersten Bürgermeisters Christian Ell, 4.         Vereidigung der neu gewählten Stadtratsmitglieder, 4.1.       Vereidigung von Stadtrat Jörg Bauereiß, 4.2.       Vereidigung von Stadtrat André Goos, 4.3.       Vereidigung von Stadtrat Gunther Höfler, 4.4.       Vereidigung von Stadtrat Daniel Kempe, 4.5.       Vereidigung von Stadtrat Florian Kesselring, 4.6.       Vereidigung von Stadtrat Michael Kimberger, 4.7.       Vereidigung von Stadträtin Britta Runge, 4.8.       Vereidigung von Stadtrat Horst Urbanc, 5.         Beschlussfassung über die Anzahl der weiteren Bürgermeisterinnen / der, weiteren Bürgermeister, 6.         Beschlussfassung über die Rechtsstellung der Zweiten Bürgermeisterin / des, Zweiten Bürgermeisters, 7.         Wahl der Zweiten Bürgermeisterin / des Zweiten Bürgermeisters, 7.1.       Bildung des Wahlausschusses, 7.2.       Wahlvorschläge für die Wahl der Zweiten Bürgermeisterin / des Zweiten, Bürgermeisters, 7.3.       Durchführung und Abstimmungsergebnis der Wahl der Zweiten Bürgermeisterin /, des Zweiten Bürgermeisters, 7.4.    Vereidigung der gewählten Zweiten Bürgermeisterin / des gewählten Zweiten, Bürgermeisters nach KWBG, 8.      Beschlussfassung über die Rechtsstellung der weiteren Bürgermeisterin / des, weiteren Bürgermeisters, 9.      Wahl der weiteren Bürgermeisterin / des weiteren Bürgermeisters, 9.1.    Bildung des Wahlausschusses, 9.2.    Wahlvorschläge für die Wahl der weiteren Bürgermeisterin / des weiteren, Bürgermeisters, 9.3.    Durchführung und Abstimmungsergebnis der Wahl der weiteren Bürgermeisterin, / des weiteren Bürgermeisters, 9.4.    Vereidigung der gewählten weiteren Bürgermeisterin / des gewählten weiteren, Bürgermeisters nach KWBG, 10.     Neufassung der Satzung der Stadt Langenzenn zur Regelung von Fragen des, örtlichen Gemeindeverfassungsrechts, 11.     Neufassung der Geschäftsordnung des Stadtrats Langenzenn, 12.     Benennung der Fraktionsvorsitzenden und deren Stellvertreter / bzw., Ansprechpartner und Stellvertreter, 13.     Benennung der Ausschussmitglieder, 14.     Bestellung des Vorsitzes & Stellvertreter für den, Rechnungsprüfungsausschusses, 15.     Teilnahme Dritter an Stadtrats- und Ausschusssitzungen, 16.     Entsendung und Bestellung gemeindlicher Vertreter in andere Institutionen, 16.1.   Entsendung in die Verbandsversammlung des Zweckverbandes der Sparkasse, Fürth, 16.2.   Entsendung in den Verwaltungsrat der Sparkasse Fürth, 16.3.   Benennung der Mitglieder für die Verbandsversammlung des Zweckverbandes, Wasserversorgung Dillenberggruppe, 16.4.   Benennung der Aufsichtsratsmitglieder für den Aufsichtsrat der, Wohnungsbaugesellschaft der Stadt Langenzenn GmbH, 16.5.   Vertretung der Stadt Langenzenn im Planungsverband Industrieregion, Mittelfranken, 16.6.   Entsendung in den Umweltbeirat der Sonderabfalldeponien Schwabach und, Raindorf, 16.7.   Entsendung von Mitgliedern in die Steuerungsgruppe „Gewässerbiotopverbund“, 17.       Änderung der Errichtungsvereinbarung der Bürgerstiftung Langenzenn, 18.       Bestellung der Mitglieder des Stiftungsrates für die Bürgerstiftung Langenzenn, durch die im Stadtrat vertretenen Parteien oder Wählergruppen, 19.       Bestellung der Pfleger und Beauftragten der Stadt Langenzenn, 19.1.     Bestellung eines Rad- und Mobilitätsbeauftragten, 19.2.     Bestellung eines Ehrenamtsbeauftragten, 19.3.     Bestellung eines Heimat- und Denkmalpflegenden, 19.4.     Bestellung eines Jugendbeauftragten, 19.5.     Bestellung eines Kulturbeauftragten, 19.6.     Bestellung eines Schul- und Kindertagesstättenbeauftragten, 19.7.     Bestellung eines Sozialbeauftragten, 19.8.     Bestellung eines kommunalen Behindertenbeauftragten, 19.9.     Bestellung der Waldbeauftragten, 19.9.1.   der Waldungen in Langenzenn, 19.9.2.   der Waldungen Hospitalstiftung am Dillenberg im Bereich Oberreichenbach, 19.9.3.   der Waldungen Stadt in Kirchfembach, 19.9.4.   der Waldungen Stadt in Laubendorf und Hospitalstiftung in Laubendorf, 19.9.5.   der Waldungen Stadt in Keidenzell und Hospitalstiftung am Dillenberg im Bereich, Keidenzell, 19.9.6.   der Waldungen Stadt in Horbach, 20.       Bestellung des Ersten Bürgermeisters zum Eheschließungsstandesbeamten, 21.       Generalsanierung Hallenbad; Bundesförderprogramm „Sanierung von, Schwimmstätten“ im Frühjahr 2026; hier: Aktueller Stand zur Beschlussfassung, des Marktes Wilhermsdorf und ggf. Neufassung / Änderung des, Stadtratsbeschlusses vom 16.04.2026, 22.       Mitteilungen, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 7. Mai 2026, Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "184228"
+  }
+}

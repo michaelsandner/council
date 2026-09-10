@@ -1,0 +1,211 @@
+{
+  "meetingId": "3336",
+  "announcement": {
+    "heading": "75. Sitzung des Stadtrates",
+    "sessionNumber": 75,
+    "date": "2025-02-27",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Erlass einer Rechtsverordnung über verkaufsoffene Sonntage im Jahr 2025"
+      },
+      {
+        "number": "4.",
+        "title": "Bekanntgabe des Jahresabschlusses 2022 der Stadtwerke"
+      },
+      {
+        "number": "5.",
+        "title": "Hallenbad Langenzenn; hier: Anpassung der Benutzungsgebühren für Schulen"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginn ca. 17:40 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Februar 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "75. Sitzung des Stadtrates",
+    "sessionNumber": 75,
+    "date": "2025-02-27",
+    "startTime": "17:30",
+    "endTime": "19:47",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "ab TOP 12"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "bis Ende TOP 14"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Marion",
+            "note": "bis Mitte TOP 14"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "ab Anfang TOP 8"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat gibt folgende in nichtöffentlicher Sitzung gefassten Beschlüsse öffentliche bekannt:\n\n72. Sitzung des Stadtrats vom 15.01.2025\n\n1. Naturbad Keidenzell – Vergabe von Teichbau- und Grünpflegearbeiten; hier: Vorberatung und Vergabe\n\nDer Stadtrat beschließt die Vergabe der Teichbau- und Grünpflegearbeiten im Naturbad Keidenzell an die Firma Bodin GmbH, Heilsbronn, auf Grundlage des Angebots vom 20.12.2024 in Höhe von brutto 23.853,79 Euro.\n\n2. Teilsanierung Grundschule Langenzenn – Garten- und Landschaftsbauarbeiten; Nachtrag Regiearbeiten; hier: Vorberatung und Vergabe\n\nDer Stadtrat beschließt die Vergabe des Nachtragsangebotes der Firma Konrad Müller GmbH, Nürnberg, auf Grundlage des Angebots vom 09.12.2024 in Höhe von brutto 46.084,82 Euro.\n\n3. Genehmigung der letzten Niederschriften\n\nNiederschrift über die               Sitzungsdatum 69. Sitzung des Stadtrates           vom 04.12.2024\n\n50. Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 28.01.2025\n\n4. Ertüchtigung Schießhausplatz; hier: Neugestaltung der Parkplätze; Aufwertung der Platzgestaltung sowie Fortführung der Försterallee (Geh- und Radweg); hier: Beauftragung Nachtrag\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Beauftragung des Nachtragsangebotes Nr. 01 der Firma Gustav Meyer, Windsbach, vom 04.12.2024 in Höhe von vorläufig brutto 18.757,95 Euro.\n\nDie Mehrkosten sind bei der Städtebauförderung bereits angemeldet und im Rahmen der Gesamtmaßnahme förderfähig.\n\nDie Baukosten erhöhen sich folglich um den vorgenannten Betrag.\n\n5. Verkehrs- und Abwasseranlagen Langenzenn: Eigenüberwachung der Abwasserkanäle; Umsetzung 10 – Jahres – Plan; hier: Vergabe der planerischen Betreuung\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Ingenieurleistungen im Rahmen der Kanalverfilmung „Eigenüberwachung“ an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 17.12.2024 in Höhe von brutto 49.817,59 Euro.\n\nInhalt der Beauftragung ist die Vorbereitung, Betreuung und Nachbereitung des ersten Teilabschnitts des neuen 10-Jahres-Zyklus für die Eigenüberwachung des städtischen Kanalnetzes.\n\n6. Abwasseranlage Langenzenn; RÜ Denkmalplatz und Entlastungskanal Schollerwiesen; hier: Vergabe von Planleistungen\n\nDer Bau- Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen für den RÜ Denkmalplatz und Entlastungskanal Schollerwiese an das Ingenieurbüro Miller, Nürnberg, auf Grundlage des Angebots vom 21.01.2025 in Höhe von vorläufig brutto 200.814,31 Euro einschließlich 5% Nebenkosten.\n\nDie Beauftragung erfolgt stufenweise, zunächst in Höhe von jeweils rund 52.000 Euro für Leistungsphasen 3 + 4 sowie die Leistungsphasen 5 - 7. Die Maßnahmen sind Teil des 10-Jahres-Plans für die Entwässerungseinrichtungen\n\n7. Vollzug der Entwässerungssatzung (EWS); hier: Vergabe von Planungsleistungen zur Beitragskalkulation\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen zur Grundlagenermittlung für die künftigen Herstellungsbeiträge, sowie für mögliche Verbesserungsbeiträge (Globalkalkulation, Beitragskalkulation) an die Firma Schneider & Zajontz Gesellschaft für kommunale Entwicklung mbH, Heilbronn, auf Grundlage des Angebotes vom 30.12.2024 in Höhe von brutto 6.307,00\n\n8. Genehmigung der letzten Niederschrift\n\nNiederschrift über die              Sitzungsdatum 48. Sitzung des BUVA                vom 26.11.2024\n\n62. Sitzung des Hauptausschusses vom 29.01.2025\n\n9. Bestellung von Tablets-PCs für die Grundschule Langenzenn\n\nDie Verwaltung wird mit der Beschaffung von 120 Tablet-PC’s (Apple iPad 10,9 Zoll 10. Generation Wi-Fi 64 GB) und den dazu passenden Schutzhüllen beauftragt.\n\nDie Verwaltung wird bis zu einem Höchstbetrag von 45.600,00 € ermächtigt, die Bestellung zum tagesaktuell günstigsten Preis durchzuführen.\n\n10. Bestellung von Krippenwägen für die Kindertagesstätte Plapperkiste\n\nDer Hauptausschuss beauftragt die Verwaltung mit der Beschaffung von zwei (6 sitzige) Krippenwägen mit Motor, Sonnenschutz und Regenschutz.\n\nDie Verwaltung wird ermächtigt die Bestellung, bis zu einem Höchstbetrag von 10.600,00 €, beim tagesaktuell günstigsten Anbieter zu beauftragen.\n\n11. Bestellung von Tablet-PCs für die Kindertagesstätte Plapperkiste\n\nDer Hauptausschuss beauftragt die Verwaltung mit der Beschaffung von 7 Tablet- PC’s (Apple iPad Air, 13 Zoll, 128GB, Wi-Fi) und der passenden Schutzhüllen.\n\nDie Verwaltung wird bis zu einem Höchstbetrag von 6.300,00 € ermächtigt, die Bestellung selbstständig durchzuführen.\n\n12. Genehmigung der letzten Niederschrift/-en\n\nNiederschrift über die             Sitzungsdatum 59. Hauptausschusssitzung          24.10.2024 60. Hauptausschusssitzung          28.11.2024 61. Hauptausschusssitzung          18.12.2024\n\n31. Sitzung des Werkausschusses vom 29.01.2025\n\n13. Betriebsgebäude Stadtwerke; hier: Vergabe von Planungsleistungen für Umbaumaßnahmen\n\nDer Werkausschuss beschließt den Auftrag für Planungsleistungen für Umbaumaßnahmen Betriebsgebäude der Stadtwerke Langenzenn, Kapell-Leite 1, 90579 Langenzenn an das Architekturbüro Planquadrat/Westenfelder gemäß Honorarangebot vom 21.01.2025, Nr. an-250120 über 9.759,58 € netto zzgl. der gesetzlichen Mehrwertsteuer zu vergeben.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Erlass einer Rechtsverordnung über verkaufsoffene Sonntage im Jahr 2025",
+        "facts": "Für das Jahr 2025 sind drei verkaufsoffene Sonntage geplant.\n\n   Sonntag, 13.04.2025 zum Regionalmarkt i. V. m. der Jubiläumsschau    Sonntag, 15.06.2025 zum Kirchweihsonntag    Sonntag, 20.07.2025 zum Trödelmarkt\n\nFür diese ist eine Verordnung nach § 14 des Gesetzes über den Ladenschluss (LadSchlG) zu erlassen.\n\nDer Entwurf der Rechtsverordnung ist im Ratsinformationssystem eingestellt und wird der Niederschrift als Anlage 1 beigefügt.\n\nDer Hauptausschuss hat in der Sitzung vom 29.01.2025 einstimmig folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf einer Verordnung über verkaufsoffene Sonntage im Jahr 2025 als Rechtverordnung.\n\nMit dieser Rechtsverordnung dürfen Verkaufsstellen im Innenstadtbereich an folgenden Tagen geöffnet sein:\n\n   Am Sonntag, dem 13.04.2025 anlässlich des Regionalmarktes i. V. m. der Jubiläumsschau (festgesetzte Marktveranstaltung) von 11:00 Uhr bis 16:00 Uhr,    Am Sonntag, dem 15.06.2025 anlässlich der Langenzenner Kirchweih von 13:00 Uhr bis 18:00 Uhr    Am Sonntag, dem 20.07.2025 anlässlich des Langenzenner Trödelmarktes (festgesetzte Marktveranstaltung) von 11:00 Uhr bis 16:00 Uhr\n\nDie Rechtsverordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 21,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bekanntgabe des Jahresabschlusses 2022 der Stadtwerke",
+        "facts": "Der Jahresabschluss 2022 der Stadtwerke Langenzenn\n\nSumme Aktivseite                                           6.213.012,14 Euro Summe Passivseite                                          6.213.012,14 Euro\n\nJahresverlust                                              624.733,25 Euro\n\nJahresverlust lt. G. u. V. Rechnung                        624.733,25 Euro wird hiermit festgestellt.\n\nDer Jahresverlust 2022 in Höhe von 624.733,25 Euro ist auf neue Rechnung vorzutragen.\n\nDer Jahresverlust von 624.733,26 € führt zu einer Reduzierung des Eigenkapitals auf 932.370,22 €, die Allgemeine Rücklage in Höhe von 1.541.287,31 € wird durch die aufgelaufenen Verluste der Vorjahre in Höhe von 1.375.854,91 € auf 165.432,40 € geschmälert.\n\nDie Konzessionsabgabe wird nicht in voller Höhe nach den Vorgaben des Kommunalabgabengesetzes (KAG) und der Konzessionsabgabenverordnung (KAV) an die Stadt abgeführt.\n\nDie Jahresbilanz 2022 liegt der Niederschrift als Anlage xx bei.\n\nDer Werkausschuss hat dem Stadtrat in seiner Sitzung am 18.07.2024 den Beschlussvorschlag einstimmig empfohlen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Hallenbad Langenzenn; hier: Anpassung der Benutzungsgebühren für Schulen",
+        "facts": "Der Werkausschuss wurde in seiner Sitzung am 29.01.2025 über die Entscheidung des Gemeinderates des Marktes Wilhermsdorf informiert, dass alle Schulen, die das Hallenfreibad Wilhermsdorf nutzen, nunmehr einheitlich mit einem von Pauschalsatz von 200,00 €/Std. (netto) abgerechnet werden, dies sind 214,00 €/Std. brutto (Sitzung 12/2024).\n\nIm Hallenbad Langenzenn werden derzeit für die Benutzung durch Schulen, je Unterrichtsstunde (45 Min.) und je Übungseinheit 33,25 € (incl. 7%) an den jeweiligen Sachaufwands-\n\nträger in Rechnung gestellt. Für die Nutzung der gesamten Wasserfläche des Hallenbades (5 Bahnen) fallen daher 66,50 € je Unterrichtsstunde an.\n\nMit den Benutzungsstunden der Schulen, die das Hallenbad Langenzenn im Jahr 2024 genutzt haben, könnte bei einer Anpassung der Benutzungsgebühren im Hallenbad Langenzenn auf 100 € netto je Unterrichtsstunde (45 Min.) und je Übungseinheit ein voraussichtlicher Mehrerlös von rund 53 T€ pro Jahr erwirtschaftet werden. Auch wären mit einer Anpassung der Benutzungsgebühren für Schulen eine gleichartige Behandlung der Schulen für die Nutzung von Schulschwimmbädern im nördlichen Landkreis gewährleistet.\n\nDer Werkausschuss hat vom Sachvortrag Kenntnis genommen und die Verwaltung einstimmig beauftragt, die oben dargestellte Anpassung der Benutzungsgebühren rückwirkend zum 01.01.2025 als Beschlussempfehlung für den Stadtrat aufzubereiten.",
+        "decision": "Der Stadtrat beschließt die Gebühren für die Benutzung des Hallenbads Langenzenn für Schulen wie im oben genannten Sachverhalt und in der Anlage dargestellt auf 100,00 €/Übungseinheit/Unterrichtsstunde, rückwirkend zum 01.01.2025, zu erhöhen und die Sondervereinbarung nach § 3 Abs. 6 der Satzung der Stadt Langenzenn über die Erhebung von Gebühren für das Hallenbad zu ändern.\n\nDes Weiteren wird die Zahlungspflicht bei den Schulen, wenn eine Belegungsstunde reserviert, aber nicht in Anspruch genommen und nicht rechtzeitig storniert wird, auf 70 % der normalerweise anfallenden Benutzungsgebühr festgelegt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 21,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "7.1.",
+        "title": "Mit Gummistiefeln behängte Ortsschilder",
+        "facts": "Herr Stadtrat Sieber weist auf seine Anfrage aus dem Vorjahr bezüglich der an Ortsschildern hängenden Gummistiefeln hin und bittet um Beantwortung seiner Fragen."
+      },
+      {
+        "number": "7.2.",
+        "title": "Einreichen des Antrags der CSU Stadtratsfraktion auf Wiederbesetzungssperre",
+        "facts": "Herr Stadtrat Durlak reicht einen Antrag auf Wiederbesetzungssperre ein."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "172835",
+    "minutes": "178592"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "meetingId": "3199",
+  "announcement": {
+    "heading": "23. Sitzung des Werkausschusses",
+    "sessionNumber": 23,
+    "date": "2023-10-26",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. Oktober 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "23. Sitzung des Werkausschusses",
+    "sessionNumber": 23,
+    "date": "2023-10-26",
+    "startTime": "18:08",
+    "endTime": "18:55",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "1.1.",
+        "title": "Terminänderung Klausurtagung Stadtwerke",
+        "facts": "Werkleiter Lampert teilt mit, dass der Termin für die Klausurtagung der Stadtwerke am 14.11.2023 verschoben werden muss. Mögliche Ersatztermine werden noch bekanntgegeben.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "160441",
+    "minutes": "161265"
+  }
+}

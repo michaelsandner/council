@@ -1,0 +1,375 @@
+{
+  "meetingId": "3299",
+  "announcement": {
+    "heading": "57. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 57,
+    "date": "2025-05-27",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Bericht Informationsfahrt Besichtigung Hochwasserschutz in Wassertrüdingen"
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Tekturantrag zum Umbau des Getreidelagers zur Physiopraxis und Fitnessstudio, Änderung des Querbaus und des Unterzugs auf dem Grundstück Wasenmühle 1"
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag zum Anbau an ein bestehendes Wohnhaus auf dem Grundstück Allensteiner Str. 24"
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zum Anbau eines Carports mit Fahrradabstellraum an ein bestehendes Wohngebäude auf dem Grundstück Ansbacher Str. 43"
+      },
+      {
+        "number": "2.4.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Streichung der Fassade auf dem Grundstück Hindenburgstr. 10a"
+      },
+      {
+        "number": "2.5.",
+        "title": "Bauvoranfrage zum Abriss eines Gartenhauses und Neubau eines Einfamilienhauses auf dem Grundstück Pirkacher Str. 1a"
+      },
+      {
+        "number": "2.6.",
+        "title": "Bauvoranfrage zur Errichtung eines Tiny Houses auf dem Grundstück Pirkacher Str. 1a"
+      },
+      {
+        "number": "2.7.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienhauses auf dem Grundstück Nähe Südstr."
+      },
+      {
+        "number": "2.8.",
+        "title": "Bauvoranfrage zur Errichtung eines Einfamilienhauses auf den Grundstücken Nähe Untere Ringstraße/Rosenstr. 20"
+      },
+      {
+        "number": "2.9.",
+        "title": "Bauvoranfrage zum Umbau eines Lebensmittelmarktes in Wohnungen und Arztpraxen und Neubau von einem Einfamilienhaus und einem Zweifamilienhaus auf den Grundstücken Prinzregentenplatz 7 und Nähe Försterallee"
+      },
+      {
+        "number": "2.10.",
+        "title": "Bauvoranfrage zur Abtrennung eines vierten Behandlungszimmers in einer Zahnarztpraxis auf dem Grundstück Nürnberger Str. 49"
+      },
+      {
+        "number": "2.11.",
+        "title": "Bauvoranfrage zur Errichtung eines Gewächshauses auf dem Grundstück Dürrnbucher Str. 7 a"
+      },
+      {
+        "number": "3.",
+        "title": "Projekt Gewässerbiotopverbund hier: Information zur Vergabe zur Erstellung des Maßnahmenkonzeptes"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Gemeinde Veitsbronn – Aufstellung des Bebauungsplanes Nr. 51 „Solarpark Kreppendorfer Äcker\" und 19. Änderung des FNP; hier: Beteiligung gem. § 4 Abs. 1 BauGB"
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Neuauflage Schulwegeplan"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung"
+      },
+      {
+        "number": "6.2.",
+        "title": "Naturbad Keidenzell hier: Sachstandsbericht zur Sanierung"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Hochwasserschutz hier: Termininformation"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "22. Mai 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "57. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 57,
+    "date": "2025-05-27",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 2.9."
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 2.2."
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Meyer, Evelyn",
+            "note": "Stellvertreter für Stadträtin Ritter"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Jäger, Alfred"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Bericht Informationsfahrt Besichtigung Hochwasserschutz in Wassertrüdingen",
+        "facts": "Besuch des Hochwasserschutzes Wassertrüdingen am 04.05.2025\n\nBesichtigung u.a. der Hochwasser-Pumpanlagen, im Hintergrund rechts der über die Landesgartenschau mitverwirklichte Wohnmobilstellplatz in Wassertrüdingen Bürgermeister, Stadträte und Bürger aus Langenzenn reisten im Mai zu einer Nachschau nach Wassertrüdigen, um sich dort über den aktuellen Hochwasserschutz und die ehemalige Landesgartenschau zu informieren. Genau wie Langenzenn liegt Wassertrüdingen an einem Fluss (Wörnitz) und stand vor der gleichen Aufgabe, einen sicheren Hochwasserschutz zu errichten. Das klappt dort richtig gut: Die Langenzenner Delegation erlebte vor Ort, dass der Hochwasserschutz in „Trüdigen“ von nur 2 Feuerwehr-Käften in weniger als 15 Minuten errichtet wurde. Das ist viel schneller und effizienter als in Langenzenn, wo man bei Flutgefahr mit 30 Mann im Bauhof-Zentrallager stundenlang Sandsäcke von Hand befüllt, um die Säcke anschließend per LKW zur Gefahrenstelle zu fahren und dort mit wieder vielen Einsatzkräften auszulegen. Die rund 6.500 Wassertrüdinger kombinierten die Herstellung ihres Hochwasserschutzes mit der Ausrichtung der Bay. Landesgartenschau 2019 klug. Seither ist Wassertrüdingen hochwasserfrei. Beim Empfang im bis heute genutzten „Regionalpavillion“ (dem ehemaligen Eingangstor der LGS) versicherte der lokale CSU-Fraktionssprecher Peter Wittmann: „ohne die Landesgarten-schau hätten wir so einen Hochwasserschutz nicht erhalten. Nicht in der Zeit, nicht in der Schönheit und nicht zu dem Geld“. Der Hochwasserschutz in Wassertrüdingen hat 13,4 Mio. € gekostet, die Stadt musste dabei nur einen monetären Eigenanteil von 1,8 Mio. € leisten. In Langenzenn sind für den Hochwasserschutz derzeit – ohne die Sondereffekte für Förderungen im Zuge einer Landesgartenschau – Gesamtkosten von ca. 15 Mio. € bei einem Eigenanteil von 10 Mio. € im Gespräch.\n\nÜber 336.000 Besucher und über 80% Förderung unterstützten die Wassertrüdinger Baukosten aller Maßnahmen (z.B. Wege, Gebäude, Hochwasserschutz) von zusammen rd. 8,6 Mio. Euro. Zeitgleich mit dem Langenzenner Besuch fand auf dem ehemaligen Landesgartenschaugelände ein Handwerkermarkt statt. Gartenschauflächen werden auch viele Jahre danach noch intensiv genutzt und tragen zur Stadtentwicklung bei.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Tektur Antrag zum Umbau des Getreidelagers zur Physiopraxis und Fitnessstudio, Änderung des Querbaus und des Unterzugs auf dem Grundstück Wasenmühle 1",
+        "facts": "Tektur Antrag zum Umbau des Getreidelagers zur Physiopraxis und Fitnessstudio, Änderung des Querbaus und des Unterzugs auf dem Grundstück Flur-Nr. 480/2, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass hierzu bereits eine Tektur Planung in der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 17.12.2024 behandelt wurde. Im Rahmen des Genehmigungsverfahrens wurde von der Denkmalpflege eine Änderung der Fassadenstruktur (Einbau von Lisenen zwischen den Fenstern) gefordert. Hierzu bedarf es einer erneuten Tektur Planung.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis: Die Belange des Denkmalschutzes sowie des Hochwasserschutzes sind weiterhin zu beachten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag zum Anbau an ein bestehendes Wohnhaus auf dem Grundstück Allensteiner Str. 24",
+        "facts": "Antrag zum Anbau an ein bestehendes Wohnhaus und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform und Dacheindeckung auf dem Grundstück Flur-Nr. 1064/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Die Befreiungen von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform und Dacheindeckung werden erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zum Anbau eines Carports mit Fahrradabstellraum an ein bestehendes Wohngebäude auf dem Grundstück Ansbacher Str. 43",
+        "facts": "Antrag zum Anbau eines Carports mit Fahrradabstellraum an ein bestehendes Gebäude auf dem Grundstück Flur-Nr. 1154/5, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.4.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Streichung der Fassade auf dem Grundstück Hindenburgstr. 10a",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis für eine Fassadenstreichung auf dem Grundstück Flur-Nr. 203 und 203/2, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass der beantragte Farbton mit der Stadt bereits abgestimmt ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.5.",
+        "title": "Bauvoranfrage zum Abriss eines Gartenhauses und Neubau eines Einfamilienhauses auf dem Grundstück Pirkacher Str. 1a",
+        "facts": "Bauvoranfrage zum Abriss eines Gartenhauses und Neubau eines Einfamilienhauses auf dem Grundstück Flur-Nr. 153, Gemarkung Kirchfembach.\n\nDie Verwaltung teilt mit, dass im Flächennutzungsplan der Stadt Langenzenn das Grundstück als gemischte Baufläche dargestellt ist.\n\nFerner wird mitgeteilt, dass das Grundstück über den öffentlichen Feld- und Waldweg Flur- Nr. 154 „Weg nördlich der Pirkacher Straße“ an das öffentliche Straßennetz (hier: Pirkacher Straße) angebunden ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nHinweis: Das Grundstück ist über den öffentlichen Feld- und Waldweg Flur-Nr. 154 „Weg nördlich der Pirkacher Straße“ an das öffentliche Straßennetz (hier: Pirkacher Straße) angebunden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.6.",
+        "title": "Bauvoranfrage zur Errichtung eines Tiny Houses auf dem Grundstück Pirkacher Str. 1a",
+        "facts": "Bauvoranfrage zur Errichtung eines Tiny Houses auf dem Grundstück Flur-Nr. 153, Gemarkung Kirchfembach.\n\nDie Verwaltung teilt mit, dass im Flächennutzungsplan der Stadt Langenzenn das Grundstück als gemischte Baufläche dargestellt ist.\n\nFerner wird mitgeteilt, dass das Grundstück über den öffentlichen Feld- und Waldweg Flur-Nr. 154 „Weg nördlich der Pirkacher Straße“ an das öffentliche Straßennetz (hier: Pirkacher Straße) angebunden ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nHinweis: Das Grundstück ist über den öffentlichen Feld- und Waldweg Flur-Nr. 154 „Weg nördlich der Pirkacher Straße“ an das öffentliche Straßennetz (hier: Pirkacher Straße) angebunden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.7.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienhauses auf dem Grundstück Nähe Südstr.",
+        "facts": "Bauvoranfrage zum Neubau eines Einfamilienhauses auf dem Grundstück Flur-Nr. 63 (Fläche B), Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nBürgermeister",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.8.",
+        "title": "Bauvoranfrage zur Errichtung eines Einfamilienhauses auf den Grundstücken Nähe Untere Ringstraße/Rosenstr. 20",
+        "facts": "Bauvoranfrage zur Errichtung eines Einfamilienhauses mit Doppelgarage in ortsüblicher Straßenrandbebauung auf den Grundstücken Flur-Nr. 360 und Teilfläche aus 63, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nBürgermeister Habel ist während der Beratung und Abstimmung nicht anwesend.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.9.",
+        "title": "Bauvoranfrage zum Umbau eines Lebensmittelmarktes in Wohnungen und Arztpraxen und Neubau von einem Einfamilienhaus und einem Zweifamilienhaus auf den Grundstücken Prinzregentenplatz 7 und Nähe Försterallee",
+        "facts": "Bauvoranfrage zum Umbau eines Lebensmittelmarktes in Wohnungen und Arztpraxen und Neubau von einem Einfamilienhaus und einem Zweifamilienhaus auf den Grundstücken Flur- Nrn. 7, 7/1, 8 und 272, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass bezüglich der beabsichtigten Nutzungsänderung eine Besprechung mit den Antragstellern, der Stadt Langenzenn sowie dem Büro Fürhäußer, Ansbach am 07.05.2025 stattgefunden hat.\n\nDie Antragsteller möchten das Areal der Gebäude Prinzregentenplatz 7 und 8 und Friedrich- Ebert-Str. 1 überplanen. Grundlage für die mögliche Städtebauförderung ist die Umsetzung der ISEK-Richtlinien der Stadt Langenzenn (hier: Entwicklungskonzept „Langenzenn Zenntral“).\n\nAus städtebaulicher Sicht ist die geplante Nutzungsänderung in Wohnungen und Arztpraxen zu befürworten. Die bestehende Baumasse sollte im Zuge der Umplanung (Prinzregentenplatz 8) reduziert und das Grundstück entsiegelt und begrünt werden.\n\nHinsichtlich der angefragten Neubaus (EFH + ZFH) wird darauf hingewiesen, dass sich die Fläche innerhalb des Überschwemmungsbereiches sowie in unmittelbarer Nähe der Stadtmauer befindet. Die Belange des Hochwasserschutzes sowie des Denkmalschutzes sind zu beachten.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDie Belange des Denkmalschutzes, Brandschutzes, Stellplatznachweises, Hochwasserschutzes, Abstandflächen etc. sind zu beachten, bzw. einzuhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.10.",
+        "title": "Bauvoranfrage zur Abtrennung eines vierten Behandlungszimmers in einer Zahnarztpraxis auf dem Grundstück Nürnberger Str. 49",
+        "facts": "Bauvoranfrage zur Abtrennung eines vierten Behandlungszimmers in einer Zahnarztpraxis auf dem Grundstück Flur-Nr. 468/1, 472 und 473, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.11.",
+        "title": "Bauvoranfrage zur Errichtung eines Gewächshauses auf dem Grundstück Dürrnbucher Str. 7 a",
+        "facts": "Der Tagesordnungspunkt wurde abgesetzt."
+      },
+      {
+        "number": "3.",
+        "title": "Projekt Gewässerbiotopverbund hier: Information zur Vergabe zur Erstellung des Maßnahmenkonzeptes",
+        "facts": "Gemäß Ermächtigungsbeschluss des Bau-, Umwelt- und Verkehrsausschuss vom 25.02.2025, können Vergaben von Aufträgen, die innerhalb des Projektes zur Gewässerbiotopvernetzung in dessen Finanzplan vorgesehen sind, erteilt werden.\n\nHiermit informiert die Verwaltung, dass im Rahmen der Ausschreibung Erstellung eines Maßnahmenkonzeptes für einen Gewässerbiotopverbund für die Stadt Langenzenn für das Gewässerbiotopverbundprojekt der Auftrag in Höhe von 29.390,62€ an den wirtschaftlichsten Angebotsabgeber landimpuls GmbH vergeben wurde. Das Konzept wird bis zum 30.11.2026 fertiggestellt werden. Insgesamt wurden fünf Angebote eingeholt.\n\nDie Ausgabe ist vollständig im bestehenden Finanzplan des Projektes abgedeckt. Die eingeplanten Mittel für Konzept belaufen sich auf 20.000,00 €. Da beispielsweise bei der Bachmuschelplanung um 15.099,40 € geringere Ausgaben anfallen, können auch mit Absprache mit dem Bayerischen Naturschutzfonds die Gelder für Beauftragungen umgeschichtet werden. Die Abrechnung der Fördermittel durch den Bayerischen Naturschutzfonds erfolgt planmäßig im November.",
+        "decision": "Der Ausschuss nimmt Kenntnis und bittet um eine genaue Erläuterung in der nächsten Sitzung des Bau-,Umwelt- und Verkehrsausschusses.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Gemeinde Veitsbronn – Aufstellung des Bebauungsplanes Nr. 51 „Solarpark Kreppendorfer Äcker\" und 19. Änderung des FNP; hier: Beteiligung gem. § 4 Abs. 1 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB zur Aufstellung des Bebauungsplanes Nr. 51 \"Solarpark Kreppendorfer Äcker\" und 19. FNP-Änderung im Parallelverfahren vor.",
+        "decision": "Die Belange der Stadt Langenzenn werden nicht berührt.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen",
+        "facts": "   Vollsperrung Fahrbahn im OT Lohe Im Gründl 16-16b. /Err. Fertiggarage mittels Kran am 11.06.2025    Wilhermsdorfer Straße 8/ halbseitige Sperrung Fahrbahn / Absicherung einsturzgefährdetes Gebäude, Sicherung Straße bis 11.07.2025    Hindenburgstraße 18 /Wohnhaus Sanierung_ Sperrung Gehweg/ bis 31.07.2025    Hindenburgstraße 15 Gerüstaufstellung /teilweise Sperrung Gehweg vom 12.05.- 31.05.2025    Frankenstraße 42/44, halbseitige Sperrung, Sperrung Wendehammer/ Austausch Unterflurhydrant vom 22.05.-27.05.2025    Hausener Weg 26-40, halbseitige Sperrung, Sperrung Wendehammer/Arbeiten an Gasleitung vom 30.06.-11.07.2025    Äußere Windsheimer Straße 51-55, halbseitige Sperrung, Austausch Oberflurhydrant vom 26.05.-04.06.2025    Äußere Windsheimer Straße 51-55, halbseitige Sperrung, Austausch Oberflurhydrant vom 26.05.-04.06.2025    Mühlleite 35-36, Sperrung Gehweg, Austausch Unterflurhydranten vom 26.05.- 04.06.2025    Coburger Straße 2 BG 59 /halbseitige Sperrung Fahrbahn / Asphaltarbeiten vom 19.5-30.5.2025    Reichenberger Str. 29-29a/halbseitige Sperrung Fahrbahn/ Arbeiten an Gasleitung, Gasanschluss vom 21.05.-28.05.2025    BG 59 Rothenburgerstr. 14; Fahrbahneinengung / Kranstellung, Materiallager NB EFH vom 20.5.-20.09.2025    Görlitzer Straße 23/ Sperrung Parkflächen, Baustellenzufahrt / NB EFH / vom 12.5.- 13.7.2025    Div. Straßen/ Wanderbaustelle / geschlossene Kanalsanierung vom 06.05.- 31.12.2025    Div. Straßen/ Wanderbaustelle / Standsicherheitsprüfung an Beleuchtungsmasten/ 30.04.-31.10.2025    Hausener Weg 1 /halbseitige Sperrung Fahrbahn, Störungsbeseitigung Telekom bis 30.05.2025    Ausnahmegenehmigung Befahrung Wirtschaftswege Stadtgebiet zur Gewässer- u. Biotopkartierung Bachmuschelvorkommen vom 07.05.-31.05.2025",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis. Der Ausschuss bittet um Überprüfung, in wieweit an der Absperrung Wilhermsdorfer Straße 8 der Gehweg durch die Befahrung von Fahrzeugen abgesenkt wurde.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Neuauflage Schulwegeplan",
+        "facts": "Dem Ausschuss wird die Neuauflage des Schulwegeplanes bekannt gegeben.\n\nRückmeldungen und Ergebnisse der Elternumfrage wurden bei der Planung berücksichtigt. Zur Abstimmung wurde der Entwurf bereits Anfang des Jahres den Schulen, den Elternbeiräten und der Polizei vorgelegt.\n\nEine kleine Auflage von 200 Stück soll in den Druck gegeben werden. Weiterhin soll der Plan mit einem QR-Code ausgestattet, sowie auf der Homepage eingestellt werden, sodass dieser auch digital heruntergeladen werden kann.\n\nDer finale Planentwurf ist im Ratsinformationssystem zur Ansicht eingestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Erweiterung Grundschule; hier: Sachstandsbericht zur Ganztagsbetreuung",
+        "facts": "Am 22.05.2025 fand bei der Regierung von Mittelfranken ein Abstimmungsgespräch bezüglich der Förderung des Ganztagesangebots an der Grundschule Langenzenn und einem damit eventuell verbundenen Erweiterungsbau statt.\n\nDazu waren neben den städtischen Mitarbeiten aus dem Hauptamt und Bauamt, auch die bisher beteiligten Architekten und die Vertreter der LernLandSchaften anwesend.\n\nIm Ergebnis konnte festgehalten werden, dass voraussichtlich ein Raumprogramm für 16 Klassen genehmigt werden kann. Allerdings sollten die Schülerzahlen und Schülerprognosen nochmals durch die Schulleitung bzw. durch das staatliche Schulamt verifiziert werden.\n\nAuf dieser Grundlage könnte das funktionale Raumbuch der LernLandSchaften in die Grundrisse übertragen werden und der Raumbedarf ermittelt werden. Aus diesem Ergebnis wird der tatsächliche Flächenbedarf unter Berücksichtigung der vorhandenen Räumlichkeiten ermittelt.\n\nDurch die Regierung wurde explizit darauf hingewiesen, dass auf die neu gestalteten Bereiche eine Fördermittelbindung besteht. Eine Umorganisation von Teilbereichen ist möglich, Mehrflächen können nur genehmigt und gefördert werden, wenn sich diese aus dem Raumprogramm ergeben.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.2.",
+        "title": "Naturbad Keidenzell hier: Sachstandsbericht zur Sanierung",
+        "facts": "Nachdem das Naturbad Keidenzell ab der Saison 2025 durch einen extra dafür gegründeten Verein betrieben wird, wurden Sanierungsmaßnahmen entsprechend dem vorliegenden Gutachten der Firma Manzke durchgeführt.\n\nIm März wurden durch eine Firma die Pflastersteine gerichtet und die Risse in den Steinquadern am Flachwasserbereich repariert. Eine weitereFirma hat die Quader mit einem Blech verkleidet und darauf eine Holzsitzfläche angebracht. Außerdem wurde das Holzdeck ausgetauscht und die beidseitigen Stege erneuert.\n\nDa die Helfergemeinschaft um Herrn G. 2023 mit sofortiger Wirkung ihre ehrenamtliche Tätigkeit niedergelegt hatte, mussten aufwendige Reinigungsarbeiten durchgeführt werden. Im März und April erfolgte der Pflanzenrückschnitt und die Reinigung des Flachwasserbereichs durch ein Team von Gebäudemanagement und Bauhof. Ende April wurde eine Firma tätig. Diese war mit der Grundreinigung und dem Austausch der Skimmer beauftragt\n\nNach dem Entleeren des Beckens wurde sichtbar, dass in der Beckenfolie unzählige Löcher vorhanden waren. Bei einem Gespräch vor Ort mit Herrn B., Stadträtin Osswald, Herrn G. und Frau H., zeigte Herr B. die beiden Reparaturmöglichkeiten auf (punktuelle Reparatur mit Flicken oder Aufbringen kompletter Folienbahnen). Vereinsvorstand Goos bestand ausdrücklich auf die punktuelle Flickenreparatur, mit dem Hinweis, dass der Verein die Kosten für eine Reparatur mittels Aufbringen ganzer Folienbahnen im kommenden Jahr übernehmen wird.\n\nWeiterhin wurde wieder der Schmutzeintrag im Flachwasserbereich von Herrn G. thematisiert. Herr B. meinte, man könnte das Problem eventuell mit einem Sandfilter lösen. Obwohl dadurch zusätzliche Kosten von 10.000 Euro entstehen, wurde der Einbau durch den Verein als dringend notwendig beurteilt und durch den Bauausschuss zuletzt beauftragt.\n\nNachdem die Firma mit der Reparatur den insgesamt 300 Löcher im gesamtem Becken wesentlich mehr Stunden beschäftigt war, als im Angebot kalkuliert, beteiligten sich Bauhof, Hausmeister und Gebäudemanagement an der Grundreinigung, um die Kosten im Rahmen zu halten.\n\nEine Herausforderung war die Reparatur der Folie an der Verbindungsverrohrung zwischen Becken und Schacht der Auffüllanlage. Immer wieder nachfließendes Grundwasser erschwerte die Ausbesserungsarbeiten. Nach Einbau einer maßgefertigten Edelstahlabdeckung durch die Schlosserei Melchior konnten die Reparaturarbeiten am 14.05.2025 abgeschlossen und das Becken wieder befüllt werden.\n\nDie Skimmereinsätze wurden am 20. 05.2025 geliefert und eingebaut. Ein Liefertermin für den Sandfilter steht noch nicht fest (voraussichtlich 27./28.05.2025).\n\nInsgesamt wurden von allen Beteiligten (Firmen und Stadtmitarbeiter) rund 390 Arbeitsstunden geleistet. Die Gesamtkosten, Stand 22.05.2025 (es liegen noch nicht alle Rechnungen vor), belaufen sich auf 55.200 Euro.\n\nLeider wurde die Ausführung der Arbeiten dadurch erschwert, dass während der Sanierungsphase unangekündigt vom Verein die Schließanlage getauscht wurde und der Stadt, als Eigentümerin des Bades, erst auf Nachfrage vorübergehend drei Schlüssel zur Verfügung gestellt wurden, die zwischen den Beteiligten hin- und hergegeben werden mussten.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Hochwasserschutz hier: Termininformation",
+        "facts": "Die CSU Stadtratsfraktion Langenzenn hat mit Schreiben vom 02.04.2025 einen Sachstandsbericht durch das WWA beantragt. In diesem sollen der aktuelle Stand der Hochwasserschutzmaßnahem an der Zenn und der Stand der Kostenplanung dargelegt werden. Der Bau-, Umwelt- und Verkehrsausschuss hat dem Antrag am 08.04.2025 zugestimmt.\n\nIn Absprache mit dem WWA und dessen Terminkoordination erfolgt der Sachstandsbericht in der Stadtratssitzung am 09.07.2025.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Betonrinnensteine Waldstr. 5",
+        "facts": "Stadträtin Schlager moniert die Betonrinnensteine in Höhe Waldstr. 5. Der Bauhof soll beauftragt werden, die Randsteine auszutauschen.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.2.",
+        "title": "Pumpstation Laubendorf",
+        "facts": "Stadträtin Schlager informiert den Ausschuss, dass die Fläche um die Pumpstation Laubendorf freigehalten werden sollte. Dies ist leider nicht der Fall, da ständig immer etwas Anderes rumsteht. Sie bittet um Prüfung."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "175381",
+    "minutes": "179547"
+  }
+}

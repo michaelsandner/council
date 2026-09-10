@@ -1,0 +1,277 @@
+{
+  "meetingId": "3277",
+  "announcement": {
+    "heading": "65. Sitzung des Stadtrates",
+    "sessionNumber": 65,
+    "date": "2024-07-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Informationen zum Jubiläumsjahr 2026: hier: 600 Jahre Siebener in Bayern, Ersterwähnung und Feierlichkeiten in Langenzenn"
+      },
+      {
+        "number": "2.",
+        "title": "Ergebnis der Kirchweih – Umfrage"
+      },
+      {
+        "number": "3.",
+        "title": "Angebot des Eigentümers zur Entwicklung des Z-Quartiers"
+      },
+      {
+        "number": "4.",
+        "title": "Haushaltssatzung 2024 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "4.1.",
+        "title": "Vorbericht des ersten Bürgermeisters zum Haushalt 2024 der Stadt Langenzenn"
+      },
+      {
+        "number": "4.2.",
+        "title": "Stellungnahmen der Parteien / Wählergemeinschaft zum Haushalt 2024"
+      },
+      {
+        "number": "4.2.1.",
+        "title": "Stellungnahme der CSU-Stadtratsfraktion"
+      },
+      {
+        "number": "4.2.2.",
+        "title": "Stellungnahme der SPD-Stadtratsfraktion"
+      },
+      {
+        "number": "4.2.3.",
+        "title": "Stellungnahme der Freien Wähler Langenzenn e. V. - Stadtratsfraktion"
+      },
+      {
+        "number": "4.2.4.",
+        "title": "Stellungnahme von BÜNDNIS 90 / DIE GRÜNEN - Stadtratsfraktion"
+      },
+      {
+        "number": "4.2.5.",
+        "title": "Stellungnahme der FDP-Stadtratsfraktion"
+      },
+      {
+        "number": "4.3.",
+        "title": "Verlesen der Haushaltssatzung der Stadt Langenzenn"
+      },
+      {
+        "number": "4.4.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2024 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "5.",
+        "title": "Beschlussfassung über den Wirtschafts- und Investitionsplan 2024 der Stadtwerke Langenzenn samt Anlagen (Stellenplan, Finanzplan und Investitionsprogramm der Jahre 2024 - 2027)"
+      },
+      {
+        "number": "6.",
+        "title": "Haushaltssatzung 2024 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsplan)"
+      },
+      {
+        "number": "6.1.",
+        "title": "Vorbericht des ersten Bürgermeisters zum Haushalt 2024 der Hospitalstiftung Langenzenn"
+      },
+      {
+        "number": "6.2.",
+        "title": "Verlesen der Haushaltssatzung 2024 der Hospitalstiftung"
+      },
+      {
+        "number": "6.3.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2024 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "7.",
+        "title": "Ratsbegehren zur weiteren städtebaulichen Entwicklung im Z-Quartier unter Verzicht auf den Ankauf anderer Immobilien"
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. Juli 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "65. Sitzung des Stadtrates",
+    "sessionNumber": 65,
+    "date": "2024-07-25",
+    "startTime": "16:00",
+    "endTime": "18:20",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "bis Anfang TOP 5"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn",
+            "note": "ab TOP 4"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "bis Anfang TOP 5"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Ergebnis der Kirchweih – Umfrage",
+        "facts": "Frage 1 - Wie zufrieden sind Sie mit dem derzeitigen Kirchweihkonzept?\n\nsehr                                                    Gesamt- Häufigkeit in %                           schlecht   neutral         gut   sehr gut schlecht                                                  stimmen Wie zufrieden sind Sie mit dem derzeitigen Kirchweih-            47,76%     27,36%     10,95%      7,96%      5,97%           402 konzept?\n\nFrage 2 - Wie wichtig ist Ihnen die Kirchweih? sehr        Gesamt- Häufigkeit in %                      gar nicht   weniger    neutral    wichtig wichtig      stimmen Wie wichtig ist Ihnen die 3,47%       2,73%     8,19%      29,78%     55,83%           403 Kirchweih?\n\nFrage 3 - Bei der jetzigen Straßenkirchweih ist mangels Platz in der Altstadt kein Festzelt mehr möglich. Sollte die Kirchweih weiterhin als Straßenkirchweih oder auf einem Festplatz stattfinden?\n\nOptionen                Anzahl Häufigkeit Strassenkirchweih           142  32,95% Festplatz                   289  67,05%\n\nFrage 4 - Wo sehen Sie beim jetzigen Konzept Schwachstellen?\n\nGesamt- Thema                                                                                         stimmen Konzept, zu zerrissene Stände, zu viele Lücken, etc.                                               234 Fehlen des Fest-,Bier-,Eventzeltes                                                                 135 Aussteller- angebot, - anzahl, - häufigkeit, - variierung und Platzierung                          90 Fehlen eines Abschlusses: Feuerwek, Lasershow, Drohnen etc.                                        73 Sonstiges: Fragen, unverständliches, Einzelsituationen, etc.                                       69 Musik- auswahl, -spielzeit, -lautstärke, -platzierung / Bühnenplatzierung                          50 Wetterabhängigkeit - Unterstellmöglichkeiten und trockene Sitzplätze                               48 Einbeziehung der örtl. Gastronomie & Geschäfte, bessere Bewirtung, nicht nur Fastfood, Kulinarisches, mehr Ausschankmöglichkeiten etc.                                              31 Stimmung, Gemütlichkeit, Zusammensein und \"Kirchweihfeeling\"                                       28\n\nFrage 5 - Was fehlt Ihnen beim jetzigen Konzept?\n\nGesamt- Thema                                                                                          stimmen\n\nFehlen des Fest-,Bier-,Eventzeltes                                                              156 Fehlen eines Abschlusses: Feuerwek, Lasershow, Drohnen etc.                                     125 Konzept, zu zerrissene Stände, zu viele Lücken, etc.                                            50 Musik- auswahl, -spielzeit, -lautstärke, -platzierung / Bühnenplatzierung                       40 Aussteller- angebot, - anzahl, - häufigkeit, - variierung und Platzierung                       39 Stimmung, Gemütlichkeit, Zusammensein und \"Kirchweihfeeling\"                                    34 mehr/abwechselnde/größere Fahrgeschäfte für versch. Altersgruppen                               33 Einbeziehung der örtl. Gastronomie & Geschäfte, bessere Bewirtung, nicht nur Fastfood, Kulinarisches, mehr Ausschankmöglichkeiten etc.                                                 29\n\nFrage 6 - Wie beurteilen Sie die Verkehrsführung?\n\nsehr                                                    Gesamtschlecht   neutarl    gut     sehr gut Häufigkeit in %        schlecht                                                  stimmen Wie beurteilen Sie die Verkehrs-       22,16%        12,24%    18,08%    29,45%    18,08%           343 führung?\n\nFrage 7 - Was wünschen Sie sich für zukünftige Kärwas in Langenzenn?\n\nGesamt- Thema                                                                                          stimmen Ein Zelt                                                                                          78 Es soll wieder wie früher werden                                                                  41 Ein Feuerwerk                                                                                     38 Mehr -, bessere - , andere - , lautere - Musik; Musik im Festzelt                                 26 Mehr (diverses) Angebot der Stände, Essen und Fahrgeschäfte                                       26 Einen Festplatz                                                                                   26 Kein Feuerwerk, einen anderen Abschluss - Drohnen / Lasershow etc.                                22 Konzeptüberarbeitung / weniger Lücken                                                             19 \"Eine schöne Kärwa für Einheimische und Außenstehende, die interessant für jung und alt 17 ist\" gute Stimmung, Zusammengehörigkeit                                                               16 Wetterfestigkeit (auch beim Sitzen) durch Unterstände, Schirme etc.                               7 Lob                                                                                               6 Einbeziehung der örtl. Gastronomie & Geschäfte, bessere Bewirtung, nicht nur Fastfood,            6 Kulinarisches, mehr Ausschankmöglichkeiten etc.\n\nFreitextfragen 4,5 & 7 - am häufigsten erwähnte Themen\n\nThema                                                                            Gesamtstimmen Fehlen des Fest-,Bier-,Eventzeltes                                                        369 Konzept, zu zerrissene Stände, zu viele Lücken, etc.                                      303 Fehlen eines Abschlusses: Feuerwek, Lasershow, Drohnen etc.                               236 Aussteller- angebot, - anzahl, - häufigkeit, - variierung und Platzierung                 155 Musik- auswahl, -spielzeit, -lautstärke, -platzierung / Bühnenplatzierung                 116 Sonstiges: Fragen, unverständliches, Einzelsituationen, etc.                               98 Stimmung, Gemütlichkeit, Zusammensein und \"Kirchweihfeeling\"                               78 Einbeziehung der örtl. Gastronomie & Geschäfte, bessere Bewirtung, nicht nur Fastfood, Kulinarisches, mehr Ausschankmöglichkeiten etc.                                            66\n\nWetterabhängigkeit - Unterstellmöglichkeiten und trockene Sitzplätze                              60\n\nWeiteres Vorgehen:\n\nDie oben genannte Auswertung basiert auf die Umfrage über Facebook. Hierbei wurden ggf. nicht alle Bevölkerungsgruppen erreicht. Im Mitteilungsblatt soll deshalb ebenfalls noch eine gezielte Umfrage zur Kirchweih veröffentlicht werden, um am Ende über die verschiedenen Kanäle den Großteil aller Bürgerinnen und Bürger erreicht zu haben.\n\nDas Feedback-Treffen der Schausteller findet am 12.08.2024 statt. Danach werden alle Feedbacks und Auswertungen zusammengefasst und in einem Ausschuss vorgestellt. Ebenfalls behandelt werden muss im September noch der Antrag von Stadtrat Jäger auf Neubesetzung des Kirchweihausschusses.\n\nDie weitere Vorgehensweise wird dann im Hauptausschuss oder Kirchweihausschuss besprochen und festgelegt\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.1.",
+        "title": "Vorbericht des ersten Bürgermeisters zum Haushalt 2024 der Stadt Langenzenn",
+        "facts": "Erster Bürgermeister Habel trägt seinen Bericht zum Haushalt 2024 vor.\n\n„Die finanzielle Lage der Kommunen verschlechtert sich rapide und läuft auf eine bislang nicht gekannte Defizithöhe zu – dies geht aus der aktuellen Prognose des Deutschen Städtetages für die Kommunalfinanzen bis zum Jahr 2027 hervor.\n\nDie Defizite steigen so rasant, weil viele einzelne Ursachen zusammentreffen: eine Inflation, die sich stärker auswirkt als erwartet, steigende Fallzahlen im Sozialbereich, steigende Kosten im Sozialbereich, Unterstützungsleistungen für kommunale Unternehmen so- wie steigende Ausgaben für Personal.\n\nDie Ausgabenseite wächst, ohne dass die Kommunen darauf einen wesentlichen Einfluss haben.\n\nNeue Investitionen können unter diesen Vorzeichen praktisch nicht mehr beschlossen geschweige denn umgesetzt werden.\n\nIn Langenzenn haben wir einen weiteren Sondereffekt: auf Grund politischer Differenzen blockieren einzelne Teile des Stadtrates seit einigen Jahren wichtige Einnahmen, so beispielsweise den Verkauf eines Grundstückes im Gewerbegebiet GE V Mühlsteig, die uns mit ca. drei Mio. € wertvolle Mittel für Investitionen geleistet hätte.\n\nAuf Grund solcher Blockaden steht uns nun, da auch noch durch Corona und den Ukraine – Krieg deutlich weniger Einnahmen vorhanden sowie die Grundstückspreise eingebrochen sind, kein oder kaum noch finanzieller Spielraum zur Verfügung. Rücklagen für beispielsweise den Dorfplatz in Lohe müssen nun aufgelöst, Sanierungen wie das Feuerwehrhaus in Kirchfembach verschoben werden.\n\nIn mehr als einem halben Dutzend Sitzungen haben sich deshalb die zuständigen Gremien mit dem Haushalt beschäftigt.\n\nNach langem Streichen und Schieben konnte zumindest für das Haushaltsjahr 2024 noch die Mindestzuführung erreicht werden, für die Folgejahre jedoch nicht. Von Seiten der Kommunalaufsicht wird deshalb die Finanzlage der Stadt Langenzenn weiterhin als angespannt betrachtet. Während die Zuführungen in den letzten Jahren sehr hoch waren, sind sie für 2024 und Folgejahre kaum vorhanden. Das bedeutet, dass die Leistungsfähigkeit der Stadt Langenzenn gefährdet ist und sie sich keine neuen Kreditaufnahmen leisten kann.\n\nDarüber hinaus kommt es bei der Umsetzung der Investitionsprogramme weiterhin zu erheblichen Verzögerungen, so dass der Investitionsrückstand weiter steigt.\n\nIn diese Situation hinein hat möchte nun eine Mehrheit im Stadtrat für die Stadtwerke ein Gebäude für 6,3 Mio. € Gesamtinvestition zuzüglich dann nötiger Abschreibungen auf bereits getätigte Investitionen wie das VIP-Gebäude der Spielvereinigung erwerben.\n\nIch sehe diesen Kauf als übereilt, überteuert und verfehlt an, er hemmt die finanzielle Leistungsfähigkeit der Stadt so sehr, dass zukünftig wesentliche Projekte nicht mehr möglich sind.\n\nBisher wurde mit derartigen Großinvestitionen stets versucht, einen doppelten Nutzen zu erzielen, beispielsweise Leben in die Altstadt zu bekommen, Synergien zu anderen Einheiten zu schaffen etc.\n\nDies ist mit diesem Kauf nicht der Fall.\n\nEntwicklung in der ehemaligen Ziegelei, 200 m von der Altstadt entfernt\n\nEs gäbe im Z-Quartier die Möglichkeit, eine rundum funktionale Einheit zu Gunsten der Entwicklung Langenzenns zu schaffen. Eine solche Entwicklung wurde mit dem Abschluss einer Kaufoption und den daran anschließenden Planungen eines zukünftigen städtebaulichen Konzeptes geschaffen.\n\nDas Gelände der ehemaligen Ziegelei bietet zentrumsnah eine Vielzahl von Möglichkeiten, auf die Langenzenn seit langem gewartet hat und die nun frei verfügbar wären.\n\nDie Stadt hat seit 2020 bis Mai 2025 eine notarielle Kaufoption zum jeweils aktuellen Bodenrichtwert, derzeit 85 € / qm, für eine Fläche von bis zu 25.000 qm, bebaute und unbebaute Flächen, sämtliche unten auf dem Plan rot umrandeten Flächen.\n\nDerzeit läuft das Verfahren, um dieses Gebiet zum städtebaulichen Sanierungsgebiet zu machen, was bis Ende des Jahres abgeschlossen sein sollte. Damit ergibt sich dann die Möglichkeit, Flächen und Gebäude, die einer öffentlichen Nutzung zugeführt werden, mit Mitteln der Städtebauförderung zu erwerben und herzurichten. Dies würde beispielsweise einen Festplatz und eine Stadthalle betreffen.\n\nDie Städtebauförderung beträgt im Regelfall 60 %, in Sonderfällen (wie beispielsweise beim Kulturhof erhalten) 80%.\n\nUnabhängig von einer Landesgartenschau kann die Stadt damit sehr viele Fliegen mit einer Klappe schlagen – und dazu noch so günstig wie wahrscheinlich nie mehr wieder.\n\nSo könnte und solle das Areal aus meiner Sicht zukünftig genutzt werden:\n\n-    Hochwasserfreier Parkplatz mit Verkehrsübungsplatz und gleichzeitig Festplatz z.B. für Kärwa oder viele andere Feste/Platz für Zirkus-Besuche, Open-Air etc. (im Bild maßstabsgetreu der Festplatz mit Verkehrsübungsplatz in Feuchtwangen)\n\n-    Neue Stadthalle, ca. doppelt so groß wie die bisherige, dann ausbaubar, wenn sich der Stadtrat dafür entscheidet und die bisherige Stadthalle aufgibt. Dies kann jetzt gleich oder erst in vielen Jahren sein.\n\n-    Im Idealfall: Aufstellung des VIP-Gebäudes der Spielvereinigung (mit Unterbringung der Verwaltung Stadtwerke; deren Technik und Werkstatt in den bestehenden Hallen)\n\n-    Im Idealfall: Nutzung des Dachbodens der Bestandsgebäude für das Bayerische Siebenermuseum (Vorschlag und Wunsch von Siebenern und Heimatverein)\n\nAll diese Nutzungen könnten schon jetzt und auch ohne Landesgartenschau erfolgen.\n\nDer Eigentümer kommt uns nun erneut entgegen und bietet uns weitere Vergünstigungen an:\n\n-    Vorausgesetzt, die Stadt erwirbt sämtliche in der Kaufoption enthaltenen Flächen, würde er den Kaufpreis auf bis zu sieben Jahre mit 5 % Verzinsung stunden.\n\n-    Wir erhalten eine halbjährige Fristverlängerung bis ca. Ende 2025 zur Ausübung der Option sowie für die Mitteilung, ob der Tunnelofen durch ihn ausgebaut werden soll (6 Monate vor Ablauf der Annahmefrist).\n\n-    Von einem von uns beauftragten Gutachter wurde das Altlastenrisiko auf ca. 1 Mio. € beziffert. Der Eigentümer bietet uns nun an, gegen eine Entschädigung von 300.000 € das gesamte Altlastenrisiko zu übernehmen.\n\n-    Die Jubiläumsveranstaltung 600 Jahre Siebener, gefeiert mit Festakt in der großen Halle, sowie mit einer halbjährlichen Ausstellung in der zukünftig möglichen Stadthalle, wird der Eigentümer unabhängig vom Kauf unterstützen, vorausgesetzt, der Freistaat übernimmt die Feststellung der Eignung sowie die Einholung der ggf. nötigen öffentlichrechtlichen Gestattungen.\n\n-    Die Einrichtung eines Siebener-Museums im historischen Obergeschoß der Ziegelei wird vom Eigentümer wie folgt bewertet: „Von dem Vorschlag eines bayerischen Siebener-\n\nmuseums von Ihrem Heimatsbeauftragten Herrn Schönfelder und Siebenerin Frau Stinzendörfer auf einer Teilfläche der ehemaligen Ziegelei Wienerberger erlangten wir erstmals bei der vergangenen Stadtratssitzung Kenntnis. Bei positiver Bewertung durch den Stadtrat begrüßen wir diese Nutzungsaussicht sehr, weisen allerdings darauf hin, dass die Gewerbegebietsentwicklung für uns höchste Priorität hat. Wenn eine Museumsnutzung damit Hand in Hand geht und einen entsprechenden Satzungsbeschluss nicht verzögern oder gefährden würde, werden wir auch hier das Projekt im angemessenen Rahmen unterstützen.\"\n\nAnhand der Beispiele Festplatz und Stadthalle wird auf einfachem Weg deutlich, wie wertvoll diese Einheit zu Gunsten Langenzenns werden dürfte:\n\n-    Bestehende Stadthalle: eingesparte Sanierungskosten: 1,825 Mio. € + Verkaufserlös Grundstück 425.000 € = ca. 2,3 Mio. € -    Neue Stadthalle im Z-Quartier: Grundstücksanteil 200.000 € + 3,5 Mio. € Sanierungs- / Ausbaukosten abzgl. 60 % Städtebauförderung = ca. 1,6 Mio. € Eigenanteil; alternativ bei 80 % Städtebauförderung: 800.000 € Eigenanteil -    Ausbau eines dauerhaften Festplatzes mit Marktversorgung etc. am hochwassergefährdeten Parkplatz Besenbeck; Kostenschätzung ca. 2,1 Mio. €, keine Förderung erwartbar -    Neuer Festplatz im Z-Quartier: Grunderwerb für diesen Teil ca. 500.000 €, Oberflächenerneuerung ca. 600.000 €, bei 60 % Städtebauförderung Eigenanteil 660.000 €, bei 80 % Städtebauförderung 330.000 €\n\nDurch den Ankauf der Immobilie Cowana mit den dann dafür gebundenen 6,3 Mio. € ist der Erwerb der Flächen und eine Entwicklung im Z-Quartier vermutlich nicht mehr möglich.\n\nDie Unterbringung der Stadtwerke sollte aus meiner Sicht, wie seit Jahren im Konzept vorgesehen und vor Jahren durch den Stadtrat mit dem Erwerb des ehemaligen VIP-Gebäudes der Spielvereinigung Greuther Fürth beschlossen, im Z-Quartier erfolgen. In diesem Gebäude könnten zu einem vermutlich in etwa ähnlichen Preis wie bei einem Erwerb der Immobilie Cowana neben den Stadtwerken noch zahlreiche weitere Nutzungen unterkommen, beispielsweise ein großer Veranstaltungsraum, weitere Büros für verschiedenste Nutzungen etc..\n\nDieses für die Stadtwerke angeschaffte Gebäude liegt abgebaut bereits im Z-Quartier und hat die Stadt inklusive Verlagerung etc. bereits ca. 420.000 € gekostet. Es wäre der Einstieg und die Brücke in eine gewaltige städtebauliche Entwicklung Langenzenns.\n\nÜber den Erwerb der Immobilie Cowana und den daran anknüpfenden Verlust städtebaulicher Möglichkeiten sollte aus meiner Sicht deshalb die Bürger Langenzenns mit einer umfassenden und transparenten Aufklärung über alle Parameter und Auswirkungen – und nicht der Stadtrat hinter verschlossenen Türen entscheiden.\n\nStadtwerke:\n\nTrotz eines Zuschusses von 250.000 € an die Stadtwerke schließt der Wirtschaftsplan der Stadtwerke mit einem geplanten Defizit von 940.000 €.\n\nEs wird in den kommenden Monaten die Schließung des Hallenbades oder eine weitere deutliche Zuschusserhöhung von Seiten des städtischen Haushalts beraten und beschlossen werden müssen.\n\nDie Diskussion über Steuererhöhungen hierfür wird folgen.\n\nDies alles hängt übrigens nicht mit einer Landesgartenschau zusammen, die noch viele Jahre entfernt ist und die sich in den jetzigen Zahlen deshalb nur rudimentär wiederspiegelt.\n\nAllgemeines zum Haushalt:\n\nInnerhalb des Landkreises Fürth nimmt die Stadt Langenzenn finanztechnisch gesehen folgende Position ein:\n\nBei der Umlagekraft, die sich aus Gewerbesteuer, Grundsteuer, Einkommensteuerbeteiligung und Schlüsselzuweisung zusammensetzt, nimmt die Stadt Langenzenn mit 14.113.441 € (Vorjahr 14.772.607 €) den 7. Rang (Vorjahr 1. Rang) unter 14 Gemeinden im Landkreis ein.\n\nDer Kreisumlagenhebesatz wurde von 41,50 auf 45,50 Punkten erhöht. Durch die Erhöhung des Hebesatzes und unter Berücksichtigung der gesunkenen Umlagekraft hat die Stadt Langenzenn in diesem Jahr 291.000 € mehr Kreisumlage zu zahlen. In diesem Jahr sind 6.421.700 € (Vorjahr 6.130.700 €) an den Landkreis abzuführen.\n\nBei den Personalausgaben sind die tariflichen Lohnerhöhungen bereits berücksichtigt.\n\nDer Haushalt schließt bei dem vorliegenden Entwurf im Verwaltungshaushalt in Einnahmen und Ausgaben mit 31.329.620 € (Vorjahr 29.335.237 €) und im Vermögenshaushalt in Einnahmen und Ausgaben mit 6.899.200 € (Vorjahr 12.531.000 €) ab.\n\nDie Zuführung vom Verwaltungshaushalt an den Vermögenshaushalt beträgt 1.716.410 € (Vorjahr 989.650 €).\n\nBedingt durch die konjunkturelle Entwicklung und unter Berücksichtigung der aktuellen Veranlagungen wurde der Ansatz der Gewerbesteuer auf 5.800.000 € (Vorjahr 5.500.000 €) festgesetzt. Der Anteil an der Umsatzsteuer beträgt ca. 860.000 € (Vorjahr 780.000 €) und an der Einkommensteuer einschließlich Anteil am Familienlastenausgleich ca. 8.840.000 € (Vorjahr 8.630.000 €).\n\nIm Vermögenshaushalt sind 1.000.000 € (Vorjahr 3.318.000 €) für allgemeine Grunderwerbe eingeplant.\n\nDieser Haushaltsansatz schließt auch Grunderwerbe im Rahmen der Städtebauförderung im Bereich der Altstadt ein.\n\nFür den Erwerb von beweglichen Sachen des Anlagevermögens sind 616.200 € (Vorjahr 1.247.500 € veranschlagt.\n\nFür Investitionen in Hochbaumaßnahmen sind in diesem Haushaltsjahr 1.804.500 € (Vorjahr 4.169.000 €) veranschlagt. Allen voran für die energetische Sanierung der Grundschule, Ertüchtigung Kinosaal, Naturbad Keidenzell, Stadtfriedhof Aussegnungshalle und Lahma Bräu Dachsanierung (Städtebaumaßnahmen), Kläranlage und für den Bauhof.\n\nFür Tiefbaumaßnahmen sind insgesamt 2.241.000 € (Vorjahr 1.883.000 €) vorgesehen. Darunter fallen die Löschwasser-Ertüchtigungsmaßnahmen in Langenzenn und den Außenorten, Generalsanierung der Laufbahn und Sprungbahn der Mittelschule, Spiel- und Bolzplätze, Zaun für den Kindergarten Plapperkiste, Außenspielbereich KiTa Wurzelkinder, Außenbereich Hort, Fußweg mit Mauer südlicher Stadtfriedhof und Schießhausplatz (Städtebaumaßnahmen), verschiedene Straßen- und Kanalbaumaßnahmen uvm.\n\nFür die Straßenbeleuchtung sind 95.000 € und für den Breitbandausbau 75.000 € eingeplant.\n\nVerwaltungshaushalt\n\nDer Verwaltungshaushalt schließt in Einnahmen und Ausgaben mit 31.329.620 € ab. Die Einnahmen gliedern sich wie folgt:\n\nEinnahmen Verwaltungshaushalt 2024 Text                     2024        %        2023          % Steuern, allgemeine Zuweisungen           19.396.400    61,91   17.770.000    60,58 Verwaltung u. Betrieb                     10.728.591    34,24   10.509.119    35,82 Sonstige Finanzeinnahmen                   1.204.629     3,85    1.056.118     3,60 Gesamt                                    31.329.620   100,00   29.335.237   100,00\n\nVon den Steuereinnahmen 2024 entfallen auf:\n\nGrundsteuer A                                                          50.000 € Grundsteuer B                                                       1.460.000 € Gewerbesteuer                                                       5.800.000 € Gemeindeanteil an der Einkommensteuer                               8.200.000 € Gemeindeanteil an der Umsatzsteuer                                    860.000 € Hundesteuer                                                            70.000 € Schlüsselzuweisung                                                  1.666.400 € Sonstige allgemeine Zuweisung (Art. 7 FAG)                            200.000 € Anteil an der Grunderwerbsteuer                                       150.000 € Einkommensteuerersatz                                                 640.000 € Summe                                                              19.096.400 €\n\nDie Ansätze des Verwaltungshaushaltes basieren auf den im Jahr 2016 für die Grundsteuer A und B und auf den im Jahr 2017 für die Gewerbesteuer festgesetzten Realsteuerhebesätzen.\n\nDie Ausgaben des Verwaltungshaushaltes gliedern sich wie folgt:\n\nAusgaben Verwaltungshaushalt 2024 Text                       2024            %           2023            % Personalausgaben                           7.964.960      25,42        7.598.295          25,90 Sächl. Verwaltungs- u. Betriebsaufw.                                      9.751.485      31,13        9.818.117          33,47 Zuweisungen u. Zuschüsse                   4.604.065      14,70        4.056.775          13,83 Zinsausgaben                                315.000        1,01         203.700            0,69 Gewerbesteuerumlage                         535.000        1,71         507.000            1,73 Kreisumlage                                6.421.700      20,50        6.130.700          20,90 weitere Finanzausgaben                           10.000    0,03          20.000            0,07 Deckungsreserve                                  11.000    0,04          11.000            0,04 Zuführung z. Vermögenshaushalt                                       1.716.410       5,48         989.650            3,37 Gesamt                                   31.329.620 100,00            29.335.237        100,00\n\nUnter Berücksichtigung der kalkulatorischen Kosten und Verzinsungen schließen die kostenrechnenden Einrichtungen wie folgt ab:\n\nKanalwerk             Friedhof Ergebnis           -94.916 €             -33.432 €\n\nVermögenshaushalt\n\nDer Vermögenshaushalt schließt in Einnahmen und Ausgaben mit 6.899.200 € ab. Von den Einnahmen entfallen auf:\n\nEinnahmen Vermögenshaushalt 2024 Text                 2024         %        2023          % Zuführung v. Verwaltungshaushalt          1.716.410    24,88     989.650      7,90 Entnahme aus Rücklagen                     200.740      2,91    1.448.000    11,56 Rückflüsse Darlehen Hospital + WBG          11.850      0,17     811.850      6,48 Grundstücksverkäufe                        801.000     11,61    4.786.000    38,19 Beiträge / Entgelte                        812.000     11,77     630.000      5,03 Zuweisungen/Zuschüsse f. Investitionen                                       3.357.200    48,66    3.865.500 30,85 Gesamt                                    6.899.200   100,00   12.531.000 100,00\n\nAusgaben Vermögenshaushalt 2024\n\nDie Ausgaben werden wie folgt verwendet: Text                        2024         %       2023        % Gewährung von Darlehen WBG                                  0     0,00    800.000     6,38 Grunderwerb                                        1.000.000    14,49    3.318.000   26,48 Erwerb von bewegl. Sachen                            616.200      8,93   1.247.500    9,96 Anteilsrechte Stammkapitaleinlage LGS                       0     0,00     15.000     0,12 Hochbaumaßnahmen                                   1.804.500    26,16    4.169.000   33,27 Tiefbaumaßnahmen                                   2.241.000    32,48    1.883.000   15,03 Betriebstechnische Anlagen                           100.000      1,45     40.000     0,32 Tilgung von Krediten                               1.012.500    14,68     960.000     7,66 Zuweisungen                                           95.000      1,38     83.500     0,67 Ablösung von Dauerlasten                              30.000      0,43     15.000     0,12\n\nGesamt                                             6.899.200 100,00 12.531.000 100,00\n\nIch bedanke mich bei der Kämmerin und allen, die zur Erstellung des Haushalts beigetragen haben. Dem Haushalt für 2024 kann ich so zustimmen.\n\nAuch dem Verzicht auf die Festsetzung von Verpflichtungsermächtigungen zum Erwerb des Areals im Z-Quartier kann ich auf Grund des Stundungsangebotes des Eigentümers zustimmen.\n\nDem Wirtschaftsplan der Stadtwerke werde ich so nicht zustimmen.\n\nDem Kauf des Gebäudes Cowana für 6,3 Mio. € zzgl. weiterer Kosten und Abschreibungen kann ich nicht zustimmen,\n\n-      da ich dadurch die gesamte städtebauliche Entwicklung Langenzenns -      inklusive der Möglichkeit, zukünftig noch ein Hallenbad in Langenzenn zu haben, -      inklusive der Realisierung eines dringend nötigen und nun erstmals mit hoher Förderung greifbaren Hochwasserschutzes und -      inklusive einer zukünftigen Landesgartenschau 2032 mit zu erwartenden Fördermitteln von 15-20 Mio. €\n\ngefährdet sehe.“\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.2.",
+        "title": "Stellungnahmen der Parteien / Wählergemeinschaft zum Haushalt 2024 4.2.1. Stellungnahme der CSU-Stadtratsfraktion",
+        "facts": "Ein Vertreter der FDP-Stadtratsfraktion war nicht anwesend."
+      },
+      {
+        "number": "4.3.",
+        "title": "Verlesen der Haushaltssatzung der Stadt Langenzenn",
+        "facts": "Die Haushaltssatzung 2024 der Stadt Langenzenn wird verlesen.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.4.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2024 der Stadt Langenzenn samt Anlagen (Haushaltsplan, Stellenplan, Finanzplan mit Investitionsprogramm)",
+        "facts": "Der Haushalt des Rechnungsjahres 2024 der Stadt Langenzenn ist im Verwaltungshaushalt mit 31.329.620,00 € und im Vermögenshaushalt mit 6.899.200,00 € in Einnahmen und Ausgaben ausgeglichen.\n\nDie Zuführung des Verwaltungs- an den Vermögenshaushalt beträgt 1.716.410,00 €.\n\nDer Gesamtbetrag der Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt Null.\n\nDer Gesamtbetrag der Verpflichtungsermächtigungen im Vermögenshaushalt wird auf 15.000,00 € festgesetzt.\n\nDer Höchstbetrag der Kassenkredite wird auf 5.200.000,00 € festgesetzt.\n\nDer Entwurf der Haushaltssatzung sowie der Stellenplan sind der Niederschrift als Anlage 1 beigefügt.\n\nDer Hauptausschuss hat in der Sitzung am 24.07.2024 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf der Haushaltssatzung 2024 der Stadt Langenzenn vom 24.07.2024 samt Anlagen, wie Haushaltsplan, Stellenplan, Finanzplan und Investitionsprogramm.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 17,
+          "against": 4
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Beschlussfassung über den Wirtschafts- und Investitionsplan 2024 der Stadtwerke Langenzenn samt Anlagen (Stellenplan, Finanzplan und Investitionsprogramm der Jahre 2024 - 2027)",
+        "facts": "Dem Werkausschuss wurden in den Sitzungen am 18.07. sowie am 24.07.2024 die Entwürfe des Wirtschafts- und Investitionsplan 2024 der Stadtwerke Langenzenn mit Finanz- und Investitionsplan der Jahre 2024 – 2027 vorgestellt.\n\nDer Werkausschuss hat dem Wirtschafts- und Investitionsplan 2024 der Stadtwerke Langenzenn mit Finanz- und Investitionsplan der Jahre 2024 – 2027 am 24.07.2024 mit 7:1 Stimmen zugestimmt.\n\nDer Werkausschuss hat den Stellenplan 2024 der Stadtwerke Langenzenn in seiner Sitzung am 16.05.2024 zur Kenntnis genommen und dem Stadtrat einstimmig zur Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat stellt den Wirtschaftsplan 2024, den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2024 – 2027 fest (Art. 88 Abs. 6 GO). Nach dem Erfolgsplan weisen die Stadtwerke mit den Sparten Stromversorgung, Wasserversorgung, Hallenbad und ÖPNV für das Wirtschaftsjahr 2024 einen Verlust in Höhe von 254.681,00 € aus.\n\nDer Gesamtbetrag der geplanten Kreditaufnahmen für Investitionen und Investitionsfördermaßnahmen beträgt 940.000,00 €.\n\nDer Wirtschaftsplan 2024 mit den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2024 – 2027 ist dem Haushaltsplan 2024 der Stadt Langenzenn als Anlage beizufügen.\n\nDer Wirtschaftsplan 2024 ist der Niederschrift als Anlage 2 beigefügt.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 18,
+          "against": 1
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Haushaltssatzung 2024 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsplan)"
+      },
+      {
+        "number": "6.2.",
+        "title": "Verlesen der Haushaltssatzung 2024 der Hospitalstiftung",
+        "facts": "Die Haushaltssatzung 2024 der Hospitalstiftung Langenzenn wird verlesen.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "6.3.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2024 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsprogramm)",
+        "facts": "Der Haushalt des Rechnungsjahres 2024 der Hospitalstiftung Langenzenn ist im Verwaltungshaushalt mit 383.000,00 € und im Vermögenshaushalt mit 343.170,00 € in Einnahmen und Ausgaben ausgeglichen.\n\nDie Zuführung des Verwaltungs- an den Vermögenshaushalt beträgt 184.410,00 €. Der Gesamtbetrag der Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt 158.760,00 €.\n\nVerpflichtungsermächtigungen werden nicht festgesetzt. Der Höchstbetrag der Kassenkredite wird auf 61.000,00 € festgesetzt.\n\nDer Entwurf der Haushaltssatzung wird der Niederschrift als Anlage 3 beigefügt.\n\nDer Hauptausschuss hat in der Sitzung am 18.07.2024 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf der Haushaltssatzung 2024 der Hospitalstiftung Langenzenn vom 16.07.2024 samt Anlagen, wie Haushaltsplan, Finanzplan und Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "167310",
+    "minutes": "171117"
+  }
+}

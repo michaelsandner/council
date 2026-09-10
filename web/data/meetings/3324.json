@@ -1,0 +1,458 @@
+{
+  "meetingId": "3324",
+  "announcement": {
+    "heading": "62. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 62,
+    "date": "2025-11-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid 3.1. Antrag zum An- und Umbau der neuen Verwaltung BAI, sowie Errichtung eines Tiefkühllagers BAII auf dem Grundstück Mühlsteig 10 3.2. Antrag zum Neubau einer Doppelhaushälfte auf dem Grundstück Am Druidenranken 4 3.3. Antrag auf Neubau einer Doppelhaushälfte auf dem Grundstück Am Druidenranken 4a 3.4. Antrag zur Errichtung einer Außentreppe an einem bestehendem Gebäude auf dem Grundstück Flurstr. 4 3.5. Bauvoranfrage zur Errichtung eines Einfamilienhauses mit Garage auf dem Grundstück Höllenberg 7 3.6. Bauvoranfrage zur Erweiterung eines Einfamilienhauses auf dem Grundstück Hausen 5 3.7. Bauvoranfrage zum Bau eines Nebengebäudes zur Erweiterung der Büroräume auf dem Grundstück Mühlsteig 22/22a 3.8. Bauvoranfrage zur Errichtung von vier Garagen auf dem Grundstück Mühlsteig 65 3.9. Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit offentlichen WC-Trakt und einer Freischankfläche \"Biergarten Oase\" auf den Grundstück Försterallee 3.10. Bauvoranfrage zur Errichtung eines Carports auf dem Grundstück Karlsbader Str. 15 Antrag auf isolierte Abweichung von der Garagen- und Stellplatzverordnung 3.11. (GaStellV) zur Errichtung eines Carports mit zwei Stellplätzen auf dem Grundstück Hügelauweg 6 Bauvoranfrage zur Baugenehmigung des Interimsbaus zur temporären Erweiterung 3.12. des Wolfgang-Borchert-Gymnasiums auf dem Grundstück Sportplatzstr. 2 3.13. Antrag auf denkmalschutzrechtliche Erlaubnis zur Reparatur einer undichten Stelle am Kamin auf dem Grundstück Nürnberger Str. 29"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung 4.1. 27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Abwägung gemäß § 3 Abs. 2 und § 4 Abs. 2 BauGB 4.2. 27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Feststellungsbeschluss zur 27. Änderung des Flächennutzungsplanes 4.3. 27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Satzungsbeschluss zum Bebauungsplan Nr. 86 \"KiTa Reichenberger Straße\""
+      },
+      {
+        "number": "5.",
+        "title": "Grundstücksangelegenheiten 5.1. FFH-Gebiet Zenn hier: Aufnahme der Maßnahmen aus dem Managementplan in Verträge"
+      },
+      {
+        "number": "6.",
+        "title": "BauGB-Novelle 2025; Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung; hier: Informationen zum \"Bauturbo\""
+      },
+      {
+        "number": "7.",
+        "title": "Sachstandsberichte laufender städtischer Projekte 7.1. Sirenen im Stadtgebiet von Langenzenn hier: Ertüchtigung der Sirenen auf digitalen Funkempfang 7.2. Brücken- und Ingenieurbauwerke; Überwachung und Sanierung; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr 7.3. Verkehrsanlagen Langenzenn; Straßen- und Gehwegemaßnahmen; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr"
+      },
+      {
+        "number": "8.",
+        "title": "Verkehrsangelegenheiten 8.1. Aktuelle Baustellen/ Verkehrssperrungen 8.2. Antrag der SPD-Stadtratsfraktion auf dauerhafte Reduzierung der Höchstgeschwindigkeit zwischen Burggrafenhof und Keidenzell"
+      },
+      {
+        "number": "9.",
+        "title": "Jahresantrag Städtebauförderung 2026"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "um ca.16:15Uhr statt:"
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "20. November 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "63. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 63,
+    "date": "2025-11-25",
+    "startTime": "16:00",
+    "endTime": "19:02",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 5.1"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Roscher, Klaus",
+            "note": "für Stadträtin Franz bis TOP 5.1"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "für Stadträtin Schlager bis TOP 14.3"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "bis TOP 10"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt zu, den Tagesordnungspunkt unter Tagesordnungspunkt 14.1 bis 3 in nicht öffentlicher Sitzung zu behandeln.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag zum An- und Umbau der neuen Verwaltung BAI, sowie Errichtung eines Tiefkühllagers BAII auf dem Grundstück Mühlsteig 10",
+        "facts": "Antrag zum An- und Umbau der neuen Verwaltung BA I, sowie Errichtung eines Tiefkühllagers BA II auf dem Grundstück Flur-Nr. 981/33, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Gebäudehöhe wird erteilt.\n\nDer vorgesehenen Dachbegrünung (mind. 70% der Dachfläche mit einer extensiven Dachbegrünung) wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag zum Neubau einer Doppelhaushälfte auf dem Grundstück Am Druidenranken 4",
+        "facts": "Antrag zum Neubau einer Doppelhaushälfte auf dem Grundstück Flur-Nr. 553/14, Gemarkung Keidenzell.“",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Geländeauffüllung im hinteren Bereich des Grundstücks wird aufgrund der topographischen Gegebenheiten im Einzelfall zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag auf Neubau einer Doppelhaushälfte auf dem Grundstück Am Druidenranken 4 a",
+        "facts": "Antrag auf Neubau einer Doppelhaushälfte auf dem Grundstück Flur-Nr. 553/13, Gemarkung Keidenzell.“",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen\n\nDie Geländeauffüllung im hinteren Bereich des Grundstücks wird aufgrund der topographischen Gegebenheiten im Einzelfall zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag zur Errichtung einer Außentreppe an einem bestehenden Gebäude auf dem Grundstück Flurstr. 4",
+        "facts": "Antrag zur Errichtung einer Außentreppe an einem bestehenden Gebäude auf dem Grundstück Flur-Nr. 704/4, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.5.",
+        "title": "Bauvoranfrage zur Errichtung eines Einfamilienhauses mit Garage auf dem Grundstück Höllenberg 7",
+        "facts": "Antrag zur Bauvoranfrage zur Errichtung eines Einfamilienhauses mit Garage auf dem Grundstück Flur-Nr. 9, Gemarkung Kirchfembach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.6.",
+        "title": "Bauvoranfrage zur Erweiterung eines Einfamilienhauses auf dem Grundstück Hausen 5",
+        "facts": "Bauvoranfrage zur Erweiterung eines Einfamilienhauses auf dem Grundstück Flur-Nr. 1286, Gemarkung Horbach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.7.",
+        "title": "Bauvoranfrage zum Bau eines Nebengebäudes zur Erweiterung der Büroräume auf dem Grundstück Mühlsteig 22/22a",
+        "facts": "Bauvoranfrage zum Bau eines Nebengebäudes in holzbauweise zur Erweiterung der Büroräume und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes bezüglich der Dachbegrünung auf dem Grundstück Flur-Nr. 981/50, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nEine Befreiung bezüglich der Dachbegrünung wird insofern in Aussicht gestellt, wenn dies aus technischen oder betrieblichen Gründen nicht im vollen Umfang ausgeführt werden kann.\n\nEine entsprechende Begrünung ist vorzuweisen. Ansonsten ist je angefangenen 50 m² nicht ausgeführter Dachbegrünung zusätzlich ein heimischer, standortgerechter Laubbaum zu pflanzen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.8.",
+        "title": "Bauvoranfrage zur Errichtung von vier Garagen auf dem Grundstück Mühlsteig 65",
+        "facts": "Antrag zur Bauvoranfrage zur Errichtung von vier Garagen und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Überschreitung der Baugrenze auf dem Grundstück Flur-Nr. 981/57, Gemarkung Keidenzell.\n\nDie Verwaltung informiert, dass das Grundstück im Geltungsbereich der 3. Änderung des Bebauungsplanes GE V „Burggrafenhof“ liegt.\n\nDie geplante Errichtung von vier Garagen entspricht nicht den Vorgaben des Bebauungsplanes, da die vorgeschriebene Baugrenze von 5,0 Metern nicht eingehalten wird.\n\nDrei der vier Garagen könnten jedoch innerhalb der festgelegten Baugrenze errichtet werden, für die das gemeindliche Einvernehmen grundsätzlich erteilt werden kann.\n\nDie vierte Garage wäre demnach nicht innerhalb der Baugrenze, sodass eine Befreiung von den Festsetzungen des Bebauungsplanes nicht in Aussicht gestellt werden kann.\n\nZudem schreibt der Bebauungsplan vor, dass Garagen mit Flachdächern begrünt werden müssen. Eine Dachbegrünung wäre erforderlich. “",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen von drei Garagen in Aussicht, sofern diese innerhalb der festgelegten Baugrenze errichtet werden.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes für eine vierte Garage wird nicht in Aussicht gestellt.\n\nEntsprechend den Vorgaben des Bebauungsplanes ist bei Flachdächern eine Dachbegrünung vorgeschrieben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit öffentlichen WC-Trakt und einer Freischankfläche \"Biergarten Oase\" auf den Grundstück Försterallee",
+        "facts": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Außenbewirtschaftung mit öffentlichem WC-Trakt und einer Freischankfläche auf den Grundstücken Flur-Nr. 231, 241 und 230/3, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig abgelehnt",
+          "inFavour": 0,
+          "against": 8
+        }
+      },
+      {
+        "number": "3.10.",
+        "title": "Bauvoranfrage zur Errichtung eines Carports auf dem Grundstück Karlsbader Str. 15",
+        "facts": "Bauvoranfrage zur Errichtung eines Carports, Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze, sowie Antrag auf Abweichung von der Garagen- und Stellplatzverordnung (GaStellV) bezüglich der Aufstellfläche auf dem Grundstück Flur-Nr. 1203/28, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt in Aussicht, das gemeindliche Einvernehmen zu erteilen, sofern die Errichtung des Carports nicht gemäß Art. 57 der BayBO verfahrensfrei durchgeführt werden kann. Eine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird in Aussicht gestellt.\n\nDie Zustimmung der Abweichung von der Garagen- und Stellplatzverordnung (GaStellV) über die nicht eingehaltene Aufstellfläche kann in Aussicht gestellt werden, da im Rahmen der Einzelfallprüfung keine Bedenken hinsichtlich der Sichtbeziehungen zur öffentlichen Verkehrsfläche bestehen. Es ist sicherzustellen, dass auch künftig (etwa durch den Einbau seitlicher Außenwände oder andere bauliche Veränderungen) die Sicht nicht beeinträchtigt wird. Der offene Charakter der Garage muss erhalten bleiben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.11.",
+        "title": "Antrag auf isolierte Abweichung von der Garagen- und Stellplatzverordnung (GaStellV) zur Errichtung eines Carports mit zwei Stellplätzen auf dem Grundstück Hügelauweg 6",
+        "facts": "Antrag auf isolierte Abweichung von der Garagen- und Stellplatzverordnung (GaStellV) zur Errichtung eines Carports mit zwei Stellplätzen auf dem Grundstück Flur-Nr. 377, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag auf Abweichung von der Garagen- und Stellplatzverordnung (GaStellV) hinsichtlich der nicht eingehaltenen Aufstellfläche zu, da im Rahmen der Einzelfallprüfung keine Bedenken bezüglich der Sichtbeziehungen zur öffentlichen Verkehrsfläche bestehen.\n\nEs ist sicherzustellen, dass auch künftig (etwa durch den Einbau seitlicher Außenwände oder andere bauliche Veränderungen) die Sicht nicht beeinträchtigt wird. Der offene Charakter der Garage muss erhalten bleiben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.12.",
+        "title": "Bauvoranfrage zur Baugenehmigung des Interimsbaus zur temporären Erweiterung des Wolfgang-Borchert-Gymnasiums auf dem Grundstück Sportplatzstr. 2",
+        "facts": "Bauvoranfrage zur Baugenehmigung des Interimsbaus zur temporären Erweiterung des Wolfgang-Borchert-Gymnasiums und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Vollgeschosse auf dem Grundstück Flur-Nr. 1217/5, Gemarkung Langenzenn.\n\nLaut Ermächtigung des Bau-, Umwelt- und Verkehrsausschuss vom 28.10.2025 wurde dieses Bauvorhaben im Zuge der laufenden Verwaltung behandelt, eine Befreiung hinsichtlich der Vollgeschoßzahl wurde in Aussicht gestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.13.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Reparatur einer undichten Stelle am Kamin auf dem Grundstück Nürnberger Str. 29",
+        "facts": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Reparatur einer undichten Stelle am Kamin und teilweiser Ziegelerneuerung auf dem Grundstück Flur-Nr. 413/2, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass dem Antrag bereits aufgrund der Dringlichkeit im Zuge der laufenden Verwaltung zugestimmt wurde.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Abwägung gemäß § 3 Abs. 2 und § 4 Abs. 2 BauGB",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 20.06.2024 den Beschluss zur 27. Änderung des Flächennutzungsplanes sowie die Aufstellung des Bebauungsplanes Nr. 27 „KiTa Reichenberger Straße“ im Parallelverfahren nach § 8 Abs. 3 BauGB gefasst.\n\nZiel der Planung ist die Deckung des Bedarfs an notwendigen Plätzen in den Kindertagesstätten in der Stadt. Hierzu soll durch die Bauleitplanung östlich der Reichenberger Straße und nördlich des Hallenbades Baurecht geschaffen werden, um dort eine Kindestagesstätte mit integrierter Krippe errichten zu können. Festgesetzt wird eine Fläche für Gemeinbedarf mit Zweckbestimmung Kindertagesstätte sowie Verkehrsflächen zur Erschließung.\n\nDie förmliche Beteiligung der Entwürfe des Bebauungsplans und der 27. Änderung des Flächennutzungsplans nach § 3 Abs. 2 BauGB fand vom 06.10.2025 bis einschließlich 10.11.2025 statt.\n\nEs gingen keine Stellungnahmen aus der Öffentlichkeit ein.\n\nDie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB, sowie der Nachbargemeinden nach § 2 Abs. 2 BauGB zu den Entwürfen des Bebauungsplans und der 27. Änderung des Flächennutzungsplans erfolgte mit Anschreiben vom 01.10.2025, dabei wurde um Stellungnahme bis zum 10.11.2025 gebeten.\n\nKeine Anregungen bzw. keine Betroffenheit wurden in folgenden Stellungnahmen geltend gemacht:  Gemeinde Großhabersdorf  Gemeinde Puschendorf  Handelsverband Bayern e.V.  Handwerkskammer für Mittelfranken  IHK Nürnberg  Markt Cadolzburg  Markt Wilhermsdorf  Planungsverband Region Nürnberg  PLEdoc GmbH  Regierung von Mittelfranken, Höhere Landesplanungsbehörde  Regierung von Mittelfranken, Gewerbeaufsichtsamt  Regierung von Oberfranken, Bergamt Nordbayern  Staatliche Schulämter in der Stadt und Landkreis Fürth  TenneT TSO GmbH  Zweckverband zur Wasserversorgung Dillenberggruppe\n\nKeine Stellungnahme ging im Beteiligungsverfahren ein von:  Amt für Digitalisierung, Breitband und Vermessung, Neustadt a.d. Aisch  Bayerisches Landesamt für Denkmalpflege  BDS-Gewerbeverband Bayern e.V.  Bund Naturschutz e.V.  Deutsche Post DHL Real Estate Deutschland GmbH  Evang.-Luth. Pfarramt  Fischereiverband Mittelfranken  Gemeinde Hagenbüchach\n\n Gemeinde Veitsbronn  Katholisches Pfarramt St. Marien  Kreisheimatpfleger  Kreisjugendring Fürth-Land  Landesbund für Vogel- und Naturschutz in Bayern e.V.  Markt Emskirchen  Regierung von Mittelfranken, Fachberater Brand- u. Katastrophen-Schutz  Verkehrsclub Deutschland, Landesverband Bayern e.V.  Verkehrsverbund Großraum Nürnberg GmbH\n\nHinweis: In der Regel (bis auf Deutsche Telekom, Landratsamt Fürth, Staatliches Bauamt, Vodafone GmbH sowie dem Wasserwirtschaftsamt Nürnberg) gingen für die 27. Änderung des Flächennutzungsplanes sowie für den Bebauungsplanes Nr. 86 „KiTa Reichenberger Straße“ gemeinsame Stellungnahmen ein, so dass eine gemeinsame Beratung und Abstimmung durchgeführt wird\n\nEs wurden folgende Stellungnahmen mit Anregungen abgegeben:\n\nDer Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgende Beschlüsse:\n\nAmt für Ernährung, Landwirtschaft und Forsten Fürth-Uffenheim\n\nStellungnahme:                                   Beschlussvorschlag:                     Empfehlung: Bereich Landwirtschaft                                                                   7:1 Hinsichtlich der Betroffenheit von land-         Der Stadtrat nimmt Kenntnis. Die Anwirtschaftlichen Belangen, wie dem Ver-          regungen der Stellungnahme vom lust von Nutzflächen, dem Gebot des              20.12.2024 sind bereits in die Abwäsparsamen Umganges mit Grund und                 gung eingeflossen. Aufgrund der to- Boden sowie den überdurchschnittlichen           pographischen Gegebenheiten und Bodenbonitäten von Teilflächen des Plan-         dem Zuschnitt der Fläche wird der gebietes, verweisen wir auf unsere Stel-         Nutzen der Fläche für landwirtschaftlungnahme vom 20.12.2024 zu den Pla-             liche Zwecke erheblich eingeschränkt. nungen.                                          Diese Nutzungsbeschränkungen wer- An den Aussagen darin ändert sich im             den durch die günstige Bodenbonität Wesentlichen nichts.                             nur bedingt aufgewogen, so dass es sich hier jedenfalls nicht um einen besonderen Gunststandort für die Landwirtschaft handelt. Durch den vorliegenden Bedarf an Betreuungsplätzen in Kindertagesstätten und die eher widrigen Umstände für eine landwirtschaftliche Nutzung wird eine Überplanung der Fläche als vertretbar angesehen. An der Planung wird daher festgehalten.\n\nBeim aktuellen Entwurf wurde die Be-             Da die Planung 2024 recht spät im standsbewertung bezüglich der landwirt-          Jahresverlauf gestartet war, konnte schaftlichen Nutzfläche (Teilfläche von          eine abschließende Überprüfung und FlurNr. 1151) verändert. Nunmehr wurde           Einschätzung des Grünlandbestandes die Fläche nicht mehr als Typ G11 mit            erst im Frühjahr/Sommer 2025 erfol3 Wertpunkten eingestuft, sondern als            gen. Diese hatte gerade die Änderung G211 mit 6 Wert-punkten.                         des Biotop-/Nutzungstyps nach Bay- Diese Einstufung Typ G211 entspricht             KompV in G211 zur Folge. Auch bei nach unserer Sicht nicht der Realität und        diesem Biotop-/Nutzungstyp handelt der tat-sächlichen Nutzung vor Ort. Diese        es sich um aktiv landwirtschaftlich Teilfläche wird aktiv als landwirtschaftliche    genutzte Flächen. Schnitthäufigkeit Nutzfläche bewirtschaftet. Nach unserer          und festgestellte Grünlandarten führ- Beurteilung ist eine Einstufung als Typ          ten aber zu der Einstufung als G211, G11 mit 3 Wertpunkten fachgerecht.               da eine Einstufung als intensiv ge- Wir fordern deshalb, die Eingriffsbewer-         nutztes Grünland G11 hier gerade tung nochmals zu überprüfen und die Ein-         eben nicht fach- und sachgerecht stufung der Typen fach- und sachgerecht          gewesen wäre. vorzunehmen. Gemäß vorliegendem Entwurf wären Ein-            Der Stadtrat nimmt Kenntnis. Es wird griffe in den Naturhaushalt im Umfang von        auf das, dem Beteiligungsschreiben 10.282 Wertpunkten auf zwei externen             beigefügte, Abwägungsergebnis zur Ausgleichsflächen auszugleichen.                 genannten Stellungnahme zum Vor- Hinsichtlich der Ausgleichsfläche auf dem        entwurf verwiesen. Es wurden keine Grundstück Flur Nr. 529 in der Gemar-            zusätzlichen Anregungen vorgetrakung Kirchfembach verweisen wir auf un-          gen, an der Planung dieser Aussere Stellungnahme vom 20.12.2025.               gleichsfläche wird daher festgehalten. Die Ausgleichsmaßnahmen auf dem                  Der Stadtrat nimmt Kenntnis. Grundstück Flur Nr. 1025 in der Gemarkung Keidenzell werden durch Zuordnung vom kommunalen Ökokonto vorgesehen. Diesbezüglich bestünden aus unserer Sicht keine Einwände. Allerdings sollte aus unserer Sicht diese        Wie oben ausgeführt, erfolgte die Ausgleichsmaßnahme bei korrekter Ein-            Neubewertung der Eingriffsflächen im wertung der Bestandsflächen und des              Frühjahr/Sommer 2025, die aus an- Bestandszustandes nicht erforderlich sein.       gegebenen Gründen zu einer Änderung der Bestandsbewertung führte. Um Abdruck des Abwägungsergebnis                 Der Stadtrat nimmt Kenntnis. Die unter Angabe des Aktenzeichens an post-          Verwaltung wird beauftragt, das Abstelle@aelf-fu.bayern.de wird gebeten.           wägungsergebnis mitzuteilen.\n\nBayerischer Bauernverband KöR, Geschäftsstelle Nürnberg\n\nStellungnahme:                                             Beschlussvorschlag:             Empfehlung: Die Belange der Landwirtschaft werden im Rah-              Der Stadtrat nimmt Kenntnis.    7:1 men dieses Bauleitplanverfahrens nicht negativ berührt. Wir bitten Sie, die o.g. Hinweise bei der Planung          Der Stadtrat nimmt Kenntnis. und Durchführung des Projektes zu berücksichti-            Aus der Öffentlichkeit gingen gen. In diesem Zusammenhang weisen wir aus-                keine Stellungnahmen ein. drücklich auf die Einwendungen der land- und forstwirtschaftlichen Betriebe mit der Bitte um Berücksichtigung hin. Aus landwirtschaftlicher Sicht werden zum genann-          Der Stadtrat nimmt Kenntnis. ten Vorhaben weiter keine Äußerungen vorge-\n\nbracht.\n\nLandesjagdverband Bayern, Jägerschaft Fürth Stadt und Land, Nürnberg\n\nStellungnahme:                          Beschlussvorschlag:                                Empfehlung: Grundsätzlich hat die Jägerschaft       Der Stadtrat nimmt Kenntnis.                       7:1 keine Einwendungen zu der oben angeführten Planungsmaßnah-             Der Stadtrat nimmt Kenntnis. Die Planung für me. Die Angelegenheit tangiert          die Ökokonto-Maßnahme auf Flst. Nr. 1025 in die Interessen der Jägerschaft          der Gmkg. Keidenzell ist durch den Landnur unwesentlich. Einsprüche            schaftspflegeverband Mittelfranken durchgewerden deshalb nicht erhoben.           führt und die Umsetzung der Maßnahmen be- Eine grundsätzliche Bitte in Ver-       reits abgeschlossen worden. bindung mit den Ausgleichsmaß-          Bei der Planung der Ausgleichsmaßnahme auf nahmen in der Flur wäre aber,           Flst. Nr. 529 in der Gmkg. Kirchfembach wurbei deren Gestaltung die jeweils        de der Revierpächter nicht explizit einbezogen, örtlichen Revierpächter einzube-        es werden durch die Planung aber auch keine ziehen.                                 nachteiligen Auswirkungen auf die Ausübung der Jagd gesehen.\n\nDeutsche Telekom Netzproduktion GmbH, T NL Süd PTI 13, Nürnberg\n\nStellungnahme:                                             Beschlussvorschlag:             Empfehlung: Flächennutzungsplan Die Telekom Deutschland GmbH (nachfolgend                  Der Stadtrat nimmt Kenntnis.    7:1 Telekom genannt) – als Netzeigentümerin und Nutzungsberechtigte i.S.v. § 125 Abs. 1 TKG – hat die Deutsche Telekom Technik GmbH beauftragt und bevollmäch-tigt, alle Rechte und Pflichten der Wegesicherung wahrzunehmen sowie alle Planverfahren Dritter entgegenzunehmen und dementsprechend die erforderlichen Stellungnahmen abzugeben. Zur o.a. Planung haben wir bereits mit Schreiben           Es wird auf das, dem Beteili- W112607400, […] vom 13.12. 2024 Stellung ge-               gungsschreiben beigefügte nommen. Diese Stellungnahme gilt unverändert               Abwägungsergebnis zur geweiter.                                                    nannten Stellungnahme zum Vorentwurf verwiesen. Dort wurde auf eine Leitung der Telekom im Plangebiet hingewiesen, was im Bebauungsplan bzw. auf Vorhabenebene zu berücksichtigen war. Es wurden keine zusätzlichen Anregungen vorgetragen, an der Planung wird festgehalten. Bei Planänderung bitten wir um erneute Beteili-            Eine Planänderung und somit gung.                                                      eine erneute Beteiligung ist nicht vorgesehen. Bebauungsplan Die Telekom Deutschland GmbH (nachfolgend                  Der Stadtrat nimmt Kenntnis.    7:1 Telekom genannt) – als Netzeigentümerin und\n\nNutzungsberechtigte i.S.v. § 125 Abs. 1 TKG – hat die Deutsche Telekom Technik GmbH beauftragt und bevollmächtigt, alle Rechte und Pflichten der Wegesicherung wahrzunehmen sowie alle Planverfahren Dritter entgegenzunehmen und dementsprechend die erforderlichen Stellungnahmen abzugeben. Zu der o.g. genannten Planung nehmen wir wie folgt Stellung: Im Planbereich befinden sich noch keine Tele-              Diese Aussage steht im Wikommunikationslinien der Telekom.                          derspruch zu den Stellungnahmen der Deutschen Telekom Netzproduktion GmbH vom 12./13.12. 2024 zum Vorentwurf der Planung in welcher auf eine bestehende Leitung im Plangebiet hingewiesen wird. Der Leitungsverlauf wurde zum Entwurf in die Planzeichnung des Bebauungsplanes nachrichtlich übernommen. Weiteres ist ggf. auf Vorhabenebene veranlasst, nicht aber im Bebauungsplan. Zur Versorgung des Planbereichs mit Telekom-               Der Stadtrat nimmt Kenntnis. munikationsinfrastruktur durch die Telekom ist die         Die Hinweise werden auf Verlegung neuer Telekommunikationslinien im                Vorhabenebene berücksich- Plangebiet und außerhalb des Plangebiets erfor-            tigt. derlich. Bitte teilen Sie uns zum Zweck der Koordinierung mit, welche eigenen oder Ihnen bekannten Maßnahmen Dritter im Planbereich stattfinden werden. Für den rechtzeitigen Ausbau des Telekommunikationsnetzes sowie die Koordinierung mit dem Straßenbau und den Baumaßnahmen der anderen Leitungsträger ist es notwendig, dass Beginn und Ablauf der Erschließungsmaßnahmen im Bebauungsplangebiet der Deutschen Telekom Technik GmbH unter der im Briefkopf genannten Adresse so früh wie möglich, mindestens 3 Monate vor Baubeginn, schriftlich angezeigt werden. Wir bitten folgende fachliche Festsetzung in den           Der Stadtrat nimmt Kenntnis. Bebauungsplan aufzunehmen: In allen Straßen bzw. Gehwegen sind geeignete              An den öffentlichen Verkehrs- und ausreichende Trassen mit einer Leitungszone            flächen sind keine Umbauin einer Breite von ca. 0,3 m für die Unterbringung        bzw. Erweiterungsmaßnahder Telekommunikationslinien der Telekom vorzu-            men vorgesehen. Eine eigene sehen.                                                     Festsetzung bezüglich der Unterbringung von Telekommunikationsleitungen ist nicht erforderlich. Die Berücksichtigung der Bestandsleitung der Telekom innerhalb der Baufläche erfolgt auf Vorhabenebene. Im Fall, dass im Baugebiet Verkehrsflächen als             Der Stadtrat nimmt Kenntnis.\n\nnicht öffentliche Verkehrswege gewidmet werden,            Für die vorhandene Beaber diese Flächen zur Erschließung der anlie-             standsleitung ist aktuell kein genden Grundstücke mit Telekommunikationsinf-              Leitungsrecht im Grundbuch rastruktur zur Verfügung stehen müssen, bitte wir          eingetragen. Eine ggf. erfor- Sie zur Sicherung der Telekommunikationsversor-            derlich werdende Verlegung gung, das jeweilige Grundstück bzw. die jeweilige          der Leitung kann erst auf Fläche nach § 9 Abs. 1 Nr. 21 BauGB als mit ei-            Vorhabenebene abschlienem Leitungsrecht zu Gunsten der Telekom                   ßend geprüft werden. Inwie- Deutschland GmbH, Sitz Bonn als zu belastende              weit dann ein Leitungsrecht Fläche festzusetzen. Diese Kennzeichnung allein            eingetragen werden begründet das Recht zur Verlegung und Unterhal-            kann/soll, ist zu gegebener tung jedoch noch nicht. Deshalb muss in einem              Zeit zu prüfen. zweiten Schritt die Eintragung einer beschränkten persönlichen Dienstbarkeit im Grundbuch mit folgendem Wortlaut: \"Beschränkte persönliche Dienstbarkeit für die Telekom Deutschland GmbH, Bonn, bestehend in dem Recht auf Errichtung, Betrieb, Änderung und Unterhaltung von Telekommunikationslinien, verbunden mit einer Nutzungsbeschränkung.\" erfolgen. Mit Bezug auf das DigiNetzG bitten wir Sie, mögli-         Der Stadtrat nimmt Kenntnis. che Zuzahlungen oder Übernahmen für Tiefbau-               Die Hinweise werden auf arbeiten, vorhandene Leerrohrsysteme oder Koor-            Vorhabenebene berücksichdinierungsmöglichkeiten mit weiteren Spartenträ-           tigt. gern, für das geplante Neubaugebiet, zu prüfen und uns diesbezüglich hierüber frühzeitig zu Informieren. Wir bitten um schriftliche Stellungnahme an unser Postfach: T_NL_Sued_PTI_13_BB1@telekom.de .\n\nInfra Fürth GmbH, Fürth\n\nStellung-          Beschlussvorschlag:                                                        Empfehnahme:                                                                                        lung: Wir verweisen      Der Stadtrat nimmt Kenntnis.                                               7:1 auf unsere         In der Stellungnahme vom 10.12.2024 zum Vorentwurf wurde Stellungnahme      u.a. auf eine Gas-Bestandsleitung in der Reichenberger Straße, vom                den Hausanschluss des Hallenbades und damit verbundene Be10.12.2024         schränkungen hingewiesen. Die Hinweise wurden zur Kenntnis (beiliegend).      genommen, waren teils aber nur auf Vorhabenebene zu berücksichtigen. Die Stellungnahme wurde bereits in die Abwägung eingestellt, Weiteres ist nicht veranlasst.\n\nLandratsamt Fürth, Sachgebiet 44, Zirndorf\n\nStellungnahme:                                      Beschlussvorschlag:                 Empfehlung: FNP 1. Abteilung 4- SG 41 AB 412 — Wasser-                                                  7:1 recht/Bodenschutz/Altlasten: Es wird auf die Stellungnahme des Arbeits-          Der Stadtrat nimmt Kenntnis. bereichs 412 vom 10.11.2025 zum AZ: 443-            Es wird auf die untenstehende 6102-0-1760-2024 verwiesen                          Abwägung zum Bebauungsplan verwiesen. BP 1. Abteilung 1 — SG 13— Abfalltechnik:                                                  7:1\n\nUnter Bezugnahme auf Abschnitt F (Seite             Der Stadtrat nimmt Kenntnis. 38) der Begründung des B-Planes Nr. 86              Die Reichenberger Straße, kann Folgendes mitgeteilt werden:                   über die das Plangebiet er- Allgemein darf wie folgt ausgeführt werden:         schlossen wird, erfüllt die ge- Wenn unmittelbar vor dem Anwesen eine               nannten Anforderungen. Wen- Abholung der jeweiligen Müllfraktionen er-          deanlagen sind nicht erforderfolgen soll, müssen die Erschließungsstra-          lich. ßen bestimmte Anforderungen erfüllen. Es            Die weiteren Hinweise werden muss sich um öffentliche, mit 3-achsigem            auf Vorhabenebene berück- Schwerlastverkehr befahrbare Straßen han-           sichtigt. deln. Straßen im Begegnungsverkehr müssen eine Mindestbreite von 4,75 m aufweisen. Wobei sichergestellt sein muss, dass auch bei parkenden Fahrzeugen eine Durchfahrbreite von mindestens 3,55 m für die Müllsammelfahrzeuge vorhanden ist. Erforderlichenfalls wäre dies mit entsprechenden verkehrsrechtlichen Maßnahmen zu regeln. Im Bedarfsfall sind Wendeanlagen ebenfalls entsprechend der RASt 06 auszuführen Bevorzugt wird hier der Wendekreis nach Bild 58. Ein Rückwärtsfahren von Müllsammelfahrzeugen ist nach den einschlägigen Unfallverhütungsvorschriften nicht zulässig. Es sind entsprechend Abfallsammelbehälter in ausreichender Menge für - Restmüll (gem. Satzung auch für Gewerbe grundsätzlich verpflichtend), - Papier (soweit für Gewerbe erforderlich), - Biomüll (soweit für Gewerbe erforderlich) sowie - Gelbe Tonne (soweit für Gewerbe erforderlich - über den vom Dualen System beauftragten Dritten zu bestellen) vorzuhalten. Die betroffenen Anwohner bzw. Gewerbebetriebe haben ihre Müllfraktionen am jeweiligen Abfuhrtag an einer öffentlichen, mit Müllfahrzeugen befahrbaren Verkehrsfläche zur Abholung bereitstellen. Die Abfallwirtschaft behält sich erforderlichenfalls vor, die Standorte für die Bereitstellung der Müllfraktionen festzulegen. Private Verkehrsflächen werden aus Haftungsgründen grundsätzlich nicht von Müllsammelfahrzeugen befahren, es sei denn, die Eigentümer stellen den Landkreis Fürth als öffentlich-rechtlichen Entsorgungsträger und die von ihm beauftragen Unternehmen von möglichen Ersatzansprüchen frei. 2. Abteilung 4 - SG 41 AB 412 – Wasser-                                               7:1 recht/Bodenschutz/Altlasten: Es fehlen wasserrechtliche Zulassungen für          Der Stadtrat nimmt Kenntnis. eine ordnungsgemäße Abwasserbeseitigung             Die erforderlichen wasserrecht(Schmutz- und Niederschlagswasser).                 lichen Zulassungen für eine Die Ableitungen von Niederschlagswasser in          Ableitung in ein Oberflächenden Eckartsbach (Gew. III. Ordnung) oder            gewässer bzw. im Hinblick auf\n\nsonstige Gewässer bedürfen einer gehobe-            ggf. stattfindende Versickerunnen Erlaubnis gemäß §§ 10 und 15 Wasser-            gen werden auf Vorhabenebehaushaltsgesetz (WHG) unter Berücksichti-           ne eingeholt und die gegebegung des Merkblattes DWA-M 153 sowie                nen Hinweise berücksichtigt. des Arbeitsblattes DWA-A117. Sofern Niederschlagswasser versickert werden soll, ist die Niederschlagswasserfreistellungsverordnung (NWFreN) in Verbindung mit den technischen Regeln zum schadlosen Einleiten von gesammeltem Niederschlagswasser in das Grundwasser (TRENGW) in der jeweils gültigen Fassung zu beachten. Sollten die Vorgaben der NWFreiV überschritten werden, ist eine wasserrechtliche Gestattung zu beantragen. Im Übrigen wird auf die Stellungnahme des Arbeitsbereichs 412 vom 17.01.2025 zu Bauamts-Az 443-0-1760-2024 verwiesen.               Der Stadtrat nimmt Kenntnis. Diese Stellungnahme zum Vorentwurf wurde bereits in die Abwägung eingestellt. Es wurden in erster Linie Hinweise zur Bauwasserhaltung oder zum Bodenschutz zur Kenntnis genommen, die auf Vorhabenebene zu berücksichtigen sind. 3. Abteilung 4 - SG 42 - Naturschutz                                                    7:1 Technik: Planblatt: Die Vermeidungs- und Minimierungsmaß-               Da es sich bei den Maßnahnahmen V1 -V5 zum Artenschutz sind in die           men V1 (Umweltbaubegleitung) Festsetzungen mit aufzunehmen.                      und V2 (Rodung außerhalb von Brutzeiten) um nicht festsetzbare Maßnahmen handelt, wurden diese nicht in die textlichen Festsetzungen aufgenommen. Die Vermeidungsmaßnahmen V3 (Vermeidung von Vogelschlag) und V4 (Vermeidung der Attraktion nachtaktiver Insekten) wurden bereits durch die textlichen Festsetzungen in § 8 der Sat- Die Pflege- und Herstellungsmaßnahmen               zung berücksichtigt. Die Maßder Ausgleichsflächen sind mit in die textli-       nahme V5 (Baum- und Gechen Festsetzungen aufzunehmen. Zusätz-             hölzerhalt) ist durch textliche lich ist die Ausgleichsfläche in den zeichne-       (§ 6 Abs. 3f) und zeichnerische rischen Festsetzungen dazustellen.                  Festsetzungen abgesichert. Im Bebauungsplan kann das Entwicklungsziel der Ausgleichsfläche, nicht jedoch explizite Pflege- und Herstellungsmaßnahmen zur Zielerreichung festgesetzt werden. Der Anregung die Ausgleichsflächen als zweiten/weiteren\n\nGeltungsbereich zeichnerisch festzusetzen wird ebenfalls nicht entsprochen, es reicht hierzu eine Zuordnung. Bei der Ausgleichsfläche westlich von Keidenzell handelt es sich zudem um eine bestehende Ökokontofläche. Umweltbericht:                                                                       7:1 Zu K: Auf den Ausgleichsflächen ist ein Schröpf-          Der Anregung wird entsproschnitt in den ersten 3 Jahren ausreichend-         chen und die Angaben im der erste Schnitt sollte jedoch erst ab dem         Umweltbericht in Kap. K an15.06. stattfinden.                                 gepasst. Eine erneute Ausle- Die Obstbäume sind mit einer Pfahlsiche-            gung wird durch diese Anpasrung zu versehen.                                   sung nicht erforderlich. Für Obstbäume gilt folgende Pflege: Die erforderlichen Erziehungs- und Pflegeschnitte sind je nach Bedarf durchzuführen. Die ersten 5 Jahre ist ein fachgerechter Erziehungsschnitt durchzuführen. Zudem sind die Bäume die ersten 5 Jahre ausreichend zu wässern. Danach sind die Bäume durch fachgerechte regelmäßige Pflegeschnitte zu erhalten.\n\nLandratsamt Fürth, Staatliches Gesundheitsamt, Zirndorf\n\nStellung-          Beschlussvorschlag:                                                     Empfehnahme:                                                                                     lung: Wir können         Der Stadtrat nimmt Kenntnis.                                            7:1 auf unsere         Die Stellungnahme zum Vorentwurf wurde bereits in die Abwäunten stehen-      gung eingestellt. Sie enthielt v.a. Hinweise zu nicht vorhandenen de Stellung-       Altlasten, aber auch zum zu berücksichtigenden Wirkungspfad nahme vom          Boden-Mensch im Hinblick auf künftige Kinderspielflächen. Be30.12.2024         gründung und Umweltbericht wurden diesbezüglich zum Entwurf verweisen.         hin bereits ergänzt, es gab im vorliegenden Gutachten zur Baugrunduntersuchung aber keine Hinwiese auf verunreinigtes oder belastetes Erdreich. Weiteres ist nicht veranlasst.\n\nN-ERGIE Netz GmbH, Abt. Netzmanagement, Nürnberg\n\nStellungnahme:                            Beschlussvorschlag:                              Empfehlung: Die Stellungnahme vom                     Der Stadtrat nimmt Kenntnis. Die Anregun-        7:1 16.01.2025, AZ: ANR02202451162            gen wurden bereits vollständig in die Abwä& ANR02202451163, behält wei-             gung eingestellt. terhin Gültigkeit. Eine Kopie dieser      In der Stellungnahme vom 16.01.2025 zum Stellungnahme fügen wir als Anla-         Vorentwurf wurden in erster Linie Hinweise ge bei.                                   zu der elektrischen Freileitung im Norden und damit zu berücksichtigende Bau- und Bewuchsbeschränkungsbereiche gegeben. Die Begründung wurde diesbezüglich zum Entwurf hin bereits ergänzt. In der Ausgleichsfläche                   Der Stadtrat nimmt Kenntnis. Flst. Nr. 1025, Gmkg. Keidenzell,\n\nStadt Langenzenn sind keine Anlagen der N-ERGIE Netz GmbH so- wie keine von uns betreuten Anlagen vorhanden oder geplant. Wir bitten Sie die oben genannten         Da bereits zum Entwurf hin Ergänzungen Punkte in die Erläuterungsberichte        erfolgt sind, sind keine weiteren Punkte in mit aufzunehmen und zu veranlas-          die Begründungen der FNP-Änderung und sen, dass wir bei allen öffentlichen      des Bebauungsplanes aufzunehmen. und privaten Planungen und Bau-           Auf Vorhabenebene erfolgt bei Bedarf rechtvorhaben wie z.B. Straßen- und            zeitige Einbindung der N-Ergie Netz GmbH. Kanalbau-arbeiten, Baumpflanzungen etc. rechtzeitig in den Verfahrensablauf eingebunden werden.\n\nStaatliches Bauamt Nürnberg, Straßenbau, Nürnberg\n\nStellungnahme:                                Beschlussvorschlag:                    Empfehlung: Flächennutzungsplan:                                                                 7:1 Seitens des Staatlichen Bauamtes              Der Stadtrat nimmt Kenntnis. Nürnberg stimmen wir der vorgelegten Änderung bzw. Aufstellung des Flächennutzungsplanes zu, wenn unsere Auflagen zum gleichzeitig vorgelegten Bebauungsplan (Bebauungsplan Nr. 86 „KiTa Reichenberger Straße“) entsprechend der für Flächennutzungspläne üblichen Detailschärfe eingearbeitet und berücksichtigt werden. Wir bitten um Übersendung des Ge-             Der Stadtrat nimmt Kenntnis. Die meinderatsbeschlusses, wenn unsere            Verwaltung wird beauftragt, das Ab- Stellungnahme behandelt wurde.                wägungsergebnis mitzuteilen Weiterhin bitten wir um Übersendung           Nach Abschluss des Bauleitplanverdes rechtsgültigen Bauleitplanes (ein-        fahrens wird der rechtskräftige Beschließlich Satzung).                         bauungsplan auf der Homepage der Stadt Langenzenn veröffentlicht und kann eingesehen werden. Bebauungsplan:                                                                       7:1 Seitens des Staatlichen Bauamtes              Der Stadtrat nimmt Kenntnis. Nürnberg stimmen wir der vorgelegten Änderung bzw. Aufstellung des Bebauungsplanes zu, wenn folgende Auflagen berücksichtigt und aufgenommen werden:                                       Im Rahmen einer schalltechnischen 1. Der Baulastträger der Staatsstraße         Untersuchung wurde festgestellt, trägt keine Kosten für Schallschutz-          dass die Orientierungswerte der maßnahmen an den Anlagen, die Ge-             DIN 18005 für allgemeine Wohngegenstand des Bauleitplanes sind.              biete im Plangebiet durch Verkehrslärm nicht überschritten werden. Ein Erfordernis für Schallschutzmaßnahmen an den Anlagen aufgrund von Verkehrslärm besteht somit nicht. Wir bitten um Übersendung des Ge-             Der Stadtrat nimmt Kenntnis. Die meinderatsbeschlusses, wenn unsere            Verwaltung wird beauftragt, das Ab- Stellungnahme behandelt wurde.                wägungsergebnis mitzuteilen Weiterhin bitten wir um Übersendung           Nach Abschluss des Bauleitplanver-\n\ndes rechtsgültigen Bauleitplanes (ein-        fahrens wird der rechtskräftige Beschließlich Satzung).                         bauungsplan auf der Homepage der Stadt Langenzenn veröffentlicht und kann eingesehen werden.\n\nStadtwerke Langenzenn\n\nStellungnahme:                                                            Beschluss-     Empfehvorschlag:     lung: Seitens der Stadtwerke bleibt die alte Stellungnahme aufrechterhal-       Der Stadt-     7:1 ten:                                                                      rat nimmt Die Stadtwerke Langenzenn sind Netzbetreiber für Strom und Was-           Kenntnis. ser, in den entsprechenden Straßen liegen evtl. Wasserleitungen sowie Niederspannungs-, Mittelspannungs- und Steuerkabel der Stadtwerke. Wir bitten um Berücksichtigung.\n\nVodafone GmbH / Vodafone Deutschland GmbH, Nürnberg\n\nStellungnahme:                                                         Beschluss-        Empfehvorschlag:        lung: FNP: Wir teilen Ihnen mit, dass die Vodafone GmbH / Vodafone                Der Stadtrat      7:1 Deutschland GmbH gegen die von Ihnen geplante Maßnahme                 nimmt Kenntnis keine Einwände geltend macht. In Ihrem Planbereich befinden sich Telekommunikationsanlagen unseres Unternehmens. Bei objektkonkreten Bauvorhaben im Plangebiet werden wir dazu eine Stellungnahme mit entsprechender Auskunft über unseren vorhandenen Leitungsbestand abgeben. BP: Bei der von Ihnen eingereichten Planung haben wir keine Ein-           Der Stadtrat     7:1 wände. Neu- oder Mitverlegungen sind nicht geplant. Im Planbe-         nimmt Kenntreich befinden sich Telekommunikationsanlagen unseres Unter-           nis. Die Leitung nehmens. Wir weisen darauf hin, dass unsere Anlagen bei der            der Vodafone Bauausführung zu schützen bzw. zu sichern sind, nicht überbaut         ist lagegleich / und vorhandene Überdeckungen nicht verringert werden dürfen.           identisch mit Sollte eine Umverlegung oder Baufeldfreimachung unserer Te-            der der Telelekommunikationsanlagen erforderlich werden, benötigen wir             kom und bereits mindestens drei Monate vor Baubeginn Ihren Auftrag an TDR-S-           nachrichtlich im Bayern.de@vodafone.com, um eine Planung und Bauvorberei-               Planblatt übertung zu veranlassen sowie die notwendigen Arbeiten durchfüh-           nommen. ren zu können. In diesem Zusammenhang weisen wir bereits jetzt darauf hin, dass die zuständige Vodafone-Gesellschaft(en) erforderliche Umverlegungen ihrer vorhandenen Telekommunikationslinien (TK-Linien) grundsätzlich durch ein von ihr beauftragtes Tiefbauunternehmen auf eigene Kosten bewirkt (§ 130 Absatz 3 Telekommunikationsgesetz [TKG]), unabhängig davon, ob der              Die Hinweise Wegebaulastträger bereits Tiefbauunternehmen in o.g. Vorha-            werden auf ben – insbesondere im Rahmen einer öffentlichen Ausschrei-             Vorhabenebene bung – beauftragt hat.                                                 berücksichtigt. Hierfür ist die Einräumung eines Bauzeitfensters notwendig, das der Wegebaulastträger und/oder sein beauftragtes Tiefbauunternehmen bzw. Planungsbüro bei der Planung des o.g. Vorhabens zu berücksichtigen und auf Antrag der zuständigen Vodafone-Gesellschaft(en) ihr zu gewähren und mit ihr abzustimmen\n\nhat. Ordnungsgemäß erfolgte Baubeschreibungen bzw. Erläuterungen zur Ausschreibung des Wegebaulastträgers berücksichtigen derartige Verzögerungen, sodass Bauunternehmen und Planungsbüros damit zu rechnen haben.\n\nHierdurch entstehende Kosten und Ausführungszeitverlängerungen sowie Behinderungen müssen deshalb bereits vorab bei der Einheitspreisbestimmung und der Festlegung der Ausführungszeiten vom Bauunternehmen bzw. Planungsbüro berücksichtigt werden. Vor Baubeginn sind aktuelle Planunterlagen vom ausführenden Tiefbauunternehmen anzufordern. Unsere kostenlosen Planauskünfte sind erreichbar via Internet über die Seite: https://www.vodafone.de/immobilienwirtschaft/ hilfe/planauskunft/index.html Dort kann man sich einmalig registrieren lassen und Planauskünfte einholen. Eine Ausbauentscheidung trifft Vodafone nach internen Wirt-            Der Stadtrat schaftlichkeitskriterien. Dazu erfolgt eine Bewertung entspre-         nimmt Kenntchend Ihrer Anfrage zu einem Neubaugebiet. Bei Interesse set-          nis. Der Hinzen Sie sich bitte mit dem Team Neubaugebiete in Verbindung:           weis wird auf Vodafone GmbH / Vodafone Deutschland GmbH                              Vorhabenebene Neubaugebiete KMU                                                      berücksichtigt. Südwestpark 15 90449 Nürnberg Neubaugebiete.de@vodafone.com Bitte legen Sie einen Erschließungsplan des Gebietes Ihrer Kostenanfrage bei. [Hinweise zu den Ausgleichsflächen Flst. Nr. 529, Gmkg. Kirch-         Der Stadtrat fembach, und Flst. Nr. 1025, Gmkg. Keidenzell 9                        nimmt Kennt- Wir teilen Ihnen mit, dass die Vodafone-Gesellschaft(en) gegen         nis. die von Ihnen geplante Baumaßnahme keine Einwände geltend macht. Im Planbereich befinden sich keine Telekommunikationsanlagen unseres Unternehmens. Eine Neuverlegung von Telekommunikationsanlagen ist in dem angefragten Planbereich derzeit nicht geplant.\n\nWasserwirtschaftsamt Nürnberg\n\nStellungnahme:                          Beschlussvorschlag:                              Empfehlung: FNP Sachgebiet 4.4 - Gewässer/              Der Stadtrat nimmt Kenntnis. Die fachlichen      7:1 Hochwasser/ Starkregenereignis-         Informationen und Empfehlungen sind bese:                                     reits in die Abwägung zum Vorentwurf ein- Den Beschlussvorschlag vom              gestellt worden. Die Stellungnahme vom 23.09.2025 nehmen wir zur               15.01.2025 enthielt u.a. Hinweise zu beste- Kenntnis.                               henden Entwässerungseinrichtungen, Die fachlichen Informationen und        Starkregenereignissen und die Arbeitshilfe Empfehlungen unter Punkt 2.5 in         „Hochwasser- und Starkregenrisiken in der unserer Stellungnahme vom               Bauleitplanung“. 15.01.2025 sind weiterhin zu beachten. Sachgebiet 4.3 - Abwasserent-           Der Stadtrat nimmt Kenntnis. Die fachlichen      7:1 sorgung:                                Informationen und Empfehlungen sind be-\n\nDen Beschlussbuchauszug neh-            reits in die Abwägung zum Vorentwurf einmen wir zur Kenntnis. Die fachli-       gestellt worden. Die Stellungnahme vom chen Informationen und Empfeh-          15.01.2025 enthielt u.a. Hinweise zum WHG lungen unter Punkt 2.5 in unserer       und dem Umgang mit Niederschlagswasser Stellungnahme vom 15.01.2025            und ggf. erforderlichen wasserrechtlichen sind weiterhin zu beachten.             Genehmigungen. Diese waren insbesondere auf Vorhabenebene zu berücksichtigen. BP Sachgebiet 4.22- Grundwasser-                                                            7:1 schutz:                                 Der Stadtrat nimmt Kenntnis. Die fachlichen Den Beschlussvorschlag vom              Informationen und Empfehlungen sind be23.09.2025 nehmen wir zur               reits in die Abwägung zum Vorentwurf ein- Kenntnis.                               gestellt worden. Die Stellungnahme vom Die fachlichen Informationen und        15.01. 2025 enthielt u.a. Hinweise zu Empfehlungen unter Punkt 2.5 in         Grundwasserabsenkungen, Bauwasserhalunserer Stellungnahme vom               tung und hohen Grundwasserständen. Die15.01.2025 sind weiterhin zu be-        se waren insbesondere auf Vorhabenebene achten                                  zu berücksichtigen. Sachgebiet 4.4 – Gewässer /Hochwasser / Starkregener-             Der Stadtrat nimmt Kenntnis. Die fachlichen      7:1 eignisse:                               Informationen und Empfehlungen sind be- Den Beschlussvorschlag vom              reits in die Abwägung zum Vorentwurf ein23.09.2025 nehmen wir zur               gestellt worden. Die Stellungnahme vom Kenntnis.                               15.01.2025 enthielt u.a. Hinweise zu beste- Die fachlichen Informationen und        henden Entwässerungseinrichtungen, Empfehlungen unter Punkt 2.5 in         Starkregenereignissen und die Arbeitshilfe unserer Stellungnahme vom               „Hochwasser- und Starkregenrisiken in der 15.01.2025 sind weiterhin zu be-        Bauleitplanung“. achten Sachgebiet 4.3 - Abwasserent-                                                            7:1 sorgung:                                Der Stadtrat nimmt Kenntnis. Die fachlichen Den Beschlussbuchauszug neh-            Informationen und Empfehlungen sind bemen wir zur Kenntnis. Die fachli-       reits in die Abwägung zum Vorentwurf einchen Informationen und Empfeh-          gestellt worden. Die Stellungnahme vom lungen unter Punkt 2.5 in unserer       15.01.2025 enthielt u.a. Hinweise zum Stellungnahme vom 15.01.2025            WHG, der Entwässerung im Trennsystem sind weiterhin zu beachten.             und dem Umgang mit Niederschlagswasser und ggf. erforderlichen wasserrechtlichen Genehmigungen. Diese waren insbesondere auf Vorhabenebene zu berücksichtigen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat die im Sachverhalt aufgeführten Beschlussvorschläge.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Feststellungsbeschluss zur 27. Änderung des Flächennutzungsplanes",
+        "facts": "In der Sitzung des Stadtrats am 20.06.2024 wurde der Beschluss zur Aufstellung des Bebauungsplans Nr. 86 „KiTa Reichenberger Straße“ sowie die 27. Änderung des Flächennutzungsplanes mit integriertem Landschaftsplan (FNP) im Bereich dieses Bebauungsplans im Parallelverfahren nach § 8 Abs. 3 BauGB gefasst.\n\nDas Plangebiet liegt im Südwesten von Langenzenn, östlich der Reichenberger Straße. Es wurde im Bebauungsplan eine Fläche für Gemeinbedarf mit der Zweckbestimmung „Kindertagesstätte“ festgesetzt. Die überbaubare Grundstücksfläche wurde entsprechend der Konzeptstudie des Architekturbüros Dürschinger auf den nördlichen Teilbereich beschränkt, die restliche Grundstücksfläche kann entsprechend als Außenspielbereich genutzt werden. Im Bebauungsplan ist dazu das gesamte Grundstück mit aufgenommen, für das Vorhaben wird evt. aber nicht die gesamte Fläche benötigt. Dort vorhandener Gehölzbestand östlich der Kegelbahn wird zur Erhaltung festgesetzt, da dies auch Oberflächenwasserabflüsse abbremst.\n\nIn der 27. Änderung des FNP wurde eine Fläche für Gemeinbedarf dargestellt (siehe Planblatt in der Anlage), mit der Zweckbestimmung „Kindergarten“.\n\nDie Veröffentlichung der Entwürfe des Bebauungsplans und der 27. Änderung des Flächennutzungsplans mit integriertem Landschaftsplan im Internet nach § 3 Abs. 2 BauGB fand vom 06.10.2025 bis einschließlich 10.11.2025 statt. Es gingen dabei keine Stellungnahmen aus der Öffentlichkeit ein.\n\nDie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB, sowie die Abstimmung mit den Nachbargemeinden nach § 2 Abs. 2 BauGB erfolgte mit Anschreiben vom 01.10.2025, dabei wurde um Stellungnahme bis zum 10.11.2025 gebeten.\n\nDie eingegangenen Stellungnahmen bezogen sich im Wesentlichen auf die Inhalte des Bebauungsplanes. Dabei wurde in vielen Stellungnahmen auf die die Äußerung zum Vorentwurf verwiesen. Diese Stellungnahmen wurden ja bereits abgewogen, es ging aber überwiegend um Kenntnisnahmen von Hinweisen. Zum Entwurf wurden neben diesen schon bekannten Anregungen vor allem auf die Eingriffsregelung und die damit verbundenen Ausgleichsflächen und -maßnahmen eingegangen.\n\nDie Abwägung führt zu kleineren Anpassungen im Umweltbericht, aber zu keinen Änderungen an den zeichnerischen und textlichen Festsetzungen. Das beauftragte Planungsbüro GSP Landschaftsarchitektur & Stadtplanung, Nürnberg, hat die genehmigungsfähige Planfassung der 27. Änderung des Flächennutzungsplans sowie die Satzungsfassung des Bebauungsplans Nr. 86 „KiTa Reichenberger Straße“ jeweils in der Fassung vom 19.11.2025 angefertigt.\n\nDas Bauleitplanverfahren kann zum Abschluss gebracht und der Feststellungsbeschluss zur FNP-Änderung und der Satzungsbeschluss zum Bebauungsplan gefasst werden. Die FNP- Änderung ist danach noch dem Landratsamt Fürth zur Genehmigung vorzulegen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat der Stadt Langenzenn beschließt über die eingegangenen Stellungnahmen zu den Entwürfen der 27. Änderung des Flächennutzungsplans sowie zum Bebauungsplans Nr. 86 „KiTa Reichenberger Straße“ entsprechend der Vorschläge des Büro Grosser-Seeger & Partner, Nürnberg, vom 19.11.2025.\n\nDer Stadtrat der Stadt Langenzenn fasst den Feststellungsbeschluss zur 27. Änderung des Flächennutzungsplans in der Fassung vom 19.11.2025.\n\nDie Verwaltung wird beauftragt, diese Flächennutzungsplanänderung dem Landratsamt Fürth zur Genehmigung nach § 6 Abs. 1 BauGB vorzulegen.\n\nNach Erteilung der Genehmigung ist diese ortsüblich bekannt zu machen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "27. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 86 \"KiTa Reichenberger Straße\" im Parallelverfahren; hier: Satzungsbeschluss zum Bebauungsplan Nr. 86 \"KiTa Reichenberger Straße\"",
+        "facts": "In der Sitzung des Stadtrats am 20.06.2024 wurde der Beschluss zur Aufstellung des Bebauungsplans Nr. 86 „KiTa Reichenberger Straße“ sowie die 27. Änderung des Flächennutzungsplanes mit integriertem Landschaftsplan (FNP) im Bereich dieses Bebauungsplans im Parallelverfahren nach § 8 Abs. 3 BauGB gefasst.\n\nDas Plangebiet liegt im Südwesten von Langenzenn, östlich der Reichenberger Straße. Es wurde im Bebauungsplan eine Fläche für Gemeinbedarf mit der Zweckbestimmung „Kindertagesstätte“ festgesetzt. Die überbaubare Grundstücksfläche wurde entsprechend der Konzeptstudie des Architekturbüros Dürschinger auf den nördlichen Teilbereich beschränkt, die restliche Grundstücksfläche kann entsprechend als Außenspielbereich genutzt werden. Im Bebauungsplan ist dazu das gesamte Grundstück mit aufgenommen, für das Vorhaben wird evt. aber nicht die gesamte Fläche benötigt. Dort vorhandener Gehölzbestand östlich der Kegelbahn wird zur Erhaltung festgesetzt, da dies auch Oberflächenwasserabflüsse abbremst.\n\nIn der 27. Änderung des FNP wurde eine Fläche für Gemeinbedarf dargestellt (siehe Planblatt in der Anlage), mit der Zweckbestimmung „Kindergarten“.\n\nDie Veröffentlichung der Entwürfe des Bebauungsplans und der 27. Änderung des Flächennutzungsplans mit integriertem Landschaftsplan im Internet nach § 3 Abs. 2 BauGB fand vom 06.10.2025 bis einschließlich 10.11.2025 statt. Es gingen dabei keine Stellungnahmen aus der Öffentlichkeit ein.\n\nDie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB, sowie die Abstimmung mit den Nachbargemeinden nach § 2 Abs. 2 BauGB erfolgte mit Anschreiben vom 01.10.2025, dabei wurde um Stellungnahme bis zum 10.11.2025 gebeten.\n\nDie eingegangenen Stellungnahmen bezogen sich im Wesentlichen auf die Inhalte des Bebauungsplanes. Dabei wurde in vielen Stellungnahmen auf die die Äußerung zum Vorentwurf verwiesen. Diese Stellungnahmen wurden ja bereits abgewogen, es ging aber überwiegend um Kenntnisnahmen von Hinweisen. Zum Entwurf wurden neben diesen schon bekannten Anregungen vor allem auf die Eingriffsregelung und die damit verbundenen Ausgleichsflächen und -maßnahmen eingegangen.\n\nDie Abwägung führt zu kleineren Anpassungen im Umweltbericht, aber zu keinen Änderungen an den zeichnerischen und textlichen Festsetzungen. Das beauftragte Planungsbüro GSP Landschaftsarchitektur & Stadtplanung, Nürnberg, hat die genehmigungsfähige Planfassung der 27. Änderung des Flächennutzungsplans sowie die Satzungsfassung des Be-\n\nbauungsplans Nr. 86 „KiTa Reichenberger Straße“ jeweils in der Fassung vom 19.11.2025 angefertigt.\n\nDas Bauleitplanverfahren kann zum Abschluss gebracht und der Feststellungsbeschluss zur FNP-Änderung und der Satzungsbeschluss zum Bebauungsplan gefasst werden. Die FNP- Änderung ist danach noch dem Landratsamt Fürth zur Genehmigung vorzulegen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat der Stadt Langenzenn beschließt über die eingegangenen Stellungnahmen zu den Entwürfen der 27. Änderung des Flächennutzungsplans sowie zum Bebauungsplans Nr. 86 „KiTa Reichenberger Straße“ entsprechend der Vorschläge des Büro Grosser-Seeger & Partner, Nürnberg, vom 19.11.2025.\n\nDer Stadtrat beschließt den Bebauungsplan Nr. 86 „KiTa Reichenberger Straße“ in der Fassung vom 19.11.2025 als Satzung nach § 10 Abs. 1 BauGB.\n\nDie Verwaltung wird beauftragt, den Satzungsbeschluss nach Erteilung der Genehmigung der Flächennutzungsplanänderung ortsüblich bekannt zu machen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Grundstücksangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "FFH-Gebiet Zenn hier: Aufnahme der Maßnahmen aus dem Managementplan in Verträge",
+        "facts": "Die Zenn bildet mit ihren angrenzenden Flächen ein FFH-Gebiet mit der Gebietsnummer 6530-371. Für dieses Gebiet wurde im Jahr 2008 vom Institut für angewandte ökologische Studien Nürnberg im Auftrag der Regierung von Mittelfranken ein Pflegekonzept unter naturschutzfachlichen Punkten zum Erhalt dieses FFH-Gebietes erstellt, der sog. Managementplan „Zenn von Stöckach bis zur Mündung“. Dieser enthält verschiedene Maßnahmen, eine Orientierung an diesen ist geboten und sollte somit auch Einzug in städtische Verträge sowie die der Hospitalstiftung erhalten.\n\nMit der Einhaltung dieser Maßnahmen können Eigentümer von Flächen in diesem FFH- Gebiet aktiv zum Schutz und somit zum Erhalt dessen beitragen. Auch die Stadt Langenzenn sowie die Hospitalstiftung Langenzenn besitzen in diesem Gebiet verschiedene Flächen. Entsprechend möchte die Stadtverwaltung und auch die Hospitalstiftung Langenzenn die Maßnahmen aus dem Managementplan als Pflicht in sämtliche neu abzuschließende Verträge wie bspw. Pachtverträge, Gestattungsverträge oder Nutzungsvereinbarungen für diese Flächen aufnehmen.\n\nBeispiel einer Maßnahme: Festlegung von Mahdzeiträumen zur Förderung gefährdeter Vorkommen im FFH-Gebiet der Zenn:\n\nDas FFH-Gebiet ist in Schutzbereiche für verschiedene Lebensräume und damit einhergehende gefährdete Arten unterteilt, wie beispielsweise Keiljungfer, Muscheln, Insekten, Tagfalter sowie Fledermaus- und Vogelarten. Jede dieser Vorkommen benötigt einen für sie angepassten Lebensraum, der mit den Maßnahmen aus dem Managementplan gefördert werden kann. Eine dieser Maßnahmen betrifft die Wiesenmahd.\n\nÜber eine Anpassung der Mahdzeiträume sowie der Häufigkeit der Mahd kann man hier gezielt verschiedene Pflanzen fördern und somit den Lebensraum für eine dieser Arten erhalten oder gar verbessern. So kann mit einer zweischürigen Mahd von Wiesenknopf-Wiesen, wie sie die Stadt Langenzenn besitzt, bis Mitte Juni sowie ab Ende August der Wiesenknopf erhalten werden und somit dem gefährdeten Wiesenknopf-Ameisenbläuling als Nahrungsquelle sowie zur Eiablage dienen. Eine weitere Möglichkeit ist die Umsetzung von sog. Frühmahdstreifen. Hierbei wird vor der eigentlichen Mahd ein Wiesenstreifen gemäht, der zur Hauptmahd bereits wieder nachgewachsen ist, nicht erneut gemäht wird und somit Insekten als Ausweich und in Folge dessen auch anderen Arten durch ein erhöhtes Insektenvorkommen während der Wiesenmahd als Nahrungsquelle dient. Diese Maßnahme schützt auch Bodenbrütervorkommen. Überdies würden Maßnahmen aus dem Managementplan auch der Grünen Keiljungfer (eine Libellenart) zugutekommen, um deren Vorkommen sich im Bereich der Zenntalbrücke im betreffenden FFH-Gebiet bereits bemüht wird.\n\nDer Managementplan ist als Anlage 1 beigefügt.\n\nDie Verwaltung schlägt die Aufnahme der Maßnahmen aus dem Managementplan in neu abzuschließende Pachtverträge für Flächen des betreffenden FFH-Gebietes, die im Eigentum der Stadt sowie der Hospitalstiftung Langenzenn stehen, vor.\n\nDie Ausschussmitglieder sind der Meinung, dass vor Beschlussfassung eine Kontaktaufnahme mit den Landwirten erfolgen muss, um die Auswirkungen auf das Pachtverhältnis und mögliche Ertragseinbußen zu ermitteln. Eine Kompromisslösung wäre wünschenswert. Der Sachvortag und Beschlussvorschlag des Tagesordnungspunktes wären evtl. anzupassen und neu auszuformulieren.",
+        "decision": "Der Bau-, Umwelt und Verkehrsausschuss beschließt den Tagesordnungspunkt zu vertagen und den Antrag neu auszuformulieren.\n\nDie Verwaltung wird beauftragt Kontakt mit den Landwirten aufzunehmen.\n\nEine Abstimmung mit den betroffenen Landwirten bezüglich der Folgen der Aufnahme etwaiger Vorgaben soll erfolgen, bevor der Tageordnungspunkt erneut zur Beratung und Beschlussfassung vorgelegt wird.",
+        "vote": {
+          "summary": "zurückgestellt",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "BauGB-Novelle 2025; Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung; hier: Informationen zum \"Bauturbo\"",
+        "facts": "Am 30. Oktober 2025 trat das „Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung“ in Kraft. Ziel dieses Gesetzes ist es, den Wohnungsbau in Deutschland schneller voranzutreiben und den Zugang zu Wohnraum insbesondere in städtischen Gebieten zu erleichtern. Ein zentraler Bestandteil der Reform ist der sogenannte „Bauturbo“, der es ermöglicht, Wohnbauprojekte bis zum 31. Dezember 2030 ohne vollständige Bauleitplanung durchzuführen – vorausgesetzt, die Gemeinde stimmt zu.\n\nMit der Einführung von § 36a BauGB wird ein Zustimmungsverfahren etabliert, das die übliche Gemeindezustimmung ersetzt. Dabei kommt eine Fiktionswirkung zur Anwendung: Wird die Zustimmung der Gemeinde innerhalb von drei Monaten nicht verweigert, gilt sie als erteilt. Bei einer Öffentlichkeitsbeteiligung verlängert sich diese Frist auf maximal vier Monate.\n\nGemäß § 246e BauGB können in Zukunft auch Außenbereichsflächen bebaut werden, sofern sie im räumlichen Zusammenhang mit bereits bebauten oder beplanten Flächen stehen und städtebaulich vertretbar sind. Eine Abstandsregelung von maximal etwa 100 Metern wird hierbei angewendet.\n\nAm 12. November 2025 wurde vom Staatsministerium für Wohnen, Bau und Verkehr eine Handlungsanweisung (FAQ) veröffentlicht, welche im Ratsinformationssystem eingestellt ist.\n\nEs wird klargestellt, dass es keine Pflicht für die Gemeinden gibt, den „Bauturbo“ zu nutzen – jedoch handelt es sich um eine Kann-Vorschrift. Das heißt, die Gemeinden können ihn einsetzen, um unter bestimmten Bedingungen schneller Wohnraum zu schaffen, die Gemeinden sind aber nicht dazu verpflichtet.\n\nWesentliche Inhalte der BauGB-Novelle 2025:\n\n   Vereinfachung und Beschleunigung der Genehmigungsverfahren\n\nDie Novelle vereinfacht Genehmigungsverfahren, um Wohnbauvorhaben schneller zu realisieren. Insbesondere kleinere und mittlere Bauprojekte profitieren von einem vereinfachten Genehmigungsprozess. Der „Bauturbo“ verkürzt die Planungsverfahren erheblich, da die vollständige Bauleitplanung entfällt.\n\n   Flächenbereitstellung und Planungsbeschleunigung\n\nDas Gesetz zielt darauf ab, bevorzugt innenstadtnahe Flächen, Brachflächen und bereits erschlossene Gebiete zu nutzen. Um die Umwidmung dieser Flächen zu beschleunigen, werden Bebauungspläne vereinfacht und die Bearbeitungszeiten deutlich verkürzt. Die Öffentlichkeitsbeteiligung wird im Vergleich zur herkömmlichen Planung auf die Möglichkeit zur Stellungnahme nach § 36a Abs. 2 BauGB auf einen Monat reduziert.\n\n   Änderungen im Befreiungs- und Abweichungsrecht\n\nDie Novelle erleichtert das Verfahren zur Befreiung nach § 31 BauGB und erlaubt Abweichungen vom Einfügen im unbeplanten Innenbereich nach § 34 BauGB. Zudem können im Bebauungsplan Lärmschutzmaßnahmen abweichend von den allgemein geltenden Werten der TA-Lärm festgelegt werden.\n\n   Zulässigkeit zusätzlicher Nutzungen\n\nNeben der Zulassung von Mehrfamilienhäusern wird der „Bauturbo“ auch auf Einfamilienhäuser ausgeweitet. Zudem sind Nutzungsänderungen bestehender Gebäude zu Wohnzwecken sowie die Zulassung von sozialen Infrastrukturanlagen (z.B. Kindergärten, Schulen) und Läden des täglichen Bedarfs möglich, sofern die notwendige Infrastruktur vorhanden ist.\n\nHerausforderungen für die Gemeinden:\n\nDie Einführung des „Bauturbos“ bietet Chancen, bringt aber auch einige Herausforderungen für die kommunale Verwaltung und Planungspraxis mit sich:\n\n   Erhöhte Erwartungshaltung der Bevölkerung\n\nDurch die beschleunigte Genehmigungspraxis entsteht eine erhöhte Erwartungshaltung bei der Bevölkerung. Dies könnte dazu führen, dass abgelehnte Vorhaben erneut eingereicht werden, da Bürger hoffen, dass ein neuer Antrag erfolgreicher ist.\n\n   Knapp bemessene Fristen\n\nDie Frist von drei bis vier Monaten für die Bearbeitung der Anträge ist eng, insbesondere wenn komplexe städtebauliche Fragestellungen berücksichtigt werden müssen. Dies umfasst unter anderem städtische Verträge (einschließlich Ausgleichsmaßnahmen und Erschließungsfragen), die Klärung öffentlicher Belange und ggf. die Durchführung einer Öffentlichkeitsbeteiligung.\n\n   Unsicherheiten bei der praktischen Umsetzung\n\nEs bestehen Unsicherheiten, wie die neuen Regelungen in der Praxis umgesetzt werden.\n\nZwei wesentliche Fragen sind dabei:\n\n-   Qualität der Bauanträge: Es ist unklar, ob die im Rahmen des „Bauturbos“ eingereichten Bauanträge die erforderliche Qualität aufweisen, um schnell bearbeitet zu werden. -   Abweichungen vom Einfügen: Es ist noch offen, wie mit Abweichungen von Bebauungsplänen oder der Einfügung in die nähere Umgebung umgegangen wird, insbesondere bei mehrfach vorkommenden Fällen. Grundsatzbeschlüsse könnten erforderlich werden, um eine einheitliche Handhabung sicherzustellen.\n\n§ 36a BauGB - Zustimmung der Gemeinde:\n\nDie Zustimmung der Gemeinde nach § 36a BauGB ermöglicht eine schnelle Genehmigung von Wohnbauvorhaben, führt jedoch auch zu neuen Anforderungen und Unsicherheiten:\n\n-   Keine Ersetzungsbefugnis durch die Bauaufsicht: Die Gemeinde kann die Zustimmung nicht durch die Bauaufsicht ersetzen lassen. -   Fiktionswirkung: Wird die Zustimmung der Gemeinde innerhalb von drei Monaten nicht verweigert, gilt sie als erteilt. Bei Öffentlichkeitsbeteiligung verlängert sich die Frist um einen Monat. -   Städtebauliche Verträge: Die Zustimmung kann an Bedingungen geknüpft werden, die durch einen städtebaulichen Vertrag mit dem Bauherrn geregelt werden (z.B. für Erschließungs- oder Ausgleichsmaßnahmen). -   Maximale Bearbeitungszeit: Der gesamte Prozess, einschließlich Prüfung der Unterlagen, Vorberatung und Öffentlichkeitsbeteiligung, muss innerhalb von vier Monaten abgeschlossen sein.\n\nEmpfehlungen der Verwaltung\n\nUm eine transparente, rechtssichere und einheitliche Anwendung der neuen gesetzlichen Regelungen zu gewährleisten, empfiehlt die Verwaltung die Entwicklung eines städtebaulichen Konzepts.\n\nDieses soll folgende Punkte umfassen:\n\n-   Kriterien für die Vereinbarkeit von Projekten mit den städtebaulichen Vorstellungen der Verwaltung, -   Anforderungen für den Abschluss entsprechender städtebauliche Verträge, -   Abwägungsmaßstäbe für Außenbereichsvorhaben (einschließlich der 100-m-Regel), einheitliche Verfahren für die Öffentlichkeitsbeteiligung und Vertragsgestaltung.\n\nDie Verwaltung steht derzeit im Austausch mit Planungsbüros und wird in einer der nächsten Ausschusssitzungen konkrete Vorschläge unterbreiten.\n\nBis zur Erstellung dieses städtebaulichen Konzepts empfiehlt die Verwaltung, den „Bauturbo“ noch nicht anzuwenden, um eine einheitliche Beurteilungspraxis zu gewährleisten. Die erste Abweichung könnte das Ortsbild langfristig prägen, was eine einheitliche Handhabung erschwert.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis vom Inkrafttreten des „Gesetzes zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung“ sowie der damit verbundenen Änderungen im Baugesetzbuch (BauGB).\n\nDer Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung ein entsprechendes Honorarangebot für die Erstellung eines städtebaulichen Konzepts zur Anwendung der neuen Regelungen im Rahmen des „Bauturbos“ einzuholen.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt bis zur Fertigstellung des städtebaulichen Konzepts den „Bauturbo“ nicht anzuwenden. Damit wird gewährleistet, dass Bauvorhaben einheitlich und rechtlich eindeutig behandelt werden und das einheitliche Stadtbild erhalten bleibt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "7.1.",
+        "title": "Sirenen im Stadtgebiet von Langenzenn hier: Ertüchtigung der Sirenen auf digitalen Funkempfang",
+        "facts": "Die Stadt Langenzenn verfügt und betreibt im Stadtgebiet von Langenzenn insgesamt zehn Sirenen, vorrangig zur Alarmierung der Feuerwehren.\n\nIn den Kalenderwochen 45 und 46 (03.11.2025 – 12.11.2025) wurden alle Sirenen im Stadtgebiet von Langenzenn durch die beauftragte Firma begangen, nahezu alle auf digitalen Funkempfang und bei Bedarf wieder funktionstüchtig gemacht.\n\nDie Umrüstung auf digitalen Funkempfang ist dahin gehend wichtig, um die Bevölkerung im Katastrophenfall zu warnen und das entsprechende Tonsignal wiederzugeben (vergleiche hierzu den bundesweiten Warntag durch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe immer am zweiten Donnerstag im September).\n\nInsgesamt konnten acht von zehn Sirenen umgerüstet werden, für zwei Sirenen stehen noch weitere Arbeiten an, die derzeit mit den Verantwortlichen der Stadtverwaltung weiter (federführend durch die Geschäftsleitung) bearbeitet werden.\n\nIm konkreten geht es um die Sirenenstandorte\n\nKeidenzell: Die Sirene ist auf einem Privathaus montiert und es sind entsprechende Grunddienstbarkeiten im Grundbuch eingetragen. Jedoch kann die zusätzliche Technik nicht am bisherigen Standort der Sirenentechnik aufgrund Platzmangels eingebaut werden. Zusätzliche Auflagen des Denkmalschutzes im Gebäude erschweren die Montage. Seitens der Stadt Langenzenn wird daher die Option zur Verlegung ans Feuerwehrhaus in Keidenzell in Betracht gezogen.\n\nHier sind aber noch einige Vorarbeiten nötig, wie z.B. Angebotseinholung für die Verlegung, Gespräche mit den Eigentümern des Gebäudes etc. Die Umrüstung/Umsetzung wird weiterhin durch die Geschäftsleitung vorangetrieben, kann aber noch etwas Zeit in Anspruch nehmen.\n\nSirene Heinersdorf: Auch diese Sirene ist auf einem Privathaus installiert und mit den entsprechenden Grunddienstbarkeiten im Grundbuch eingetragen. Auch hier stehen wir vor der Herausforderung des begrenzten Platzes. Allerdings ist hier keine Versetzung der Sirene geplant. Es wird hier mit dem Hauseigentümer nach einer Lösung gesucht. Sobald diese gefunden wurde, wird auch diese Sirene auf digitalen Funkempfang umgerüstet.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.2.",
+        "title": "Brücken- und Ingenieurbauwerke; Überwachung und Sanierung; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr",
+        "facts": "Stand heute liegen 51 Brücken- und Ingenieurbauwerke im Eigentum der Stadt Langenzenn, die regelmäßig geprüft und unterhalten werden müssen.\n\nDie Überprüfung dieser Bauwerke wird durch das Ingenieurbüro Kurz Balling GmbH, Würzburg, turnusmäßig durchgeführt.\n\nAuf Grundlage der Prüfergebnisse werden notwendige Maßnahmen geplant und durchgeführt.\n\nIn 2025 wurde erstmalig die Staumauer und das Tosbecken am Traumsee geprüft. Hier wurde unter der Rücksprache und Hilfe der Fischerfreunde und des Bauhofs der Traumsee ein Stück abgelassen, das Tosbecken und die Staumauer gründlich gereinigt und im Anschluss geprüft. Aus vorhandenen Unterlagen zu schließen, ist die Staumauer vor der Eingemeindung Mitte der 70er Jahre errichtet worden.\n\nZusätzlich konnte aus einem Schreiben von 1980 des damaligen Stadtbaumeisters entnommen werden, dass die Stützmauer im Finkenschlag im Eigentum der Stadt Langenzenn ist und durch diese betreut werden muss. Die Stützmauer wurde durch das IB Balling vermessen und in die Bauwerksliste aufgenommen.\n\nFür 2026 würden die Planungen für Heubrücke Laubendorf über die Zenn anstehen. Diese befindet sich in einem schlechten Zustand. Hier wäre generell das weitere Vorgehen abzustimmen und zu beschließen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.3.",
+        "title": "Verkehrsanlagen Langenzenn; Straßen- und Gehwegemaßnahmen; hier: Rückblick auf das vergangene Jahr und Ausblick auf das nächste Jahr",
+        "facts": "Im Jahr 2025 wurden folgende Straßen- und Gehwegmaßnahmen durchgeführt:\n\n   Fahrbahnsanierung Frankenstraße - zwischen den Kreuzungen Burggrafenhofer Straße und Mecklenburger Straße wurde der Fahrbahnbelag verstärkt und erneuert.    Gehwegumbau Gartenstraße - im Zuge des Glasfaserausbaus wurde der Gehweg komplett erneuert und abgesenkt.    Schießhausplatz – zweiter Bauabschnitt im Zuge der geförderten Umgestaltung hat begonnen.\n\nFür das Jahr 2026 sind folgende Maßnahmen vorgesehen:\n\n   Neubau Gehweg Hammerschmiede – eigene LV-Erstellung in Bearbeitung    Gehwege im Glasfaserausbaugebiet    Radweg Kirchfembach / Puschendorf    Weiterführung der Planung / Sanierung Oberfembacher Straße    Planung Straßensanierung Alte Zennstraße (Städtebauförderung)    Planung Kreuzungsgestaltung Denkmalplatz (Städtebauförderung)",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "8.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen",
+        "facts": "   Frankenstr., 24-30/ Ausbesserungsarbeiten Kanalschachtdeckel/ halbseitige Sperrung Fahrbahn, Sperrung Parkflächen vom 24.11.-28.11.2025    Flurstraße 16, Fahrbahneinengung/ Erdarbeiten Neubau EFH vom 24.11.-31.12.2025    Görlitzer Straße 23/ Sperrung Gehweg, Fahrbahneinengung/ Neuanschluss Kanal, Wasser, Strom bis 28.11.2025    Dillenbergstraße 14 (gegenüber), Halbseitige Fahrbahnsperrung / Glasfaser Hausanschluss Telekom bis 12.12.2025    Widukindstr. 49/ Sperrung Gehweg, Fahrbahneinengung/ Behebung def. Oberflurhydrant vom 24.11.-12.12.2025    Obere Ringstr. 14 / Südstr. 1, Ecke Rosenstr. 18./ teilweise Sperrung Gehweg, Punktaufgrabung Glasfasernetzausbau / bis 13.12.2025    Markgrafen-, Redenbacher-, Flurstraße/ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 13.11.-19.12.2025    Hindenburgstr. 44-46 / Sperrung Gehweg / Sanierung MFH / SN Baustelleneinrichtung, Baukran, Gerüst, bis 31.12.2025    Tannenbergstr. 4 / Sperrung Parkplätze wegen Umbauarbeiten am Gebäude bis 31.12.2025    Im Gründl 24/ Fahrbahneinengung / Aufstellung Container, Bauschuttmulde vom 20.11.-04.12.2025    Nürnberger Str. 18 teilweise Sperrung Gehweg/Gerüststellung Fassadenrenovierung vom 20.11.-07.12.2025    Adlerstr. 20 und 26/ Sperrung Gehweg / Störungsbeseitigung VKD vom 10.11.- 26.11.2025    Schwabenberg 3 /teilweise Sperrung Gehweg / Störungsbeseitigung Telekom vom 04.11.-02.12.2025    Lohmühle 3-5 / Einrichtung Halteverbotszone wegen Veranstaltung am 03.12.2025\n\n   Krämergasse 5 /Fahrbahneinengung, Vollsperrung Gehweg Störungsbeseitigung Telekom vom 30.10.-26.11.2025    Pfaffenleite, Sudetenstr. Turnstr./ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / bis 28.11.2025    Würzburger Straße 2-24 und 9-17 Abschnittsweise Sperrung/ teilweise Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / bis 28.11.2025",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.2.",
+        "title": "Antrag der SPD-Stadtratsfraktion auf dauerhafte Reduzierung der Höchstgeschwindigkeit zwischen Burggrafenhof und Keidenzell",
+        "facts": "Der Verwaltung liegt ein Antrag der SPD-Stadtratsfraktion zur dauerhaften Reduzierung der Höchstgeschwindigkeit auf 70 km/h zwischen Keidenzell und Burggrafenhof (FÜ 11) vor.\n\nDer Antrag wurde am 13.11.2025 an das Landratsamt Fürth weitergeleitet. Ein Antwortschreiben bzw. eine Stellungnahme steht noch aus.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Jahresantrag Städtebauförderung 2026",
+        "facts": "Im Wesentlichen werden im Jahresantrag zur Städtebauförderung 2026 nachfolgende Maßnahmen fortgesetzt, ausgeführt bzw. abgeschlossen:\n\nÖffentliche Maßnahmen in Durchführung:\n\n58 – Schießhausplatz BA1: Neugestaltung und Erweiterung Parkplätze (Bau- und Bau-NK)\n\nEs laufen derzeit Sanierungsberatungen für private Baumaßnahmen.\n\nÖffentliche Maßnahmen im Programmjahr 2026:\n\n31a - Försterallee – Grunderwerb Fl.-Nr. 264 37 – Friedrich-Ebert-Straße 28: Abriss 46 – Denkmalplatz: Neugestaltung (Bau-NK) 69 – Alte Zennstraße: Neugestaltung (Bau-NK) 70b – Hindenburgstraße 48 / Ecke Schießhausplatz: Umgestaltung 71 – Beleuchtungskonzept – Dauerhafte Illumination städtebaul. Räume 79 – Stadtfriedhof: Eingangstore (Turnstraße / Ringstraße) 82 – Denkmalplatz 1: JUZ „Alte Post“ Dachsanierung\n\nPrivate Maßnahmen im Programmjahr:\n\nH – Untere Ringstraße 2: Sanierung Gebäude\n\nDie Gesamtaufwendungen für die Maßnahmen der Städtebauförderung (einschließlich Privatmaßnahmen) belaufen sich 2026 auf 979.000 Euro. Davon fallen rund 400.000 auf die\n\nBaumaßnahmen am Schießhausplatz, weitere 384.000 Euro für auf die Maßnahmen rund um den Denkmalplatz.\n\nDie Förderquote für Maßnahmen im Rahmen der Städtebauförderung beträgt im Regelfall 60%.\n\nDer Jahresantrag 2026 zur Städtebauförderung wird der Niederschrift als Anlage 2 beigefügt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorgelegten Jahresantrag zur Städtebauförderung 2026.\n\nDie entsprechenden Haushaltsmittel sind, soweit nicht bereits 2025 als Maßnahme beschlossen, im Haushalt 2026 vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "11.1.",
+        "title": "Sachstand Feuerwehr Langenzenn",
+        "facts": "Stadtrat Schramm erkundigt sich nach dem Sachstand der Restmängelbeseitigung im Rahmen der Gewährleistung am Feuerwehrhaus Langenzenn.\n\nDie Verwaltung teilt mit, dass am 28.11.2025 ein weiterer Termin mit dem Generalunternehmer ansteht. In diesem Rahmen sollen noch offenen Punkte bezüglich Fassade und Schulungsraum geklärt werden."
+      },
+      {
+        "number": "11.2.",
+        "title": "Antrag zur Errichtung eines Fußgängerweges am Tieftalweg",
+        "facts": "Stadtrat Vogel übergibt einen Antrag auf Errichtung eines Fußweges am Tieftalweg ab dem Kreuzungsbereich Ziegenberg bis hin zum Parkplatz Waldfriedhof. Dazu wird erläutert, dass die rege Nutzung und die zu schmale Fahrbahn immer häufiger zu Konflikten führt, die eine Gefährdung für Fußgänger darstellen. Er bittet im Rahmen des Antrags um Prüfung, ob der Seitenstreifen nicht aufgelöst werden könne, um den Straßenbereich für eine Art Gehweg/ abgegrenzte Gehbahn zu verbreitern. Darüber hinaus befürwortet er eine Beleuchtung der Verbindung Schollwiese und Tieftalweg. Dies würde einen großen Mehrwert für die Bürgerinnen und Bürger bieten die in der dunklen Jahreszeit zur Grabpflege durch den Wiesengrund müssen. Der Antrag liegt als Anlage 2 bei.\n\nStadträtin Ritter merkt an, dass in diesem Zuge bitte beachtet werden soll, dass der Bereich im Tieftal, Schollerwiese als Naturschutzgebiet ausgewiesen ist und zumindest eine dauerhafte Beleuchtung das Ökosystem beeinträchtigt. Weiterhin spricht sie sich für das Anlegen einer Fahrradstraße o.Ä. am Tieftal aus. Es gilt jedoch zu beachten, dass die Straße auch jetzt schon nur eine Anliegerstraße ist.\n\nDie Verwaltung teilt mit, dass eine Solar-Beleuchtung des Weges Schollerweise mit Bewegungsmeldern bzw. Dimmfunktion erfolgen könnte. Auf Details könne im Rahmen der Antragsprüfung eingegangen werden."
+      },
+      {
+        "number": "11.3.",
+        "title": "Beleuchtung Würzburger Straße zwischen Hochstraße und Einmündung Finkenschlag",
+        "facts": "Stadträtin Ritter bittet im Zusammenhang der Betrachtung „Beleuchtung Tieftalweg/Schollerwiese“ auch den Abschnitt „Würzburger Steige“ der Würzburger Straße von der Einmündung Finkenschlag nördlich zu betrachten."
+      },
+      {
+        "number": "11.4.",
+        "title": "Spielplatz Lucas-Cranach-Str.",
+        "facts": "Stadträtin Franz informiert darüber, dass die Tür zum Spielplatz Lucas-Cranach-Straße kaputt sei und repariert werden müsse.\n\nDie Verwaltung teilt mit, dass die Meldung vorliegt. Der Bauhof wurde bereits mit der Reparatur beauftragt."
+      },
+      {
+        "number": "11.5.",
+        "title": "Schilff-Bewuchs am Dorfweiher Keidenzell",
+        "facts": "Stadträtin Franz führt aus, dass der Schilf- Bewuchs am und um den Dorfweiher in Keidenzell stark wuchert und überhand nimmt. Der Bewuchs geht bereits auf angrenzende Äcker und Wege über. Sie bittet um Prüfung, ob man das Schilf etwas zurücknehmen könne.\n\nDie Angelegenheit wird an das Naturamt weitergegeben."
+      },
+      {
+        "number": "11.6.",
+        "title": "Erhöhtes Verkehrsaufkommen Keidenzell",
+        "facts": "Stadträtin Franz bemerkt, dass sich das Verkehrsaufkommen aufgrund der Umleitung in Cadolzburg stark auf den Durchgangsverkehr in Keidenzell und Burggrafenhof auswirkt. Sie bittet um mehr Verkehrskontrollen, damit die Geschwindigkeiten eingehalten werden und sich damit die potentielle Unfallgefahr nicht erhöht."
+      },
+      {
+        "number": "11.7.",
+        "title": "Überprüfung der Standorte Ortseingangstafeln",
+        "facts": "Stadträtin Franz möchte sich über die Zuständigkeiten für die Standorte der Ortseingangstafeln informieren. Sie bittet um Überprüfung einiger Standorte. Das Versetzen nach außen würde Ihrer Meinung nach, gerade im Bereich Keidenzell zu einer erheblichen Verkehrsberuhigung führen.\n\nDie Verwaltung teilt mit, dass die Standorte der Ortstafeln, da diese Verkehrszeichen sind, unter strengen Vorgaben der StVO und der Verwaltungsvorschrift zur StVO liegen. Bei einer Veränderung ist die Abstimmung mit den Fachaufsichtsbehörden zwingend nötig.\n\nStadträtin Ritter bittet um die Prüfung auf Versetzen der Ortstafel „Würzburger Steige“.\n\nDie Verwaltung nimmt den Punkt „Überprüfung der Ortstafeln Keidenzell, Burggrafenhof und Würzburger Straße/ Steige“ als Tagesordnungspunkt für die nächste Verkehrsschau in Langenzenn auf."
+      },
+      {
+        "number": "11.8.",
+        "title": "Fehlende Ortseingangstafel Langenzenn",
+        "facts": "Stadtrat Schramm erkundigt sich nach dem fehlenden Ortsschild Ortseingang Langenzenn, von Burggrafenhof kommend. Dieses wurde mittlerweile wieder ersetzt. Er möchte wissen, ob der Verwaltung Täter bekannt sind oder ob andere Erkenntnisse dazu vorliegen.\n\nDie Anfrage wird an das Ordnungsamt weitergeben."
+      },
+      {
+        "number": "11.9.",
+        "title": "Vandalismus durch Aufkleber an Verkehrzeichen",
+        "facts": "Stadtrat Vogel O. möchte wissen, ob das Übernachten in einem umgebauten LKW im Gewerbegebiet erlaubt ist. Er weist auf einen Bericht aus dem Bayerischen Rundfunk (BR) hin. Hier geht es um eine Person die öffentlich gemacht hat, dass Sie im Gewerbegebiet wohne bis ein privater Stellplatz gefunden wird.\n\nStadtrat Vogel O. fragt an, ob die Person eine Ausnahmegenehmigung für das Campen auf öffentlichem Flächen eingeholt hat.\n\nDie Angelegenheit wird an das Ordnungsamt weitergeben.\n\nHinweis: https://www.br.de/nachrichten/bayern/leben-auf-18-quadratmetern-43-jaehriger-wohnt-imlkw,V27X4ra"
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179961",
+    "minutes": "182528"
+  }
+}

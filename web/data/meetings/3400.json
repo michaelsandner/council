@@ -1,0 +1,389 @@
+{
+  "meetingId": "3400",
+  "announcement": {
+    "heading": "65. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 65,
+    "date": "2026-01-27",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Städtebauförderung Langenzenn - Vorstellung des Solarrahmenplanes für das Sanierungsgebiet \"Altstadt Langenzenn\", mit Ortsbesichtigung"
+      },
+      {
+        "number": "2.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "2.1.",
+        "title": "BauGB-Novelle 2025; Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung; hier: Vorstellung eines Angebots zur Erstellung einer Entscheidungshilfe zur Anwendung des „Bauturbos“"
+      },
+      {
+        "number": "2.2.",
+        "title": "Schulcampus Langenzenn; hier: Sachstandsbericht sowie weiteres Vorgehen in der Bauleitplanung"
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Einbau von Dachgauben in ein bestehendes Dachgeschoss nach Brandschaden auf dem Grundstück Untere Ringstr. 20"
+      },
+      {
+        "number": "4.",
+        "title": "Anträge aus der Bürgerversammlung 2025"
+      },
+      {
+        "number": "4.1.",
+        "title": "Planungsstand der Straßeneinmündung Windsheimer Str. - Würzburger Str."
+      },
+      {
+        "number": "4.2.",
+        "title": "Barrierefreier Zugang Sitzungssaal"
+      },
+      {
+        "number": "4.3.",
+        "title": "Nutzung von öffentlichen Parkplätzen als Dauerabstellplätze"
+      },
+      {
+        "number": "4.4.",
+        "title": "Ausleitung des Radwegs im Bereich Flurstr. / Zollnerstr."
+      },
+      {
+        "number": "4.5.",
+        "title": "Halteverbot Veit-Stoss-Str. im Abschnitt Adam-Klein-Str bis zur Flurstr."
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag der SPD-Stadtratsfraktion auf dauerhafte Reduzierung der Höchstgeschwindigkeit zwischen Burggrafenhof und Keidenzell"
+      },
+      {
+        "number": "5.3.",
+        "title": "Wiederaufnahme einer Ersatzhaltestelle im Schienenersatzverkehr: Pfaffenleite"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Neubau Feuerwehrhaus mit Stadtarchiv; hier: Sachstandsbericht"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "22. Januar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "65. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 65,
+    "date": "2026-01-27",
+    "startTime": "16:03",
+    "endTime": "19:06",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "bis TOP 12.3, 18:34 Uhr"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Roscher, Klaus",
+            "note": "für StR Sieber bis TOP 12.3, Vorsitzender ab TOP 12.3"
+          },
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "für StR Ritter"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael",
+            "note": "ab TOP 12.6, 18:42 Uhr"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Städtebauförderung Langenzenn - Vorstellung des Solarrahmenplanes für das Sanierungsgebiet \"Altstadt Langenzenn\", mit Ortsbesichtigung",
+        "facts": "In der Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 25.02.2025 wurde die Vergabe der Leistungen zur Erstellung eines Solarkatasters (Solarrahmenplan) für das Sanierungsgebiet „Altstadt Langenzenn“ an das Büro Projekt 4 aus Nürnberg beschlossen.\n\nZiel des Solarrahmenplans ist die städtebaulich-gestalterische Beurteilung der Dachflächen im Altstadtbereich. Im Rahmen einer detaillierten Ortsbegehung wurden sämtliche Gebäude im Sanierungsgebiet hinsichtlich ihrer Auswirkungen auf das Stadtbild untersucht und bewertet.\n\nDie Erstellung des Solarrahmenplans baut auf den Ergebnissen des Kommunalen Denkmalschutzkonzepts, Modul 1, auf. Die Kosten für den Solarrahmenplan (Modul 3) werden vom Bayerischen Landesamt für Denkmalpflege mit 80 % gefördert. Ein entsprechender Zuwendungsvertrag wurde bereits abgeschlossen und bewilligt.\n\nMitarbeiterinnen vom Büro Projekt 4 stellen die Ergebnisse des Solarrahmenplans für das Sanierungsgebiet „Altstadt Langenzenn“ vor.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss billigt den Solarrahmenplan für das Sanierungsgebiet „Altstadt Langenzenn“.\n\nDer Solarrahmenplan ist künftig Entscheidungsgrundlage zur Genehmigung von Solaranlagen im Sanierungsgebiet „Altstadt Langenzenn“, weiterhin wird der Solarrahmenplan zum Bestandteil bei der anstehenden Fortschreibung der Gestaltungsatzung „Altstadt Langenzenn“.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "2.1.",
+        "title": "BauGB-Novelle 2025; Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung; hier: Vorstellung eines Angebots zur Erstellung einer Entscheidungshilfe zur Anwendung des „Bauturbos“",
+        "facts": "Ein Mitarbeiter vom Büro Grosser-Seeger, Nürnberg, stellt anhand einer Präsentation die Erstellung einer Entscheidungshilfe zur Anwendung des „Bauturbos“ vor.\n\nZiel dieser Entscheidungshilfe ist es, der Verwaltung und den politischen Gremien ein strukturiertes Instrument an die Hand zu geben, um bei zukünftigen Bauvorhaben prüfen zu können, ob und in welcher Form die Anwendung des „Bauturbos“ sinnvoll und rechtlich zulässig ist.\n\nDie Entscheidungshilfe soll dabei als Grundkonzept dienen und auf künftige Bauvorhaben übertragbar sein. Sie soll unter anderem rechtliche, städtebauliche und verfahrensbezogene Aspekte berücksichtigen und die Entscheidungsfindung transparenter und nachvollziehbarer gestalten.\n\nDa durch den Bauturbo teilweise eine Verlagerung der Prüfpflichten von der Baugenehmigungsbehörde im Landratsamt Fürth an die Kommunen erfolgt, entsteht unter Umständen ein zeitlicher Mehraufwand, der aktuell nicht abschätzbar ist.\n\nDie Verwaltung bittet den Ausschuss um eine grundsätzliche Entscheidung, ob die Erstellung einer solchen Entscheidungshilfe für die Gemeinde als sinnvoll erachtet wird und als Grundlage für zukünftige Bauvorhaben dienen soll.\n\nEine Beratung zum Honorarangebot des Planungsbüros Grosser-Seeger, Nürnberg, für eine Entscheidungshilfe zum „Bauturbo“ erfolgt unter TOP 10.3 in nichtöffentlicher Sitzung.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.2.",
+        "title": "Schulcampus Langenzenn; hier: Sachstandsbericht sowie weiteres Vorgehen in der Bauleitplanung",
+        "facts": "Nachdem zunächst seitens des Landkreises Fürth eine Sanierung und Erweiterung des Wolfgang-Borchert-Gymnasiums an der Sportplatzstraße sowie ein Neubau der Realschule südlich des TSV-Geländes (Beschlussfassung von Ende 2022!!) vorgesehen war, und die Stadt Vorleistungen im Bereich mehrerer hunderttausend Euro, z.B. durch Flächenerwerb, Bauleitplanung, artenschutzrechtliche Prüfungen etc., getätigt hat, hat sich der Landkreis Fürth Ende 2025 entschieden, diese Pläne nicht weiterzuverfolgen und an der Gauchsmühle einen Schulcampus aus Gymnasium, Realschule und zwei Dreifachturnhallen zu errichten.\n\nAnstelle der Sanierung und Erweiterung des Gymnasiums mit Neubau einer Realschule wird nun der Neubau eines Gymnasiums bis 2031 und im Anschluss die Sanierung des jetzigen Gymnasiums zur dann neuen Realschule bis 2035 geplant.\n\nDie Errichtung eines Schulcampus erfordert größere Flächenbedarfe unter gleichzeitiger Auflösung des bisherigen Gymnasiums-Sportplatzes, wozu eine Erweiterung in Richtung Westen vorgesehen ist. Zudem wird die bisher für das GE VIII (BP Nr. 61) vorgesehene Zufahrt angepasst und diese soll den Schulcampus im Westen erschließen. Ferner erfolgt ein Ringschluss zur Sportplatzstraße im Süden des beste- Überlagerung Verkehrsplanung mit BP Nr. 61 GE VIII                      henden Gymnasiums.\n\nDer Bereich für den geplanten Schulcampus liegt zum Teil im Geltungsbereich des BP Nr. 9 (Stand: 3. Änderung) und zum Teil im Geltungsbereich des BP Nr. 61 (Stand: 1. Änderung). Ein kleiner Teil im Südwesten war bisher unbeplant (siehe nachfolgende Skizze).\n\nDer schon am 23.07.2025 vom Stadtrat Langenzenn gefasste Beschluss zur 2. Änderung des BP Nr. 61 GE VIII mit Änderung des Flächennutzungsplans mit integriertem Landschaftsplan (FNP) im Parallelverfahren (12. FNP-Änderung) deckt dieses Vorhaben nicht ab.\n\nDurch eine teilweise Überplanung des Plangebiets des BP Nr. 61 entsteht auch die Situation, dass eine zweite Zufahrt von der Windsheimer Straße (FÜ 11) entstehen würde, der so seitens des Staatlichen Bauamts Nürnberg nicht zugestimmt werden würde.\n\nZudem wird der bisher im Osten des GE VIII geplante Standort für das neue Hallenbad überplant. Dieses kann zwar nach Westen verschoben werden und eine Erschließung ist auch über die Zufahrt zum Schulcampus möglich, dafür sind aber Anpassungen am Bebauungsplan erforderlich. In schon erfolgten Abstimmungen mit dem Landratsamt Fürth (Kreisbauamt, Immissionsschutzbehörde) hat sich jüngst gezeigt, dass eine weitere Festsetzung eines Gewerbegebietes (GE) hier Konflikte verursacht. Diese Konflikte würden in dem Maße bei einer Planung dieser Flächen allein für ein Hallenbad nicht bestehen.\n\nAuch die nach Süden vorgesehene Erweiterung des GE VIII ist diesbezüglich zu hinterfragen. Angesichts der Nachbarschaft zum Schulcampus sollten die geplanten gewerblichen Nutzungen hier überdacht werden. Dieser Prozess ist aber noch nicht abgeschlossen. Möglich wären hier zum Beispiel zukünftig Wohnnutzungen oder auch gemischte Nutzungen mit Wohnen nicht wesentlich störendem Gewerbe.\n\nUm die Realisierung des Schulcampus zeitlich nicht zu gefährden, sollen diese Überlegungen vorerst zurückgestellt werden. Der nicht durch den Schulcampus überplante Bereich des BP Nr. 61 soll deswegen zukünftig als Sondergebiet mit der Zweckbestimmung „Hallenbad“ festgesetzt werden. Eine Erweiterung wie zunächst in der 2. Änderung des BP Nr. 61 vorgesehen würde damit ebenfalls zurückgestellt. Der FNP ist im Parallelverfahren zu ändern und würde diese baulichen Nutzungen darstellen:\n\nDerzeit ist noch nicht abschließend geklärt, ob für das gesamte Gebiet ein Bebauungsplan aufgestellt wird oder ein eigener Bebauungsplan für den Schulcampus und einer für die Änderung des BP Nr. 61. Diese Klärung erfolgt noch bis zur nächsten Sitzungsrunde.\n\nDamit werden die Nutzungskonflikte beseitigt, aber mehr Fläche für das Hallenbad vorgesehen als voraussichtlich erforderlich. Dies müsste in einem weiteren Bauleitplanverfahren zu einem späteren Zeitpunkt (einschließlich der Überplanung der jetzt ausgesparten Flächen im Süden) geschehen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss der Stadt Langenzenn stimmt der Vorgehensweise im Hinblick auf die Überplanung des bisherigen Gewerbegebietes zu Flächen für Gemeinbedarf (Schulcampus) und Sondergebiet (Hallenbad) zu.\n\nDie Verwaltung wird beauftragt die noch offenen Fragen zum Verfahren zu klären, die Änderungs- und Aufstellungsbeschlüsse für die Bauleitplanung vorzubereiten und den/die Vorentwürfe zur Kenntnisnahme in einer der nächsten Sitzungen vorzulegen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Einbau von Dachgauben in ein bestehendes Dachgeschoss nach Brandschaden auf dem Grundstück Untere Ringstr. 20",
+        "facts": "Antrag auf Einbau von Dachgauben in ein bestehendes Dachgeschoss nach Brandschaden auf dem Grundstück Flur-Nr. 357, Gemarkung Langenzenn.\n\nDie Verwaltung informiert, dass infolge eines Brandes im Dachgeschoss eine Sanierung so- wie eine Umgestaltung des Dachgeschosses vorgesehen sind. Die bestehende Dachkonstruktion und die Dachneigung bleiben unverändert erhalten. Das Anwesen liegt im Geltungsbereich des Sanierungsgebiets „Altstadt Langenzenn“, weshalb die Vorgaben der Gestaltungssatzung der Stadt Langenzenn einzuhalten sind.\n\nDie hierfür erforderliche städtebauliche Beratung wurde durch das Büro P4 aus Nürnberg durchgeführt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen gemäß §36 BauGB, soweit dieses für das Vorhaben erforderlich ist.\n\nFür den Fall jedoch, dass die Genehmigungsbehörde das Vorhaben als ein solches nach §34 Abs. 3b oder § 246e BauGB einstuft, wird die Zustimmung nach § 36a BauGB nicht erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Anträge aus der Bürgerversammlung 2025"
+      },
+      {
+        "number": "4.1.",
+        "title": "Planungsstand der Straßeneinmündung Windsheimer Str. – Würzburger Str.",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Bitte um Auskunft über den Stand der Planungen hinsichtlich der Straßeneinmündung Windsheimer Straße – Würzburger Straße.“\n\nDie Verwaltung teilt mit, dass es sich bei dieser Kreuzung um die Kreisstraße FÜ 11 handelt, die Planungshoheit liegt daher beim Staatlichen Bauamt Nürnberg, vgl. Kreisverkehr Nürnberger Straße – Zollnerstraße – Raindorfer Weg.\n\nIn Zusammenarbeit mit dem Staatlichen Bauamt wurde zuletzt eine Planungsvereinbarung für den genannten Straßenabschnitt bis zum Bahnhaltpunkt Hardhof vorbereitet.\n\nAufgrund der in den Jahren 2026/27 durchzuführenden Sanierung der Bundesstraße B8 werden die Planungen aktuell nicht weiterverfolgt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.2.",
+        "title": "Barrierefreier Zugang Sitzungssaal",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Schaffung der Möglichkeit, den Sitzungssaal des „Alten Rathauses“ barrierefrei zu erreichen durch z.B. Treppenlift oder Aufzug.\n\nHierzu soll beim Stadtrat ein Beschluss erwirkt werden, um die Durchführung der Maßnahme zu ermöglichen. Ferner sollen in den Haushalt 2027 Gelder hierfür eingestellt werden.“\n\nDurch die Verwaltung wurde zunächst eine kurze Vorprüfung der möglichen Maßnahmen durchgeführt, zumal beim Einbau eines Treppenliftes die Nutzbreite der vorhandenen, baulich notwendigen Treppe verringert wird und der Bau eines Aufzugs auf Grundlage der geltenden Brandschutzvorschriften vermutlich nur in einem Anbau umzusetzen wäre.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss billigt den Antrag „Barrierefreier Zugang zum Sitzungssaal“.\n\nDie Verwaltung wird mit der weiteren Prüfung beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "Nutzung von öffentlichen Parkplätzen als Dauerabstellplätze",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Der Stadtrat soll wirksame Maßnahmen beschließen und umsetzten, um öffentliche Parkflächen, die derzeit von Firmen als Dauerabstellplätze genutzt werden, wieder der Allgemeinheit zur Verfügung zu stellen (z.B.: zwischen Bahnhof und Seniorenheim, am Mühlsteig gegenüber der Tankstelle).“\n\nDie Verwaltung teilt mit, dass es sich bei den im Antrag genannten Dauerparkern vorwiegend um Firmen handelt bzw. dass Firmen die Verursacher sind.\n\nHier sind Maßnahmen durch diese Verursacher zu veranlassen, die den öffentlichen Raum für die Allgemeinheit weniger belasten. Gerade in der Nähe des Bahnhofes ist es zur Stärkung des ÖPNV notwendig, dass genügend Park-and-Ride-Stellplätze für die Pendler zur Verfügung stehen.\n\nDas Citymanagement soll mit einigen Firmen ins Gespräch gehen, um eine vertretbare Lösung zu finden. Darüber hinaus wird die Kontrolle der Kommunalen Verkehrsüberwachung weiterhin regelmäßig stattfinden. Im Hinblick auf weitere, optimierte Maßnahmen zur Überwachung kann deshalb nur vorgeschlagen werden, die Kontrollintervalle der Verkehrsüberwachung zu erhöhen.\n\nStadtrat Schramm übergibt der Verwaltung Fotoausdrucke zu Dauerparkern im Gewerbegebiet GE V.",
+        "decision": "Dem Antrag wird entsprochen.\n\nDie Verwaltung wird beauftragt mit den Firmen in Kontakt zu treten um eine Lösung zu finden die von Dauer ist.\n\nDer Ausschuss beschließt die Überwachungsstunden des ruhenden Verkehrs ab März 2026 um 2 Stunden pro Woche zu erhöhen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "4.4.",
+        "title": "Ausleitung des Radwegs im Bereich Flurstr. / Zollnerstr.",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Bitte um Rückbau oder Entfernung der nicht nutzbaren Ausleitung des Radwegs im Bereich der Flurstraße / Zollnerstraße.\n\nAuch wird darum gebeten, dass geprüft wird, ob man die verantwortliche Stelle für die daraus entstehenden zusätzlichen Kosten haftbar machen kann.\n\nDarüber hinaus wird beantragt, dass seitens der Verwaltung Maßnahmen ergriffen werden, um künftig sicherzustellen, dass derartige Fehlplanungen vermieden werden.“\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 25.01.2023 acht Maßnahmen des Radverkehrskonzeptes zur Umsetzung beschlossen. Auf Grundlage des Beschlusses wurde im Weiteren beschlossen, das Stadt- & Verkehrsplanungsbüro Kaulen mit den Planungen zu beauftragen.\n\nDer Beschluss über die Detailplanung und zur Umsetzung der Radverkehrsausleitung in der Zollner Straße wurde durch den Bauausschuss in seiner Sitzung am 25.06.2024 gefasst.\n\nDer Bauausschuss hat in seiner Sitzung am 26.11.2024 beschlossen, die weitere Umsetzung der Maßnahme auszusetzen. Es wurde Rahmen einer Testphase mittels Gelbmarkierung der Radverkehr bereits an der Einmündung „Von-Wildenfels-Straße“ ausgeleitet.\n\nDer Bauausschuss hat in seiner Sitzung am 24.06.2025 beschlossen, dass der Beschluss vom 25.06.2024 aufgehoben wird. Der Rückbau der bereits in Umsetzung befindlichen Ein-\n\nbauten ist zu veranlassen. Die provisorischen Markierungen und Beschilderungen auf Höhe der Von-Wildenfels-Straße sind zu entfernen. Die Verwaltung wird beauftragt zur prüfen, ob entlang der Veit-Stoß-Straße ein Schutzstreifen für den Fahrradverkehr eingerichtet werden kann.\n\nBezugnahme auf den Antrag: In der obigen Zusammenstellung wird dargelegt, dass es sich bei der Maßnahme nicht um eine Fehlplanung handelt, sondern um eine geänderte Entscheidungslage. Der Stadtrat ist berechtigt gefasste Beschlüsse zurück zu nehmen. Eine Haftung kann in diesem Rahmen nicht geprüft werden.\n\nHinweis zur Straßenbaumaßnahme Kreisverkehr, Raindorfer Weg: Diese Straßenbaumaßnahme ist eine Maßnahme des Landkreises Fürth, die durch die Stadt geplant und hergestellt wurde.\n\nHierzu kann mitgeteilt werden, dass die Bauplanungen mit den Verantwortlichen für Kreisstraßen abgestimmt und zur Umsetzung frei gegeben wurden. Nach Fertigstellung wurden Änderungswünsche des Landkreises erhoben, die dann im Nachgang umgesetzt werden mussten. Die Umbaumaßnahmen waren somit nicht durch die Stadt zu vertreten.",
+        "decision": "Der Bauausschuss beschließt dem Antrag nicht stattzugeben. Eine Folgeprüfung kann unterbleiben, da es sich bei der Maßnahme nicht um eine Fehlplanung handelt, sondern um eine geänderte Entscheidungslage.\n\nDie geänderte Planung der Straßenbaumaßnahme „Kreisverkehr, Raindorfer Weg“ war nicht durch die Stadt zu vertreten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.5.",
+        "title": "Halteverbot Veit-Stoss-Str. im Abschnitt Adam-Klein-Str bis zur Flurstr.",
+        "facts": "Es wird folgender Antrag gestellt:\n\n„Bitte um Einführung eines Halteverbots „Nördliche Seite“ – Veit-Stoß-Straße im Abschnitt Adam-Klein-Straße bis Flurstraße.“\n\nAuf die Prüfung von Schutzstreifen (siehe Antrag „Ausleitung Radweg“) wird verweisen. Sollten Schutzstreifen auf der Fahrbahn der Veit-Stoß-Straße umgesetzt werden, ist auf diesen ein Parken nicht gestattet.\n\nAnordnung von Halteverboten: Die Verwaltung kann bis auf die überschaubaren Einschränkungen im oberen Bereich der Veit-Stoß-Straße kein Parken feststellen, dass zu einer Gefährdungslage führt.\n\nEs ist festzustellen, dass auf dem Bereich über eine Länge von 300 m immer wieder Lücken vorhanden sind, sodass der fließende Verkehr nicht mehr als es anderswo auf innerörtlichen Straßen üblich ist, eingeschränkt ist.\n\nEine Begründbarkeit zur Anordnung von absoluten Halteverboten auf der gesamten Strecke ist nicht gegeben. Auf notwendigen Teilbereichen der Straße besteht bereits jetzt Halteverbot.\n\nHinweis: Wenn Nachweise oder Fotos vorhanden sind, die andere Erkenntnisse zulassen bzw. dauerhafte unzumutbare Missstände bei den Parkvorgängen auf diesem Streckenabschnitt aufzeigen, besteht Handlungsbedarf der erneut geprüft werden kann. Der Antragsteller wird gebeten in diesem Falle auf die Verwaltung zu zugehen. Ein Antrag ist bei konkreter Gefahrenlage nicht mehr nötig.",
+        "decision": "Der Ausschuss beschließt dem Antrag vorerst nicht stattzugeben und verweist auf fehlende Nachweise und Begründungen.\n\nDie Verwaltung wird beauftragt, weitere mögliche verkehrsrechtliche Maßnahmen zu prüfen, um dauerhaftes Parken zu vermeiden.\n\n(Stadträtin Schlager ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen",
+        "facts": "   Flurstraße 18b, Volllsperrung Teilstück/ Erdarbeiten Neubau EFH vom 02.02.- 10.04.2026    Aubweg an der Laubendorfer Brücke/ Aufgrabung Anschlusskabel Winterprovisorium / Sicherung Seitenraum, Fahrbahneinengung bis 31.03.26    Hindenburgstr. 44-46 / Sperrung Gehweg / Sanierung MFH / SN Baustelleneinrichtung, Baukran, Gerüst, bis 30.06.2026    Schießhausplatz, Sperrung Fahrbahn, Sperrung Gehweg, Sperrung Parkflächen / Umgestaltung Parkplatz Schießhausplatz - BA 2 (Teil 1 und 2)    Reichenberger Str. (Parkplätze nähe Hallenbad) / Parkplatzsperrung / Lagerung von Baumaterial Glasfaserausbau bis 30.01.2026    Görlitzer Str. 23/ Sperrung Gehweg / Montagegrube Anschluss Breitbandkabelnetz VKD 21.01.-04.02.2026    Von-Wildenfels-Str. 16 und 22/ halbseitige Sperrung Fahrbahn / Störungsbeseitigung VKD 21.01.-04.02.2026    Raindorfer Weg 4-8, Gehwegsperrung/ Störungsbeseitigung Telekom, 08.01.- 05.02.26    Div. Straßen/ Wanderbaustelle Frankenstraße / geschlossene Kanalsanierung bis 28.02.2026    Div. Straßen Zenngrund/ SN/ Fahrbahneinengung, Sperrung Parkflächen, Gehwegeinengung / Baugrunduntersuchung/ 12.01.-23.01.2026",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag der SPD-Stadtratsfraktion auf dauerhafte Reduzierung der Höchstgeschwindigkeit zwischen Burggrafenhof und Keidenzell",
+        "facts": "Der Verwaltung liegt ein Antrag der SPD-Stadtratsfraktion zur dauerhaften Reduzierung der Höchstgeschwindigkeit auf 70 km/h zwischen Keidenzell und Burggrafenhof (FÜ 11) vor.\n\nDer Antrag wurde am 13.11.2025 an das Landratsamt Fürth weitergeleitet. Ein Antwortschreiben liegt nun vor.\n\nDer Antrag ist abzulehnen, da ein verkehrsrechtliches Handeln auf dem Streckenabschnitt aus Sicht der zuständigen Unteren Straßenverkehrsbehörde nicht angezeigt ist.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.3.",
+        "title": "Wiederaufnahme einer Ersatzhaltestelle im Schienenersatzverkehr: Pfaffenleite",
+        "facts": "1. Bürgermeister Habel hat im Dezember 2025 die DB Regio Bayern angeschrieben, ob bitte im Falle von Schienenersatzverkehr die Haltestelle Pfaffenleite zur Verbesserung der Langenzenner Anbindung wieder mit angefahren werden könne.\n\nDie DB Regio Bayern antwortete mit Schreiben vom 20.01.2026:\n\n„Sehr geehrter Herr 1. Bürgermeister Habel,\n\nherzlichen Dank für Ihr Schreiben vom 12. Dezember 2025 zur Wiederaufnahme einer Ersatzhaltestelle in Langenzenn-West. Mit denen von Ihnen übermittelten Informationen zur Erhöhung der Busfrequenz verstehen wir, dass ein temporärer Schienenersatzverkehr bei Bauarbeiten auf der Strecke Fürth-Markt Erlbach möglich ist.\n\nSomit können wir Ihnen anbieten, mit der bereits nächsten temporären Baumaßnahme vom 16. Bis 19.2.2026 in den Abendstunden die Haltestelle Pfaffenleite nach der Linienführung… wieder zu bedienen.\n\nAuch im Hinblick auf künftige temporär nötige Schienenersatzverkehre kann somit der Wunsch nach einer zusätzlichen Wiederaufnahme einer Haltestelle im Langenzenner Westen erfolgen\n\nBitte informieren Sie uns, gerne per Mail, sodass wir unserem Busdienstleister zur Erbringung die entsprechende Verkehrsrechtliche Genehmigung beauftragen können.“\n\nDa der Stadtrat der Verwaltung eigenständige Kompetenzen in solchen einmaligen Angelegenheiten entzogen hat, kann die Verwaltung die Zusage an die DB Regio Bayern, selbst bei solchen selbstredenden Verbesserungen, nicht ohne die Beschlussfassung des zuständigen Ausschusses tätigen.\n\nDer Ausschuss wird deshalb um Beschlussfassung gebeten, dass die Verwaltung die Zustimmung zur Wiederaufnahme der Haltestelle Pfaffenleite bei zukünftigen Schienenersatzverkehren an die DB Regio Bayern schickt.",
+        "decision": "Der Ausschuss beschließt, dass der Aufnahme der Haltestelle Paffenleite in die Schienenersatzverkehrshaltepläne zugestimmt und die Verwaltung mit der entsprechenden Korrespondenz an die DB Regio Bayern beauftragt wird.\n\n(Stadtrat Roscher ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Neubau Feuerwehrhaus mit Stadtarchiv; hier: Sachstandsbericht",
+        "facts": "Die Gewährleistungszeit für das Gerätehaus der Freiwilligen Feuerwehr in der Kapell-Leite ist im September 2025 abgelaufen.\n\nIm Anschluss an einen Abstimmungstermin im Herbst wurden die verschiedenen, noch offenen Restmängelbeseitigungen im Rahmen der allgemeinen Gebäudewartung durchgeführt.\n\nFür zwei Leistungen sind noch Restmängelleistungen offen, die durch einen Sachverständigen zu überprüfen sind:\n\n   Fußboden Schulungsraum: Wölbung und Unebenheiten, dadurch Beschädigungen an der Fußbodenoberfläche und Schleifen der mobilen Trennwand    Fassade: Putzoberfläche und Anstrich mit Auswaschungen und teilweiser Streifenbildung\n\nEs wurde mit dem Auftragnehmer gemeinsam festgelegt, die Sachverständigen durch die Stadt Langenzenn zu beauftragen (Angebote sind angefragt). Die Ergebnisse der Bewertungen sind dann Grundlage für das weitere Vorgehen.\n\n   Fußboden / Estrich: SV Dr. Unger, Donauwörth    WDVS / Fassade: SV Charles Knepper, Lutherstadt Eisleben    Baustatik: SV Oehmke + Herbert, Nürnberg / SV Prof. Dr.-Ing. Gunnar Möller, Bielefeld\n\nDie Verwaltung wird ermächtigt, die beiden Sachverständigen zu beauftragen, sobald die Angebote vorliegen. Der Sachverständige für Statik wird ggf. nachrangig beauftragt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss ermächtigt die Verwaltung zur Beauftragung der erforderlichen Sachverständigen nach Bedarf.\n\nDie bisherige Gewährleistungsbürgschaft in Höhe von rund 244.000 Euro wird an Auftraggeber zurückgegeben, gleichzeitig erhält die Stadt eine neue, reduzierte Gewährleistungsbürgschaft in Höhe von 50.000 Euro mit einer Laufzeit bis spätestens 28.02.2027.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Danksagung an die Mitarbeiter des Bauhofes für den diesjährigen Räum- und Streudienst",
+        "facts": "Stadtrat Ell spricht den Mitarbeitern des städtischen Bauhofes im Rahmen des übernommenen Räum- und Streudienstes seinen Dank aus. Er bekräftigt den Rückhalt durch den Bau-, Umwelt- und Verkehrsausschuss.\n\nEs wird festgestellt, dass die Einteilung der Straßen in die Kategorien 1-3 auch im Rahmen des aktuellen Räum- und Streudienstes bewährt hat."
+      },
+      {
+        "number": "7.2.",
+        "title": "Öffentliche Kommunikation zur aktuellen Wetterlage und dem Räum- und Streudienst",
+        "facts": "Die Verwaltung der Stadt Langenzenn hat zur öffentlichen Kommunikation und Information Meldungen auf der Homepage der Stadt Langenzenn und dem Facebook-Profil veröffentlicht. Darin wurde mitgeteilt, dass die Mitarbeiter des städtischen Bauhofes in ihrer Schichtzeit von 4:30 bis 20 Uhr alle drei Kategorien befahren konnten.\n\nAufgrund von Schneebruch wurden folgende Straßen bis auf Widerruf gesperrt: •     Verbindungsstraße Langenzenn – Klaushof •     Verbindungsstraße Heinersdorf – Meiersberg (Wald) •     Verbindungsstraße Keidenzell – Deberndorf •     Verbindungsstraße Langenzenn - Kirchfembach\n\nZudem wurden die beiden Turnhallen der Mittelschule und die Stadthalle aufgrund der hohen Schneelast auf den Dächern vorsichtshalber gesperrt. Die Schulen und Vereine wurden bereits informiert. Auch der Waldfriedhof wurde vorerst gesperrt."
+      },
+      {
+        "number": "7.3.",
+        "title": "Hinweis auf Dachlawinen",
+        "facts": "Stadträtin Schlager schlägt vor, einen weiteren Aufruf auf Facebook zu veröffentlichen, um die Bevölkerung vor möglichen Dachlawinen zu warnen."
+      },
+      {
+        "number": "7.4.",
+        "title": "Priorisierung der Räumung von Geh- und Radwegen",
+        "facts": "Stadträtin Schlager erkundigt sich nach den aktuell frei geräumten und gestreuten Geh- und Fahrradwegen.\n\nDie Verwaltung erklärt, dass diese meist parallel zu einer Kreisstraße verlaufen und somit der Straßen-Kategorie 1 zuzuordnen sind."
+      },
+      {
+        "number": "7.5.",
+        "title": "Danksagung an den Räum- und Streudienst sowie Hinweis auf geräumtes Schneegut",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos bedankt sich bei den Mitarbeitern des städtischen Bauhofes für ihre Arbeit im Räum- und Streudienst.\n\nSie weist auf die großen Mengen an geräumtem Schneegut hin und dass dieses, sofern es nicht witterungsbedingt schmilzt, nach Möglichkeit abgefahren werden sollte."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Nicht genehmigter Anbau auf dem Grundstück in der Nürnberger Straße",
+        "facts": "Stadtrat O. Vogel weist auf einen nicht genehmigten Anbau auf dem Grundstück mit der Flur- Nr. 1018, Gem. Langenzenn, hin und bittet die Verwaltung um Prüfung des Sachverhalts."
+      },
+      {
+        "number": "8.2.",
+        "title": "Mögliches Vorgehen gegen langfristig abgestellte Fahrzeuge",
+        "facts": "Stadtrat Roscher erkundigt sich nach dem möglichen Vorgehen, bei langfristig abgestellten Fahrzeugen, die Parkflächen blockieren.\n\nDer Bau-, Umwelt- und Verkehrsausschuss verweist in diesem Zusammenhang auf die Möglichkeit einer entsprechenden Meldung an die Polizei."
+      },
+      {
+        "number": "8.3.",
+        "title": "Parkplatz Alte Zennstraße - Änderung der Parkzeitbegrenzung; hier: Umsetzung",
+        "facts": "Stadtrat Roscher erkundigt sich nach der Umsetzung der beschlossenen Parkdauer von drei Stunden auf dem Parkplatz der Alten Zennstraße.\n\nDie Verwaltung teilt mit, dass der Bauhof bereits beauftragt ist und eine Umsetzung der Beschilderung in Kürze erfolgt."
+      },
+      {
+        "number": "8.4.",
+        "title": "Fehlende Straßenmarkierungen für den Fahrradstreifen in der Veit- Stoß-Straße und Berliner Straße",
+        "facts": "Stadtrat Roscher gibt bekannt, dass in der Veit-Stoß-Straße und Berliner Straße die Straßenmarkierungen, sowie eine Gehsteigabsenkung, hinsichtlich des Radweges fehlen.\n\nDie Verwaltung teilt mit, dass die Umsetzung in Abhängigkeit der Witterung erfolgen wird."
+      },
+      {
+        "number": "8.5.",
+        "title": "Überprüfung der Abstände von Ortsschildern",
+        "facts": "Stadträtin Franz erkundigt sich, ob für die Überprüfung der Abstände von Ortsschildern ein separater Antrag eingereicht werden muss.\n\nDer Verwaltung ist die Anfrage bereits bekannt und wird dies im Rahmen der kommenden Verkehrsschau 2026 prüfen lassen."
+      },
+      {
+        "number": "8.6.",
+        "title": "Umsetzung der 30-Zone in Laubendorf",
+        "facts": "Stadträtin Schlager erkundigt sich nach der Umsetzung der Zone-30 in Laubendorf.\n\nDie Verwaltung teilt mit, dass der Bauhof bereits beauftragt ist und eine Umsetzung der Beschilderung erfolgt, wenn die Witterung es zulässt."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "181410",
+    "minutes": "182665"
+  }
+}

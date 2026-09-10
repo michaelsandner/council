@@ -1,0 +1,303 @@
+{
+  "meetingId": "3283",
+  "announcement": {
+    "heading": "64. Sitzung des Hauptausschusses",
+    "sessionNumber": 64,
+    "date": "2025-02-27",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freiwillige Feuerwehr Horbach - Bestätigung der Kommandantenwahl und Verabschiedung der ausscheidenden Kommandantschaft"
+      },
+      {
+        "number": "2.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Antrag des 1. Kommandanten zur Beschaffung eines Einsatzleitwagens 1 (ELW1)"
+      },
+      {
+        "number": "3.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: 10-jahres Prüfung der Drehleiter (DL)"
+      },
+      {
+        "number": "4.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von vier Atemschutzgeräten"
+      },
+      {
+        "number": "5.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Beschaffung von Systemtrennern für die Außenwehren"
+      },
+      {
+        "number": "6.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von Helmen für die Außenwehren"
+      },
+      {
+        "number": "7.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von Equipment für die Absturzsicherung"
+      },
+      {
+        "number": "8.",
+        "title": "Erhöhung der Gebühren für vorübergehende Gaststättenerlaubnisse"
+      },
+      {
+        "number": "9.",
+        "title": "Anträge aus der Bürgerversammlung 2024"
+      },
+      {
+        "number": "9.1.",
+        "title": "Antrag aus der Bürgerversammlung hier: generelle Leinenpflicht"
+      },
+      {
+        "number": "9.2.",
+        "title": "Antrag aus der Bürgerversammlung hier: Veröffentlichen der Niederschrift auf Langenzenner Homepage"
+      },
+      {
+        "number": "9.3.",
+        "title": "Antrag aus der Bürgerversammlung hier: Benachrichtigungen der Anfragesteller über Bearbeitungsstände"
+      },
+      {
+        "number": "9.4.",
+        "title": "Antrag aus der Bürgerversammlung hier: Veröffentlichung der Ergebnisse Bürgerversammlung"
+      },
+      {
+        "number": "9.5.",
+        "title": "Antrag aus der Bürgerversammlung hier: Bürgerversammlung in Außenorten"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Februar 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "64. Sitzung des Hauptausschusses",
+    "sessionNumber": 64,
+    "date": "2025-02-27",
+    "startTime": "16:00",
+    "endTime": "17:15",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freiwillige Feuerwehr Horbach - Bestätigung der Kommandantenwahl und Verabschiedung der ausscheidenden Kommandantschaft",
+        "facts": "In der ordentlichen Dienstversammlung am 10.01.2025 wurde Herr Gerd Bauer zum Kommandanten der Freiwilligen Feuerwehr Horbach für eine Amtszeit von sechs Jahren gewählt.\n\nDie Amtszeit beginnt am 01.03.2025. Die Bestätigung des Kreisbrandrates erfolgte mit Schreiben vom 20.01.2025. Herr Gerd Bauer hat die Auflage, den Lehrgang „Leiter einer Feuerwehr“ und „Gruppenführer“ bis zum 31.12.2025 erfolgreich auf einer staatlichen Feuerwehrschule zu besuchen.",
+        "decision": "Der Hauptausschuss bestätigt gemäß Art. 8 Abs. 4 des Bayerischen Feuerwehrgesetzes Herrn Gerd Bauer zum Kommandanten der Freiwilligen Feuerwehr Horbach.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Antrag des 1. Kommandanten zur Beschaffung eines Einsatzleitwagens 1 (ELW1)",
+        "facts": "Mit Schreiben vom 03.02.2025 an die Stadtverwaltung beantragt der 1. Kommandant der Freiwilligen Feuerwehr für die Stützpunktwehr einen Einsatzleitwagen 1 (ELW1).\n\nInsbesondere soll mit der Beschaffung eines ELW1 den zunehmenden Herausforderungen an die Führungsmannschaft der Stützpunktwehr bei entsprechenden Einsatzlagen Rechnung getragen werden. Die Zusage der Kreisbrandinspektion ist gesichert, da bereits gegenüber der Regierung seit längerer Zeit die Befürwortung vorliegt, dass jede Stützpunktwehr des Landkreises Fürth ein solches Fahrzeug vorhalten sollte.\n\nFür Fragen zum beantragten ELW1 steht Herr Leierseder dem Gremium zur Verfügung.",
+        "decision": "Der Ausschuss befürwortet den Antrag des 1. Kommandanten der Freiwilligen Feuerwehr der Stadt Langenzenn und spricht sich grundsätzlich für die Anschaffung eines ELW1 aus. Der Hauptausschuss empfiehlt dem Stadtrat entsprechende Mittel im Haushaltsplan 2025 fortfolgend in Höhe von ca. 160.000,00 Euro vorzusehen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: 10-jahres Prüfung der Drehleiter (DL)",
+        "facts": "Die Drehleiter (DL) der Freiwilligen Feuerwehr Stadt Langenzenn ist 20 Jahre alt, sodass im Jahr 2025 die nächste 10-jahres Prüfung ansteht. Seitens des Herstellers der Drehleiter (Rosenbauer Deutschland GmbH) wurde ein entsprechendes Angebot erstellt welches sich in zwei Positionen gliedert.\n\nPosition 1: Durchführung der 10-jahres Inspektion. Diese umfasst unter anderem Erneuerung der Hydraulikschläuche und die damit einhergehenden Arbeiten wie z.B. Wechsel des Hydrauliköles, Erneuerung von Sensoren und Elektronik der Sicherheitstechnik der Drehleiter, generelle Wartungsarbeiten sowie der Austausch von Verschleißteilen. Für die durchzuführende Inspektion wird die Drehleiter ca. zwei Monate im Werk von Rosenbauer stehen. Die Gesamtkosten belaufen sich gemäß Angebot der Firma Rosenbauer auf rund 93.500,00 Euro.\n\nPosition 2: Für den zweimonatigen Aufenthalt im Werk muss zur Sicherstellung des Brandschutzes im Stadtgebiet von Langenzenn eine Ersatzdrehleiter von der Firma Rosenbauer angemietet werden. Die Mietkosten richten sich dabei nach dem tatsächlichen Aufenthalt der Langenzenner Drehleiter im Werk. Seitens der Firma Rosenbauer wird für die Miete einer Ersatzdrehleiter ein Mietpreis von rund 32.000,00 Euro veranschlagt. Die Abrechnung des Mietpreises erfolgt nach der tatsächlichen Dauer der Anmietung.\n\nDie Gesamtkosten für die Inspektion beläuft sich auf rund 125.500,00 Euro, welche im Haushalt 2025 unter der Haushaltstellte 0.1300.5223 berücksichtigt sind.\n\nErst nach einer schriftlichen Beauftragung der Firma Rosenbauer wird die Langenzenner Drehleiter in den Terminplan von Rosenbauer aufgenommen und in den zeitlichen Werkstattplan eingepflegt.",
+        "decision": "Der Hauptausschuss beschließt, das Angebot der Firma Rosenbauer sowohl zur Durchführung der 10-jahres Inspektion als auch der Anmietung einer Leihdrehleiter für den Zeitraum des Werkstattaufenthaltes anzunehmen.\n\nDie Verwaltung wird ermächtigt, die Firma Rosenbauer schriftlich zu beauftragen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von vier Atemschutzgeräten",
+        "facts": "Die Feuerwehren im Stadtgebiet von Langenzenn verfügen über insgesamt 22 Atemschutzgeräte (bestehend aus Trägergestell, Pressluftflasche und Lungenautomat), verteilt auf die Stützpunktwehr Langenzenn sowie den Außenwehren Burggrafenhof, Keidenzell und Laubendorf. Zusätzlich steht ein Kontingent von vier Ersatzgeräten für das gesamte Stadtgebiet zur Verfügung.\n\nDurch den Einsatz der Geräte im Brandrauch sind diese im Nachgang aufwendig zu dekontaminieren, zu reinigen und einer umfangreichen Sicherheits- und Funktionsprüfung zu unterziehen. Bis zur Wiederindienststellung der Geräte vergehen hierbei ca. drei bis vier Tage. Je nach Verschmutzungsgrad und Hitzebeaufschlagung kann die Prüfung der Geräte auch längere Zeit in Anspruch nehmen.\n\nGerade bei größeren Brandereignissen und dem Einsatz vieler Atemschutzgeräteträger reichen die im Stadtgebiet vorhandenen Ersatzgeräte nicht aus um die Einsatzbereitschaft vollständig wiederherzustellen. Als Konsequenz müssen in erster Linie die Außenwehren für die Dauer der Dekontamination der Geräte vom Atemschutz bei der Integrierten Leitstelle Nürnberg (ILS) abgemeldet werden.\n\nDa im Vermögenshaushalt des Jahres 2024 unter der Haushaltstelle 1.1300.9350 noch ausreichend Mittel zur Verfügung stehen (ca. 16 T€), sollen weitere vier Ersatzgeräte (Trägergestell, Pressluftflasche und Lungenautomat) zu je ca. 2.000,00 Euro angeschafft werden um den entstehenden Engpass bei größeren Brandereignissen zu entschärfen.",
+        "decision": "Der Hauptausschuss beschließt weitere vier Atemschutzgeräte ((bestehend aus Trägergestell, Pressluftflasche und Lungenautomat) als Reserve für das Stadtgebiet von Langenzenn zu je ca. 2.000,00 Euro zu beschaffen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Beschaffung von Systemtrennern für die Außenwehren",
+        "facts": "Für die Löschwasserentnahme stehen den Feuerwehren im Stadtgebiet von Langenzenn unter anderem Ober- sowie Unterflurhydranten zur Verfügung. Diese Hydranten sind an das Trinkwassernetz angeschlossen.\n\nDurch die Entnahme des Löschwassers kann es aufgrund von unterschiedlichen Druckverhältnissen zwischen dem Druck des Trinkwasserversorgungsnetzes und der Löschwasserleitung zu einem so genannten Rücksaugen kommen. Dabei fließt bereits aus dem Trinkwassernetz entnommenes und damit „kontaminiertes“ Wasser wieder zurück in die Trinkwasserleitung.\n\nDurch verschmutztes Trinkwasser können gesundheitliche Folgen für Menschen und Tiere entstehen. Auch teure Reparaturarbeiten an beschädigten Trinkwassernetzen sind mögliche Szenarien bei einer falschen Handhabung des Anschlusses an die Löschwassersysteme.\n\nUm die Wasserhygiene während Löscheinsätzen zu gewährleisten, ist ein Systemtrenner erforderlich. Systemtrenner sollen verhindern, dass durch Rücksaugen oder Rückdrücken Wasser in das Trinkwasserversorgungsnetz zurückfließt.\n\nBei der Stützpunktwehr sind diese Systemtrenner bereits im Einsatz. Auch die Außenwehren sollen nun mit den Systemtrennern ausgestattet werden.\n\nDa im Vermögenshaushalt des Jahres 2024 unter der Haushaltsstelle 1.1300.9350 noch ausreichend Mittel zur Verfügung stehen (ca. 8 T€ - siehe auch Beschlussvorlage TOP 4), sollen weitere fünf Systemtrenner zu einem Preis von ca. 1.260 Euro pro Stück angeschafft werden.",
+        "decision": "Der Hauptausschuss beschließt insgesamt fünf Systemtrenner für die Außenwehren zu einem Preis von ca. 1.260 Euro pro Stück zu beschaffen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von Helmen für die Außenwehren",
+        "facts": "Die Stadt Langenzenn ist als Sachaufwandsträger verpflichtet, die persönliche Schutzausrüstung für die Feuerwehrdienstleistenden zu stellen. Zu der persönlichen Schutzausrüstung gehört auch der Feuerwehrhelm. Der Feuerwehrhelm besteht aus einer Helmschale und der entsprechenden Innenausstattung wie z.B. Kinn- und Nackenriemen, Federstahlband und gepolsterten Schweißleder und einem entsprechenden Mechanismus zur individuellen Anpassung an die Kopfgröße.\n\nIn der Vergangenheit wurden die Helme über mehrere Jahrzehnte von einem ausscheidenden Feuerwehrdienstleistenden an einen neuen Feuerwehrdienstleistenden mit „all seinen Verunreinigungen des Innenlebens“ weitergegeben. Darüber hinaus sind aufgrund des Alters der Helme teilweise die Lederbänder zur sicheren Fixierung des Helmes am Kopf sehr stark verschlissen.\n\nDurch die Weiterentwicklung der derzeit erhältlichen Standartfeuerwehrhelme über die letzten Jahre können derzeit gängige Innenleben nicht in die alten, im Stadtgebiet vorhandenen Feuerwehrhelme, eingebaut werden. Bei den derzeit erhältlichen Standartfeuerwehrhelmen besteht das Innenleben und die Bebänderung nicht mehr aus Leder, sondern aus Textil, welches sich in normalen Haushaltswaschmaschinen bei 30 Grad reinigen lässt. Dadurch ist gewährleistet, dass Helme in einem hygienischen Zustand übergeben werden können, sowie die Bebänderung bei Verschleiß ausgetauscht werden kann.\n\nEine Abfrage unter den Kommandanten im Stadtgebiet von Langenzenn ergab einen Handlungsbedarf vorwiegend bei den Außenwehren. Aus diesem Grund sollen vorwiegend für die Außenwehren insgesamt 76 Helme zu einem Preis von ca. 230,00 Euro angeschafft werden.\n\nIm Verwaltungshaushalt für das Jahr 2024 stehen im Rahmen eines Deckungsrings bei der Haushaltsstelle 0.1300.5601 noch ausreichend Mittel zur Verfügung.",
+        "decision": "Der Hauptausschuss beschließt insgesamt 76 Feuerwehrhelme vorwiegend für die Außenwehren im Stadtgebiet von ca. 230 Euro pro Helm anzuschaffen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn hier: Ersatzbeschaffung von Equipment für die Absturzsicherung",
+        "facts": "Die Stützpunktfeuerwehr der Stadt Langenzenn unterhält eine eigene Ausbildungs- und Einsatzgruppe für den Bereich der Absturzsicherung. Die Absturzsicherung erfordert neben einer speziellen Ausrüstung, ähnlich wie man sie auch bei Bergsteigern findet, eine zusätzliche Ausbildung. Die Feuerwehrdienstleistenden müssen bei der Rettung von Menschen und Tieren, bei der Bekämpfung von Bränden und der technischen Hilfeleistung in absturzgefährdeten Bereichen tätig werden.\n\nZu der erweiterten persönlichen Schutzausrüstung für die Gruppe der Absturzsicherung gehören unter anderem 3 Gerätesäcke Absturzsicherung und einen Gerätesack Flaschenzug sowie unter anderem den darin befindlichen Bandschlingen, Karabinern, Rollen, Rettungswesten und Kernmanteldynamikseilen.\n\nDas für die Absturzsicherung benötigte Equipment unterliegt einer vom Hersteller vorgeschriebenen Nutzungsdauer. Nach Ablauf der vorgegebenen Nutzungszeit sind die Gerätschaften auszumustern (sie dürfen nicht mehr im Einsatz- und Übungsfall im Feuerwehrbereich eingesetzt werden) und neu zu beschaffen.\n\nZur Ersatzbeschaffung stehen aktuell unter anderem Seile, Karabiner, Rundschlingen und Seile für die Schleifkorbtrage im Gegenwert von ca. 4.900,00 Euro an. Im Verwaltungshaushalt für das Jahr 2024 stehen im Rahmen eines Deckungsrings bei der Haushaltstelle 0.1300.5601 noch ausreichend Mittel zur Verfügung.",
+        "decision": "Der Hauptausschuss beschließt die Anschaffung von Ersatzbeschaffungen für die Absturzsicherung der Freiwilligen Feuerwehr der Stadt Langenzenn im Gegenwert von ca. 4.900,00 Euro.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Erhöhung der Gebühren für vorübergehende Gaststättenerlaubnisse",
+        "facts": "Für die Genehmigung einer vorübergehenden Gaststättenerlaubnis, Gestattung nach § 12 Gaststättengesetz (GastG), hat die Stadt Langenzenn im Jahr 2015 eine Gebührenregelung erlassen. Aufgrund der Gebührenanhebung gem. Art. 1, 2, 6 und 15 des Kostengesetzes i. V. m. Tarif-Nr. 5.III.7/7 des Kostenverzeichnisses beträgt der aktuelle Gebührenrahmen für die Gestattung 30 € bis 2.000 €.\n\nDie Gebühren werden somit wie folgt erhöht:\n\nVeranstaltungs-      Bewirtschaftungs-      Gebühren      Gebühren dauer                fläche                 Vereine       Gewerbebetriebe 1 Tag                bis 500 qm             30,00 €       40,00 € bis 1000 qm            35,00 €       45,00 € über 1000 qm           40,00 €       50,00 €\n\n2-3 Tage             bis 500 qm             50,00 €       70,00 € bis 1000 qm            55,00 €       75,00 € über 1000 qm           70,00 €       90,00 €\n\n4-7 Tage             bis 500 qm             80,00 €       110,00 € bis 1000 qm            85,00 €       115,00 € über 1000 qm           100,00 €      130,00 €\n\n8-10 Tage            bis 500 qm             120,00 €      170,00 € bis 1000 qm            125,00 €      175,00 € über 1000 qm           140,00 €      180,00 €\n\nüber 10 Tage         bis 500 qm             170,00 €      220,00 € bis 1000 qm            175,00 €      225,00 €\n\nüber 1000 qm           190,00 €      240,00 €\n\nAltstadtfest Langenzenn (1 Tag)             30,00 €       40,00 € Weihnachtsmarkt Langenzenn (1Tag) 30,00 €                 40,00 € Regionalmarkt                               30,00 €       40,00 € Trödelmarkt                                 30,00 €       40,00 €\n\nDer Tagesordnungspunkt wurde an der Sitzung vom 20.01.2025 zurückgestellt und in die Fraktionen zu weiteren Beratung verwiesen.\n\nDie Verwaltung wurde gebeten, die Aufforderung des Landratsamtes zur Gebührenerhöhung sowie eine Übersicht der bisherigen Gebühren mitzuteilen.",
+        "decision": "Der Hauptausschuss nimmt vom Sachverhalt Kenntnis und beschließt die vorgeschlagene Regelung zur Erhöhung der Gebühren für vorübergehende Gaststättenerlaubnisse ab 01.03.2025.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Anträge aus der Bürgerversammlung 2024"
+      },
+      {
+        "number": "9.1.",
+        "title": "Antrag aus der Bürgerversammlung hier: generelle Leinenpflicht",
+        "facts": "Es soll eine Leinenpflicht für alle Hunde geben. Die Begrenzung der Schulterhöhe von Hunden soll aufgehoben werden. Die Hundehalteverordnung der Stadt Langenzenn zur Leinenpflicht soll geprüft werden, ob eine generelle Leinenpflicht für Hunde möglich ist.\n\nAntwort der Verwaltung:\n\nEine generelle Leinenpflicht für Hunde ist kritisch zu betrachten. Die allgemeine gesetzliche Grundlage, nach der sich die Verordnung der Stadt Langenzenn richtet, ist im Bayerischen Landesstraf- und Verordnungsgesetz (LStVG) unter Art. 18 festgehalten. Hier ist allerdings die Handhabung bezüglich großen Hunden und Kampfhunden geregelt. Als große Hunde können Hunde mit einer Schulterhöhe von mindestens 50 cm angesehen werden. Zu den großen Hunden gehören u.a. erwachsene Hunde der Rassen Schäferhund, Boxer, Dobermann, Rottweiler und Deutsche Dogge.\n\nEinschränkungen des freien Umherlaufens können durch Verordnung generell für alle großen Hunde und Kampfhunde oder differenziert für einzelne Rassen oder Gruppen von Hunden bestimmt werden, jedoch nicht willkürlich für jeden Hund und das gesamte Gemeindegebiet.\n\nAußerdem sind in ausreichendem Maße geeignete öffentliche Flächen vom Leinenzwang auszunehmen, um dem Bewegungsbedürfnis der Hunde Rechnung zu tragen (vgl. § 2 Nr. 2 TierSchG).\n\nZum Schutz der Rechtsgüter Leben, Gesundheit, Eigentum oder die öffentliche Reinlichkeit können Gemeinden Anordnungen für den Einzelfall zur Haltung von Hunden treffen.\n\nEine generelle Leinenpflicht für Hunde sieht die Verwaltung als unverhältnismäßig an.",
+        "decision": "Der Hauptausschluss beschließt, dass der Antrag bezüglich einer generellen Leinenpflicht nicht weiterverfolgt wird.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "9.2.",
+        "title": "Antrag aus der Bürgerversammlung hier: Veröffentlichen der Niederschrift auf Langenzenner Homepage",
+        "facts": "Ein Bürger stellt den Antrag, dass zu dieser Bürgerversammlung zeitnah eine offizielle Niederschrift erstellt und diese auf der Homepage der Stadt veröffentlicht wird, mit Hinweis im Mitteilungsblatt.\n\nAntwort der Verwaltung:\n\nDie Erstellung einer Niederschrift über die aktuelle Bürgerversammlung sowie generell zur Bürgerversammlungen ist gesetzlich nicht geregelt. Somit besteht keine Pflicht seitens der Verwaltung eine Niederschrift zu erstellen bzw. diese zu veröffentlichen.\n\nSeitens der Verwaltung wird ein internes Protokoll über die Bürgerversammlung erstellt. Dieses Protokoll dient in erster Linie dazu, die gestellten Anträge zu erfassen und eine Behandlung durch den Stadtrat in der gesetzlichen Frist gem. Art. 18 Abs. 5 Satz 1 GO zu gewährleisten. Durch einen entsprechenden Beschluss des Stadtrates kann dem Antrag des Antragstellers stattgegeben werden und die Verwaltung dazu verpflichtet werden, eine entsprechende Niederschrift zu erstellen, die darüber hinaus im Mitteilungsblatt und auf der Homepage der Stadt Langenzenn veröffentlicht werden soll.\n\nDie Niederschrift ist dabei datenschutzkonform zu erstellen. So dürfen z.B. alle Daten, die Rückschlüsse auf eine konkrete natürliche Person (die nicht eine Person des öffentlichen Interesses ist z.B. Bürgermeister, Stadtrat etc.) schließen lassen nicht veröffentlicht werden.\n\nÜber eine solche Vorgehensweise ist darüber hinaus vor jeder Bürgerversammlung eine entsprechende Information über das Mitteilungsblatt zu veröffentlichen. Dem Antragsteller / der Antragstellerin muss durch den Vortrag des Antrages bewusst sein, dass dieser Antrag sowohl in Print- als auch Onlinemedien veröffentlicht wird. Im Zusammenhang mit den weiteren, vom Antragsteller gestellten Anträgen kann es eine sinnvolle Lösung sein, eine entsprechende „Dienstanweisung Bürgerversammlung“ zu erstellen, die verbindlich die Vorgehensweise zu Bürgerversammlungen regelt.",
+        "decision": "Dem Antrag wird stattgegeben. Die Verwaltung wird mit der Ausarbeitung beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.3.",
+        "title": "Antrag aus der Bürgerversammlung hier: Benachrichtigungen der Anfragesteller über Bearbeitungsstände",
+        "facts": "Ein Bürger beantragt, dass alle Antragsteller der Bürgerversammlung über das Ergebnis der nachfolgenden Beratung im Stadtrat wieder schriftlich verständigt werden.\n\nAntwort der Verwaltung:\n\nDie Beantwortung von Anträgen aus der Bürgerversammlung ist derzeit verwaltungsintern nicht final geregelt. Hauptgrund dafür ist, dass im Rahmen der Bürgerversammlung reine Wortmeldungen zu konkreten Anträgen nicht immer eindeutig zu differenzieren sind.\n\nUm einen Antrag auch als solchen zu behandeln, sollten diese schriftlich im Vorfeld bzw. spätestens nach dem mündlichen Vortragen in der Bürgerversammlung bei der Verwaltung eingereicht werden. Neben dem Antrag sind weitere Daten wie Name und Kontaktdaten auf dem Antrag aufzuführen. Im Zusammenhang mit den weiteren, vom Antragsteller gestellten Anträgen kann es eine sinnvolle Lösung sein, eine entsprechende „Dienstanweisung Bürgerversammlung“ zu erstellen, die verbindlich die Vorgehensweise zu Bürgerversammlungen regelt. So auch die Beantwortung der gestellten Anträge durch den jeweils zuständigen Sachbearbeiter.",
+        "decision": "Der Hauptausschuss beauftragt die Verwaltung, die Umsetzung des Antrages auszuarbeiten und gegebenenfalls die Integration der Homepage und das Mitteilungsblatt für Formulare zu berücksichtigen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.4.",
+        "title": "Antrag aus der Bürgerversammlung hier: Veröffentlichung der Ergebnisse Bürgerversammlung",
+        "facts": "Ein Bürger beantragt, dass spätestens vier Wochen vor der nächsten Bürgerversammlung das Ergebnis aller gestellten Anträge auf der Homepage der Stadt veröffentlicht werden. Antwort der Verwaltung:\n\nFür die Veröffentlichung aller Anträge mit dem entsprechenden Ergebnis vier Wochen vor der nächsten Bürgerversammlung besteht keine gesetzliche Verpflichtung. Eine solche Veröffentlichung ist dabei datenschutzkonform zu erstellen.\n\nSo dürfen z.B. alle Daten, die Rückschlüsse auf eine konkrete natürliche Person (die nicht eine Person des öffentlichen Interesses ist z.B. Bürgermeister, Stadtrat etc.) schließen lassen nicht veröffentlicht werden. Zusätzlich bedarf es einer verantwortlichen Person in der Verwaltung, der das Nachverfolgen der gestellten Anträge, Beschlüsse des Gremiums und die Umsetzung der Maßnahmen koordiniert. Im Zusammenhang mit den weiteren, vom Antragsteller gestellten Anträgen kann es eine sinnvolle Lösung sein, eine entsprechende „Dienstanweisung Bürgerversammlung“ zu erstellen, die verbindlich die Vorgehensweise zu Bürgerversammlungen regelt. So auch die erneute Veröffentlichung der gestellten Anträge mit entsprechenden Ergebnissen vor der nächsten Bürgerversammlung.",
+        "decision": "Dem Antrag wird stattgegeben.",
+        "vote": {
+          "summary": "einstimmig abgelehnt",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.5.",
+        "title": "Antrag aus der Bürgerversammlung hier: Bürgerversammlung in Außenorten",
+        "facts": "Ein Bürger beantragt, wieder Bürgerversammlungen in den Außenorten abzuhalten, zumindest alle zwei Jahre. Antwort der Verwaltung:\n\nDie gesetzliche Verpflichtung zur Abhaltung einer Bürgerversammlung mindestens einmal jährlich ergibt sich aus Art. 18 Abs. 1 Satz 1 Halbsatz 1 GO. Gemäß Art. 18 Abs. 1 Satz 1 Halbsatz 2 GO kann auf Verlangen des Stadtrates auch öfters als einmal im Jahr eine Bürgerversammlung abgehalten werden. Dabei beschränkt sich das Recht des Stadtrates nur auf die Anzahl der Bürgerversammlung in einem Jahr, NICHT aber auf Art, Ort und Zeit der Bürgerversammlung. Wo und in welcher Art weitere Bürgerversammlungen stattfinden obliegt somit dem Ersten Bürgermeister / der Erste Bürgermeisterin. Der Stadtrat kann hier lediglich dem Ersten Bürgermeister / der Ersten Bürgermeisterin eine Empfehlung aussprechen wo weitere Bürgerversammlungen Sinn machen und stattfinden sollen. Eine rechtliche Bindung ergibt sich daraus aber nicht.",
+        "decision": "Der Hauptausschuss empfiehlt dem ersten Bürgermeister die Durchführung von Bürgerversammlungen in den Außenorten in einem Zwei-Jahres Turnus. Dabei kann man Außenorte auch zusammenfassen und jedes Mal einen anderen Bereich der Außenorte für die Versammlung anstreben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "172829",
+    "minutes": "173994"
+  }
+}

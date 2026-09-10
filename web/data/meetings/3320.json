@@ -1,0 +1,97 @@
+{
+  "meetingId": "3320",
+  "announcement": {
+    "heading": "34. Sitzung des Werkausschusses",
+    "sessionNumber": 34,
+    "date": "2025-10-29",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "24. Oktober 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "34. Sitzung des Werkausschusses",
+    "sessionNumber": 34,
+    "date": "2025-10-29",
+    "startTime": "16:00",
+    "endTime": "16:58",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine weiteren Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179133",
+    "minutes": "183588"
+  }
+}
