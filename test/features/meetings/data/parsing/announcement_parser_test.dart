@@ -7,7 +7,9 @@ void main() {
   const parser = AnnouncementParser();
 
   group('given the Werkausschuss announcement', () {
-    final announcement = parser.parse(fixture('announcement_werkausschuss.txt'));
+    final announcement = parser.parse(
+      fixture('announcement_werkausschuss.txt'),
+    );
 
     test('then it reads the heading and session number', () {
       expect(announcement.heading, '24. Sitzung des Werkausschusses');
@@ -24,10 +26,14 @@ void main() {
     });
 
     test('then it keeps the agenda numbering of the public items', () {
-      expect(
-        announcement.agenda.map((item) => item.number),
-        ['3.', '4.', '5.', '6.', '6.1.', '7.'],
-      );
+      expect(announcement.agenda.map((item) => item.number), [
+        '3.',
+        '4.',
+        '5.',
+        '6.',
+        '6.1.',
+        '7.',
+      ]);
     });
 
     test('then it joins an agenda title that wraps across lines', () {
@@ -47,7 +53,9 @@ void main() {
     });
 
     test('then it keeps free-standing remarks out of the agenda', () {
-      expect(announcement.notes, ['Die öffentliche Sitzung beginnt um ca. 16:30 Uhr.']);
+      expect(announcement.notes, [
+        'Die öffentliche Sitzung beginnt um ca. 16:30 Uhr.',
+      ]);
     });
 
     test('then it reads the closing note and signature', () {
@@ -61,7 +69,9 @@ void main() {
   });
 
   group('given an announcement without a session number', () {
-    final announcement = parser.parse(fixture('announcement_without_number.txt'));
+    final announcement = parser.parse(
+      fixture('announcement_without_number.txt'),
+    );
 
     test('then the heading is kept and the number stays null', () {
       expect(announcement.heading, 'Sitzung des Redaktionsausschusses');
@@ -77,7 +87,34 @@ void main() {
 
     test('then the agenda is still read', () {
       expect(announcement.agenda, hasLength(2));
-      expect(announcement.agenda.last.title, 'Freigabe aktueller Veröffentlichungen');
+      expect(
+        announcement.agenda.last.title,
+        'Freigabe aktueller Veröffentlichungen',
+      );
+    });
+  });
+
+  group('given an announcement whose intro ends on "eine öffentliche"', () {
+    final announcement = parser.parse(
+      fixture('announcement_alternate_intro.txt'),
+    );
+
+    test('then the heading is the session, not the first agenda item', () {
+      expect(announcement.heading, 'Sitzung des Stadtrates');
+    });
+
+    test('then the location does not swallow the trailing article', () {
+      expect(
+        announcement.location,
+        'Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1',
+      );
+    });
+
+    test('then date, time and agenda are still read', () {
+      expect(announcement.date, DateTime(2023, 2, 9));
+      expect(announcement.startTime, '16:00');
+      expect(announcement.agenda.first.number, '2.');
+      expect(announcement.agenda, hasLength(16));
     });
   });
 

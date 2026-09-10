@@ -23,7 +23,9 @@ class MinutesParser {
 
     final heading = _readHeading(lines);
     final fields = _readFields(lines);
-    final bodyStart = lines.indexWhere((line) => _publicPart.hasMatch(line.text));
+    final bodyStart = lines.indexWhere(
+      (line) => _publicPart.hasMatch(line.text),
+    );
 
     return Minutes(
       heading: heading,
@@ -36,12 +38,16 @@ class MinutesParser {
       location: fields['Ort, Raum'],
       present: _readAttendance(lines, _presentMarker, bodyStart),
       absent: _readAttendance(lines, _absentMarker, bodyStart),
-      items: bodyStart < 0 ? const [] : _readItems(lines.sublist(bodyStart + 1)),
+      items: bodyStart < 0
+          ? const []
+          : _readItems(lines.sublist(bodyStart + 1)),
     );
   }
 
   String _readHeading(List<TextLine> lines) {
-    final marker = lines.indexWhere((line) => _headingMarker.hasMatch(line.text));
+    final marker = lines.indexWhere(
+      (line) => _headingMarker.hasMatch(line.text),
+    );
     if (marker < 0) return '';
     for (var index = marker + 1; index < lines.length; index++) {
       final text = lines[index].text;
@@ -58,7 +64,8 @@ class MinutesParser {
     for (var index = 0; index < headerEnd; index++) {
       final text = lines[index].text;
       final label = labels.firstWhere(
-        (candidate) => text.startsWith('$candidate:') || text.startsWith('$candidate '),
+        (candidate) =>
+            text.startsWith('$candidate:') || text.startsWith('$candidate '),
         orElse: () => '',
       );
       if (label.isEmpty || fields.containsKey(label)) continue;
@@ -139,7 +146,10 @@ class MinutesParser {
     final note = parts.length > 1
         ? normalizeSpaces(parts.sublist(1).join(' '))
         : null;
-    return Attendee(name: name, note: note == null || note.isEmpty ? null : note);
+    return Attendee(
+      name: name,
+      note: note == null || note.isEmpty ? null : note,
+    );
   }
 
   List<MinutesItem> _readItems(List<TextLine> lines) {
@@ -178,7 +188,11 @@ class MinutesParser {
   /// which is shaped exactly like an agenda item but belongs to the body text.
   bool _isSessionReference(String rest) => rest.startsWith('Sitzung ');
 
-  MinutesItem _buildItem(String number, List<String> titleLines, List<TextLine> block) {
+  MinutesItem _buildItem(
+    String number,
+    List<String> titleLines,
+    List<TextLine> block,
+  ) {
     final title = <String>[...titleLines];
     final sections = <String, List<String>>{};
     String? section;

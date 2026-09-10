@@ -1,9 +1,12 @@
 const _hyphenKeepers = {'und', 'oder', 'bzw', 'sowie', 'bis', 'als', 'wie'};
 
 final _pageFooter = RegExp(r'Seite\s+\d+\s+von\s+\d+');
-/// Item numbers are `4.` or `6.1.`; the 1-2 digit limit per segment keeps a
-/// date such as `25.11.2025.` at the start of a sentence from matching.
-final _numbered = RegExp(r'^(\d{1,2}(?:\.\d{1,2})*\.)\s+(\S.*)$');
+
+/// Item numbers are `4.` or `6.1.`. The 1-2 digit limit per segment keeps a
+/// date such as `25.11.2025.` from matching, and the two-space gap keeps an
+/// enumeration inside a Beschluss (`3. Die Verwaltung ...`, one space) apart
+/// from a real item, whose title is padded out to a fixed column.
+final _numbered = RegExp(r'^(\d{1,2}(?:\.\d{1,2})*\.)\s{2,}(\S.*)$');
 
 class TextLine {
   const TextLine(this.text, this.indent);
@@ -33,27 +36,24 @@ String normalizeSpaces(String value) =>
 /// Joins wrapped lines back into paragraphs, undoing the hyphenation that
 /// pdftotext preserves from the justified source layout.
 String joinWrapped(Iterable<String> lines) {
-  final buffer = StringBuffer();
+  var result = '';
   for (final line in lines) {
     final piece = line.trim();
     if (piece.isEmpty) {
-      if (buffer.isNotEmpty && !buffer.toString().endsWith('\n\n')) {
-        buffer.write('\n\n');
-      }
+      if (result.isNotEmpty && !result.endsWith('\n\n')) result += '\n\n';
       continue;
     }
-    final current = buffer.toString();
-    if (current.isEmpty || current.endsWith('\n\n')) {
-      buffer.write(piece);
+    if (result.isEmpty || result.endsWith('\n\n')) {
+      result += piece;
       continue;
     }
-    if (_continuesHyphenatedWord(current, piece)) {
-      buffer.write(piece);
+    if (_continuesHyphenatedWord(result, piece)) {
+      result = stripHyphen(result) + piece;
     } else {
-      buffer.write(' $piece');
+      result += ' $piece';
     }
   }
-  return buffer.toString().trim();
+  return result.trim();
 }
 
 bool _continuesHyphenatedWord(String soFar, String next) {
@@ -68,9 +68,8 @@ bool _continuesHyphenatedWord(String soFar, String next) {
 }
 
 /// Removes the trailing hyphen when the two halves are joined directly.
-String stripHyphen(String value) => value.endsWith('-')
-    ? value.substring(0, value.length - 1)
-    : value;
+String stripHyphen(String value) =>
+    value.endsWith('-') ? value.substring(0, value.length - 1) : value;
 
 ({String number, String rest})? matchNumberedItem(String line) {
   final match = _numbered.firstMatch(line);
@@ -95,3 +94,7 @@ int? parseSessionNumber(String heading) {
   final match = RegExp(r'^(\d+)\.\s*Sitzung').firstMatch(heading.trim());
   return match == null ? null : int.parse(match.group(1)!);
 }
+
+/// Bump when a parser change makes previously stored results outdated; the
+/// scraper re-parses every document when the published version differs.
+const parserVersion = 4;

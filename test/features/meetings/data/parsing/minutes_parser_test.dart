@@ -30,7 +30,11 @@ void main() {
     test('then it groups the attendees by their role', () {
       expect(
         minutes.present.map((group) => '${group.role}:${group.members.length}'),
-        ['Erster Bürgermeister:1', 'Zweiter Bürgermeister:1', 'Stadtratsmitglieder:19'],
+        [
+          'Erster Bürgermeister:1',
+          'Zweiter Bürgermeister:1',
+          'Stadtratsmitglieder:19',
+        ],
       );
       expect(minutes.absent.single.role, 'Stadtratsmitglieder');
       expect(minutes.absent.single.members, hasLength(4));
@@ -58,7 +62,10 @@ void main() {
     test('then it separates facts from the decision', () {
       final item = minutes.items.firstWhere((item) => item.number == '5.');
       expect(item.facts, contains('Landratsamt Fürth'));
-      expect(item.decision, contains('gemeindliche Einvernehmen wird weiterhin nicht'));
+      expect(
+        item.decision,
+        contains('gemeindliche Einvernehmen wird weiterhin nicht'),
+      );
     });
 
     test('then it reads the vote counts out of the decision', () {
@@ -110,13 +117,45 @@ void main() {
       expect(minutes.endTime, '17:30');
     });
 
-    test('then body prose starting with a field label does not overwrite it', () {
-      expect(minutes.endTime, isNot('November'));
-      expect(minutes.items, isNotEmpty);
-    });
+    test(
+      'then body prose starting with a field label does not overwrite it',
+      () {
+        expect(minutes.endTime, isNot('November'));
+        expect(minutes.items, isNotEmpty);
+      },
+    );
 
     test('then an item shifted by a page break is still recognised', () {
       expect(minutes.items.map((item) => item.number), contains('6.1.'));
+    });
+  });
+
+  group('given a decision containing an enumerated list', () {
+    final minutes = parser.parse(
+      fixture('minutes_with_enumerated_decision.txt'),
+    );
+
+    test('then the enumeration does not become an agenda item', () {
+      expect(minutes.items.map((item) => item.number), ['12.', '13.']);
+    });
+
+    test('then the enumeration stays inside the section it belongs to', () {
+      final item = minutes.items.first;
+      expect(item.facts, contains('Die Verwaltung wird beauftragt'));
+      expect(item.facts, contains('Sollte diese Variante'));
+      expect(item.decision, startsWith('Der Stadtrat stimmt der Standort'));
+      expect(item.vote?.inFavour, 21);
+    });
+
+    test('then the item title stays a title', () {
+      expect(
+        minutes.items.first.title,
+        'Standortfestlegung zum Neubau der Staatlichen Realschule Langenzenn '
+        'durch den Landkreis Fürth',
+      );
+      for (final item in minutes.items) {
+        expect(item.title, isNot(contains('Die Verwaltung wird beauftragt')));
+      }
     });
   });
 
