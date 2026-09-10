@@ -1,0 +1,61 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+env:
+  FLUTTER_VERSION: 3.47.3
+
+jobs:
+  test:
+    name: Analyse und Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Abhängigkeiten holen
+        run: flutter pub get
+
+      - name: Formatierung prüfen
+        run: dart format --output=none --set-exit-if-changed .
+
+      - name: Analysieren
+        run: flutter analyze
+
+      - name: Unit- und Widget-Tests
+        run: flutter test --reporter=expanded
+
+  build:
+    name: PWA bauen
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Abhängigkeiten holen
+        run: flutter pub get
+
+      - name: Web bauen
+        run: flutter build web --release --base-href "/${{ github.event.repository.name }}/"
+
+      - name: Artefakt hochladen
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-build
+          path: build/web
+          retention-days: 7
