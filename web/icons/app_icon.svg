@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="face" cx="0.42" cy="0.38" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1E3D1"/>
+    </radialGradient>
+    <radialGradient id="nose" cx="0.36" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#FF6A6E"/>
+      <stop offset="0.4" stop-color="#E3000F"/>
+      <stop offset="1" stop-color="#9E000A"/>
+    </radialGradient>
+    <clipPath id="hat-shape">
+      <polygon points="184,178 318,170 240,42"/>
+    </clipPath>
+  </defs>
+  <rect id="tile" x="16" y="16" width="480" height="480" rx="112" fill="#262B33"/>
+  <g id="clown" transform="translate(256 256) scale(0.9) translate(-256 -256)">
+    <!-- clown:start -->
+    <g id="collar" fill="#1D7A8A" stroke="#155965" stroke-width="4">
+      <circle cx="150" cy="406" r="30"/>
+      <circle cx="362" cy="406" r="30"/>
+      <circle cx="184" cy="418" r="30"/>
+      <circle cx="328" cy="418" r="30"/>
+      <circle cx="219" cy="425" r="30"/>
+      <circle cx="293" cy="425" r="30"/>
+      <circle cx="256" cy="428" r="30"/>
+    </g>
+    <g id="hair" fill="#46962B" stroke="#2F6B1C" stroke-width="4">
+      <circle cx="160" cy="206" r="36"/>
+      <circle cx="136" cy="252" r="44"/>
+      <circle cx="122" cy="302" r="40"/>
+      <circle cx="150" cy="342" r="34"/>
+      <circle cx="352" cy="206" r="36"/>
+      <circle cx="376" cy="252" r="44"/>
+      <circle cx="390" cy="302" r="40"/>
+      <circle cx="362" cy="342" r="34"/>
+    </g>
+    <circle id="face-disc" cx="256" cy="286" r="128" fill="url(#face)" stroke="#E0CFBA" stroke-width="3"/>
+    <g id="hat">
+      <polygon points="184,178 318,170 240,42" fill="#008AC5"/>
+      <g clip-path="url(#hat-shape)" fill="#FFFFFF">
+        <polygon points="240,70 252,90 240,110 228,90"/>
+        <polygon points="216,118 228,138 216,158 204,138"/>
+        <polygon points="264,118 276,138 264,158 252,138"/>
+        <polygon points="288,158 300,178 288,198 276,178"/>
+        <polygon points="192,158 204,178 192,198 180,178"/>
+        <polygon points="240,158 252,178 240,198 228,178"/>
+      </g>
+      <ellipse cx="251" cy="175" rx="74" ry="13" fill="#006A99"/>
+      <circle cx="240" cy="44" r="22" fill="#C5D93D" stroke="#A8BC2A" stroke-width="4"/>
+    </g>
+    <g id="eye-paint" fill="#F39200">
+      <polygon points="208,226 230,268 208,310 186,268"/>
+      <polygon points="304,226 326,268 304,310 282,268"/>
+    </g>
+    <g id="eyes">
+      <ellipse cx="208" cy="266" rx="13" ry="17" fill="#1A1A1A"/>
+      <ellipse cx="304" cy="266" rx="13" ry="17" fill="#1A1A1A"/>
+      <circle cx="212" cy="259" r="4.5" fill="#FFFFFF"/>
+      <circle cx="308" cy="259" r="4.5" fill="#FFFFFF"/>
+      <path d="M186 214 Q208 198 230 214" fill="none" stroke="#1A1A1A" stroke-width="7" stroke-linecap="round"/>
+      <path d="M282 214 Q304 198 326 214" fill="none" stroke="#1A1A1A" stroke-width="7" stroke-linecap="round"/>
+    </g>
+    <path id="mouth" d="M184 344 Q256 424 328 344 Q256 390 184 344 Z" fill="#B0000C"/>
+    <g id="nose-ball">
+      <circle cx="256" cy="316" r="34" fill="url(#nose)"/>
+      <ellipse cx="245" cy="304" rx="10" ry="7" fill="#FFFFFF" opacity="0.65"/>
+    </g>
+    <g id="bow-tie">
+      <polygon points="256,440 194,408 194,472" fill="#FFED00" stroke="#C9B800" stroke-width="4" stroke-linejoin="round"/>
+      <polygon points="256,440 318,408 318,472" fill="#FFED00" stroke="#C9B800" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="242" y="424" width="28" height="32" rx="9" fill="#E5007D"/>
+    </g>
+    <!-- clown:end -->
+  </g>
+</svg>
