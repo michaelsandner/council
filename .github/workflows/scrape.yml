@@ -2,8 +2,8 @@ name: Sitzungen aktualisieren
 
 on:
   schedule:
-    # Alle drei Stunden nach neuen Bekanntmachungen und Niederschriften sehen.
-    - cron: '17 */3 * * *'
+    # Einmal täglich nach neuen Bekanntmachungen und Niederschriften sehen.
+    - cron: '17 19 * * *'
   workflow_dispatch:
     inputs:
       from-year:

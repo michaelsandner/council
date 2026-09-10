@@ -34,7 +34,7 @@ Dokument wird einmal gelesen statt auf jedem Gerät erneut.
 
 ```mermaid
 flowchart TD
-    SN["Bürgerinfo<br/>buergerinfo-langenzenn.de"] -- "Listen und PDFs" --> SC["scrape.yml<br/>alle 3 Stunden"]
+    SN["Bürgerinfo<br/>buergerinfo-langenzenn.de"] -- "Listen und PDFs" --> SC["scrape.yml<br/>täglich 19:17 UTC"]
     SC -- "Commit bei Änderung" --> DATA[("web/data/*.json<br/>auf main")]
     DATA --> DE["deploy.yml"]
     DE -- "flutter build web" --> PG["GitHub Pages"]
@@ -51,7 +51,7 @@ das veröffentlichte JSON von der eigenen Origin.
 flowchart TD
     PR["Pull Request oder Push"] --> CI["ci.yml<br/>Format · Analyse · Tests · Web-Build"]
     MERGE["Merge auf main"] --> DEP["deploy.yml<br/>Tests · Web-Build · Pages"]
-    CRON["Cron alle 3 Stunden oder manuell"] --> SCR["scrape.yml"]
+    CRON["Cron täglich 19:17 UTC oder manuell"] --> SCR["scrape.yml"]
     SCR -->|"Daten geändert"| COMMIT["Commit auf main<br/>chore(data): ..."]
     COMMIT --> DISPATCH["gh workflow run deploy.yml"]
     DISPATCH --> DEP
@@ -61,11 +61,16 @@ flowchart TD
 | Workflow | Auslöser | Aufgabe |
 | --- | --- | --- |
 | `ci.yml` | Push, Pull Request | Format, Analyse, Unit- und Widget-Tests, Web-Build |
-| `scrape.yml` | alle 3 Stunden, manuell | Sitzungen einlesen, Änderungen committen, Deployment anstoßen |
+| `scrape.yml` | täglich 19:17 UTC, manuell | Sitzungen einlesen, Änderungen committen, Deployment anstoßen |
 | `deploy.yml` | Push auf `main`, manuell | Tests, Web-Build, Veröffentlichung auf GitHub Pages |
 
 Ein Push mit `GITHUB_TOKEN` startet keine weiteren Workflows. Deshalb stößt
 `scrape.yml` das Deployment nach einem Daten-Commit selbst an.
+
+`scrape.yml` läuft einmal täglich um 19:17 UTC. Die GitHub-Runner stehen in
+US-Rechenzentren von Azure, die Region wechselt von Lauf zu Lauf. Dort ist dann
+je nach Zeitzone Mittag bis Nachmittag, also viel Solarstrom im Netz.
+In Deutschland ist es Abend, die Unterlagen des Tages sind dann veröffentlicht.
 
 ### Ein Scrape-Lauf
 
