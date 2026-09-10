@@ -74,16 +74,28 @@ class CouncilArchive {
     detailFile(meetingId).writeAsStringSync(_encode(json));
   }
 
-  void writeIndex(List<Meeting> meetings, {required String source}) {
+  /// Leaves the file untouched when nothing but the timestamp would change;
+  /// otherwise every scheduled run commits and redeploys an identical index.
+  bool writeIndex(List<Meeting> meetings, {required String source}) {
+    final encoded = meetings.map(meetingToJson).toList();
+    final previous = _readIndex();
+    final unchanged =
+        previous != null &&
+        previous['parserVersion'] == parserVersion &&
+        previous['source'] == source &&
+        jsonEncode(previous['meetings']) == jsonEncode(encoded);
+    if (unchanged) return false;
+
     root.createSync(recursive: true);
     indexFile.writeAsStringSync(
       _encode({
         'generatedAt': DateTime.now().toUtc().toIso8601String(),
         'source': source,
         'parserVersion': parserVersion,
-        'meetings': meetings.map(meetingToJson).toList(),
+        'meetings': encoded,
       }),
     );
+    return true;
   }
 
   void removeDetailsExcept(Set<String> meetingIds) {
