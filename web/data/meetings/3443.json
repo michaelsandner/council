@@ -1,0 +1,53 @@
+{
+  "meetingId": "3443",
+  "announcement": {
+    "heading": "Sitzung des Stadtrates",
+    "date": "2026-09-16",
+    "startTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "3.",
+        "title": "Übertragung von Haushaltsausgaberesten beim Rechnungsabschluss 2025 der Stadt Langenzenn"
+      },
+      {
+        "number": "4.",
+        "title": "Freiwillige Feuerwehr Langenzenn: Bestätigung der Kommandantenwahl vom 29.07.2026"
+      },
+      {
+        "number": "5.",
+        "title": "Antrag der AfD Stadtratsfraktion auf Unterstützung der Prüfung (teil-) autonomer bedarfsgesteuerter Mobilitätsangebote"
+      },
+      {
+        "number": "6.",
+        "title": "Kommunale Wärmeplanung hier: Abwägung der Stellungnahmen zum Gesamtergebnis"
+      },
+      {
+        "number": "7.",
+        "title": "Kommunale Wärmeplanung hier: Beschluss des kommunalen Wärmeplans der Stadt Langenzenn"
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "8.1.",
+        "title": "Kneipp-Anlage im Hardgraben; hier: Informationen zum Probebetrieb"
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "10. September 2026",
+    "signedBy": "Melanie Plevka, Zweite Bürgermeisterin"
+  },
+  "sources": {
+    "announcement": "186815"
+  }
+}
