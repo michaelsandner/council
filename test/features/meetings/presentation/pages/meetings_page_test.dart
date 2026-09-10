@@ -73,8 +73,15 @@ void main() {
     ) async {
       await pumpPage(tester, repository);
 
-      expect(find.text('Niederschrift'), findsOneWidget);
-      expect(find.text('Bekanntmachung'), findsNWidgets(2));
+      final badges = find.byType(DocumentBadge);
+      expect(
+        find.descendant(of: badges, matching: find.text('Niederschrift')),
+        findsOneWidget,
+      );
+      expect(
+        find.descendant(of: badges, matching: find.text('Bekanntmachung')),
+        findsNWidgets(2),
+      );
       expect(find.byType(DocumentBadge), findsNWidgets(3));
     });
 
@@ -170,6 +177,111 @@ void main() {
       await tester.pumpAndSettle();
 
       expect(repository.markedSeen.length, greaterThan(1));
+    });
+  });
+
+  group('given the quick filter', () {
+    late FakeMeetingRepository repository;
+
+    setUp(() {
+      repository = FakeMeetingRepository(
+        meetings: [
+          buildMeeting(
+            id: 'with-minutes',
+            title: 'Stadtrat Langenzenn',
+            date: DateTime(2026, 3, 18),
+            minutesId: 'ni-1',
+            announcementId: 'bm-1',
+          ),
+          buildMeeting(
+            id: 'announcement-only',
+            title: 'Werkausschuss',
+            date: DateTime(2026, 2, 10),
+            announcementId: 'bm-2',
+          ),
+          buildMeeting(
+            id: 'no-documents',
+            title: 'Hauptausschuss',
+            date: DateTime(2026, 1, 5),
+          ),
+        ],
+      );
+    });
+
+    Finder chipFinder(String label) => find.widgetWithText(ChoiceChip, label);
+
+    ChoiceChip chip(WidgetTester tester, String label) =>
+        tester.widget<ChoiceChip>(chipFinder(label));
+
+    Future<void> choose(WidgetTester tester, String label) async {
+      await tester.tap(chipFinder(label));
+      await tester.pumpAndSettle();
+    }
+
+    testWidgets('then all is preselected', (tester) async {
+      await pumpPage(tester, repository);
+
+      expect(chip(tester, 'Alle').selected, isTrue);
+      expect(chip(tester, 'Niederschrift').selected, isFalse);
+      expect(chip(tester, 'Tagesordnung').selected, isFalse);
+    });
+
+    testWidgets('then the minutes filter keeps only meetings with minutes', (
+      tester,
+    ) async {
+      await pumpPage(tester, repository);
+
+      await choose(tester, 'Niederschrift');
+
+      expect(inList('Stadtrat Langenzenn'), findsOneWidget);
+      expect(inList('Werkausschuss'), findsNothing);
+      expect(inList('Hauptausschuss'), findsNothing);
+    });
+
+    testWidgets('then the agenda filter keeps meetings with an announcement', (
+      tester,
+    ) async {
+      await pumpPage(tester, repository);
+
+      await choose(tester, 'Tagesordnung');
+
+      expect(inList('Stadtrat Langenzenn'), findsOneWidget);
+      expect(inList('Werkausschuss'), findsOneWidget);
+      expect(inList('Hauptausschuss'), findsNothing);
+    });
+
+    testWidgets('then only one filter is selected at a time', (tester) async {
+      await pumpPage(tester, repository);
+
+      await choose(tester, 'Niederschrift');
+      await choose(tester, 'Tagesordnung');
+
+      expect(chip(tester, 'Alle').selected, isFalse);
+      expect(chip(tester, 'Niederschrift').selected, isFalse);
+      expect(chip(tester, 'Tagesordnung').selected, isTrue);
+    });
+
+    testWidgets('then choosing all again shows every meeting', (tester) async {
+      await pumpPage(tester, repository);
+
+      await choose(tester, 'Niederschrift');
+      await choose(tester, 'Alle');
+
+      expect(inList('Hauptausschuss'), findsOneWidget);
+    });
+  });
+
+  group('given a filter without matches', () {
+    testWidgets('then a hint replaces the empty list', (tester) async {
+      final repository = FakeMeetingRepository(
+        meetings: [buildMeeting(id: '1')],
+      );
+      await pumpPage(tester, repository);
+
+      await tester.tap(find.widgetWithText(ChoiceChip, 'Niederschrift'));
+      await tester.pumpAndSettle();
+
+      expect(find.text('Keine Sitzungen für diesen Filter.'), findsOneWidget);
     });
   });
 }
