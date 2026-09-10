@@ -1,0 +1,162 @@
+{
+  "meetingId": "3365",
+  "announcement": {
+    "heading": "70. Sitzung des Hauptausschusses",
+    "sessionNumber": 70,
+    "date": "2025-07-07",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Haushalt 2025 - Fortsetzung der Beratungen"
+      },
+      {
+        "number": "3.",
+        "title": "Grundsatzentscheidung zu freiwilligen Leistungen bei Investitionen von Vereinen, kirchlichen Organisationen u.ä.; hier: Beratung und Beschlussfassung über die Abschaffung der Förderung"
+      },
+      {
+        "number": "4.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung eines SoccerCourts auf dem Sportgelände"
+      },
+      {
+        "number": "5.",
+        "title": "Antrag Stadträtin Osswald - Keine Veröffentlichung der Protokolle des Redaktionsausschusses"
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. um 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "2. Juli 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "70. Sitzung des Hauptausschusses",
+    "sessionNumber": 70,
+    "date": "2025-07-07",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Gawehn, Michael",
+            "note": "für Herrn Schwämmlein"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Haushalt 2025 - Fortsetzungen der Beratungen",
+        "facts": "Die Verwaltung informiert den Hauptausschuss über die Endzahlen des Haushaltsplanes 2025 der Stadt Langenzenn.\n\nDie Verwaltung legt den vorläufigen Entwurf der Haushaltssatzung 2025 und den Entwurf des Haushaltsplanes 2025 der Stadt Langenzenn vor. Die erforderlichen Daten der Stadtwerke Langenzenn für die Haushaltssatzung liegen noch nicht vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis"
+      },
+      {
+        "number": "3.",
+        "title": "Grundsatzentscheidung zu freiwilligen Leistungen bei Investitionen von Vereinen, kirchlichen Organisationen u.ä.; hier: Beratung und Beschlussfassung über die Abschaffung der Förderung",
+        "facts": "Bislang wurden Langenzenner Vereine mit eigenen Sportstätten bei Investitionsmaßnahmen mit 15 Prozent der zuwendungsfähigen Kosten (ohne Eigenleistung) und, Vereine ohne eigene Sportstätten sowie kirchliche Organisationen, mit fünf Prozent der zuwendungsfähigen Kosten (ohne Eigenleistung), auf schriftlichen Antrag vor Maßnahmenbeginn, gefördert.\n\nBei dieser Förderung handelt es sich um eine freiwillige Leistung, welche von der finanziellen Leistungsfähigkeit der Stadt Langenzenn abhängig ist.\n\nAufgrund der angespannten Haushaltslage – auch mittelfristig – schlägt die Verwaltung vor, ab dem Haushaltsjahr 2025 keine freiwilligen Leistungen bei Investitionen von Vereinen, kirchlichen Organisationen u. ä. mehr zu fördern.",
+        "decision": "Der Hauptausschuss beschließt, dass ab dem Haushaltsjahr 2025 Vereine, kirchliche Organisationen u. ä. bei Investitionsmaßnahmen keine Förderung der Stadt Langenzenn mehr erhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung eines SoccerCourts auf dem Sportgelände",
+        "facts": "Der Hauptausschuss hat am 24.10.2024 den Zuschussantrag des SV Burggrafenhof zur Errichtung eines SoccerCourts auf dem Sportgelände des Vereines zur finalen Beschlussfassung im Rahmen der Haushaltsplanberatungen 2025 verwiesen.\n\nDer SV Burggrafenhof e.V. beantragte mit Schreiben vom 05.08.2024 einen Zuschuss zur Errichtung eines SoccerCourts auf dem Sportgelände des SV Burggrafenhof. Durch die Errichtung sollen die Kinder und Jugendlichen des Vereins und der Schule im Außenbereich eine Alternative bei schlechtem Wetter erhalten. Die Planung beinhaltet auch eine Anbringung von Basketballkörben. Zusätzlich soll dieser Court andere Trainingsmöglichkeiten (z. B. Fitnesstraining usw.) bieten, um den Kindern und Jugendlichen auch außerhalb der regulären Trainingszeiten ein Angebot zum Trainieren bzw. Sport machen zu ermöglichen. Der Court soll auch der Schule zur Nutzung dienen. Des Weiteren ist eine Benutzung zu späten Abendstunden ebenfalls möglich. Es sind auf dem C-Platz bereits LED-Flutlichter montiert, die diesen Court ohne weiteres ausleuchten.\n\nDie Gesamtkosten der Maßnahme werden auf 203.904,56 € geschätzt.\n\nBisher hat die Stadt Langenzenn Sportvereinen mit eigenen Sportstätten, siehe Entscheidungen vom 23.11.2023, stets einen Zuschuss in Höhe von 15 Prozent der zuwendungsfähigen Kosten (ohne Eigenleistung) für Investitionsmaßnahmen gewährt.\n\nBei geschätzten Gesamtkosten in Höhe von 203.904,56 € und einer Förderung von 15 Prozent würde ein Investitionskostenzuschuss der Stadt Langenzenn 30.585,68 € betragen.\n\nEntsprechend der Grundsatzentscheidung vom 23.11.2023 sollte der Zuschuss gewährt werden. Die Auszahlung kann allerdings erst erfolgen, wenn dieser Betrag in einem genehmigten Haushalt veranschlagt worden ist",
+        "decision": "Der Hauptausschuss beschließt, dem SV Burggrafenhof für die Errichtung eines Soccer- Courts auf dem Sportgelände einen Zuschuss in Höhe von 5 Prozent maximal 10.000,00 €, der zuwendungsfähigen Kosten (ohne Eigenleistung) zu gewähren. Die Auszahlung erfolgt, sobald dieser Zuschussbetrag in einem genehmigten Haushalt veranschlagt worden ist. Im Haushaltsplan 2025 ist bei der Haushaltsstelle 1.5511.9880 die Festsetzung einer Verpflichtungsermächtigung vorzunehmen. Der Gesamtbetrag der Verpflichtungsermächtigungen muss in der Haushaltssatzung festgesetzt werden (Art. 63 Abs. 2 Satz 1 Nr. 3 GO) und bedarf der Genehmigung durch die Rechtsaufsichtsbehörde (Art. 117 Abs. 1 GO, Art. 110 Satz 1 GO), wenn in den Jahren, zu deren Lasten sie vorgesehen sind, Kreditaufnahmen geplant sind (Art. 67 Abs. 4 GO).",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Antrag Stadträtin Osswald - Keine Veröffentlichung der Protokolle des Redaktionsausschusses",
+        "facts": "Stadträtin Osswald hat den o.g. Antrag gestellt.",
+        "decision": "Der Ausschuss beauftragt die Verwaltung mit dessen Prüfung.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176485",
+    "minutes": "179510"
+  }
+}

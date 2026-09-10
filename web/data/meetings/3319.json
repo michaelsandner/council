@@ -1,0 +1,400 @@
+{
+  "meetingId": "3319",
+  "announcement": {
+    "heading": "61. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 61,
+    "date": "2025-10-28",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "4.",
+        "title": "Abdeckung des künftigen Pflegebedarfs in Langenzenn sowie Betreutes und barrierefreies Wohnen: Entwicklung eines Konzepts"
+      },
+      {
+        "number": "5.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "5.1.",
+        "title": "Antrag zum Neubau eines Einfamilienhauses auf dem Grundstück Allensteiner Str. 11"
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag zur Errichtung eines Einfamilienhauses mit Doppelgarage auf dem Grundstück Nähe Klaushof 4"
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf Vorbescheid zur Umnutzung/Umbau eines Scheunengebäudes zum Einfamilienhaus mit Anbau auf dem Grundstück Görlitzer Str. 20"
+      },
+      {
+        "number": "5.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Gartenhauses zur Wohnnutzung auf dem Grundstück Hubertusstr. 8"
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf Denkmalschutzrechtlicher Erlaubnis zur Kabelverlegung auf den Grundstücken Friedrich-Ebert-Str./Denkmalplatz"
+      },
+      {
+        "number": "5.6.",
+        "title": "Antrag auf Verlängerung der Geltungsdauer des Vorbescheides zur Errichtung einer Wohnanlage auf den Grundstücken Milchgasse"
+      },
+      {
+        "number": "6.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "6.1.",
+        "title": "Gemeinde Seukendorf– Vorhabenbezogener Bebauungs- und Grünordnungsplan „REWE Seukendorf“ sowie Änderung des Flächennutzungs- und Landschaftsplanes; Behördenbeteiligung gem. § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "6.2.",
+        "title": "Gemeinde Hagenbüchach– Satzung zur Einbeziehung einzelner Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Oberfembach der Gemeinde Hagenbüchach nach § 34 (4) 3 BauGB; Einbeziehungssatzung „Ortserweiterung Oberfembach Nord“ nach § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "7.",
+        "title": "Vollzug des Bayerischen Straßen- und Wegegesetz (BayStrWG); hier: Widmung zur Ortsstraße \"Am Druidenranken\": Bestandsverzeichnis Nr. 302"
+      },
+      {
+        "number": "8.",
+        "title": "Projekt Gewässerbiotopverbundt: hier: Projekt als Best Practice Beispiel ausgewählt"
+      },
+      {
+        "number": "9.",
+        "title": "Ausschreibung zum Verkauf des Grundstücks Fl.-Nr.: 1067, Gemarkung Langenzenn"
+      },
+      {
+        "number": "10.",
+        "title": "Ausschreibung zum Verkauf des Grundstücks Fl.-Nr.: 67, Rosenstraße 10 - jetzige Bücherei"
+      },
+      {
+        "number": "11.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Thema „Fußweg zum Kammerholz“"
+      },
+      {
+        "number": "12.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "12.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen"
+      },
+      {
+        "number": "13.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "13.1.",
+        "title": "Kläranlage Langenzenn; hier: Informationen zum weiteren Vorgehen der Generalsanierung und Anpassungen an den Wasserrechtsbescheid sowie Personalbedarf"
+      },
+      {
+        "number": "14.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "15.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. 16:45Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "23. Oktober 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "61. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 61,
+    "date": "2025-10-28",
+    "startTime": "16:00",
+    "endTime": "19:10",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis TOP 16.1"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "Zuhörer ab TOP 4, Vorsitz ab TOP 16.1"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "bis TOP 19"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "Zu TOP 1.1 und 1.2"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Meyer, Evelyn",
+            "note": "Bis TOP 4"
+          },
+          {
+            "name": "Roscher, Klaus",
+            "note": "Bis TOP 1.2"
+          },
+          {
+            "name": "Vogel, Markus",
+            "note": "bis TOP 16.1"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "4.",
+        "title": "Abdeckung des künftigen Pflegebedarfs in Langenzenn sowie Betreutes und barrierefreies Wohnen: Entwicklung eines Konzepts",
+        "facts": "Wie in der Stadtratssitzung am 04.06.2025 mitgeteilt wurde, dass das geplante Projekt für eine Pflegeeinrichtung mit betreutem Wohnen nicht weiterverfolgt wird, soll nun ein Konzept erarbeitet werden, wie wir in Langenzenn mit dem zukünftigen Pflegebedarf umgehen können. 1. Bedarf aus der Studie MODUS\n\nBedarfsprognose zum Thema Pflege auf Grundlage der von MODUS durchgeführten Bestands- und Bedarfsermittlung nach Art. 69 AGSG (Gesetz zur Ausführung der Sozialgesetze) für den Landkreis Fürth, unterteilt in die Versorgungsregion Nord und Süd, zum Erhebungsstichtag 31.12.2022. Der hier angenommene Projektionszeitraum endete am 31.12.2042. Hier: Versorgungsregion Nord (Cadolzburg, Obermichelbach, Puschendorf, Seukendorf, Tuchenbach, Veitsbronn, Wilhermsdorf und Langenzenn)\n\nKurzzeitpflege\n\nStand 31.12.2022 insgesamt 29 zeitweise eingestreute Kurzzeitpflegeplätze im Landkreis verfügbar. Versorgungsregion Nord um 3 Plätze unter dem Mindestbedarf. Beide Regionen derzeit nicht ausreichend versorgt.\n\nBedarfsanstieg bis zum Jahr 2042 in der Region Nord auf 18-34 Kurzzeitpflegeplätze.\n\nTagespflege Zum Stichtag 31.12.2022, sind in der Versorgungsregion Nord zwischen 23 und 71 Tagespflegeplätze notwendig. Der Bestand von 43 Tagespflegeplätzen in der VR Nord liegt derzeit in der Mitte des berechneten Intervalls.\n\nVollstationäre Pflege: Versorgungsregion Nord liegt bereits um 37 Plätze unter dem ermittelten Mindestbedarf. Der Bedarf in der Versorgungsregion Nord wird bis zum Jahr 2042 voraussichtlich auf 492 bis 864 Pflegeplätze ansteigen. Da in der Versorgungsregion Nord aktuell bereits eine „Unterversorgung“ besteht, wären langfristig mehr als 100 zusätzliche Pflegeplätze notwendig um den Mindestbedarf abdecken zu können.\n\nZusammenfassend zeigen die Ergebnisse der Bedarfsermittlung, dass im Gegensatz zu früheren Bedarfsermittlungen- zum Stichtag 31.12.2022 lediglich im Bereich der Tagespflege noch eine ausreichende Versorgung gewährleistet war. Die derzeitigen Bestandswerte im Bereich der ambulanten Pflege und der Kurzzeitpflege befinden sich bereits unter den ermittelten Mindestbedarfswerten. Für den Bereich der stationären Pflege stehen zwar - im Gegensatz zur Versorgungsregion Nord - im Süden des Landkreises rechnerisch noch ausreichend Plätze zur Verfügung, da diese aber aufgrund des Pflegefachkräftemangels nicht belegt werden können, ist die stationäre Versorgungssituation auch in dieser Region mittelfristig nicht mehr unproblematisch.\n\nAufgrund des zukünftig stark ansteigenden Bedarfs ist in allen untersuchten Bereichen ein Ausbau notwendig. Die größte Herausforderung der nächsten Jahre besteht aufgrund des zu erwartenden Bedarfsanstiegs darin, wieder genügend Fachkräfte für den Pflegebereich zu rekrutieren. Andernfalls wird es für die pflegebedürftigen Menschen auch im Landkreis Fürth zukünftig noch schwieriger eine adäquate pflegerische Versorgung zu erhalten.\n\n2. Wegfall der Sudetenstraße für eine Pflegeeinrichtung\n\nDie Einschätzung der Verwaltung ergab, dass aufgrund der aktuellen Bedarfszahlen im Bereich der Pflegeplätze festgestellt wurde, dass das Grundstück, wie im Protokoll des Ferienausschusses am 11.08.2025 zu entnehmen ist, für eine Pflegeeinrichtung mit stationärer Pflege, zu klein dimensioniert ist.\n\n3. Neufestlegung/Diskussion von möglichen Standorten unter Berücksichtigung der Standortkriterien:\n\nDer Stadtrat ist deshalb gefragt, andere Areale für zukünftige Pflegeheime zur Verfügung zu stellen, festzulegen bzw. zu definieren.\n\nKriterien für Pflegeimmobilie und Betreutes Wohnen:\n\n(Pflegeheim: Fokus auf medizinischer Versorgung und Pflegepersonal; Betreutes Wohnen: Fokus auf Selbstständigkeit, Lebensqualität und sozialer Einbindung)  Unterschiedliche Gewichtung der Schwerpunkte, da die Bewohner/innen selbstständiger sind und weniger pflegerische Rundumversorgung benötigen. Grundstück mit vielfältigen Nutzungspotentialen - Kurze, gut ausgebaute Gehwege mit Rampen und Ampeln zu den Versorgungsmöglichkeiten: Supermarkt, Bäckerei, Friseur, Post - Nähe zu medizinischer Versorgung: Ärzte, Apotheke und Therapieeinrichtungen, so- wie Zugang zu Sozialdienstleistungen: Pflegestützpunkt, Beratung für pflegende Angehörige - Mobilitätsangebote ÖPNV, (Bürgerbusanbindung) - Soziale Infrastruktur: Nähe zu Kindergarten, Schule, Vereine, Kirchen, Treffpunkte, Begegnungsräume - Gute Straßenanbindung für Besucher, Mitarbeitende und Rettungsdienst - Kombination aus städtischer Nähe und ruhiger, sicherer und grüne Umgebung: Grünflächen, Spazierwege mit beschatteten Sitzbänken und öffentlichen Toiletten.\n\nTrend: weg vom klassischen Pflegeheim mit Vollversorgung hin zu durchlässigen, wohnähnlichen und flexiblen Pflegeformen. Z. B. Betreutes Wohnen/ Service Wohnen: eigene barrierefreie Wohnung mit Notrufsystem, Gemeinschaftsräume, Freizeitangebote, Ambulante Pflege zu buchbar. Zielgruppe: Senior mit leichter Unterstützung Oder Ambulant betreute Wohngemeinschaften: 6-12 Personen teilen sich eine Wohnung mit gemeinsamer Betreuung durch ambulanten Pflegedienst. Zielgruppe: Pflegebedürftige mit mittlerem Pflegegrad. (Förderfähig: PflegesoNah, WoLeRaF)\n\nZusammengefasst: Nach dem Wegfall der eigentlich vorgesehenen Pflegeimmobilie mit 60 Plätzen + Tagespflege + ca. 30 Einheiten für Betreutes Wohnen in der Sudetenstraße werden alternative Standorte für eine Pflegeeinrichtung sowie für Betreutes Wohnen und barrierefreies Wohnen gesucht.\n\nDer Ausschuss sollte sich überlegen, wo im Stadtgebiet so etwas sinnvoll angesiedelt werden könnte um den bereits jetzt bestehenden und zukünftigen Bedarf abdecken zu können.\n\nNach längerer Diskussion ergeht der Konsens, dass ein Kompetenzpool dringend erforderlich ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Gründung eines Arbeitskreises mit Beteiligung jeweils einer Person aus den Fraktionen, dem Seniorenrat und der Verwaltung. Des Weiteren sollte mit möglichen Betreibern Kontakt aufgenommen werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "5.1.",
+        "title": "Antrag zum Neubau eines Einfamilienhauses auf dem Grundstück Allensteiner Str. 11",
+        "facts": "Antrag zum Neubau eines Einfamilienhauses mit Carport und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich des § 8 Nr. 4 Örtliche Bauvorschriften (Einbau von Erkern) auf dem Grundstück Flur-Nr. 1066, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen. Die Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich dem Einbau von Erkern wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag zur Errichtung eines Einfamilienhauses mit Doppelgarage auf dem Grundstück Nähe Klaushof 4",
+        "facts": "Antrag zur Errichtung eines Einfamilienhauses mit Doppelgarage auf dem Grundstück Fl.-Nr. 254, Gemarkung Keidenzell.\n\nDie Verwaltung informiert, dass bereits eine Bauvoranfrage für das betreffende Grundstück eingereicht wurde, die vom Landratsamt positiv beschieden wurde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf Vorbescheid zur Umnutzung/Umbau eines Scheunengebäudes zum Einfamilienhaus mit Anbau auf dem Grundstück Görlitzer Str. 20",
+        "facts": "Antrag auf Vorbescheid zur Umnutzung/Umbau eines Scheunengebäudes zum Einfamilienhaus mit Anbau auf dem Grundstück Flur-Nr. 1125, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht. Eine Zustimmung bzgl. des Antrages auf Abweichung der Abstandsflächen wird aufgrund der Bestandssituation in Aussicht gestellt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Gartenhauses zur Wohnnutzung auf dem Grundstück Hubertusstr. 8",
+        "facts": "Bauvoranfrage zur Errichtung eines Gartenhauses zur Wohnnutzung auf dem Grundstück Flur-Nr. 61/0, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf Denkmalschutzrechtlicher Erlaubnis zur Kabelverlegung auf den Grundstücken Friedrich-Ebert-Str./Denkmalplatz",
+        "facts": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Neuverlegung von 3 Lehrrohren (HDPE DA 50 x 4,6 mm) im Spülbohrverfahren, Verlegtiefe ca. 2 m -maximal 2 Bohrgruben (ca. 1 x 2 m) im Bereich des Bodendenkmals bzw. in dessen Randbereich, ansonsten keine oberirdischen Eingriffe auf den Grundstücken Flur-Nrn. 431/2, 364/6, 364/1 und 364/8, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.6.",
+        "title": "Antrag auf Verlängerung der Geltungsdauer des Vorbescheids zur Errichtung einer Wohnanlage auf den Grundstücken Milchgasse",
+        "facts": "Antrag auf Verlängerung der Geltungsdauer des Vorbescheids zur Errichtung einer Wohnanlage auf den Grundstücken Flur-Nr. 220, 221, 225 und 227/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nzurückgestellt"
+      },
+      {
+        "number": "6.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "6.1.",
+        "title": "Gemeinde Seukendorf – Vorhabenbezogener Bebauungs- und Grünordnungsplan „REWE Seukendorf“ sowie Änderung des Flächennutzungs- und Landschaftsplanes; Behördenbeteiligung gem. § 4 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden und Beteiligung der Behörden sowie sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB und §2 Abs. 2 BauGB zu den o.g. Verfahren der Gemeinde Seukendorf vor.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass die Belange der Stadt Langenzenn nicht berührt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.2.",
+        "title": "Gemeinde Hagenbüchach– Satzung zur Einbeziehung einzelner Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Oberfembach der Gemeinde Hagenbüchach nach § 34 (4) 3 BauGB; Einbeziehungssatzung „Ortserweiterung Oberfembach Nord“ nach § 4 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden und Beteiligung der Behörden sowie sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zu den o.g. Verfahren der Gemeinde Hagenbüchach vor.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass die Belange der Stadt Langenzenn nicht berührt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Vollzug des Bayerischen Straßen- und Wegegesetz (BayStrWG); hier: Widmung zur Ortsstraße \"Am Druidenranken\": Bestandsverzeichnis Nr. 302",
+        "facts": "Im Zuge der Aufstellung des Bebauungsplanes Nr. 53 „Stinzendorf Süd-West“ wurde die Erschließungsstraße im Oktober 2024 hergestellt.\n\nDie Erschließung erfolgt über die Fläche Fl.-Nr. 553/16 und 391/1, Gemarkung Keidenzell, bis zur Einmündung in die Dillenbergstraße (Fl.-Nr. 391, Gemarkung Keidenzell, BV 208).\n\nEine entsprechende Widmung der Fläche zur Ortsstraße ist durchzuführen, welche im beiliegenden Lageplan farblich gekennzeichnet ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Widmung zur Ortsstraße „Am Druidenranken“ (BV 302) gemäß § 6 BayStrWG:\n\nBestandsverzeichnis Nr. 302 „Am Druidenranken:\n\nSpalte 1:               BV Nr. 302 Spalte 2 Nr. 1:         Am Druidenranken Spalte 2 Nr. 2:         553/16 und 391/1, Gemarkung Keidenzell Spalte 2 Nr. 3:         Anfangspunkt: Fl.-Nr. 391, Dillenbergstraße zwischen Fl.-Nr. 386 westlicher Punkt und 389 nordöstlicher Punkt, jeweils Gemarkung Keidenzell Spalte 2 Nr. 4:         Endpunkt: Wendeschleife auf Höhe Fl.-Nr. 553/10, Gemarkung Keidenzell Spalte 7:               Stadt Langenzenn Spalte 8:               160 Meter\n\nDie Verwaltung wird beauftragt, das erforderliche Widmungsverfahren durchzuführen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Projekt Gewässerbiotopverbundt: hier: Projekt als Best Practice Beispiel ausgewählt",
+        "facts": "Ende 2024 startete das gemeinsame Gewässerbiotopverbundprojekt der Stadt Langenzenn in Kooperation mit dem Landesbund für Vogel- und Naturschutz in Bayern e.V. (LBV). Neben dem Schutz und Erhalt typischer Gewässerlebensräume sollen diese, wo möglich und sinnvoll, mit zusätzlichen Nutzungsmöglichkeiten verbunden werden. Dies umfasst unter anderem den Hochwasserschutz, Wasserrückhalt und die Schaffung von Durchgängigkeit für die Tierwelt. Ein besonderer Fokus liegt dabei auf der Förderung von Amphibienarten, die als Zielarten des Projekts im Mittelpunkt stehen.\n\nDas durch den Bayerischen Naturschutzfonds geförderte Projekt, unterstützt von der Bürgerstiftung, wurde nun auf der neuen Internetseite des Bayerischen Landesamts für Umwelt (LfU) als eines der Best-Practice-Beispiele zum Aufbau des bayernweiten Biotopverbunds ausgewählt und veröffentlicht. Unter anderem wurde das Projekt als „wegweisend […] zum integrierten Gewässerbiotopverbund“ betitelt. Der Artikel ist auf der LfU-Website unter dem Bayerischen Artenschutzzentrum im Bereich Biotopverbund und dem Reiter Best-Practice Biotopverbund abrufbar. Der Link lautet wie folgt:\n\nhttps://www.lfu.bayern.de//biotopverbund/best_practice_biotopverbund/langenzenn/\n\nIm ersten Projektjahr wurden bereits Fortschritte erzielt. Neben der Amphibienkartierung wurde Anfang Mai auch eine Bachmuschelkartierung durchgeführt, die nur wenige Teichmuscheln ergab, dafür aber die vorhandenen Defizite aufzeigte, die widerum im Projekt einbezogen werden können.\n\nAuch die Steuergruppensitzung mit Vertretern und Vertreterinnen der Stadt Langenzenn, der Höheren Naturschutzbehörde, der Unteren Naturschutzbehörde, des Landschaftspflegever-\n\nbandes Mittelfranken, des Landesbund für Vogel- und Naturschutz in Bayern e.V. und des Bauernverbandes, verlief erfolgreich.\n\nDas Maßnahmenkonzept für das gesamte Stadtgebiet, welches konkrete Maßnahmen herausarbeiten soll, aber auch Steckbriefe für mögliche Maßnahmen nach dem Projekt sowie zur Pflege von Flächen wird derzeit von der Firma landimpuls GmbH erstellt. Für den Winter sind die ersten Maßnahmen mit dem Schwerpunkt auf den Waldgebieten geplant.\n\nUm die Bevölkerung zu informieren, fand Ende Juli ein erster Infoabend statt. Des Weiteren ist für den 25. Oktober eine Quellexkursion vorgesehen, die Interessierten ermöglichen soll, sich über die Tiergruppen und Lebensräume informieren zu können.\n\nDie Gespräche mit den Schulen bezüglich möglicher Aktionstage sind ebenfalls im Gange.",
+        "decision": "Der Ausschuss erkundigt sich, ob Stadträtinnen oder Stadträte bei dem Termin anwesend waren und bittet um Vorlage des Protokolls.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Ausschreibung zum Verkauf des Grundstücks Fl.-Nr.: 1067, Gemarkung Langenzenn",
+        "facts": "Die Stadt Langenzenn hat das unbebaute Grundstück Fl.-Nr.: 1067, Gemarkung Langenzenn, mit einer Gesamtgröße von 897 m² im Jahr 2016 erworben. Wie im vorangegangenen Beschluss zur weiteren Vorgehensweise bzgl. der Allensteiner Str. 8 bereits erläutert, wurden alle bisher angedachten Planungen hinsichtlich einer möglichen Nutzung des Grundstücks durch die Stadt / Landratsamt bzgl. einer Schule oder schulähnliche Nutzung wieder verworfen.\n\nDerzeit liegen keine weiteren Planungen für das Grundstück vor.\n\nDas Grundstück könnte veräußert werden.\n\nAus Sicht einer langfristigen Schulentwicklung sollten aber angrenzend an die Schule immer Flächen für zukünftige Anforderungen freigehalten werden. Regelmäßig hat sich die Notwendigkeit nach Flächen ergeben, diese aus der Hand zu geben würde bedeuten, sich ggf. einmal nötige Möglichkeiten und Rektionsmöglichkeiten zu verschließen.\n\nGerade im Schulbereich war und ist immer wieder mit verschiedensten Anforderungen zu rechnen, in den letzten 20 Jahren beispielsweise die Einführung des Ganztags, die Gründung von Mittagsbetreuung und Hort, der Zusammenschluss mit Veitsbronn zum Schulverband, mit Cadolzburg zum Schulverbund, der Anbau der Realschule, welche zwingend „unter einem Dach“, also direkt neben der Mittelschule, entstehen musste, die Thematik der 9+2-Klassen sowie der M-Klassen, nun zuletzt der Ganztagesbetreuungsanspruch an der Grundschule.\n\nWer weiß, wann es plötzlich Vorgaben für „grüne Klassenzimmer“, Schulgärten, erweiterte Pausenhofflächen, weiteres Fachraumangebot o.ä. gibt? Werden irgendwann ggf. auch Schüler aus Wilhermsdorf oder dem Nachbarlandkreis die Mittelschule besuchen, wenn ja, wie viele und wo werden diese untergebracht? Wie wird das Gebäude der Realschule irgendwann genau genutzt, benötigt dieses dann ggf. separate Außenspielflächen, die nicht\n\nmit dem Pausenhof der Mittelschule zusammenfallen dürfen? Ist im Zuge einer Turnhallensanierung oder Turnhallenerweiterung ggf. weiteres Flächenpotential nötig?\n\nUm die Schule herum gibt es noch ein paar wenige Grundstücke, die für die Schulentwicklung ebenfalls interessant wären, so z.B. die Gebäude an der Schulstraße, das „Hofmann- Grundstück“ nördlich der Grundschule und das Areal der Schützen.\n\nUm flexibel gerade im Hinblick auf eine Entwicklung im Bereich der Realschule reagieren zu können, hat die Stadt auch die 3.000 qm Fläche am Eck Ringstraße / Burggrafenhofer Straße erworben, welche derzeit als Lagerplatz genutzt wird. Vorrangig, wenn etwas verkauft werden sollte, könnte dafür diese Fläche ins Auge gefasst werden.\n\nÜber einen Verkauf auch des 3.000 qm-Grundstückes sollte, wenn überhaupt, erst nachgedacht werden, wenn der Landkreis den Vertrag bzgl. des Realschulneubaus unterzeichnet hat.",
+        "decision": "Der Ausschuss beschließt, das Grundstück nicht zu verkaufen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Ausschreibung zum Verkauf des Grundstücks Fl.-Nr.: 67, Rosenstraße 10 - jetzige Bücherei",
+        "facts": "Die Ausschreibung zum Verkauf des Grundstückes Flur-Nr. 67, Rosenstr. 10 (jetzige Bücherei) wurde unter TOP 3 in nichtöffentlicher Sitzung beraten."
+      },
+      {
+        "number": "11.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Thema „Fußweg zum Kammerholz“",
+        "facts": "Mit Schreiben vom 20.10.2025 hat die CSU-Stadtratsfraktion einen Antrag zur Errichtung eines Fußwegs zum „Kammerholz“ bei der Stadtverwaltung eingereicht.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt den Antrag der CSU-Stadtratsfraktion zum Thema „Fußweg zum Kammerholz“ stattzugeben.\n\nDie Verwaltung wird mit der weiteren Prüfung beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "12.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen",
+        "facts": "   Hindenburgstraße 48/ Sperrung Gehweg / wg. Abbruch Gebäude vom 07.08.- 19.12.2025\n\n   Div. Straßen / Wanderbaustelle / geschlossene Kanalsanierung vom 06.05. - 31.12.2025\n\n   Div. Straßen / Wanderbaustelle / Standsicherheitsprüfung an Beleuchtungsmasten / 30.04. - 31.10.2025\n\n   Laubendorf Div. Straßen/ Wanderbaustelle / Kanalinspektion vom 01.09.-31.10.2025\n\n   Lohe Div. Straßen/ Wanderbaustelle / Kanalinspektion vom 15.09.-07.11.2025\n\n   Schießhausplatz, Sperrung Fahrbahn, Sperrung Gehweg, Sperrung Parkflächen / Umgestaltung Parkplatz Schießhausplatz - BA 2 (Teil 1 und 2) / von 29.09. - 19.12.2025\n\n   Alte Zennstraße 4, halbseitige Sperrung Fahrbahn/Gerüststellung Dachsanierung vom 13.10.-07.11.2025\n\n   Allensteiner Str. 24, halbseitige Sperrung Fahrbahn, keine Wendemöglichkeit/ Wendehammer, Aufstellung Kran vom 21.10.-28.11.2025\n\n   Frankenstraße 19-21a - teilweise Sperrung Gehweg/Gerüststellung für Verputz,- und Flaschnerarbeiten; 09.10.-06.11.25\n\n   Kapell-Leite 3a / Sperrung Gehweg, halbseitige Sperrung Fahrbahn /Hausanschluss Wasser und Kanal vom 14.10.-28.10.2025\n\n   Tannenstraße 22/ halbseitige Sperrung Fahrbahn + Gehweg / Aufstellung Container/Kran_ Geothermiebohrungen vom 22.10.-31.10.25\n\n   Dillenbergstraße 14 (gegenüber), Halbseitige Fahrbahnsperrung + Gehweg / Glasfaser Hausanschluss Telekom vom 27.10.-17.11.2025\n\n   Reichenberger Str. 33-35, Fahrbahneinengung, Baustellenbeschilderung wg. Gerüst Arbeiten am Strommast vom 03.11.-14.11.2025\n\n   Div. Straßen BG 11 Muffengruben/Fahrbahneinengung/ Glasfasernetzausbau / 23.09.- 28.11.2025\n\n   Blumen-, Blüten-, Grünstraße / Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 14.10.-21.11.2025\n\n   Flurstraße, Cadolzburger Weg / Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 14.10.-21.11.2025\n\n   Pfaffenleite, Sudetenstr. Turnstr./ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/\n\nGlasfasernetzausbau / 22.9.-31.10.2025\n\n   Hindenburgstr. 37, 41, 48./ teilweise Sperrung Gehweg, Punktaufgrabung Glasfasernetzausbau / 18.9.-31.10.2025\n\n   Würzburger Straße 2-24 und 9-17 Abschnittsweise Sperrung/ teilweise Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 13.10.2025- 07.11.2025\n\nReichenberger Str. (Parkplätze nähe Hallenbad)/ Parkplatzsperrung / Lagerung von Baumaterial Glasfaserausbau vom 13.10.-19.12.2025",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "13.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "13.1.",
+        "title": "Kläranlage Langenzenn; hier: Informationen zum weiteren Vorgehen der Generalsanierung und Anpassungen an den Wasserrechtsbescheid sowie Personalbedarf",
+        "facts": "Eine Mitarbeiterin der Kläranlage hat dem Bau-, Umwelt- und Verkehrsausschuss im Rahmen der Ortsbesichtigung am 23.09.2025 die baulichen und technischen Entwicklungen so- wie den Personalstand und die Personalentwicklung erläutert.\n\nIn Zusammenarbeit mit dem Ingenieurbüro Miller werden derzeit die notwendigen Sanierungs- und Ertüchtigungsmaßnahmen ermittelt, die zusätzlich zu den Maßnahmen aus dem 10-Jahres-Plan kurz- und mittelfristig anstehen werden. Die entsprechenden Konzepte und Honorarangebote liegen voraussichtlich im November 2025 vor.\n\nFür eine Kläranlage der Größenordnung 4 (für 20.000 Einwohnerwerte) mit den zusätzlichen 13 Pumpstationen mit Regenüberlaufbecken im Kanalnetz ist die Personalausstattung entsprechend erforderlich. Vergleichbare Anlagen im Umkreis beschäftigen 4 bis 6 Arbeitskräfte (vgl. Vortrag BUVA 2021). In der Kläranlage Langenzenn sind aktuell 4 Mitarbeiter beschäftigt.\n\nAufgrund gestiegener Anforderungen an die die technischen Abläufe innerhalb und außerhalb der Kläranlage sowie die Sicherheitsauflagen ist eine zeitnahe Aufstockung des Personals auf 5 Mitarbeiter erforderlich, zumal Arbeiten am Kanalnetz künftig nur noch mit mindestens zwei Personen ausgeführt werden dürfen. Zusätzlich sind für den Eigenschutz und Rettung künftig die Untersuchungen und die Eignung des Personals zum Tragen von Atemschutzausrüstung notwendig.\n\nEine Fremdvergabe von Arbeitsleistungen am Kanalnetz ist aus betriebstechnischen Gründen nicht zielführend und würde voraussichtlich unwirtschaftlicher sein.\n\nAufgrund der momentanen Personalstruktur wäre auch wieder eine Ausbildung von eigenen Fachkräften sinnvoll. Im Zeitraum 2021 – 22 waren in der Kläranlage zwischenzeitlich 5 Mitarbeiter beschäftigt.\n\nAuf Grundlage der Daten des DWA (Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e. V.) werden für eine Anlage der Größenordnung 4 etwa 4.500 Personaljahresstunden angegeben. Hinzu kommen die Personaljahresstunden für die Arbeiten an den Pumpstationen, dem Abwassernetz, sowie die Managementaufgaben.\n\nEine weitere Beratung zur Stellenbesetzung erfolgt im Hauptausschuss am 28.10.2025.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis und befürwortet die Personalaufstockung auf 5 Mitarbeiter.\n\nDie weitere Beratung zur Stellenbesetzung erfolgt im Hauptausschuss am 28.10.2025.\n\nDie Auswirkungen auf die Abwassergebühren, die eine mögliche Aufstockung von Personal in der Kläranlage hat, soll vorab im Mitteilungsblatt veröffentlicht werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "14.",
+        "title": "Mitteilungen Es lagen keine Mitteilungen vor."
+      },
+      {
+        "number": "15.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "15.1.",
+        "title": "Straßenzustand an der Grundstückseinfahrt Waldstr. 7",
+        "facts": "Stadträtin Schlager bittet um Überprüfung des Zustandes der Randbereiche (Einzeiler) auf Höhe der Grundstückszufahrt zur Waldstr. 7. Die Straßeneinfassungen weisen erhebliche Fehlstellen auf. Die Mängel sollten noch vor Wintereinbruch behoben werden."
+      },
+      {
+        "number": "15.2.",
+        "title": "Zustand Flurweg Langenbergweg Richtung Burggrafenhof",
+        "facts": "Stadträtin Schlager bemängelt den Zustand des Flurweges vom Langenbergweg Lohe nach Burggrafenhof. Die Unterhaltungsmaßnahmen müssen aufgrund der Unfallgefahr dringend erfolgen. Die Priorisierung der Unterhaltsmaßnahmen an ausgebauten Flurwegen ist anzupassen. In diesem Zusammenhang ist die Haftung für Wegbaumeister im Rahmen der Gemeindeunfallversicherung zu klären."
+      },
+      {
+        "number": "15.3.",
+        "title": "Überquerungshilfe / -insel Heinersdorf",
+        "facts": "Stadträtin Schlager übergibt der Verwaltung fehlende Adresse des Grundstückseigentümers."
+      },
+      {
+        "number": "15.4.",
+        "title": "Kanaldeckel Obere Ringstr. 17",
+        "facts": "Stadtrat Oliver Vogel gibt bekannt, dass auf Höhe des Grundstückes Obere Ringstr. 17 ein Kanaldeckel locker sitzt.\n\nDie Verwaltung teilt mit, dass die Instandsetzung für die Woche in den Herbstferien geplant ist."
+      },
+      {
+        "number": "15.5.",
+        "title": "Haftung der Wegbaumeister im Rahmen der Gemeindeunfallversicherung",
+        "facts": "Stadtrat Schramm regt an, dass die Stadt Langenzenn den Wegbaumeistern schriftlich den Haftungsausschluss bei gemeldeten Straßen- und Wegeschäden im Rahmen der Gemeindeunfallversicherung bestätigt."
+      },
+      {
+        "number": "15.6.",
+        "title": "Äste im Teichenbach",
+        "facts": "Stadtrat Oliver Vogel teilt dem Ausschuss mit, dass Äste im Bereich des Trafohauses am Teichenbach liegen. Die Verwaltung teilt mit, dass der Bauhof bereits mit der Entfernung beauftragt ist."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179137",
+    "minutes": "182526"
+  }
+}

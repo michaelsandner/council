@@ -1,0 +1,330 @@
+{
+  "meetingId": "3243",
+  "announcement": {
+    "heading": "59. Sitzung des Hauptausschusses",
+    "sessionNumber": 59,
+    "date": "2024-10-24",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Antrag der Freiwillige Feuerwehr Horbach auf Nutzung des Stadtwappens"
+      },
+      {
+        "number": "2.",
+        "title": "Bericht über die Finanzsituation vom 01.01. bis 30.09.2024 (Kassenstatistik)"
+      },
+      {
+        "number": "3.",
+        "title": "Übertragung von Haushaltsausgaberesten beim Rechnungsabschluss 2023 der Stadt Langenzenn"
+      },
+      {
+        "number": "4.",
+        "title": "Ertüchtigung des Kinosaales; hier: Beschlussfassung über die Auszahlung einer weiteren Abschlagszahlung des Zuschusses an die Hans-Sachs-Spielgruppe Langenzenn e.V."
+      },
+      {
+        "number": "5.",
+        "title": "Zuschussantrag des TSV 1894 Langenzenn e. V. für die Umrüstung des B-Platzes auf LED Beleuchtung"
+      },
+      {
+        "number": "6.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung eines SoccerCourts auf dem Sportgelände"
+      },
+      {
+        "number": "7.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung einer Verschattungsanlage in der Sporthalle"
+      },
+      {
+        "number": "8.",
+        "title": "Gebührenanpassung Stadtkasse; hier: Abschaffung der Zahlungserinnerung und Anpassung der Mahngebühren"
+      },
+      {
+        "number": "9.",
+        "title": "Girokonto der Stadt Langenzenn bei der Postbank; hier: Bekanntgabe der Kündigung"
+      },
+      {
+        "number": "10.",
+        "title": "Neuerlass der Satzung für die Erhebung der Hundesteuer (Hundesteuersatzung - HStS) hier: Vorberatung"
+      },
+      {
+        "number": "11.",
+        "title": "Neuerlass der Satzung über die Benutzung der Stadtbücherei Langenzenn Büchereisatzung; hier. Vorberatung"
+      },
+      {
+        "number": "12.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei Langenzenn (Bücherei-Gebührensatzung; hier: Vorberatung"
+      },
+      {
+        "number": "13.",
+        "title": "Antrag von Herrn Stadtrat Jäger auf Neubesetzung des Kirchweihausschusses"
+      },
+      {
+        "number": "14.",
+        "title": "Antrag der CSU-Stadtratsfraktion auf Stellenbesetzungssperre"
+      },
+      {
+        "number": "15.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "16.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Oktober 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "59. Sitzung des Hauptausschusses",
+    "sessionNumber": 59,
+    "date": "2024-10-24",
+    "startTime": "17:30",
+    "endTime": "21:15",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vertreter für Herrn ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "Vertreter für Herrn StR Jäger"
+          },
+          {
+            "name": "Gawehn, Michael",
+            "note": "Vertreter für Herr StR Schwämmlein"
+          },
+          {
+            "name": "Schramm, Alexander",
+            "note": "Vertreter für Frau StRin Osswald"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "Vertreter für Herr StR Ströbel"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta",
+            "note": "ab TOP 27.4 Vertreterin für Herrn StR Ammon"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Antrag der Freiwillige Feuerwehr Horbach auf Nutzung des Stadtwappens",
+        "facts": "Die Vorstandschaft des Vereins FFW Horbach e.V. beantragt die Nutzung des Stadtwappens auf Bekleidungsstücken (Poloshirts in rot).",
+        "decision": "Der Hauptausschuss stimmt dem Antrag des Vereins FFW Horbach e.V. auf Nutzung des Stadtwappens zur Anbringung auf Bekleidungsstücken zu.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Bericht über die Finanzsituation vom 01.01. bis 30.09.2024 (Kassenstatistik)",
+        "facts": "Die aktuellen Zahlen über die Einnahme- und Ausgabesituation, sowie über die Liquiditätslage der Stadt Langenzenn, werden im Rahmen einer Berichterstattung, dem Hauptausschuss bekannt gegeben.\n\nGruppierungsübersicht - Hauptgruppen\n\nGruppierung Nr.         Bezeichnung 0          Steuern, allgemeine Zuweisungen              12.363.590 1          Einnahmen aus Verwaltung und Betrieb          9.306.737 2          Sonstige Finanzeinnahmen                      1.029.509 3          Einnahmen des Vermögenshaushaltes             2.967.101\n\nSumme Einnahmen                              25.666.937\n\n4          Personalausgaben                              4.386.772 5          Sächlicher Verwaltungs- u. Betriebsaufwand    2.100.421 6          Sächlicher Verwaltungs- u. Betriebsaufwand    5.852.526 7          Zuweisungen und Zuschüsse                     3.641.542 8          Sonstige Finanzausgaben                       5.305.917 9          Ausgaben des Vermögenshaushaltes              4.995.853\n\nSumme Ausgaben                               26.283.031\n\nSaldo                                          -616.094\n\nSchulden       Schuldenstand 30.09.2024                     15.360.877 Kassenkredit (19.03. bis 31.12.2024)          3.000.000\n\nEntwicklung des Gewerbesteuer-Istaufkommens zum Vorjahr\n\n2023                          2024 1. Quartal          1.453.155,23                  1.206.753,97 2. Quartal          1.468.521,28                  1.812.528,27 3. Quartal          1.516.288,81                  1.614.338,24\n\nSumme               4.437.965,32                  4.633.620,48\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Übertragung von Haushaltsausgaberesten beim Rechnungsabschluss 2023 der Stadt Langenzenn",
+        "facts": "Die Verwaltung legt dem Hauptausschuss eine Aufstellung der Haushaltsausgabereste beim Rechnungsabschluss 2023 der Stadt Langenzenn vor. Die einzelnen Positionen wurden im Rahmen der Haushaltsplanung 2024 bereits besprochen und bei der Ansatzplanung berücksichtigt.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt, beim Rechnungsabschluss 2023 der Stadt Langenzenn folgende Haushaltsausgabereste (neu) zu übertragen:\n\nVermögenshaushalt der Stadt Langenzenn Haushaltsausgabereste lt. Aufstellung in der Summe von 1.282.000 €.\n\nDie Aufstellung der Haushaltsausgabereste des Vermögenshaushaltes der Stadt Langenzenn liegt der Niederschrift als Anlage 1 bei.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Ertüchtigung des Kinosaales; hier: Beschlussfassung über die Auszahlung einer weiteren Abschlagszahlung des Zuschusses an die Hans-Sachs-Spielgruppe Langenzenn e.V.",
+        "facts": "Der Stadtrat hat am 13.06.2024 beschlossen, der Hans-Sachs-Spielgruppe Langenzenn e. V. eine freiwilligen Zuschuss in Höhe von 60 % der tatsächlich angefallenen Kosten (Kostengruppe 300, 400 und 700), maximal jedoch 120.000 €, für die Ertüchtigung des Kinosaales zu gewähren.\n\nZur Sicherstellung der Leader Förderung hat die Stadt Langenzenn der Hans-Sachs- Spielgruppe bereits einen Vorschuss in Höhe von 50.000 € ausgezahlt. Dieser Vorschuss ist mit der Auszahlung des Zuschusses zu verrechnen.\n\nDie Hans-Sachs-Spielgruppe Langenzenn e. V. beantrag nunmehr die Auszahlung einer weiteren Abschlagszahlung in Höhe von 50.000 €.\n\nNach Prüfung der Kostenübersicht des Vereines durch das Bauamt der Stadt Langenzenn werden 40.000 € als weitere Abschlagszahlung frei gegeben.",
+        "decision": "Der Hauptausschuss beschließt, der Hans-Sachs-Spielgruppe Langenzenn e. V. für die Ertüchtigung des Kinosaales eine weitere Abschlagszahlung in Höhe von 40.000 € auszuzahlen. Die Auszahlung der Schlussrate des gewährten Zuschusses erfolgt nach Vorlage des Verwendungsnachweises durch den Verein.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Zuschussantrag des TSV 1894 Langenzenn e. V. für die Umrüstung des B-Platzes auf LED Beleuchtung",
+        "facts": "Der TSV 1894 e. V. Langenzenn beantragt mit Schreiben vom 16.10.2024 einen Zuschuss zur Erneuerung der Flutlichtanlage auf dem B-Platz.\n\nDa die Flutlichtanlage auf dem B-Platz noch mit Quecksilberdampfer betrieben wird, ein Betonmast äußerliche Risse aufweist und der Zustand allgemein schlecht ist, hat sich der Verein entschieden aus Sicherheitsgründen die Masten zu erneuern und im Zuge dessen auf energieeffiziente LED-Leuchtmittel umzurüsten.\n\nDie Gesamtkosten der Maßnahme werden auf ca. 33.000,00 € geschätzt.\n\nDie Förderung der Stadt Langenzenn für die Umrüstung auf LED-Beleuchtung beträgt fünf Prozent der nachgewiesenen Kosten ohne Eigenleistung (siehe u.a. Beschluss vom 26.10.2023).\n\nBei geschätzten Gesamtkosten in Höhe von 33.000,00 € und einer Förderung von fünf Prozent würde ein Investitionskostenzuschuss der Stadt Langenzenn 1.650,00 € betragen.\n\nIm Haushaltsplan 2024 ist für die Sportförderung für Vereine ein allgemeiner Ansatz von 5.000,00 € bereitgestellt. Die Verwaltung empfiehlt die Maßnahme des TSV Langenzenn mit fünf Prozent der nachgewiesenen Kosten ohne Eigenleistung, für die Umrüstung des B- Platzes auf LED-Beleuchtung zu unterstützen. Für den allgemeinen Haushaltsansatz 2024 der Sportförderung liegt bislang nur ein Antrag vor und es stehen noch Mittel zur Verfügung, so dass eine Förderung der Maßnahme in diesem Jahr möglich ist.",
+        "decision": "Der Hauptausschuss beschließt, dem TSV 1894 e. V. Langenzenn einen freiwilligen Zuschuss in Höhe von fünf Prozent der nachgewiesenen Kosten ohne Eigenleistung, für die Umrüstung des B-Platzes auf LED-Beleuchtung zu gewähren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung eines SoccerCourts auf dem Sportgelände",
+        "facts": "Der SV Burggrafenhof e.V. beantragt mit Schreiben vom 05.08.2024 einen Zuschuss zur Errichtung eines SoccerCourts auf dem Sportgelände des SV Burggrafenhof. Durch die Errichtung sollen die Kinder und Jugendlichen des Vereins und der Schule im Außenbereich eine Alternative bei schlechtem Wetter erhalten. Die Planung beinhaltet auch eine Anbringung von Basketballkörben. Zusätzlich soll dieser Court andere Trainingsmöglichkeiten (z. B. Fitnesstraining usw.) bieten, um den Kindern und Jugendlichen auch außerhalb der regulären Trainingszeiten ein Angebot zum Trainieren bzw. Sport machen zu ermöglichen. Der Court soll auch der Schule zur Nutzung dienen. Des Weiteren ist eine Benutzung zu späten Abendstunden ebenfalls möglich. Es sind auf dem C-Platz bereits LED-Flutlichter montiert, die diesen Court ohne weiteres ausleuchten.\n\nDie Gesamtkosten der Maßnahme werden auf 203.904,56 € geschätzt.\n\nGemäß Beschluss des Hauptausschusses vom 23.11.2023 werden Investitions-maßnahmen von Sportvereinen mit eigenen Sportstätten durch die Stadt Langenzenn mit einer Förderung von 15 Prozent der zuwendungsfähigen Kosten (ohne Eigenleistung) unterstützt.\n\nBei geschätzten Gesamtkosten in Höhe von 203.904,56 € und einer Förderung von 15 Prozent würde ein Investitionskostenzuschuss der Stadt Langenzenn 30.585,68 € betragen.\n\nDa die Bereitstellung etwaiger Mittel im Haushalt 2024 der Stadt Langenzenn nicht mehr möglich ist, schlägt die Verwaltung vor, über den Zuschussantrag im Rahmen der Haushaltsplanberatungen 2025 abschließend zu entscheiden.\n\nDie Verwaltung weist bereits jetzt schon darauf hin, dass derzeit noch nicht absehbar ist ob im Haushaltsjahr 2025 eine Mittelbereitstellung für den Zuschuss erfolgen kann. Darüber hinaus kann die Gewährung und Auszahlung des Zuschusses erst nach Vorliegen der rechtsaufsichtlichen Genehmigung des Haushaltes 2025 der Stadt Langenzenn erfolgen.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und vertagt die Beratung des TOP in die Haushaltsplanberatungen 2025 der Stadt Langenzenn..",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Zuschussantrag des SV Burggrafenhof e.V. für die Errichtung einer Verschattungsanlage in der Sporthalle",
+        "facts": "Der SV Burggrafenhof e.V. beantragt mit Schreiben vom 02.09.2024 einen Zuschuss zum Bau einer Verschattungsanlage in der Sporthalle des SV Burggrafenhof e.V.. Grund der Errichtung der Anlage ist, dass sich aufgrund der großen Fensterfront auf der Ostseite der Halle, eine erhebliche Beeinträchtigung des Schulsports durch die tiefstehende Sonne ab den Wintermonaten bis hin zum Frühjahr, ergibt. Dies wurde lt. Verein auch mehrfach von den Lehrkräften verschiedener Schulen angesprochen und reklamiert.\n\nDie Gesamtkosten des Einbaus der Verschattungsanlage werden auf 19.176,85 € geschätzt.\n\nGemäß Beschluss des Hauptausschusses vom 23.11.2023 werden Investitionsmaßnahmen von Sportvereinen mit eigenen Sportstätten durch die Stadt Langenzenn mit einer Förderung von 15 Prozent der zuwendungsfähigen Kosten (ohne Eigenleistung) unterstützt.\n\nBei geschätzten Gesamtkosten in Höhe von 19.176,85 € und einer Förderung von 15 Prozent würde ein Investitionskostenzuschuss der Stadt Langenzenn 2.876,53 € betragen.\n\nIm Haushaltsplan 2024 ist für die Sportförderung für Vereine ein allgemeiner Ansatz von 5.000,00 € bereitgestellt. Da die Sporthalle des SV Burggrafenhof e.V. auch für den Schulsport genutzt wird, empfiehlt die Verwaltung die Maßnahme mit 15 Prozent der nachgewiesenen Kosten ohne Eigenleistung, für den Bau der Verschattungsanlage zu unterstützen. Für den allgemeinen Haushaltsansatz 2024 der Sportförderung liegen bislang keine Anträge vor.",
+        "decision": "Der Hauptausschuss beschließt, dem SV Burggrafenhof e.V. einen freiwilligen Zuschuss in Höhe von 15 Prozent der nachgewiesenen Kosten ohne Eigenleistung, für die Errichtung einer Verschattungsanlage in der Sporthalle zu gewähren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Gebührenanpassung Stadtkasse; hier: Abschaffung der Zahlungserinnerung und Anpassung der Mahngebühren",
+        "facts": "Nach Art. 20 Kostengesetz i.V.m. dem Kostenverzeichnis des Freistaates Bayern beträgt die Mahngebühr bei einer öffentlich-rechtlichen Forderung mindestens 5,00 € und höchstens 150,00 €. Die Stadt Langenzenn bemisst die Höhe ihrer Gebühren nach diesem Kostenverzeichnis (KommKVz), welche Anlage der Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Stadt Langenzenn (Kostensatzung) ist.\n\nBisher werden durch die Stadt Langenzenn Mahngebühren ab 8,00 € erhoben. Diese wurden ab 01.04.2021 aufgrund corona-bedingter Zahlungsausfälle von damals 5,00 Euro auf 8,00 Euro erhöht und eine kostenfreie Zahlungserinnerung eingeführt. Dies diente während der Corona-Zeit und der Energiekrise als Erleichterung für die Bürger.\n\nAb 01.01.2025 soll die kostenfreie Zahlungserinnerung wieder entfallen. Gemäß dem bayerischen Verwaltungszustellungs- und Vollstreckungsgesetz (VwZVG) ist nur eine Mahnung erforderlich, um die Vollstreckungsvoraussetzungen zu erfüllen.\n\nIn diesem Zuge werden dann die Mahngebühren von 8,00 € auf 5,00 € herabgesetzt, da der bisherige Verwaltungsaufwand und die damit verbundenen Kosten für eine kostenfreie Zahlungserinnerung wegfallen.\n\nDie Mahngebühren unterlagen bisher einer Staffelung von 8,00 bis 100,00 Euro. Dies berechnete sich nach der Höhe der Hauptforderung. Diese Staffelung ist nicht mehr üblich, da die Mahnung, gleich welcher Forderungshöhe, den gleichen Aufwand verursacht. Die Verwaltung schlägt daher vor, die Mahngebühren für alle Forderungshöhen auf 5,00 Euro festzulegen.\n\nFür privatrechtliche Forderungen wurden bisher Mahnauslagen von pauschal 8,00 € erhoben. Die Stadtkasse schlägt hier die Anpassung auf pauschal 5,00 € vor.",
+        "decision": "Der Hauptausschuss beschließt, die Abschaffung einer Zahlungserinnerung sowie die Herabsetzung der Mahngebühren und Mahnauslagen zum 01.01.2025 von 8,00 € auf 5,00 €. Die Staffelung der Mahngebühren entfällt. Für privatrechtliche Forderungen wird die Mahngebühr von pauschal 8,00 € auf 5,00 € angeglichen.\n\nDie Kostensatzung der Stadt Langenzenn ist anzupassen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Girokonto der Stadt Langenzenn bei der Postbank; hier: Bekanntgabe der Kündigung",
+        "facts": "Die Stadt Langenzenn hält bei den ortsansässigen Banken Girokonten für die Einzahlungen und Überweisungen der Bürger bereit. Für Auszahlungen dient ausnahmslos das Konto bei der Sparkasse Fürth.\n\nDie Postbank hat in Langenzenn keine Filiale mehr und daher können Postbank-Kunden aus Langenzenn nur noch Online-Banking nutzen. Da die Postbank die Kontoauszüge mit der Post verschickt, stellt sie für die Stadtkasse einen gewissen Mehraufwand gegenüber den anderen Banken dar, denn gerade bei Vierteljahresstatistiken, Jahresabschlüssen und Mahnläufen muss die Stadtkasse stets auf die Kontoauszüge der Postbank warten und hat keinen Einblick auf aktuelle Einzahlungen.\n\nWeiter belaufen sich die Kontoführungsgebühren bei der Postbank unverhältnismäßig hoch. Jährlich werden ca. 400 Einzahlungen über das Postbankkonto abgewickelt. Die jährlichen Gebühren liegen bei ca. 350 Euro. Vergleichsweise mit den Kosten der VR-Bank, mit vergleichbar hohen Einzahlungsfällen, belaufen sich die Kontoführungsgebühren auf nur 45 Euro im Jahr.\n\nDie Verwaltung teilt mit, dass das Girokonto bei der Postbank zum 31.12.2024 gekündigt wird. Die Bürger, die dieses Konto regelmäßigen für ihre Überweisungen und Einzahlungen nutzen, werden schriftlich benachrichtigt. Ebenso erfolgt eine Information im Mitteilungsblatt.",
+        "decision": "Der Ausschuss nimmt von der Kündigung des Girokontos bei der Postbank zum 31.12.2024 Kenntnis. Die Bürger, die dieses Konto regelmäßig für ihre Überweisungen bzw. Einzahlungen nutzen, werden informiert. Im Mitteilungsblatt wird ein Hinweis erfolgen\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "10.",
+        "title": "Neuerlass der Satzung für die Erhebung der Hundesteuer (Hundesteuersatzung - HStS) hier: Vorberatung",
+        "facts": "Die Finanzverwaltung hat in der Sitzung vom 27.06.2024 den Hauptausschuss über das Thema Hundesteuer informiert. Da die letzte Erhöhung der Hundesteuer im Jahr 2015 erfolgt ist, hat der Hauptausschuss die Verwaltung beauftragt einen Vorschlag für die Erhöhung der Hundesteuer zum 01.01.2025 auszuarbeiten.\n\nDie letzte Erhöhung der Hundesteuer erfolgte im Jahr 2015. Damals wurde die Steuer für den\n\n ersten Hund von 60,00 € auf 85,00 € für den  zweiten Hund von 90,00 € auf 115,00 € und für  jeden weiteren Hund von 120,00 € auf 145,00 € erhöht.\n\nDer Steuersatz für Kampfhunde ohne Negativzeugnis wurde von 400,00 € auf 425,00 € erhöht.\n\nVon Seiten der Verwaltung wird folgende Erhöhung zum 01.01.2025 vorgeschlagen:\n\n ersten Hund von 85,00 € auf 105,00 € für den  zweiten Hund von 115,00 € auf 135,00 € und für  jeden weiteren Hund von 145,00 € auf 165,00 €. Der Steuersatz für Kampfhunde ohne Negativzeugnis, wird von 425,00 € auf 1.000,00 € erhöht.\n\nHierzu ist festzustellen, dass es derzeit in unserem Stadtgebiet zwar Listenhunde (Kampfhunde) gibt, aber keinen ohne Negativzeugnis. Dieser Steuersatz kommt somit derzeit nicht zur Anwendung.\n\nEine Übersicht der Hundesteuersätze der umliegenden Gemeinden liegt dem Hauptausschuss zur Entscheidungsfindung vor. Die seit dem 01.01.2022 geltende Hundesteuersatzung soll deshalb in § 5 Abs. 1 bezüglich der Beträge geändert werden.\n\nIn § 10 Abs. 4 wird das Wort „soll“ durch das Wort „muss“ ersetzt. Es ist den meisten Steuerpflichtigen nicht klar, dass „soll“ in der Rechtssprache „muss“ bedeutet, wenn nicht besondere Umstände vorliegen.\n\nWeitere Änderungen der Satzung für die Erhebung der Hundesteuer wurden nicht vorgenommen.\n\nAus Gründen der Rechtsklarheit und Übersichtlichkeit wird empfohlen, keine Änderungssatzung zu erstellen, sondern eine Neufassung zu beschließen und im Mitteilungsblatt bekanntzumachen.\n\nIm Rahmen der Beratungen zur Erhöhung der Hundesteuersätze hat der Hauptausschuss folgende Erhöhung vorschlagen:\n\n erster Hund von 85,00 € auf 90,00 € für den  zweiter Hund von 115,00 € auf 150,00 € und für  jeder weitere Hund von 145,00 € auf 200,00 €",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat die Steuersätze in § 5 Abs. 1 der Hundesteuersatzung wie folgt zu erhöhen:\n\n erster Hund von 85,00 € auf 90,00 € für den  zweiter Hund von 115,00 € auf 150,00 € und für  jeder weitere Hund von 145,00 € auf 200,00 €.\n\nDie Verwaltung wird beauftrag die genannten Steuersätze in den Entwurf der Hundesteuersatzung einzupflegen.\n\nHierdurch erfolgt eine Anpassung (Erhöhung) der Steuersätze in § 5 Abs. 1 und in § 10 Abs. 4 wird das Wort „soll“ durch das Wort „muss“ ersetzt.\n\nDie Satzung tritt zum 01.01.2025 in Kraft. Gleichzeitig treten diesbezügliche frühere Satzungen außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Neuerlass der Satzung über die Benutzung der Stadtbücherei Langenzenn Büchereisatzung; hier. Vorberatung",
+        "facts": "Die Satzung über die Nutzung der Stadtbücherei Langenzenn vom 05.08.2009 wurde überarbeitet und soll neu erlassen werden, Synopse:\n\n§1 Gegenstand der Satzung; Öffentliche Einrichtung (1) Die Stadtbücherei Langenzenn ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultureinrichtung der Stadt Langenzenn.\n\n(1) Die Stadtbücherei ist eine öffentliche nicht auf Gewinnerzielung gerichtete Bildungs- und Kultureinrichtung der Stadt Langenzenn. Sie bietet Bürgerinnen und Bürgern – unabhängig von ihrer Bildung, ihrer kulturellen Herkunft und ihrem sozialen Status – einen freien Zugang zu Wissen und Informationen. Sie dient der Leseförderung sowie der kulturellen Freizeitgestaltung.\n\n(2) Die Stadtbücherei hat die Aufgabe, ihre Medienbestände (wie Bücher, Zeitschriften, Spiele, Hörbücher, Audiokassetten und -CDs, Videokassetten und –CDs/DVDs u. a.) in den Räumen der Bücherei zur Benutzung bereitzustellen, ihre Medienbestände zur Benutzung außerhalb der Bücherei auszuleihen und im Rahmen ihrer personellen Möglichkeiten bibliographische Auskünfte zu erteilen.\n\n(2) Die Stadtbücherei hat die Aufgabe, ihre Medienbestände in den Räumen der Bücherei zur Benutzung bereitzustellen sowie ihre Medienbestände zur Benutzung außerhalb der Bücherei auszuleihen.\n\n§4 Ausleihfrist, Verlängerung, Vormerkung (1) Die Ausleihfrist beträgt für\n\na)    Bücher                                                            4 Wochen b)    Zeitschriften, Spiele, Hörbücher, Audiokassetten und              2 Wochen -CDs aus dem eigenen Bestand c)    Audio- und Videokassetten, Audio- und Video-CDs/DVDs aus          1 Woche dem Mittelfränkischen Audiovisuellen Leihring a)    Bücher                                                            4 Wochen b)    Zeitschriften, Spiele, Hörbücher                                  2 Wochen c)    Non-Book-Medien wie z.B, Tonies, CDs                              2 Wochen\n\nAbsätze 2, 3, 4, 5, 6 der vorherigen Fassung entfallen\n\n(2) Medien können zur Ausleihe vorbestellt werden. Die Anzahl der auszugebenden Medien oder die Benutzungsdauer kann in begründeten Fällen beschränkt bzw. geändert werden. Die Ausleihfrist kann je nach Mediengruppe vor Ablauf auf Antrag verlängert werden.\n\n(3) Für Medien, die nach Ablauf der Ausleihfrist nicht zurückgegeben werden, ist eine Versäumnisgebühr nach der Gebührensatzung zu entrichten.\n\n§5 Art und Zeit der Benutzung\n\n(3) Die Stadtbücherei kann für die Benutzung einzelner Einrichtungen besondere Bestimmungen treffen.\n\n(3) Die Leitung der Stadtbücherei kann für einzelne Benutzergruppen und für die Nutzung der Räumlichkeiten für Angebote oder Aktionen besondere Bestimmungen erlassen.\n\n§7 Gebühren (1) Für die Ausleihe, den Leseausweis, die Überschreitung der Ausleihfrist sowie für sonstige Leistungen werden Gebühren nach der Gebührensatzung erhoben.\n\n1) Für den Leseausweis, die Überschreitung der Ausleihfrist sowie für sonstige Leistungen werden Gebühren nach der Gebührensatzung erhoben\n\n§8 Hausordnung (2) Die Benutzer haben sich so zu verhalten, dass andere Benutzer nicht gestört oder in der Benutzung der Bücherei beeinträchtigt werden. Rauchen, Essen und Trinken ist in der Bücherei nicht gestattet.\n\n2) Die Benutzer haben sich so zu verhalten, dass andere Benutzer nicht gestört oder in der Benutzung der Bücherei beeinträchtigt werden. Das Mitbringen eigener Speisen und Getränke ist nicht gestattet. In den Räumlichkeiten der Bücherei besteht Rauchverbot.\n\n§9 Computerarbeitsplätze (1) Die Stadtbücherei stellt Ihren Benutzern Arbeitsplätze zu Internetrecherchen zur Verfügung.\n\n(2) Es gelten die einschlägigen Schutzvorschriften im Strafgesetz, Jugendschutzgesetz und Datenschutzrecht.\n\n(1) Bei Zurverfügungstellung von öffentlich zugänglichen PC-Arbeitsplätzen gelten für die Nutzer die einschlägigen Schutzvorschriften im Strafgesetz, Jugendschutzgesetz und Datenschutzrecht.\n\nDie Satzung soll zum 01.01.2025 in Kraft treten.\n\nDer Entwurf zum Neuerlass der Satzung über die Stadtbücherei Langenzenn (Büchereisatzung) vom 24.10.2024 wird der Niederschrift als Anlage 2 beigefügt .",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgende Beschlussfassung:\n\nDer Stadtrat beschließt, den vorliegenden Entwurf der Satzung über die Benutzung der Stadtbücherei Langenzenn vom 24.10.2024 als Satzung. Die Satzung ist öffentlich bekannt zu geben und tritt am 01.01.2025 in Kraft, gleichzeitig tritt die Satzung vom 05.08.2009 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei Langenzenn (Bücherei-Gebührensatzung; hier: Vorberatung",
+        "facts": "Die Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei vom 05.08.2009 wurde überarbeitet und soll neu erlassen werden, Synopse:\n\nBisherige Fassung: §5 Gebührenhöhe Für die Benutzung der Stadtbücherei werden folgende Gebühren erhoben:\n\n1)       Ausleihe a)       Ausleihe von Büchern, je Buch und für je vier Wochen Ausleihfrist            0,10 € b)       Ausleihe von Zeitschriften, Spiele, Hörbücher, Audiokassetten und - CDs aus dem eigenen Bestand, je Medium und für je zwei Wochen Ausleihfrist                                                                 0,10 € c)       Ausleihe von Audio- und Videokassetten, Audio- und Video- CDs/DVSs aus dem Mittelfränkischen Audiovisuellen Leihring je Medium und für je eine Woche Ausleihfrist                                      1,00 € d)       Vorbestellung von Medien, je Medium                                          0,50 € e)       Rückspulgebühr bei nicht zurückgespulten Audio- oder Videokassetten aus dem Mittelfränkischen Audiovisuellen Leihring je Medium              0,50 €\n\n2)       Leseausweise a)       Erstausstellung eines Leseausweises für Erwachsene                           3,00 € b)       Erstausstellung eines Leseausweises für Kinder u. Jugendliche                1,50 € c)       Ausstellung eines Ersatz-Leseausweises für Erwachsene                        6,00 € d)       Ausstellung eines Ersatzleseausweises für Kinder u. Jugendliche              3,00 €\n\n3)       Computer- und Internetnutzung a)       Internetnutzung je angefangene 30 Minuten                                    1,50 € b)       Ausdruck/Kopie je Seite in Schwarz-Weiß                                      0,20 € c)       Ausdruck/Kopie je Seite in Farbe                                             0,50 €\n\n4)       Versäumnisgebühren Wird die Ausleihfrist überschritten, so ist je Medieneinheit eine Versäumnisgebühr zu entrichten, diese beträgt a)       bei den unter Nr. 1, Buchst. a und b genannten Medien, pro Medium und angefangener Woche                                                       0,50 € b)       bei den unter Nr. 1, Buchst. c genannten Medien, pro Medium und Büchereiöffnungstag                                                          1,00 €\n\n5)       Verwaltungsgebühren a)       für schriftliche Erinnerungen nach Überschreitung der Ausleihfrist zuzüglich zu den Gebühren nach Nr. 4                                         2,50 € b)       für Botengänge zwecks Rückholung der Medien im Stadtgebiet zusätzlich                                                                   10,00 € c)       für Botengänge/-fahrten zwecks Rückholung der Medien außerhalb\n\ndes Stadtgebietes werden die tatsächlichen Kosten erhoben, falls diese über die vorbezeichneten Beträge hinausgehen\n\nNeufassung: §5 Gebührenhöhe Für die Benutzung der Stadtbücherei werden folgende Gebühren erhoben:\n\n1)    Leseausweise Jahresgebühren (Zeitjahr) Kinder / Jugendliche bis 18 Jahre                                           kostenfrei Azubis, Schüler/-innen, Studenten/-innen (ab 18. LJ. mit Nachweis)              6,00 € Erwachsene                                                                     12,00 € Ehrenamtskartenbesitzerinnern, Ehrenamtskartenbesitzer                       kostenfrei Ersatzausweis bei Verlust                                                       3,00 € 2)    Versäumnisgebühren Wird die Ausleihfrist überschritten, so ist je Medieneinheit eine Versäumnisgebühr zu entrichten, diese beträgt 1. Mahnung pro angefangener Woche                                                 0,50 € 2. Mahnung pro angefangener Woche                                                 1,50 € 3. Mahnung pro angefangener Woche                                                 3,00 €\n\nDer Entwurf der Satzung über die Erhebung der Gebühren für die Benutzung der Stadtbücherei Langenzenn vom 24.10.2024 wird der Niederschrift als Anlage 3 beigefügt.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgende Beschlussfassung:\n\nDer Stadtrat beschließt den vorliegenden Entwurf der Satzung über die Erhebung für die Benutzung der Stadtbücherei (Bücherei-Gebührensatzung) vom 24.10.2024 als Satzung. Die Satzung ist öffentlich bekannt zu geben und tritt am 01.01.2025 in Kraft, gleichzeitig tritt die bisherige Satzung vom 05.08.2009 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "13.",
+        "title": "Antrag von Herrn Stadtrat Jäger auf Neubesetzung des Kirchweihausschusses",
+        "facts": "Herr Stadtrat Jäger hat für die Stadtratsfraktion der Freien Wähler Langenzenn e.V. folgenden Antrag zur Neubesetzung des Kirchweihausschusses gestellt,\n\n„…der Kirchweihausschuss soll mit jeweils einem Mitglied jeder Fraktion, Mitarbeitern der Verwaltung und 3 – 4 kritischen Bürgern besetzt werden. Sinnvoll wäre auch, wenn Sie, Herr Bürgermeister, daran teilnehmen………“\n\nZur Mitarbeit werden im Antrag namentlich eine Auswahl kritischer Bürger vorgeschlagen, die sich auf Facebook negativ zur Kirchweih geäußert hatten.",
+        "decision": "Der Hauptausschuss beschließt, den Antrag der Stadtratsfraktion Freie Wähler\n\nLangenzenn e.V. zur Beratung in die Fraktionen zu verweisen.\n\nDie Meinungsabfrage zur Zusammensetzung des Kirchweihausschusses soll an der nächsten Sitzung des Hauptausschusses erfolgen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "14.",
+        "title": "Antrag der CSU-Stadtratsfraktion auf Stellenbesetzungssperre",
+        "facts": "Bei den Stellungnahmen der Fraktionen zum Haushalt 2024 wurde nachfolgender Antrag gestellt.\n\n„Die CSU – Fraktion stimmt dem Haushalt 2024 zu und beantragt gleichzeitig eine Wiederbesetzungssperre für den ganzen Stellenplan 2024 der Stadt und der Stadtwerke. Die aktuelle Finanzlage zwingt uns leider zu unpopulären Maßnahmen.“",
+        "decision": "Der Tagesordnungspunkt wird nicht beschlossen, aufgrund der Klarstellung der eigentlichen Antragsabsicht des Antragstellers und der damit verbundenen Überarbeitung des Tagesordnungspunktes."
+      },
+      {
+        "number": "15.1.",
+        "title": "Information über die Genehmigung der Haushaltssatzung",
+        "facts": "Mit Schreiben vom 21.10.2024 teilt die Kommunalaufsicht mit, dass die Haushaltssatzung der Stadt Langenzenn für das Haushaltsjahr 2024 genehmigt wurde.\n\nDas Genehmigungsschreiben der Kommunalaufsicht wird der Niederschrift als Anlage 2 beigefügt."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "169264",
+    "minutes": "172510"
+  }
+}

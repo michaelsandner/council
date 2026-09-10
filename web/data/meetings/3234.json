@@ -1,0 +1,397 @@
+{
+  "meetingId": "3234",
+  "announcement": {
+    "heading": "45. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 45,
+    "date": "2024-07-23",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "4.",
+        "title": "Informationen zu Möglichkeiten der Be- und Entwässerung durch Baumrigolen"
+      },
+      {
+        "number": "5.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht"
+      },
+      {
+        "number": "6.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "6.1.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Klosterstraße 3a"
+      },
+      {
+        "number": "6.2.",
+        "title": "Antrag auf Errichtung von 4 Reihenhäusern, Carport und Umbau einer bestehenden Maschinenhalle zu Garagen auf dem Grundstück Forststraße 1"
+      },
+      {
+        "number": "6.3.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Fassadenstreichung auf dem Grundstück Friedrich-Ebert-Straße 15"
+      },
+      {
+        "number": "6.4.",
+        "title": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Keller auf dem Grundstück Nähe Redenbacherstraße"
+      },
+      {
+        "number": "6.5.",
+        "title": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Tiefgarage auf dem Grundstück Flurstraße 58"
+      },
+      {
+        "number": "6.6.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung einer Terrassenüberdachung auf dem Grundstück Am Eichenwald 4"
+      },
+      {
+        "number": "6.7.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienwohnhauses mit Garage auf dem Grundstück Flurstraße 18"
+      },
+      {
+        "number": "6.8.",
+        "title": "Antrag auf Vergrößerung eines Balkons an einem Einfamilienhaus im Genehmigungsfreistellungsverfahren auf dem Grundstück Frankenstraße 8"
+      },
+      {
+        "number": "6.9.",
+        "title": "Antrag auf Befreiung zur Errichtung einer Doppelgarage mit Stützwand auf dem Grundstück Bergstraße 12"
+      },
+      {
+        "number": "6.10.",
+        "title": "Antrag auf Umbau eines Dachgeschosses mit Errichtung von drei Gauben und einer Balkonanlage auf dem Grundstück Nürnberger Straße 211"
+      },
+      {
+        "number": "6.11.",
+        "title": "Antrag zum Neubau einer Maschinenhalle mit zwei Wohnungen im DG auf dem Grundstück Farrnbachstraße 5"
+      },
+      {
+        "number": "7.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bundesstraße 8 - Sanierungsarbeiten zwischen der Anschlussstelle Nord und Horbach"
+      },
+      {
+        "number": "7.2.",
+        "title": "Aktuelle Baustellen/Verkehrssperrungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "8.1.",
+        "title": "Durchführung eines Projekts zur \"Entwicklung und Umsetzung eines integrierten Gewässerbiotopverbundes für die Stadt Langenzenn hier: Information zur Förderung"
+      },
+      {
+        "number": "8.2.",
+        "title": "Bericht über die Verfilmung der städtischen Kanäle und den Stand der Schadensbehebung der Vorjahresbefunde"
+      },
+      {
+        "number": "9.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt um ca. 16:45 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Juli 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "45. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 45,
+    "date": "2024-07-23",
+    "startTime": "16:00",
+    "endTime": "19:37",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 1, 16:03 Uhr, bis TOP 12.2, 19:20 Uhr"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 13.2, 16:51 Uhr"
+          },
+          {
+            "name": "Vogel, Oliver",
+            "note": "ab TOP 1, 16:05 Uhr"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Ziegler, Thomas",
+            "note": "für Stadträtin Schlager"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "3.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "3.1.",
+        "title": "Beschlussfassung zur Parkplatzsituation Hindenburgstraße",
+        "facts": "Die Parkplatzsituation der Hindenburgstraße wird vom Bau-, Umwelt- und Verkehrsausschuss unter Tagesordnungspunkt 2 besichtigt.\n\n   Hindenburgstraße 18: Aufgrund einer Gebäudesanierung mit Wiederherstellung der historischen Eingangssituation wäre ein Parkplatz zu verschieben. Dies könnte im unmittelbaren Bereich erfolgen. Die Gehwegsituation bliebe dann zum bisherigen Bestand unverändert.\n\n   Hindenburgstraße 35 - 37: Durch Einengung der Fahrbahn auf ca. 4m Breite könnten ca. 4 Parkplätzen entstehen. Diese wären etwa je zur Hälfte auf dem Gehweg und auf der Straße angeordnet und könnten zunächst als Provisorium für ca. 3 Monate errichtet werden. Die Gehwegsituation wäre somit verbessert, gleichzeitig könnte „Wildparken“ eingedämmt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt zu Spiegelstrich 1 die Verschiebung eines Parkplatzes um ca. 6 Meter von Ost nach West.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt zu Spiegelstrich 2 die Verbesserung der Gehwegsituation und Parksituation die Schaffung von 4 Parkplätzen als Provisorium für 3 Monate mittels Einengung der Fahrbahn auf ca. 4 Meter.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Informationen zu Möglichkeiten der Be- und Entwässerung durch Baumrigolen",
+        "facts": "Herr Jörg Jaroszewski, Mitglied im AK Stadtgrün des Bayerischen Städtetages, stellt anhand einer Präsentation Möglichkeiten der Be- und Entwässerung durch Baumrigolen vor.\n\nDie Präsentation liegt der Niederschrift als Anlage 1 bei.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Kommunales Denkmalkonzept; hier: Sachstandsbericht",
+        "facts": "Herr Hermann Keim vom Büro KEIM-Architekten, Fürth, stellt dem Bau-, Umwelt- und Verkehrsausschuss den Abschluss des Moduls 2 des Kommunalen Denkmalkonzepts Langenzenn vor.\n\nDas Landesamt für Denkmalpflege erteilt in Kürze eine Rückmeldung zur möglichen Förderungen von weiteren Modulen. Dies könnten z.B. Vorentwürfe für einzelne Gebäude sein, oder auch ein Energiekonzept für den Quartiersumgriff.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "6.1.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Klosterstraße 3a",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Flur-Nr. 214, Gemarkung Langenzenn.\n\nZur städtebaulichen Beratung liegt der Verwaltung eine Stellungnahme vom Büro P4, Nürnberg vor.\n\nHierzu wird u.a. Folgendes mitgeteilt / empfohlen:\n\n   Der historische Stadtkern von Langenzenn mit seiner unter Denkmalschutz stehenden Klosteranlage, dem Ensemblebereich östliche Altstadt und seinen vielen Einzeldenkmälern ist Zeugnis der Geschichte und der hohen städtebaulichen Qualität. Die Bewahrung der Altstadt und der ortstypischen Baustrukturen wurde durch den Erlass einer Gestaltungssatzung Rechnung getragen.\n\n   Das betroffene Gebäude befindet sich im Sanierungsgebiet, innerhalb des Ensemblebereiches und in unmittelbarer Nähe zu denkmalgeschützten Gebäuden. Die Klosteranlage befindet sich direkt gegenüber.\n\n   Die beiden Dachflächen sind von der Klosterstraße aus sichtbar. Insbesondere die westliche Dachfläche kann vom Schwabenberg gut eingesehen werden.\n\n   Es wurden 21 Module montiert. Die Lage der Module orientiert sich an den vorhandenen Fenstern und Versprüngen. Das Gesamtbild der Dachfläche wirkt dadurch unstrukturiert und unruhig.\n\n   Aus städtebaulicher Sicht wird die Anbringung der Photovoltaikmodule insbesondere auf der gut einsehbaren Westseite als sehr problematisch angesehen. Die unmittelbare Nähe zur Klosteranlage erfordert einen besonders behutsamen Umgang bei Veränderungen am Gebäude und der Dachlandschaft. Hier wurden ohne Rücksicht auf diese empfindliche städtebauliche Lage die Module unstrukturiert montiert.\n\n   Fazit:\n\nEs wird empfohlen die Module in der jetzigen Anbringung zurückzubauen und in Abstimmung mit den zuständigen Denkmalschutzbehörden eine möglichst verträgliche Anordnung abzustimmen.\n\nAus Sicht der energetischen Erneuerung ist es geboten regenerative Energien zu unterstützen, allerdings ist hierbei die jeweilige städtebauliche Situation unbedingt zu berücksichtigen.\n\nBei der Anordnung ist neben der Einsehbarkeit und Nähe zu denkmalgeschützten Gebäuden unbedingt auf eine ruhige kompakte Anordnung zu achten.\n\nAuch bei der Wahl der Module sollte auf eine zurückhaltende Ausführung geachtet werden, möglichst flächig schwarz ohne Strukturierung.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt nicht das gemeindliche Einvernehmen.\n\nHinweis:\n\nEs wird empfohlen die Module in der jetzigen Anbringung zurückzubauen und in Abstimmung mit den zuständigen Denkmalschutzbehörden eine möglichst verträgliche Anordnung abzustimmen.\n\nAus Sicht der energetischen Erneuerung ist es geboten regenerative Energien zu unterstützen, allerdings ist hierbei die jeweilige städtebauliche Situation unbedingt zu berücksichtigen. Bei der Anordnung ist neben der Einsehbarkeit und Nähe zu denkmalgeschützten Gebäuden unbedingt auf eine ruhige kompakte Anordnung zu achten.\n\nAuch bei der Wahl der Module sollte auf eine zurückhaltende Ausführung geachtet werden, möglichst flächig schwarz ohne Strukturierung.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 6,
+          "against": 1
+        }
+      },
+      {
+        "number": "6.2.",
+        "title": "Antrag auf Errichtung von 4 Reihenhäusern, Carport und Umbau einer bestehenden Maschinenhalle zu Garagen auf dem Grundstück Forststraße 1",
+        "facts": "Antrag auf Errichtung von 4 Reihenhäusern, Carport und Umbau einer bestehenden Maschinenhalle zu Garagen auf dem Grundstück Flur-Nr. 934, Gemarkung Keidenzell.\n\nZu dem Bauvorhaben lag bereits eine Bauvoranfrage vor, welche vom Landratsamt Fürth positiv bewertet wurde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.3.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Fassadenstreichung auf dem Grundstück Friedrich-Ebert-Straße 15",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Fassadenstreichung auf dem Grundstück Flur-Nr. 28, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.4.",
+        "title": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Keller auf dem Grundstück Nähe Redenbacherstraße",
+        "facts": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Keller auf dem Grundstück Flur-Nr. 855/6, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.5.",
+        "title": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Tiefgarage auf dem Grundstück Flurstraße 58",
+        "facts": "Antrag auf Neubau eines Mehrfamilienwohnhauses mit Tiefgarage auf dem Grundstück Flur- Nr. 855/4, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis:\n\nDie Errichtung eines Kinderspielplatzes (bei mehr als drei Wohnungen ist ein ausreichend großer Kinderspielplatz anzulegen) gemäß Art. 7 Abs. 3 BayBO ist nachzuweisen.\n\nDie Stellplätze sind ggf. entsprechend dinglich zu sichern.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.6.",
+        "title": "Antrag auf isolierte Befreiung zur Errichtung einer Terrassenüberdachung auf dem Grundstück Am Eichenwald 4",
+        "facts": "Antrag auf isolierte Befreiung zur Errichtung einer Terrassenüberdachung auf dem Grundstück Flur-Nr. 1179/4, Gemarkung Laubendorf.\n\nDie Verwaltung teilt mit, dass die Terrassenüberdachung bereits errichtet wurde und diese im Rahmen einer bauaufsichtlichen Prüfung –aufgrund einer Beschwerde zur Beachtung nachbarschützender Belange- festgestellt wurde.\n\nZwischenzeitlich liegt der Verwaltung eine Zustimmung des Nachbarn vor, so dass keine nachbarschützenden Belange mehr als beeinträchtigt gesehen werden.\n\nDie Verwaltung weist darauf hin, dass zusätzlich zum Antrag auf isolierte Befreiung bezüglich der Baugrenze und Dachform noch ein Antrag auf Abweichung gemäß Art. 6 BayBO (Abstandsflächen) beim Landratsamt Fürth einzureichen ist.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze und Dachform wird erteilt.\n\nHinweis:\n\nEin Antrag auf isolierte Abweichung gemäß Art. 6 BayBO (Abstandsflächen) ist beim Landratsamt Fürth einzureichen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.7.",
+        "title": "Bauvoranfrage zum Neubau eines Einfamilienwohnhauses mit Garage auf dem Grundstück Flurstraße 18",
+        "facts": "Bauvoranfrage zum Neubau eines Einfamilienwohnhauses mit Garage auf dem Grundstück Flur-Nr. 708/4, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nHinweis:\n\nNachbarschützende Belange hinsichtlich des Abstandsflächenrechtes sind zu prüfen.\n\nEiner Abweichung bezüglich der Stellplatzsatzung (hier: Länge der Abstellfläche) kann aufgrund des Grundstückzuschnittes in Aussicht gestellt werden.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 6,
+          "against": 1
+        }
+      },
+      {
+        "number": "6.8.",
+        "title": "Antrag auf Vergrößerung eines Balkons an einem Einfamilienhaus im Genehmigungsfreistellungsverfahren auf dem Grundstück Frankenstraße 8",
+        "facts": "Antrag auf Vergrößerung eines Balkons an einem Einfamilienhaus im Genehmigungsfreistellungsverfahren auf dem Grundstück Flur-Nr. 1025/55, Gemarkung Langenzenn.",
+        "decision": "Die Stadt Langenzenn erklärt gemäß Art. 58 Abs. 1 Nr. 5 BayBO, dass kein Genehmigungsverfahren durchgeführt werden soll und eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 BauGB nicht beantragt wird.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.9.",
+        "title": "Antrag auf Befreiung zur Errichtung einer Doppelgarage mit Stützwand auf dem Grundstück Bergstraße 12",
+        "facts": "Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachneigung zur Errichtung einer Doppelgarage mit Stützwand auf dem Grundstück Flur-Nr. 1203/10, Gemarkung Langenzenn.\n\nDie Vorgabe zur Dachneigung liegt laut Bebauungsplan bei 0-3°, geplant ist eine Dachneigung von 15°.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachneigung wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.10.",
+        "title": "Antrag auf Umbau eines Dachgeschosses mit Errichtung von drei Gauben und einer Balkonanlage auf dem Grundstück Nürnberger Straße 211",
+        "facts": "Antrag auf Umbau eines Dachgeschosses mit Errichtung von drei Gauben und einer Balkonanlage auf dem Grundstück Flur-Nr. 51, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.11.",
+        "title": "Antrag zum Neubau einer Maschinenhalle mit zwei Wohnungen im DG auf dem Grundstück Farrnbachstraße 5",
+        "facts": "Antrag zum Neubau einer Maschinenhalle mit zwei Wohnungen im DG auf dem Grundstück Flur-Nr. 9, Gemarkung Keidenzell.",
+        "decision": "Der Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis: Ein Gesamtstellplatznachweis ist zu führen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bundesstraße 8 - Sanierungsarbeiten zwischen der Anschlussstelle Nord und Horbach",
+        "facts": "Das Staatliche Bauamt Nürnberg teilt mit, dass im Zuge der Sanierungsarbeiten der B 8 zwischen der Anschlussstelle Langenzenn Nord und Horbach auch die Regenrückhalteanlagen entlang der Sanierungsstrecke ausgebaut werden. Hier sollen Reinigungsanlagen eingebaut werden, welche die gesammelten Oberflächenwasser der B 8 vor der Ableitung in die jeweiligen Vorfluter von Sedimenten, Reifenabrieb oder Schwermetallen reinigen.\n\nFür den Bau dieser Reinigungsanlagen werden umliegende Flurstücke Straßen und Wege zur Lagerung und Befahrung in Anspruch genommen.\n\nEs wird darüber informiert, dass mit vermehrten Transportfahrten auf den Flurwegen zu rechnen ist.\n\nEine entsprechende Vereinbarung über die Benutzung der städtischen Grundstücke und Wege ist derzeit in Ausarbeitung.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.2.",
+        "title": "Aktuelle Baustellen/Verkehrssperrungen",
+        "facts": "Aktuelle Baustellen/Straßensperrungen:\n\n   Glasfaser-Kabelverlegung in der Oberen Ringstraße 14-17 - halbseitige Sperrung des Verkehrs vom 29.07.-02.08.2024\n\n   Glasfaser-Kabelverlegung im Clausenberg - hier Vollsperrung der Fahrbahn vom 23.07.-30.07.2024 Die Tiefbaukabelzug-Arbeiten zum Glasfaserausbau BA I sind nach o.g. Maßnahmen abgeschlossen. Es werden im weiteren Verlauf der Baumaßnahmen die Hausanschlüsse für das Glasfaserkabelnetz hergestellt. Es ist mit punktuellen Aufgrabungen (teilweise Sperrungen von Gehwegen) im Bauabschnittsbereich zu rechnen.\n\n   Vollsperrung Heubrückenweg Laubendorf vom 17.07.-09.08.2024 aufgrund von Kabelverlegungsarbeiten\n\n   Stromleitungsverlegung zwischen Hausen und Horbach für den Anschluss einer Photovoltaikanlage in Raindorf; Vollsperrung von Feldwegen und halbseitige Sperrung der Gemeindeverbindungsstraße Horbach, Hausen und Straßenquerung in halbseitige Bauweise über die Alte B 8 Nürnberger Straße vom 17.07.-23.08.2024    Vollsperrung im Bereich Finkenschlag 48 wegen Dacharbeiten bis zum 02.08.2024\n\n   Sperrung von 8 Parkflächen am Parkplatz Sanktustorstraße wegen Arbeiten an der 20 KV-Freileitung vom 29.07.-01.08.2024\n\n   Vollsperrung der Allensteiner Straße wegen Arbeiten am Wasserleitungsnetz vom 29.07.-07.08.2024\n\n   Vollsperrung der Zollnerstraße im Teilabschnitt Flurstraße bis Albrecht-Achilles- Straße wegen Straßenbauarbeiten vom 19.08.-09.09.2024\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "8.1.",
+        "title": "Durchführung eines Projekts zur \"Entwicklung und Umsetzung eines integrierten Gewässerbiotopverbundes für die Stadt Langenzenn hier: Information zur Förderung",
+        "facts": "Der Bayerische Naturschutzfonds hat das Naturamt darüber informiert, dass der Stiftungsrat in seiner Sitzung vom 07.05.2024 der Förderung für das Projekt „Entwicklung und Umsetzung eines integrierten Gewässerbiotopverbundes für die Stadt Langenzenn im Landkreis Fürth“ für den Zeitraum von drei Jahren (01.09.2024 bis 31.08.2027) zugestimmt hat.\n\nDen Eigenanteil übernehmen zum Teil der LBV (Landesbund für Vogel- und Naturschutz in Bayern e.V.) sowie die Bürgerstiftung der Stadt Langenzenn.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.2.",
+        "title": "Bericht über die Verfilmung der städtischen Kanäle und den Stand der Schadensbehebung der Vorjahresbefunde",
+        "facts": "Durch das Ingenieurbüro Miller wurde das Stadtgebiet Langenzenn einschließlich Außenorte in 10 Abschnitte unterteilt, welche turnusmäßig (jährlich ein Gebiet) verfilmt und überprüft werden.\n\nDie letzte Beauftragung datiert auf das Jahr 2018.\n\nAufgrund von Problemen / Verzögerungen der ausführenden Firma wurden die Arbeiten erst Anfang 2024 abgeschlossen. Mit Abschluss der Arbeiten ist der erste Turnus mit Ausnahme von minimalen Resten abgeschlossen.\n\nFür Kanäle die älter als 40 Jahre sind wird neben der optischen Überprüfung eine Dichtheitsprüfung gefordert. Diese wird jedoch in den Kommunen aufgrund der höheren Kosten vernachlässigt behandelt.\n\nEbenso wäre es möglich den Turnus entsprechend der Einteilung des IB Millers neu zu beginnen.\n\nSanierungen der städtischen Kanäle wurden partiell in Zusammenhang mit Straßensanierungen durchgeführt (z.B. Pilgerstraße und Imhofstraße).\n\nDas Büro Miller hat in 2023 ein Angebot für die Kanalsanierung der Frankenstraße im Bereich Protsorgstraße erstellt. Dieser Abschnitt könnte als Inlinersanierung ohne weitere Tiefbauarbeiten ausgeführt werden. Die geschätzten Kosten hierfür belaufen sich vorläufig auf brutto 238.000 Euro. Hinzukommen die Planungskosten in Höhe von ca. brutto 30.000 Euro.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis und beschließt:\n\n1. Die Planungsleistungen für die Inlinersanierung in der Frankenstraße und Protsorgstraße werden zu einem Angebotspreis von 28.646,82 € an das Ingenieurbüro Miller, Nürnberg, vergeben. 2. Die Ausschreibung für die nächste turnusmäßige TV-Kanalinspektion ist durch das Ingenieurbüro Miller, Nürnberg, vorzubereiten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "9.1.",
+        "title": "Bahnübergangskonzept Langenzenn; hier: Mitteilung der Ergebnisse aus dem Abstimmungstermin mit der DB Netz AG",
+        "facts": "Die Verwaltung teilt mit, dass am Freitag, den 19.07.2024 ein erneuter Ortstermin mit der DB an den Bahnübergängen Langenzenn Ziegenberg, An der Bleiche, Würzburger Straße stattfand.\n\nZusammenfassend teilt die DB mit, dass sie folgende interne Vorgaben erhalten hat:\n\na. Aufgrund der veralteten Technik der Bahnübergangsanlagen besteht dringender Handlungsbedarf. Hierzu benötigt die Bahn eine klare Zielerklärung der Stadt Langenzenn, da sie sonst eigenständig tätig wird und die Bahnübergänge nach eigenen Ermessen und Vorgaben ertüchtigt.\n\nb. alle Bahnübergänge sind in Verbindung mit der Landesgartenschau 2032 technisch zu erneuern und einwandfreien Zustand zu bringen.\n\nFolgende herausragende Faktoren und Einflüsse für die erforderlichen Bahnübergangsmaßnahmen werden dargestellt:\n\n   Der schnellstmögliche Planungsanstoß für die Bahnübergänge Würzburger Straße, An der Bleiche, ehem. Zufahrt Firma Koramic und Ziegenberg hat aufgrund des Anlagenalters der betroffenen Bahnübergänge, aber auch vor allem zur Erhöhung der Sicherheit und zur Verbesserung der verkehrlichen Abwicklung zu erfolgen.\n\nDazu wurden zur Ortsbegehung technische Festlegungsprotokolle erstellt, die den Istzustand fixieren und sonstige Forderungen und Hinweise der Straßenbaulastträger aufnehmen sollen.\n\nDie Stadt müsse hierzu eine Stellungnahme an die DB abgegeben, in der das Verlangen der Verlegung der Kreisstraße sowie weitere zukunftsorientierte konkrete Planungsvorstellungen enthalten und begründet sind. Dies ist notwendig, um die Berücksichtigung im von der Bahn geführten Verfahren sicher zu stellen.\n\nDie DB führt in Ihrer Zusammenfassung weiterhin aus:\n\n   Es ist eine Erneuerung der Bahnübergangssituation in diesen Bereichen mit Blick auf die Landesgartenschau in Langenzenn 2032 erstrebenswert.\n\n   Die in den vergangenen Jahren abgestimmte Variante zur Verlegung der Kreisstraße Ziegenberg in Richtung Ortsstraße „Schlehenstraße“ und deren Verbindung kann aufgrund weiterhin nicht geklärter Sachverhalte nicht weiterverfolgt werden. Die ungeklärte Situation der verfügbaren Flächen sowie die Tatsache, dass eine ähnliche Variante bereits 2013 („Nordumfahrung“) per Bürgerentscheid abgelehnt wurde, lässt an einen durchsetzbaren Erfolg dieser Variante zweifeln. Auch sind Einwände der Umweltbehörden für diese Variante zu erwarten.\n\nIn Verbindung mit dem Zeitdruck, welcher aus dringender Erneuerungsbedürftigkeit der technischen Anlagen, aber auch aus der absehbaren Durchführung der Landesgartenschau hervorgeht, müssen nun die Planungen für die derzeit realistisch umsetzbare Lösung des BÜ-Bereiches vorangetrieben werden. Das Eisenbahnbundesamt hat zudem die Variante zur Verlegung der Kreisstraße in Richtung Schlehenstraße nicht als Folgemaßnahme der Bahnübergangsthematik bewertet und sähe sich hierfür daher nicht zuständig.\n\nFolgende Maßnahmen werden nun schnellstmöglich auf der Veranlassung der DB verfolgt:\n\n1. Erneuerung BÜ Würzburger Straße (Ertüchtigung und Verbesserung des Bahnsteiges, Auflassung eines Haltepunktes); Berücksichtigung Fuß- und Radwege- Planungen der Stadt Langenzenn in Abstimmung mit dem Staatlichen Bauamt Nürnberg. 2. Erneuerung BÜ An der Bleiche 3. Beseitigung des BÜ ehem. Firmenzufahrt und Herstellung eines Ersatzweges /einer Anbindung des Anliegers zur Kreisstraße Ziegenberg 4. Erneuerung BÜ Ziegenberg\n\n   Von Seiten der DB wurde wiederholt die Möglichkeit eingebracht, dass anstatt der Verlegung der Kreisstraße in Richtung Schlehenstraße, eine „Verlängerung“ der Ortsstraße Schlehenstraße in Richtung Ziegenberg durch die Stadt in Erwägung gezogen werden könnte.\n\nDer Anstoß dieser Möglichkeit muss jedoch separat von den Bahnübergangsmaßnahmen durch die Stadt Langenzenn in Abstimmung mit dem Staatlichen Bauamt und unter Beteiligung der DB im Rahmen der Bahnübergangsmaßnahmen erfolgen, damit entsprechende Änderungen bei den Maßnahmen der Bahnübergänge ggf. berücksichtigt werden können.\n\nDer Ausschuss nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "167162",
+    "minutes": "171221"
+  }
+}

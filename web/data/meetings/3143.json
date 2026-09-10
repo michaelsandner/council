@@ -1,0 +1,140 @@
+{
+  "meetingId": "3143",
+  "announcement": {
+    "heading": "43. Sitzung des Hauptausschusses",
+    "sessionNumber": 43,
+    "date": "2023-05-25",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Abschlussbericht des Rechnungsprüfungsausschusses für den Prüfungszeitraum 2018 und 2019"
+      },
+      {
+        "number": "2.",
+        "title": "Bezuschussung von Photovoltaik-Dachanlagen; hier: Sachstandsbericht und ggf. Beschlussfassung zur weiteren Vorgehensweise"
+      },
+      {
+        "number": "3.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023"
+      },
+      {
+        "number": "4.",
+        "title": "Haushaltsplanung 2023 der Hospitalstiftung Langenzenn; hier: Vorberatung des Verwaltungs- und Vermögenshaushaltes"
+      },
+      {
+        "number": "5.",
+        "title": "Stadtkapelle Langenzenn; hier: Antrag auf fünfzigprozentige Übernahme der Honorarkosten der Lehrkräfte"
+      },
+      {
+        "number": "6.",
+        "title": "Mittelschulverbund Dillenberg-Zenngrund; hier: 1. Nachtrag zum Kooperationsvertrag"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "16. Mai 2023",
+    "signedBy": "Christian Ell, Zweiter Bürgermeister"
+  },
+  "minutes": {
+    "heading": "43. Sitzung des Hauptausschusses",
+    "sessionNumber": 43,
+    "date": "2023-05-25",
+    "startTime": "17:42",
+    "endTime": "19:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Abschlussbericht des Rechnungsprüfungsausschusses für den Prüfungszeitraum 2018 und 2019",
+        "facts": "Stadtrat Wolfgang Erhart, Vorsitzender des Rechnungsprüfungsausschusses, stellt den Abschlussbericht des Rechnungsprüfungsausschusses über die örtliche Rechnungsprüfung der Jahre 2018 und 2019 vor.\n\nDer Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:",
+        "decision": "Der Stadtrat nimmt vom Abschlussbericht des Rechnungsprüfungsausschusses über die örtliche Rechnungsprüfung der Jahre 2018 und 2019 Kenntnis.\n\nDie Prüfungsanmerkungen werden in die Fachausschüsse zur weitere Beratung verwiesen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Bezuschussung von Photovoltaik-Dachanlagen; hier: Sachstandsbericht und ggf. Beschlussfassung zur weiteren Vorgehensweise",
+        "facts": "Der Stadtrat hat am 14.12.2022 ein Förderprogramm zur Förderung von Photovoltaik- Dachanlagen verabschiedet. Die Fördersumme beträgt 50.000 € und ist im Haushalt 2023 der Stadt Langenzenn veranschlagt worden.\n\nDa es sich bei der Fördersumme um eine freiwillige Leistung der Stadt Langenzenn handelt, sind die Förderrichtlinien vorbehaltlich der rechtsaufsichtlichen Genehmigung des Haushaltes 2023 in Kraft getreten.\n\nVon Seiten der Stadtwerke Langenzenn wurde zum 30.04.2023 eine Bestandsaufnahme gemacht, in welcher Höhe bereits Anträge vorliegen.\n\nFür bereits installierte und in Betrieb genommene Anlagen steht die Auszahlung einer Fördersumme in Höhe von ca. 11.000 € an. Des Weiteren liegen Anträge von Bürgern in Höhe von ca. 120.000 € vor, bei denen die Anlage beauftragt aber noch nicht installiert ist. Insgesamt liegen somit Anträge für rund 131.000 € Förderung vor, von denen nur 50.000 € ausgezahlt werden können.\n\nDie Verwaltung weist nochmals ausdrücklich darauf hin, dass eine Auszahlung der Fördermittel erst nach Genehmigung des Haushaltsplanes 2023 der Stadt Langenzenn erfolgen kann.\n\nDa nicht abgesehen werden kann wie viele Anträge noch eingehen und auf welchen Betrag die Fördersumme noch ansteigt sollte man sich Gedanken machen, ob das Förderprogramm zur Förderung von Photovoltaik-Dachanlagen nicht zeitnah eingestellt werden sollte.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und bestätigt nochmals den einmaligen Ansatz von 50.000 € für das Haushaltsjahr 2023.\n\nDie Verwaltung wird beauftragt, die Bevölkerung erneut über den Sachstand im Mitteilungsblatt und auf der Homepage zu informieren.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023",
+        "facts": "Die Vorberatungen zum Haushaltsplan 2023 sind bisher in den Sitzungen des Hauptausschusses vom 23.03.2023, 30.03.2023 und 20.04.2023 erfolgt.\n\nKämmerin Vogel informiert das Gremium, dass einige Ansätze im Haushaltsplan noch intern mit dem Wirtschaftsplan der Stadtwerke abgestimmt werden müssen. Darüber hinaus gibt es noch Änderungen von Bau- und Personalamt, die noch eingepflegt werden.\n\nKämmerin Vogel teilt mit, dass die Verabschiedung des Haushaltes 2023 an der Sitzung des Stadtrates am 06.07.2023 vorgesehen ist. Sie regt an, vorher eine Sondersitzung des Hauptausschusses anzuberaumen.\n\nDer Hauptausschuss einigt sich auf eine Sondersitzung am Mittwoch, dem 14.06.2023.\n\nzurückgestellt"
+      },
+      {
+        "number": "4.",
+        "title": "Haushaltsplanung 2023 der Hospitalstiftung Langenzenn; hier: Vorberatung des Verwaltungs- und Vermögenshaushaltes",
+        "facts": "Die Kämmerin legt den Entwurf der Haushaltssatzung 2023 der Hospitalstiftung Langenzenn vom 19.05.2023 und den Entwurf des Haushaltsplanes 2023 der Hospitalstiftung Langenzenn zur Empfehlung an den Stadtrat vor.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und empfiehlt dem Stadtrat die Beschlussfassung des vorliegenden Entwurfes der Haushaltssatzung 2023 der Hospitalstiftung Langenzenn vom 19.05.2023 samt Anlagen, wie Haushaltsplan und Finanzplan mit Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Stadtkapelle Langenzenn; hier: Antrag auf fünfzigprozentige Übernahme der Honorarkosten der Lehrkräfte",
+        "facts": "Die Stadtkapelle Langenzenn e. V. beantragt mit Schreiben vom 03.05.2023 eine rückwirkende Übernahme zum 01.01.2023 in Höhe von 50 % der Honorarkosten der Lehrkräfte für den instrumentalen Einzelunterricht der unter 18-jährigen Stadtkapellenschüler, die nicht durch den Stadtkapellmeister ausgebildet werden.\n\nDie Stadt Langenzenn hat seit 2009 im Rahmen der „freiwilligen Leistungen“ 50 % der Honorarkosten der Lehrkräfte für den instrumentalen Einzelunterricht der unter 18-jährigen Stadtkapellenschüler, die nicht durch den Stadtkapellmeister ausgebildet werden, übernommen. Diese freiwillige Leistung wurde gemäß Beschluss des Hauptausschusses vom 23.03.2022 zum 01.01.2023 eingestellt.\n\nDie Beschlussfassung wurde dem Verein schriftlich, auf dem Postweg versandt an die Vereinsadresse Gewerbestraße 7, bekannt gegeben. Im Rahmen der Veröffentlichung der Niederschriften des Hauptausschusses wurde der Beschluss auch im Amtsblatt Nr. 8, Seite 11, vom 03.06.2022 bekannt gegeben.\n\nNachdem vom Verein für das Jahr 2023 erste Abrechnungen bei der Stadtverwaltung abgegeben wurden, erfolgte Rücksprache mit der Vereinsführung zum Sachverhalt. Dabei stellte sich heraus, dass das Schreiben der Vorstandschaft nicht vorliegt.\n\nSeitens der Stadtkapelle wird aufgrund der Umstände gebeten, eine Lösung herbeizuführen, um die Existenz der Stadtkapelle in der jetzigen Form im Jubiläumsjahr weiter gewährleisten zu können.\n\nDie Verwaltung schlägt vor, die freiwillige Übernahme von 50 % der Honorarkosten der Lehrkräfte für den instrumentalen Einzelunterricht der unter 18-jährigen Stadtkapellenschüler rückwirkend vom 01.01.2023 bis zum 31.12.2023 zu übernehmen.\n\nDer Hauptausschuss diskutiert den Sachverhalt.\n\nStadtrat Jäger befürwortet die Auszahlung des Zuschusses für 2023, jedoch nicht mehr für 2024.\n\nStadtrat Schwämmlein vertritt die gleiche Meinung und schlägt vor, Einzelpersonen durch die Bürgerstiftung zu unterstützten.\n\nStadtrat Weber schlägt vor, dass der Stadtkapelle jährlich ein Pauschalbetrag zur Verfügung gestellt wird.\n\nStadtrat Schwämmlein fügt hinzu, dass die Stadtkapelle sich dringend nach alternativen Finanzierungs- und Fördermöglichkeiten umsehen sollte, da für das Jahr 2024 kein Zuschuss mehr gewährt wird. Der Zuschuss für 2023 soll noch für diese Übergangszeit dienen.\n\nVertreter der Stadtkapelle betonen, dass in Langenzenn keine Musikschule ansässig ist und sie einen wichtigen musikalischen Bildungsauftrag erfüllen. Der Zugang zur musikalischen Bildung sollte für alle möglich sein. Sie bitten dies zu berücksichtigen.\n\nEs sollen Unterstützungsmöglichkeiten über die Bürgerstiftung geprüft werden.",
+        "decision": "Der Hauptausschuss beschließt, im Rahmen der freiwilligen Leistungen der Stadt Langenzenn, der Stadtkapelle Langenzenn e. V. rückwirkend vom 01.01.2023 bis zum 31.12.2023 die Übernahme von 50 % der Honorarkosten der Lehrkräfte für den instrumentalen Einzelunterricht der unter 18-jährigen Stadtkapellenschüler.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Mittelschulverbund Dillenberg-Zenngrund; hier: 1. Nachtrag zum Kooperationsvertrag",
+        "facts": "Der „Schulverband Cadolzburg“ (Vertragspartner im „Mittelschulverbund Dillenberg- Zenngrund) wurde niemals formal gegründet, hat aber faktisch die Sachaufwandsträgerschaft u.a. auch der Mittelschule Cadolzburg übernommen. Der von Gesetzes wegen entstandene und eigentlich zuständige „Mittelschulverband Cadolzburg“ wurde erst im November 2022 gegründet.\n\nDer Kooperationsvertrag für den „Mittelschulverbund Dillenberg-Zenngrund“ muss daher mit dem Mittelschulverband Cadolzburg abgeschlossen werden.\n\nFaktisch handelt es sich nur um eine Namensänderung. Weitere Änderungen ergeben sich nicht.",
+        "decision": "Der Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat der Stadt Langenzenn ermächtigt den Ersten Bürgermeister, oder seinen Vertreter im Amt, zum Abschluss des 1. Nachtrag zum öffentlich-rechtlichen Kooperationsvertrag für den „Mittelschulverbund Dillenberg-Zenngrund“.\n\nDer 1. Nachtrag zum Kooperationsvertrag liegt der Niederschrift als Anlage 1 bei.\n\n(Stadträtin Osswald ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Informationen zur Interimslösung-Kita",
+        "facts": "Zweiter Bürgermeister Ell informiert das Gremium, dass die befristete Betriebserlaubnis für die zusätzliche Interimslösung im Kita-Containerbau vorliegt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Bußgeld für Hundebesitzer",
+        "facts": "Stadtrat Jäger erkundigt sich, ob gegen Hundebesitzer, die die Hinterlassenschaften ihrer Hunde einfach liegen lassen und dabei ertappt werden, ein Bußgeld nach OWiG verhängt werden kann. Er beobachtet derzeit häufig, dass Hundehalter hierbei vermehrt nachlässig sind.\n\nDie Verwaltung wird dies prüfen."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "156405",
+    "minutes": "156758"
+  }
+}

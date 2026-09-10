@@ -1,0 +1,124 @@
+{
+  "meetingId": "3367",
+  "announcement": {
+    "heading": "18. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 18,
+    "date": "2025-07-15",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Anfrage Reitzner über Zusendung der Abstimmergebnisse des Hauptausschusses 07.07.2025 und Stadtrat 08.07.2025"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "4.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "18. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Anfrage Reitzner über Zusendung der Abstimmergebnisse des Hauptausschusses, 07.07.2025 und Stadtrat 08.07.2025, 3.       Sonstiges, 4.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 10. Juli 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "18. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 18,
+    "date": "2025-07-15",
+    "startTime": "10:38",
+    "endTime": "10:53",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Folgende Inhalte sind zur Veröffentlichung freizugeben:\n\n1.\n\n2.",
+        "decision": "Der Inhalt wird zur Veröffentlichung freigegeben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Anfrage R. über Zusendung der Abstimmergebnisse des Hauptausschusses 07.07.2025 und Stadtrat 08.07.2025",
+        "facts": "Herr R. fragte am 07.07.2025 telefonisch an, ob wir ihm die Abstimmergebnisse des Hauptausschusses vom 07.07.2025 und des Stadtrates vom 08.07.2025 per E-Mail zukommen lassen können.\n\nEs wird darüber diskutiert, ob und falls ja, welche Informationen an die Presse von der Verwaltung ohne Kontrolle des Redaktionsausschusses herausgegeben werden dürfen, da es ja neben der Herausgabe von Informationen ohne Genehmigung des Redaktionsausschusses auch eine Vorwegnahme einer noch nicht genehmigten Niederschrift sei.",
+        "decision": "Der Ausschuss beschließt, dass von der Verwaltung an die Presse nur die Ergebnisse (beschlossen oder nichtbeschlossen), keine Sachverhalte und kein genaues Abstimmergebnis weitergegeben werden dürfen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 4,
+          "against": 2
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges",
+        "facts": "Es kommt eine Veröffentlichung über Manöver der US-Streitkräfte.\n\nEs kommt eine Veröffentlichung über einen Infoabend zum Projekt Gewässerbiotopverbund.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Genehmigung der letzten Niederschrift Es liegen keine Niederschriften zur Genehmigung vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176713",
+    "minutes": "181459"
+  }
+}

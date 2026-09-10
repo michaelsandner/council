@@ -1,0 +1,197 @@
+{
+  "meetingId": "3278",
+  "announcement": {
+    "heading": "Die öffentliche Sitzung beginnt um ca. 17:45 Uhr.",
+    "date": "2024-08-20",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1 die 19. Sitzung des Ferienausschusses mit folgender öffentlicher",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V"
+      },
+      {
+        "number": "3.",
+        "title": "Sicherung der Bauleitplanung im Bereich des Gewerbegebietes Mühlsteig (GE V); hier: Prüfung weiterer Verfahrensschritte"
+      },
+      {
+        "number": "4.",
+        "title": "Grundsteuer; hier: Weitere Informationen zur Grundsteuerreform sowie Erlass einer Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung)"
+      },
+      {
+        "number": "5.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "6.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "14. August 2024",
+    "signedBy": "Ell, Zweiter Bürgermeister"
+  },
+  "minutes": {
+    "heading": "19. Sitzung des Ferienausschusses",
+    "sessionNumber": 19,
+    "date": "2024-08-20",
+    "startTime": "17:00",
+    "endTime": "19:35",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Stellvertreter für Ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "Stellvertreter für StR Jäger"
+          },
+          {
+            "name": "Franz, Irene",
+            "note": "Stellvertreterin für StRin Plevka"
+          },
+          {
+            "name": "Schramm, Alexander",
+            "note": "Stellvertreter für StRin Osswald"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts/dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V",
+        "facts": "Zur Entscheidung im Hinblick auf die Erteilung des gemeindlichen Einvernehmens liegt ein Antrag auf Nutzungsänderung eines ehemaligen Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts-/dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende sowie ein Antrag auf Befreiung von den Festsetzungen des Bebauungsplans GE V Mühlsteig nach § 246 Abs. 10 BauGB vor.",
+        "decision": "Der Ferienausschuss beschließt, das gemeindliche Einvernehmen zum o. g. Antrag auf eine Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51 und die Befreiung von den Festsetzungen des Bebauungsplans GE V Mühlsteig nach § 246 Abs. 10 BauBG zu erteilen.",
+        "vote": {
+          "summary": "mehrheitlich abgelehnt",
+          "inFavour": 2,
+          "against": 6
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Sicherung der Bauleitplanung im Bereich des Gewerbegebietes Mühlsteig (GE V); hier: Prüfung weiterer Verfahrensschritte",
+        "facts": "Im Jahr 2015 wurde der Flächennutzungsplan (hier: 6. Änderung, FNP) für eine Fläche in der Nähe zum vorliegenden Gewerbegebiet dahingehend geändert, dass dort ein Gebiet für soziale Zwecke dargestellt worden ist.\n\nIn diesem Bereich wurde bereits im Ferienausschuss vom 17.08.2021 ein Aufstellungsbeschluss zum Bebauungsplan Nr. 78 „Gemeinbedarfsflächen Reichenberger Straße“ gefasst, welcher bei der Fortführung der Bauleitplanung noch entsprechend (soziale Zwecke) angepasst werden müsste.\n\nDafür sollen im Gegenzug Anlagen für soziale Zwecke aus dem Gewerbegebiet GE V - wie auch aus anderen Gewerbegebieten im Stadtgebiet - herausgehalten werden. Hierbei wäre eine weitere Änderung des Bebauungsplanes GE V notwendig, um den uneingeschränkten Gewerbegebieten bessere Entwicklungsmöglichkeiten geben zu können.",
+        "decision": "Der Ferienausschuss beauftragt die Verwaltung mit der Vorbereitung und Ausarbeitung eines Änderungsbeschlusses für den Bebauungsplan Nr. 78 „Gemeinbedarfsflächen Reichenberger Straße“.\n\nWeiterhin wird die Verwaltung mit der Vorbereitung eines entsprechenden Änderungsverfahrens des Bebauungsplanes GE V Mühlsteig, sowie dem Erlass einer Veränderungssperre für das Gewerbegebiet GE V beauftragt.",
+        "vote": {
+          "summary": "einstimmig abgelehnt",
+          "inFavour": 0,
+          "against": 8
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Grundsteuer; hier: Weitere Informationen zur Grundsteuerreform sowie Erlass einer Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung)",
+        "facts": "In der Sitzung vom 18.07.2024 des Hauptausschusses wurde erstmals über die anstehende Grundsteuerreform und das weitere Vorgehen informiert und im Ferienausschuss am 08.08.2024 wurden folgende aktuelle Daten bekannt gegeben:\n\nDer Stadt Langenzenn liegen vom Finanzamt Fürth insgesamt 81 Prozent der Daten der Grundsteuer A und 90 Prozent der Daten der Grundsteuer B vor. Wie sich die Zahlen mit den noch fehlenden Prozentzahlen verändern, kann zum jetzigen Zeitpunkt noch nicht abgesehen werden und auch nicht wie viele Daten letztendlich bei der Beschlussfassung über die Hebesatzsatzung vorliegen werden.\n\nEs zeichnet sich schon jetzt ab, dass die Grundsteuerreform mit der Hebesatzfestsetzung für das Jahr 2025 noch nicht abgeschlossen sein wird. Es ist davon auszugehen, dass es in den Folgejahren noch zu reformbedingten Anpassungen bei den Messbetragsdaten kommen wird und dies zu Hebesatzanpassungen führen kann.\n\nNach den aktuell vorliegenden Messbetragsdaten für 2025 und bei gleichbleibendem Hebesatz in Höhe von 360 v. H. würden die Grundsteuereinnahmen der Stadt Langenzenn für die Grundsteuer A und B auf nahezu gleichem Niveau bleiben. Aufgrund von fehlerhaften Grundsteuererklärungen ist allerdings davon auszugehen, dass sich in den nächsten Monaten die Messbetragsdaten durch Einsprüche beim Finanzamt Fürth verändern können. Wie sich diese auf die Grundsteuereinnahmen der Stadt Langenzenn in den Folgejahren auswirken werden ist fraglich und ist künftig jährlich erneut zu betrachten.\n\nDie Verwaltung legt dem Ferienausschuss den Entwurf vom 12.08.2024 der Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung) zur Empfehlung an den Stadtrat vor. Die Steuersätze für die Grundsteuer A und B sind unverändert mit 360 v. H. übernommen worden.\n\nDer Entwurf der Satzung liegt der Niederschrift als Anlage 1 bei. .",
+        "decision": "Der Ferienausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt den vorliegenden Entwurf vom 12.08.2024 der Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung) mit nachfolgenden Hebesätzen zur Satzung:\n\nGrundsteuer A (für die land- und forstwirtschaftlichen Betriebe)      360 v. H. Grundsteuer B (für Grundstücke)                                       360 v. H.\n\nDie Verwaltung wird beauftragt die Satzung auszuarbeiten und bekannt zu machen.\n\nDie Satzung tritt zum 01.01.2025 in Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Mitteilungen",
+        "facts": "Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "6.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "6.1.",
+        "title": "Antrag StR O.Vogel zur Grabgestaltung am Waldfriedhof",
+        "facts": "Stadtrat O. Vogel stellt Antrag, ein neues Grab am Waldfriedhof größer gestalten zu können als in der Friedhofssatzung festgesetzt. Er trägt vor, dass die Gräber im Altbestand teilweise auch andere Maße hätten und es aufgrund der eingelassenen Waschbetonplatten zu Stolperfallen kommen könnte. Seitens der Friedhofsverwaltung wurde zur Erteilung einer Genehmigung um Einhaltung der Maße laut Satzung gebeten.\n\nDer Antrag wird in den Bauausschuss verwiesen, vor weiterer Entscheidung soll eine Ortbesichtigung am Waldfriedhof erfolgen."
+      },
+      {
+        "number": "6.2.",
+        "title": "Anfrage zum nächsten Sitzungstermin",
+        "facts": "Stadtrat Durlak erkundigt sich, ob die am 29.08. geplante Ferienausschusssitzung stattfindet.\n\nZweiter Bürgermeister Ell informiert, dass es darauf ankomme welche Punkte zur Beratung anstehen, eine Aussage zur Sitzungsabsage kann noch nicht getroffen werden."
+      },
+      {
+        "number": "6.3.",
+        "title": "Anfrage zur Bekanntgabe von Beschlüssen aus nichtöffentlicher Sitzung",
+        "facts": "Stadtrat Durlak berichtet über ständige Wasserlachen an der Wasserstelle neben dem Boulderfelsen, er bittet darum hier Abhilfe zu schaffen.\n\nDer Verwaltung ist das Problem bekannt, es wird bereits an einer Lösung gearbeitet."
+      },
+      {
+        "number": "6.5.",
+        "title": "Anfrage zu Werbeanhänger auf öffentlichem Grund",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos erkundigt sich, ob es rechtmäßig ist, dass der mobile Anhänger zu Werbezwecken für den Drogeriemarkt DM tagelang auf öffentlichem Grund steht.\n\nDie Verwaltung informiert, dass dies unzulässig ist und die Verkehrsüberwachung mit der Halterfeststellung beauftragt wurde."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "167965",
+    "minutes": "168565"
+  }
+}

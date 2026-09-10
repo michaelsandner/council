@@ -1,0 +1,251 @@
+{
+  "meetingId": "3392",
+  "announcement": {
+    "heading": "86. Sitzung des Stadtrates",
+    "sessionNumber": 86,
+    "date": "2025-12-02",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Langenzenns Innenstadt zukunftsfest machen - Fakten, Impulse, Beispiele - Impulsvortrag durch Herrn Dr. Markert von imakomm AKADEMIE GmbH"
+      },
+      {
+        "number": "2.",
+        "title": "Informationen zum geplanten Schulzentrum des landkreises mit neuem Gymnasium und Realschule"
+      },
+      {
+        "number": "3.",
+        "title": "Antrag aus der Bürgerversammlung zur Abgabe einer Interessensbekundung für das Bundesförderprogramm Sanierung Kommunaler Sportstätten (SKS)"
+      },
+      {
+        "number": "3.1.",
+        "title": "Informationen zum Plan- und Kostenstand Bad neben dem Gymnasium"
+      },
+      {
+        "number": "3.2.",
+        "title": "Information über Behandlung im Marktgemeinderat Wilhermsdorf"
+      },
+      {
+        "number": "3.3.",
+        "title": "Information über Anschreiben an den Landkreis"
+      },
+      {
+        "number": "3.4.",
+        "title": "Information über bisherige Beschlüsse im Rahmen der Zenngrund-Allianz, der Bürgermeister-Dienstbesprechung, dem bayerischem Gemeindetag und dem Kreistag"
+      },
+      {
+        "number": "3.5.",
+        "title": "Auftrag an die Verwaltung zur weiteren Vorgehensweise"
+      },
+      {
+        "number": "3.6.",
+        "title": "Gemeinsame Initiative der Langenzenner Kreisräte: Sportmilliarde für ein neues Bad im nördlichen Landkreis – Verbindliche Zusagen des Landkreises"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "5.",
+        "title": "Mitteilungen"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "27. November 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "86. Sitzung des Stadtrates",
+    "sessionNumber": 86,
+    "date": "2025-12-02",
+    "startTime": "16:00",
+    "endTime": "18:17",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Langenzenns Innenstadt zukunftsfest machen - Fakten, Impulse, Beispiele - Impulsvortrag durch Herrn Dr. Markert von imakomm AKADE- MIE GmbH",
+        "facts": "Ein Vertreter von imakomm hält einen Vortrag zu Innenstadtgestaltung für die Zukunft von Langenzenn",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Informationen zum geplanten Schulzentrum des landkreises mit neuem Gymnasium und Realschule",
+        "facts": "Der Landkreis hat am 20.11.205 anliegende Presserklärung veröffentlicht: „Investitionen in die Zukunft: Schulcampus für Langenzenn“ In Langenzenn soll in den nächsten zehn Jahren ein Schulcampus aus Gymnasium, Realschule und zwei Dreifachturnhallen mit einem Gesamtvolumen von rund 150 Millionen Euro entstehen. Dies haben die Gremien des Landkreises entschieden, nachdem die Verwaltung durch den Kreisausschuss im Juni einen entsprechenden Prüfauftrag erhalten hatte. Nach einer Untersuchung der möglichen Varianten und Gegenüberstellung der Kosten, haben sich die Verantwortlichen für dieses Vorgehen entschieden. Der Landkreis rechnet damit, Fördermittel in Höhe von 40 bis 45 % der Investitionskosten zu erhalten. Nachdem in den nächsten Jahren ohnehin eine Generalsanierung und Erweiterung des Wolfgang-Borchert-Gymnasiums Langenzenn unumgänglich gewesen wäre und auch eine Erweiterung der Realschule notwendig wird, die am aktuellen Standort am Klaushofer Weg jedoch nicht umsetzbar ist, stellt die aktuelle Planung nun die wirtschaftlichste Lösung dar. Der Landkreis plant, das bisherige Realschulgebäude an die Stadt Langenzenn zu veräußern, die damit weiteren Raumbedarf an ihren Schulen am Klaushofer Weg abdecken kann. Die Notwendigkeit der Erweiterungen ergibt sich aus den kontinuierlich steigenden Schülerzahlen. Bis zur Realisierung der beiden neuen Schulen wird der Raumbedarf aktuell durch den Einsatz von Raummodulen gedeckt, die jedoch in der Art der Ausführung keine langfristige und dauerhafte Lösung darstellen. Ursprünglich war neben der Generalsanierung des Gymnasiums geplant, die bisherige Realschule durch einen Neubau in der Nähe des Langenzenner Feuerwehrhauses zu ersetzen. Hier waren auch die Grundstücksverhandlungen mit der Stadt Langenzenn sehr weit fortgeschritten. Nun wurden weitere Varianten untersucht. „Mit den Investitionen in den Schulcampus Langenzenn beweisen wir als Landkreis Fürth einmal mehr, welch hohen Stellenwert die Themen Schule und Bildung bei uns haben. Bevor man hier jedoch eine so weitreichende Entscheidung trifft, die den Landkreis über viele Jahre – auch finanziell – stark bindet, mussten alle Fakten auf den Tisch und man darf sich dabei auch trauen, getroffene Entscheidungen zu revidieren, wenn es bessere Lösungen gibt“, so Landrat Bernd Obst. Nun sei geplant, in direkter Nachbarschaft des bisherigen Wolfgang-Borchert-Gymnasiums in den Jahren 2028 bis 2031 einen Gymnasium-Neubau zu errichten. Nach erfolgtem Umzug des Gymnasiums (zum Schuljahr 2031/32) soll das bisherige Gebäude generalsaniert wer-\n\nden und nach Abschluss der Arbeiten im Jahr 2034 die Staatliche Realschule Langenzenn dort einziehen. Mit dem Bezug des generalsanierten Gebäudes ergeben sich für die Realschule ganz neue Möglichkeiten – auch in Bezug auf moderne Schulmodelle, daher begrüßt auch die Schulleitung das geplante Vorgehen. Mit den beiden Schulen am Standort ist es möglich, verschiedene Synergien zu nutzen. Zum einen wird der Flächenverbrauch und die Oberflächenversiegelung (Bushalte- und Wendeflächen, Parkplätze, Wege, Hofflächen) reduziert, auch ein gemeinsames Energiekonzept soll es geben. Die Mensa kann gemeinsam genutzt werden. Als großer Vorteil wird auch angesehen, dass es eine gemeinsame Bewirtschaftung der Schulen und Sporthallen durch ein Hausmeisterteam geben wird. Noch dazu kommt, dass der Umbau nicht während des laufenden Schulbetriebs stattfinden muss. Parallel zu den Schulbauten soll die bisherige Zweifachturnhalle des Gymnasiums durch eine Dreifachturnhalle ersetzt werden und eine weitere Dreifachturnhalle entstehen. Die Hallen werden aufgrund der erwarteten Schülerzahlen notwendig. „Bei den Planungen steht für uns die Funktionalität im Vordergrund. Auch wenn es beim Schulcampus eine klare Trennung der beiden Schularten geben wird, können wir die Synergien sehr gut nutzen“ so Landrat Bernd Obst. Langenzenns Bürgermeister Jürgen Habel begrüßt die Planungen des Landkreises. „Bereits mit der Inbetriebnahme der Realschule im Jahr 2013 hat sich der Landkreis zum Schulstandort Langenzenn bekannt. Mit den nun geplanten Investitionen würde dieser Standort weiter gestärkt werden. Als Stadt unterstützen wir die Vorhaben des Landkreises und stimmen uns eng ab, wenn es neben Grundstücksverhandlungen zum Beispiel um die Erschließung des Schulgrundstückes geht. Der Stadt ist weiterhin wichtig, dass neben den Schulen ausreichend Platz für ein zukünftiges neues Bad bleibt und die Erschließung des restlichen Gebietes gleich mitgedacht wird“, so 1. Bürgermeister Jürgen Habel.\n\nDie Visualisierung von BSS Architekten zeigt, wie der künftige Schulcampus aussehen könnte:\n\nInteressant für das Thema Hallenbad Langenzenn ist nun die weitere Entwicklung dieses Themas. Als der Stadt Langenzenn obige Visualisierung vor einigen Monaten vorgestellt wurde, wurde vom Landratsamt klargestellt, dass der Stadt bei dieser Variante ca. 14.000 qm Fläche in Richtung Westen für den Bau eines neuen Bades bleiben würden. Diese und keine andere Lösung sei sinnbringend, so in etwa die Worte von Landrat und leitendem Architekten. Nachdem nun die Verkehrsplaner des Landratsamtes obigen Entwurf des Landratsamtes geprüft hatten, wurde festgestellt, dass zur Mittagszeit bis zu 16 Busse gleichzeitig am Schulzentrum warten und Schüler aufnehmen müssen und dass dafür die oben eingezeichnete Verkehrserschließung bei weitem nicht ausreicht.\n\nNach mehreren Planungsvarianten hatte sich das Landratsamt Mitte November 2025 auf den Variantenentwurf Nr. 6 des Verkehrsplaners festgelegt:\n\nDiese Variante hätte nun aber zwei massive Nachteile, die für Langenzenn essentiell sind:\n\n-   Eine Umfahrungsmöglichkeit der Altstadt für große landwirtschaftliche Fahrzeuge wie Mähdrescher wäre damit nicht mehr möglich, sie müssen damit weiter über die Ringstraße fahren. -   Die Flächen für ein mögliches Bad würden von den zugesagten 14.000 qm auf nur noch 8-9.000 qm reduziert. Ob die Flächen dann noch für ein späteres Bad ausreichen, ist sehr fraglich. Bei der Bad-Planung 2018 hatte man festgestellt, dass ein Bad mit ausreichend Frei- und Außenflächen idealerweise 15.000 qm benötigen würde. Natürlich genügt für ein kleines Sportbad wesentlich weniger Fläche, es ist aber fraglich, ob dies dann ein sinnvoller Standort ist, wenn die räumlichen Einschränkungen derart massiv sind. - Diese beiden Aspekte hat die Stadt dem Landkreis Mitte November, nachdem sich der Landkreis auf obige V6 festgelegt hatte, noch einmal mitgeteilt. Ebenfalls wird durch die V6 mangels Anbindung an den Bereich südlich des Sperrgrundstückes eine spätere Erschließung des Restgebietes sehr schwierig bzw. schränkt ein Baufeld für ein zukünftiges Bad weiter ein. Nach dieser Intervention in die bisherigen Planungen konnte nun durch den Planer eine alle Lösungen beinhaltende Variante vorgelegt werden, die sämtliche Aspekte berücksichtigt:\n\n-   Schulzentrum mit ausreichend Bushaltestellen -   Anbindung der südlichen Bereiche -   Umfahrungsmöglichkeit für landwirtschaftlichen Schwerverkehr wie Mähdrescher -   Ausreichend Platz für ein späteres Bad\n\nLetzterer Punkt – ausreichend Flächen für ein neues Bad – ist für die heutige Beratung entscheidend. Die Langenzenner Kreisräte werden gebeten, im Kreistag so ihr Gewicht einzubringen, dass der Stadt Langenzenn eine ausreichend große Baufläche westlich des neuen Schulzentrums verbleibt.\n\nSelbiges versucht die Verwaltung in den Gesprächen mit den ausführenden    Organen   des Landkreises.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Antrag aus der Bürgerversammlung zur Abgabe einer Interessensbekundung für das Bundesförderprogramm Sanierung Kommunaler Sportstätten (SKS)",
+        "facts": "Antrag auf Abgabe einer Interessensbekundung durch die Stadt Langenzenn für das Bundesförderprogramm „Sanierung kommunaler Sportstätten 2025/2026“sowie auf Förderung durch das Finanzausgleichsgesetz. Das alte Hallenbad der Stadt Langenzenn wurde im Sommer 20225 wegen untragbarer Betriebskosten endgültig geschlossen. Damit entfallen alle Möglichkeiten für Schul-, Vereins-. Und Bürgerschwimmen. Auch die Mitnutzung des Wilhermsdorfer Hallenbads ist nur noch befristet möglich. Ein Neubau kann von der Stadt allein nicht finanziert werden. Das neue Bundesfürderprogramm „Sanierung kommunaler Sportstätten“ eröffnet jedoch – in Kombination mit FAG-Mitteln – die Chance auf eine Gesamtförderquote von bis zu 90% der Investitionskosten. Die Frist zur Interessensbekundung endet am 15-Januar 2026. Langenzenn ist ein wachsender Bildungsstandort. Alle Schularten (Grundschule, Mittelschule, Realschule, Gymnasium) benötigen regelmäßigen Schwimmunterricht - eine gesetzlich verankerte Pflicht. Ohne Hallenbad entfallen Unterricht und Vereinsangebote vollständig. Die Kultusministerkonferenz empfiehlt für Grundschule ca. 35 Stunden, für weiterführende Schule ca.15 Stunden Schwimmunterricht pro Klasse und Jahr. Ein Neubau ermöglicht wohnortnahes Schul- und Vereinssachwimmen sowie eine begrenzte öffentliche Nutzung. Das Bad wäre kein Bad für Langenzenn, sondern in Langenzenn – mit klarer interkommunaler Bedeutung. Die Baukosten wurden 2018 mit 14,2Mio. € geschätzt; realistisch muss hier mit Kostensteigerung von mind. 50% gerechnet werden; mindestens 10% wären kommunal aufzubringen. Die jährlichen Betriebskosten wurden damals auf rund 600.000€ geschätzt. Diese sollen auf Stadt, Landkreis, Nachbarkommunen und Vereine verteilt werden – entsprechend ihrer tatsächlichen Nutzung. Damit bleibt die Belastung für Langenzenn tragbar.\n\nAnträge:"
+      },
+      {
+        "number": "1.",
+        "title": "Die Verwaltung wird beauftragt, eine Interessensbekundung für das Bundesprogramm SKS 2025/2026 abzugeben"
+      },
+      {
+        "number": "2.",
+        "title": "Die Verwaltung wird beauftragt, mit dem Landkreis und Nachbarkommunen Zusagen zur Nutzung und Beteiligung an den Betriebskosten einzuholen"
+      },
+      {
+        "number": "3.",
+        "title": "Die Verwaltung wird beauftragt, mit dem Landkreis mögliche Standort in Verbindungen mit den Schulbaumaßnahmen zu prüfen",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.1.",
+        "title": "Informationen zum Plan- und Kostenstand Bad neben dem Gymnasium",
+        "facts": "Im Zeitraum 2017/18 wurde der Bereich „Gauchsmühle“ als Standort für das neue Hallenbad festgelegt.\n\nIn den ersten Schritten wurden die Bauleitplanung (GE VIII / B-Plan 61), die Verkehrsplanung und Erschließungsplanung beauftragt und durchgeführt. Auch eine mögliche Erweiterung des Gymnasiums wurde in den Planungen bereits berücksichtigt (vgl. Masterplan).\n\nDurch den damaligen beauftragen Generalplaner KRIEGER Architekten + Ingenieure GmbH, Velbert, wurden die ersten Vorentwürfe für das Hallenbad erstellt. Die Pläne liegen auszugsweise als Anlagen bei.\n\nDas Hallenbad beinhaltet im Wesentlichen ein Sportbecken mit einer Länge von 25 m und 5 Bahnen, ein Kursbecken mit Hubboden mit ca. 125 m² (beides erforderlich für Schulsport) sowie ein Planschbecken mit ca. 35 m². Hinzu kommen ein Sprungturm mit 3 m, ein Sprungbrett mit 1 m, sowie ein Dampfbad und eine Textilsauna.\n\nDie Bruttogeschossfläche (BGF) beträgt 4.133 m², der Bruttorauminhalt 21.773 m³.\n\nDie Kostenberechnung des Generalplaners KRIEGER Architekten + Ingenieure vom 04.06.2018 (Kostenstand 1. Quartal 2018) liegt als Anlage bei. Zur Ermittlung der aktuellen Projektkosten sind gem. Baupreisindex des BKI bzw. Baupreisindex des Statistischen Bundesamtes die Faktoren 1,492 bzw. 1,530 anzusetzen.\n\nSomit ergeben sich die Baukosten einschließlich Baunebenkosten (Pauschale 28% auf KG 200-600) zum Stand 3. Quartal 2025 wie folgt:\n\nKosten nach BKI    Kostenberechnung 04.06.2018 KG 200-600                                       9.549.075 €                    9.289.411 € KG 700 (28% psch.)                               2.673.741 €                    2.601.035 € Baukosten netto                                 12.222.816 €                   11.890.446 € 19% MwSt.                                        2.322.335 €                    2.259.185 € Baukosten brutto (2018)                         14.545.151 €                   14.149.631 € Kostensteigerung 51,3%                           7.461.662 €                    7.258.761 € i.M. Baukosten brutto (2025)                         22.006.814 €                   21.408.391 €\n\nAuf Grundlage der vorliegenden Planungen ist von Gesamtkosten von rund 21,5 – 22,0 Mio. Euro auszugehen.\n\nFür vertiefende, weiterführende Planungen wären erneut Fachplaner zu beauftragen. Aufgrund der Höhe der Honorare sind die Architekten- und Ingenieurleistungen im Rahmen einer europaweiten Ausschreibung zu vergeben.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.2.",
+        "title": "Information über Behandlung im Marktgemeinderat Wilhermsdorf",
+        "facts": "Der Marktgemeinderat Wilhermsdorf hat am 21.11.2025 in einer öffentlichen Sitzung die Verwaltung beauftragt, bzgl. einer potentiellen Förderung für den Hallendbadbau / Sanierung mit den umliegenden Kommunen (Langenzenn) Kontakt aufzunehmen, um einen gemeinsamen Antrag zu prüfen.\n\nBereits im Kooperationsvertrag zwischen dem Markt Wilhermsdorf und der Stadt Langenzenn zur gemeinsamen Nutzung des Hallenbades in Wilhermsdorf, brachten beide Kommunen deutlich zum Ausdruck, dass es dringend erforderlich ist, mittelfristig ein neues Hallenbad im nördlichen Landkreis Fürth zu errichten. Hierfür werden sich beide Kommunen dafür einsetzen, dass durch einen wie auch immer gearteten kommunalen Träger (z.B. Zweckverband, Landkreis) ein neues Hallenbad im nördlichen Landkreis Fürth errichtet wird.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.3.",
+        "title": "Information über Anschreiben an den Landkreis",
+        "facts": "Hier die Informationen zur bisherigen Korrespondenz mit dem Landkreis in dieser Sache.\n\nSchreiben Bürgermeister Habel an Landrat Obst, Montag, 24.11.:\n\nSehr geehrter Herr Landrat,\n\nanliegender Antrag ist bei uns vergangene Woche eingegangen. Wir werden ihn voraussichtlich bereits nächste Woche erstmals beraten. In Wilhermsdorf wurde im Gemeinderat ebenfalls ein ähnlicher Antrag beraten, Wilhermsdorf und Langenzenn sind in Gesprächen, ob und ggf. wie diese Sonderförderung Sportmilliarde genutzt werden könnte.\n\nWir wollen/müssen/werden sehr zeitnah beraten und entscheiden, da die Frist im Januar eine Ausschlussfrist ist.\n\nWir können auf unsere alte Planung, Hallenbad neben dem Gymnasium, aufbauen, zu welcher wir die Leistungsphasen eins und zwei abgeschlossen hatten, ein Auszug aus den Planungen in der Anlage. Das Bad war an der Stelle geplant, die nun vom Landkreis für das Schulzentrum auserkoren wurde. Sofern wir nach Abschluss der Planungen des Landkreises weiterhin die zugesagten 14.000 qm Fläche zwischen B8, Gauchsmühle und Schulen haben, sollte eine Verschiebung des Bauvorhabens um einige Meter Richtung Westen möglich sein und dennoch uneingeschränkt funktionieren.\n\nMit dem Landkreis würden wir gerne folgende Vereinbarungen abschließen:\n\n-   Nutzungszusage zur Nutzung durch a) Gymnasium Langenzenn b) Realschule Langenzenn c) Gymnasium Egersdorf d) Dillenbergschule -   Investitionszuschuss oder Investitionsunterstützung, alternativ\n\n-   Beteiligung an der Trägerschaft des neuen Bades\n\nBitte um kurze Rückmeldung zum weiteren Vorgehen und wie kurzfristig Kreis-seits Beschlüsse gefasst und verbindliche Nutzungs- und Investitionsbeteiligungszusagen gegeben werden können. Vielen Dank.\n\nMit freundlichen Grüßen\n\nJürgen Habel 1. Bürgermeister\n\nNachfrage am Donnerstag, 27.11.:\n\nHallo Bernd,\n\nuns eilt es ein bisschen, wir brauchen Beschlüsse und konkrete Aussagen des Landkreises auf die unten genannten Fragen. Wenn wir Chancen auf eine solche vermutlich einmalige extra-Förderung haben wollen, dann müssen wir interkommunal verbindlich zusammenarbeiten und das in der Interessensbekundung bis 15.1. verbindlich benennen und abgeben. Wenn wir als Einzelgemeinde einen solchen Antrag stellen, dann werden wir in der Antragsflut mit vielen anderen untergehen und unberücksichtigt bleiben.\n\nIch bitte Dich deshalb um kurzfristige Rückinfo, wie Du vorgehen möchtest. Danke.\n\nMit freundlichen Grüßen\n\nJürgen Habel 1. Bürgermeister\n\nAntwort Landrat Obst, 27.11.:\n\nHallo Jürgen,\n\ndu bekommst eine Einschätzung dazu von mir am kommenden Montag. Die Thematik der Beteiligung des Landkreises an einem Hallenbad wurde bereits ausreichend juristisch aufgearbeitet und den Kreisgremien vorgelegt. Ich darf dich einstweilen auf die entsprechende Sitzungsvorlage dazu verweisen. Deiner Anregung, die Thematik als TOP auf die kommende BGM Dienstbesprechung zu nehmen, komme ich nach.\n\nMit freundlichen Grüßen\n\nBernd Obst Landrat\n\nBis zur Sitzung am Dienstag, 2.2. um 16 Uhr war keine Antwort des Landkreises eingegangen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.4.",
+        "title": "Information über bisherige Beschlüsse im Rahmen der Zenngrund- Allianz, der Bürgermeister-Dienstbesprechung, dem bayerischem Gemeindetag und dem Kreistag",
+        "facts": "Beschluss aus dem Kreisausschuss Fürth",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.5.",
+        "title": "Auftrag an die Verwaltung zur weiteren Vorgehensweise",
+        "facts": "Die Verwaltung bittet, den Stadtrat um einen Auftrag zur weiteren Vorgehensweise.",
+        "decision": "Der Stadtrat billigt die Einreichung und beschließt, dass die Verwaltung mit der Abgabe der Interessensbekundung – möglichst in Zusammenarbeit mit anderen Gemeinden und dem Landkreis – beauftragt wird.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.6.",
+        "title": "Gemeinsame Initiative der Langenzenner Kreisräte: Sportmilliarde für ein neues Bad im nördlichen Landkreis – Verbindliche Zusagen des Landkreises",
+        "facts": "Für den Kreis wäre folgende Beteiligung denkbar und sinnvoll:\n\n-   Die Chance auf einen Zuschuss durch die Sport-Milliarde gibt es vermutlich nur, wenn der Landkreis als Kooperationspartner auftritt und dadurch eine „interkommunale Zusammenarbeit“ die Förderung beantragt. -   Die Stadt Langenzenn allein oder auch in Kombination mit Wilhermsdorf wird den Eigenanteil nicht leisten und das Defizit des Betriebs eines Bades auf Dauer nicht leisten können.\n\nBei beidem muss der Landkreis nun Verantwortung übernehmen und seinen Teil beitragen. Schwimmen lernen ist für alle Landkreisbürger sinnvoll und notwendig, so waren sich alle Bürgermeister und Landrat einig.\n\nGesundheitsprävention fällt ebenfalls in das Aufgabengebiet des Landkreises, auch unter diesem Aspekt wäre ein Mitwirken möglich, sinnvoll und notwendig.\n\nWenn der Landkreis sich selbst schwimmtechnisch um seine Schulen kümmern müsste, dann bräuchte er eine Zweifacheinheit. Bei deren Bau gibt es einen FAG-Zuschuss und einen nicht gedeckten Eigenanteil.\n\nDa sich der Kreis ja immer darauf zurückzieht, dass er keinerlei freiwillige Leistungen erbringt, könnte er seinen eigentlichen Pflicht-Eigenanteil nicht als freiwillige Leistung sondern als Mitträger des neuen Bades einbringen.\n\nWeitere Kombinationsmöglichkeit: der Parkplatz der Schule könnte dem des Bades dienen und umgekehrt; das Bad hat vormittags kaum bis keine Besucher (bis auf Kurse und Schulen), damit freie Parkplätze; die Schule hat nachmittags, abends und am Wochenende Luft, wenn das Bad verstärkt besucht wird.\n\nDie Langenzenner Kreisräte könnten und sollten sich zusammenschließen und in ihren Fraktionen um Zustimmung zu einem solchen Projekt werben.\n\nEs gibt nun mit der Sportförderung die vermutlich einmalige Chance, einen sehr hohen Bundeszuschuss zu erhalten.\n\nIst diese Chance vertan (z.B. weil man „Vogel Strauß“ spielt und die Frist versäumt), dann wird man in einigen Jahren vor derselben Frage – Finanzierung Neubau – stehen, dann aber vermutlich ohne den Bundeszuschuss.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "5.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "180280",
+    "minutes": "182245"
+  }
+}

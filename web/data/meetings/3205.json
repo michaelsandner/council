@@ -1,0 +1,101 @@
+{
+  "meetingId": "3205",
+  "announcement": {
+    "heading": "55. Sitzung des Stadtrates",
+    "sessionNumber": 55,
+    "date": "2024-01-11",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Jahresantrag Städtebauförderung 2024"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "9. Januar 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "55. Sitzung des Stadtrates",
+    "sessionNumber": 55,
+    "date": "2024-01-11",
+    "startTime": "17:00",
+    "endTime": "18:27",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Jahresantrag Städtebauförderung 2024",
+        "facts": "Die Verwaltung stellt den Jahresantrag zur Bedarfsmitteilung der Städtebauförderung für das Maßnahmenjahr 2024 vor.\n\nIm Wesentlichen werden nachfolgende Maßnahmen fortgesetzt, ausgeführt bzw. abgeschlossen:\n\nÖffentliche Maßnahmen in Durchführung:\n\n35a – Fußweg Kolbschlucht / Obere Ringstraße 7 Burggrafenhofer Straße – Teil 1 58 – Schießhausplatz BA1: Neugestaltung und Erweiterung Parkplätze (Bau- und Bau-NK) 71 - Beleuchtungskonzept: Dauerhafte Illumination städtebaulicher Räume 77 – Klosterstraße 6a: Sanierung des Daches\n\nEs laufen derzeit Sanierungsberatungen für private Baumaßnahmen.\n\nWeiterhin wurde eine private Maßnahme inzwischen abgeschlossen.\n\nÖffentliche Maßnahmen im Programmjahr:\n\n31a - Försterallee - Grunderwerb Fl.-Nr. 264 31b – Försterallee – Zennoase: öffentliches WC 50 - Stadtfriedhof: Aussegnungshalle 69 – Alte Zennstraße: Neugestaltung (Bau-NK) 74 – Sanktustorstraße: Erweiterung Radweg und Gärten (Grunderwerb) 78 – Landschaftsplanerischer, städtebaulicher Realisierungswettbewerb (LGS) 79 - Stadtfriedhof: Eingangstore (Turnstraße / Ringstraße) 81 – Erweiterung Sanierungsgebiet „Altstadt“ (gem. Beschlussfassung vom Dez. 2023)\n\nDie Förderquote für Maßnahmen im Rahmen der Städtebauförderung beträgt im Regelfall 60%.\n\nDer Jahresantrag 2024 ist im Ratsinformationssystem eingestellt und wird der Niederschrift als Anlage 1 beigefügt.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung vom 21.11.2023 dem Stadtrat einstimmig mit 8 : 0 Stimmen folgenden Beschluss empfohlen:\n\nStadtrat Jäger beantragt den Ausbau eines Kreisverkehrs an der Würzburger Straße / Windsheimer Straße.\n\nDer Antrag ist der Niederschrift als Anlage 2 beigefügt.",
+        "decision": "Der Stadtrat beschließt den vorgelegten Jahresantrag zur Städtebauförderung 2024.\n\nDie entsprechenden Haushaltsmittel sind im Haushalt 2024 vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.1.",
+        "title": "Informationen zur Flurstraße / Zollnerstraße",
+        "facts": "Die Verwaltung teilt mit, dass in der Flurstraße / Zollnerstraße ein Vollausbau der Straße geplant ist. Die Anwohner werden diesbezüglich noch informiert, u. a. wegen notwendiger Kanalverfilmungen.\n\nEin Sachstand zur weiteren Vorgehensweise wird in einer der nächsten Sitzungen des Bau-, Umwelt- und Verkehrsausschusses erfolgen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.1.",
+        "title": "Parkplatz Schießhausplatz",
+        "facts": "Stadtrat Ammon erkundigt sich zur Zufahrt zum Edeka-Markt und möchte wissen, ob diese so bestehen bleibt, oder die Schräge an der Rampe noch ausgebessert wird."
+      },
+      {
+        "number": "3.2.",
+        "title": "Sondersitzung zur Landesgartenschau",
+        "facts": "Stadträtin Plevka beantragt eine Sondersitzung zum Thema Landesgartenschau, in der alle Informationen zum Sachstand dargelegt werden sollen.\n\nDer Antrag ist der Niederschrift als Anlage 3 beigefügt."
+      },
+      {
+        "number": "3.3.",
+        "title": "Sachstand Kita-Standort",
+        "facts": "Stadtrat Roscher bittet um Sachstand zum Thema Kita-Standort.\n\nDie Verwaltung teilt mit, dass dies in einer der nächsten Sitzungen behandelt wird."
+      },
+      {
+        "number": "3.4.",
+        "title": "Sachstand Bad Keidenzell",
+        "facts": "Stadtrat Roscher erkundigt sich nach einem Sachstand zum Naturbad in Keidenzell. Der Weiterbetrieb sollte zeitnah beraten und geklärt werden, damit eine dauerhafte Eröffnung im Sommer gewährleistet werden kann."
+      },
+      {
+        "number": "3.5.",
+        "title": "Planungen Wärmenahversorgung",
+        "facts": "Stadtrat Roscher erkundigt sich zu Planungen einer Wärmenahversorgung und bittet darum, auch dieses Thema zeitnah zu behandeln. Eine Umsetzung ist bis 2028 vorgeschrieben."
+      },
+      {
+        "number": "3.6.",
+        "title": "Planungen Hitzeschutzkonzept",
+        "facts": "Stadträtin Schlager beantragt die Planung eines Hitzeschutzkonzepts."
+      },
+      {
+        "number": "3.7.",
+        "title": "Informationstafel Würzburger Straße",
+        "facts": "Stadträtin Schlager teilt mit, dass die hölzerne Informationstafel mit dem Stadtplan in der Würzburger Straße erneuert werden sollte. Das Holz ist schon stark verwittert."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "162220",
+    "minutes": "163041"
+  }
+}

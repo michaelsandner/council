@@ -1,0 +1,303 @@
+{
+  "meetingId": "3270",
+  "announcement": {
+    "heading": "60. Sitzung des Stadtrates",
+    "sessionNumber": 60,
+    "date": "2024-06-13",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Rad- und Mobilitätsbeauftragter hier: Abbestellung von Herrn Wolfgang Schulz"
+      },
+      {
+        "number": "2.",
+        "title": "Rad- und Mobilitätsbeauftragter hier: Neubestellung von Herrn Gisbert Betzler für die Legislaturperiode 2020 - 2026"
+      },
+      {
+        "number": "3.",
+        "title": "Bürgerstiftung Langenzenn; hier: Verabschiedung der ausgeschiedenen Stiftungsratmitglieder"
+      },
+      {
+        "number": "4.",
+        "title": "Bürgerstiftung Langenzenn; hier: Jahresbericht 2023"
+      },
+      {
+        "number": "5.",
+        "title": "Mietverträge zur Vermietung städtischer Immobilien an ukrainische Geflüchtete; hier: Stellungnahme des 1. Bürgermeisters"
+      },
+      {
+        "number": "6.",
+        "title": "Ortsbesichtigung freie Räumlichkeiten im Spital-Areal"
+      },
+      {
+        "number": "7.",
+        "title": "Ortsbesichtigung: Räumlichkeiten im Bauhof und im Areal ehemals Opel-Weber"
+      },
+      {
+        "number": "8.",
+        "title": "Unterbringung der Stadtwerke, Bezug freier Räumlichkeiten im Spital-Areal"
+      },
+      {
+        "number": "9.",
+        "title": "Beauftragung Umverlegung Serverschrank im Bauhof"
+      },
+      {
+        "number": "10.",
+        "title": "Darstellung größerer veräußerbarer Grundstücksareale der Stadt Langenzenn"
+      },
+      {
+        "number": "11.",
+        "title": "Veröffentlichungen der Sitzungsprotokolle im Mitteilungsblatt und Homepage der Stadt Langenzenn"
+      },
+      {
+        "number": "12.",
+        "title": "Vollzug der Geschäftsordnung hier: Bekanntgabe von gefassten Beschlüssen in nichtöffentlichen Sitzungen"
+      },
+      {
+        "number": "13.",
+        "title": "Breitbandausbau; hier: Ggf. Wiederholung der Markterkundung und Förderantrag für die Richtlinie Gigabit-RL 2.0"
+      },
+      {
+        "number": "14.",
+        "title": "Ertüchtigung des Kinosaales; hier: Beschlussfassung zur Gewährung eines Zuschusses an die Hans-Sachs- Spielgruppe Langenzenn e.V."
+      },
+      {
+        "number": "15.",
+        "title": "Kindertagesstätte Krippe Thüringer Str. 8a - hier: Absage der Baumaßnahme"
+      },
+      {
+        "number": "16.",
+        "title": "Verlängerung der Veränderungssperre Nr. 15 im Bereich des Bebauungsplanes Nr. 80 \"Westlich der Deberndorfer Straße\""
+      },
+      {
+        "number": "17.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "18.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "7. Juni 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "60. Sitzung des Stadtrates",
+    "sessionNumber": 60,
+    "date": "2024-06-13",
+    "startTime": "16:00",
+    "endTime": "19:40",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred",
+            "note": "bis Mitte TOP 21.3"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 1"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "bis Mitte TOP 21.1"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "bis TOP 21.3"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "bis TOP 21.3"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Weber, Thomas"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Rad- und Mobilitätsbeauftragter hier: Abbestellung von Herrn Wolfgang Schulz",
+        "facts": "Der bisher vom Stadtrat bestellte Rad- und Mobilitätsbeauftragte, Herr Wolfgang Schulz, hat mit dem Schreiben vom 15.12.2023 (per Email) sein Rücktrittsgesuch aus persönlichen Gründen gegenüber der Stadtverwaltung von seinem Ehrenamt geäußert. Der Hauptausschuss wurde hierüber in der Sitzung vom 25.01.2024 informiert.\n\nEhrenamtlich tätige Personen können von der Stelle, die sie berufen hat, abberufen werden, wenn ein wichtiger Grund vorliegt (Art. 19 Abs. 2 Satz 1 GO). Die finale Berufung von Hr. Schulz für die Legislaturperiode 2020 – 2026 erfolgte durch den Stadtrat am 23.07.2020.",
+        "decision": "Der Stadtrat beschließt die Abberufung von Hr. Wolfgang Schulz in seiner ehrenamtlichen Tätigkeit als Rad- und Mobilitätsbeauftragter der Stadt Langenzenn mit Wirkung zum 13.06.2024.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Rad- und Mobilitätsbeauftragter hier: Neubestellung von Herrn Gisbert Betzler für die Legislaturperiode 2020 - 2026",
+        "facts": "Die Pfleger und Beauftragten werden nach der Geschäftsordnung des Stadtrats durch den Stadtrat mittels Beschluss bestellt.\n\nMan unterscheidet Pfleger, denen nach Art. 46 Abs. 1 Satz 2 GO hauptsächlich Überwachungsaufgaben übertragen werden und Beauftragte, die im weitesten Sinne die Verwaltung bei der Durchführung von Verwaltungsaufgaben unterstützen.\n\nDurch die Abberufung von Hr. Wolfgang Schulz als bisheriger Rad- und Mobilitätsbeauftragter der Stadt Langenzenn (siehe vorheriger Tagesordnungspunkt) ist diese Position vakant.\n\nIn der Sitzung des Hauptausschusses vom 25.01.2024 wurden die Fraktionen um entsprechende Vorschläge zur Nachbesetzung gebeten.\n\nSeitens der Fraktion „Bündnis 90/Die Grünen“ wurde Herr Gisbert Betzler vorgeschlagen. Weitere Vorschläge liegen nicht vor.",
+        "decision": "Der Stadtrat bestellt Herrn Gisbert Betzler zum Rad- und Mobilitätsbeauftragten für die Wahlperiode 2020 – 2026 mit Wirkung zum 13.06.2024.\n\n(Hinweis: Pfleger und Beauftragten erhalten eine Aufwandsentschädigung, die in der Satzung zur Regelung von Fragen des örtlichen Gemeindeverfassungsrechts festgelegt ist.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bürgerstiftung Langenzenn; hier: Verabschiedung der ausgeschiedenen Stiftungsratmitglieder",
+        "facts": "Seit der Gründung der Bürgerstiftung Langenzenn im Jahr 2012 gehörte Herr Hans Meyer dem Stiftungsrat an. Frau Evelyn Meyer gehörte dem Stiftungsrat seit 2018 an. Zahlreiche Projekte und unbürokratische Hilfen konnten, dank ihrer Unterstützung, durch die Bürgerstiftung verwirklicht werden.\n\nDie ehrenamtliche Tätigkeit umfasste neben der Teilnahme an den Stiftungsratssitzungen auch die Termine vor Ort zur Entgegennahme und Ausgabe von Spenden sowie Anregungen für Projekte der Bürgerstiftung. Für die Erfüllung dieser Aufgaben haben die Stiftungsräte dankenswerterweise ihre Freizeit geopfert und mitunter auch an den Wochenenden Zeit aufgebracht.\n\nHierfür möchte sich der Stadtrat der Stadt Langenzenn herzlich bei Herrn Hans Meyer und Frau Evelyn Meyer bedanken.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Bürgerstiftung Langenzenn; hier: Jahresbericht 2023",
+        "facts": "Das Grundstockvermögen der Bürgerstiftung Langenzenn beträgt unverändert ca. 63.000 Euro.\n\nIn den Jahren 2012 – 2023 wurden ca. 160.000 Euro an Spenden ausgereicht. Allein im Jahr 2023 sind 6.600€ an Spenden eingegangen.\n\nVon den in den Vorjahren bei der Bürgerstiftung eingegangenen, insgesamt 26.480,00 €, zweckgebundenen Spenden für die Ukrainehilfe konnte 2023 ein Restbetrag von 960,20 € an Langenzenn hilft e.V. überwiesen werden.\n\nFür das Jugendhaus „Alte Post“ wurde 2022 eine zweckgebundene Spende in Höhe von 1.000,00 € für den Circus ZappZarap entgegengenommen. Der Zirkus fand im Jahr 2023 wieder statt und das Geld wurde hierfür verwendet.\n\nAuch für die Renovierung des Alten Schulhauses Kirchfembach sind Spenden eingegangen. Hier konnten 1.400,00 € ausgezahlt werden. Diese Zuwendung der Bürgerstiftung Langenzenn hat weitere nötige Renovierungen ermöglicht.\n\nEin Restbetrag von 11.884,00 € aus dem Topf der Flutopferhilfe konnte für die Anschaffung von Hochwasserpaketen für die Feuerwehren verwendet werden.\n\nEine besondere Freude war es in den letzten Jahren, Kinder aus benachteiligten Familien durch Kirchweihgutscheine zu unterstützen und ihnen die Teilnahme am Ferienprogramm der Stadt Langenzenn zu ermöglichen. So konnten in 2023 für diesen Zweck 500,40 € ausgeschüttet werden.\n\nDa diese Aktionen in den letzten Jahren großen Anklang gefunden haben und sich die Zahl der Tafelkinder jährlich erhöht, wird durch die Bürgerstiftung im kommenden Jahr wieder ein Betrag zur Verfügung gestellt. Hierbei wird der Betrag für die Kirchweihgutscheine ab 2024 auf 10,00 € pro Kind erhöht.\n\nDie Grund- und Mittelschule konnte mit der Anschaffung von 5 Laptops unterstützt werden.\n\nUnterstützung fand in diesem Jahr auch wieder die Weihnachtsaktion, deren Initiatorin, Frau Hohm, mit Hilfe der Evangelischen Kirchengemeinde jährlich ab dem 6. Dezember Weihnachtspäckchen bei bedürftigen Familien vorbeibringt. Hierfür wurden 750 € von der Bürgerstiftung aufgewendet.\n\nFür den Bürgerbusverein konnten die Kosten für einen Geldwechsler mit Arbeitstisch sowie für acht neue Felgen übernommen werden. Hierfür sind zweckgebundene Spenden in Höhe von 1.682,00 € eingegangen. Durch Aufstockung der Spende konnte ein Betrag von 1.928,00 € für die o.g. Anschaffungen ausgezahlt werden.\n\nFür die Hans-Sachs-Spieler wurde ein Betrag von 3.000,00 € für die Ergänzung von Mobiliar und Beleuchtung ausbezahlt.\n\nAn Spendeneingängen waren 2023 ca. 6.600 Euro zu verzeichnen.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Veröffentlichungen der Sitzungsprotokolle im Mitteilungsblatt und Homepage der Stadt Langenzenn",
+        "facts": "Herr Stadtrat Durlak hat den Antrag gestellt, dass in den Sitzungsprotokollen der Gremien zukünftig wieder die an- bzw. abwesenden Stadtrats-/ Ausschussmitglieder aufzuführen und zu veröffentlichen sind.\n\nHinsichtlich einer datenschutzrechtlichen Bewertung einer Veröffentlichung auf der Homepage bzw. im Mitteilungsblatt der Stadt Langenzenn wurde Kontakt mit dem Datenschutzbeauftragten aufgenommen.\n\nGrundsätzlich lässt sich festhalten, dass es sich bei einem Stadtrat in Ausübung seines Amtes um eine Person des öffentlichen Interesses handelt. Insoweit ist die namentliche Veröffentlichung über die Teilnahme / Nichtteilnahme eines Stadtrates im Sitzungsprotokoll und die damit verbundene Veröffentlichung im Mitteilungsblatt / auf der Homepage datenschutzrechtlich unproblematisch.\n\nDies begründet sich unter anderem auch aus Art. 54 Abs. 1 Satz 2 GO („Die Niederschrift muss Tag und Ort der Sitzung, die anwesenden Gemeinderatsmitglieder…“) sowie Art. 54 Abs. 3 Satz 2 GO („Die Gemeindebürgerinnen und Gemeindebürger können Einsicht in die Niederschriften der öffentlichen Sitzungen des Gemeinderats nehmen und sich Kopien erteilen lassen.). Problematisch ist aber die Veröffentlichung eines Abwesenheitsgrundes eines Stadtratsmitglieds (z.B. unentschuldigt, Krank, Urlaub etc.).\n\nDaher empfiehlt es sich die Darstellung, sofern gewünscht, nur mit „Anwesend:“ (bzw. Anwesend bis / Anwesend ab) und „Abwesend“ in der Niederschrift zu hinterlegen.",
+        "decision": "Der Stadtrat beschließt, dass zukünftig in den zu veröffentlichenden Sitzungsprotokollen wieder die Stadtrats- bzw. Ausschussmitglieder nach „Anwesend“ und „Abwesend“ zu Beginn eines Protokolls aufgeführt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Vollzug der Geschäftsordnung hier: Bekanntgabe von gefassten Beschlüssen in nichtöffentlichen Sitzungen",
+        "facts": "Herr Stadtrat Durlak hat den Antrag gestellt, dass die in nichtöffentlicher Sitzung gefassten Beschlüsse zeitnah öffentlich bekannt zu geben sind.\n\nNach Art. 52 Abs. 3 GO i.V.m. § 22 Abs. 3 GeschO beschließt der Gemeinderat in nichtöffentlicher Sitzung ob der Geheimhaltungsgrund eines nichtöffentlichen gefassten Beschlusses weggefallen ist oder nicht. Bekanntzugeben ist dabei nur der eigentliche Beschluss, nicht aber der Beratungs-, Abstimmungsverlauf sowie das Abstimmungsergebnis. Für die Bekanntgabe ist der Erste Bürgermeister zuständig.\n\nEine Nichtbekanntgabe eines in nichtöffentlicher Sitzung gefassten Beschlusses bzw. der Art. 52 Abs. 3 GO stellt dabei lediglich eine Ordnungsvorschrift dar. Der eigentliche Beschluss bleibt also auch ohne Bekanntgabe gültig.\n\nFür eine einheitliche Vorgehensweise zur Bekanntgabe von nichtöffentlich gefassten Beschlüssen schlägt die Verwaltung nach einer erfolgten Besprechung mit Herrn Stadtrat Durlak folgende Vorgehensweise vor:\n\n-   Alle nichtöffentlich gefassten Beschlüsse aller Gremien werden monatsweise durch den Sitzungsdienst gesammelt -   Im darauffolgenden Monat werden die in nichtöffentlicher Sitzung gefassten Beschlüsse im Rahmen der ersten Stadtratssitzung dieses Monates erneut in einem nichtöffentlichen Tagesordnungspunkt aufgegriffen -   Seitens der Verwaltung wird zu den einzelnen Beschlüssen eine Einschätzung gegeben, ob zu diesem Zeitpunkt der Geheimhaltungsgrund weiterhin vorliegt oder nicht (sofern einzelne Aspekte zu einem Beschluss weiterhin der Geheimhaltung unterliegen wirken sie sich auf den gesamten Beschluss aus) -   Der Stadtrat beschließt sodann chronologisch für jeden einzelnen Beschluss in der erstellten Übersicht über den Wegfall der Geheimhaltung bzw. über die öffentliche Bekanntgabe -   Sofern der Geheimhaltungsgrund weiterhin für einen Beschluss besteht, wird dieser nicht erneut zur Abstimmung über die Bekanntgabe im nächsten Monat aufgegriffen. Ausnahme hiervon bilden Vergabebeschlüsse nach VOB. -   Die Bekanntgabe erfolgt im Rahmen des für die Sitzung zu erstellenden Protokolls (eine bestimmte Form der Bekanntgabe sieht die Gemeindeordnung des Freistaats Bayern (GO) sowie die Geschäftsordnung der Stadt Langenzenn (GeschO) nicht vor). -",
+        "decision": "Der Stadtrat beschließt die oben genannte Vorgehensweise zur Bekanntgabe von Beschlüssen in nichtöffentlicher Sitzung. Hinzugefügt wird, dass nur die – von der Verwaltung entschiedenen – freigabeberechtigten Dokumente vorgelegt werden sollen, um die Bürokratie gering zu halten.\n\n(Stadträtin Osswald ist während der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "13.",
+        "title": "Breitbandausbau; hier: Ggf. Wiederholung der Markterkundung und Förderantrag für die Richtlinie Gigabit-RL 2.0",
+        "facts": "Im Rahmen der letzten Bewerbungsphase für das Bundesprogramm für den Breitbandausbau (Gigabit-Richtlinie 2.0) hat die Stadt Langenzenn im Vergleich mit allen anderen Bewerbern von 500 möglichen Punkten 100 Punkte erreicht. Als Folge der erreichten Punktzahl hat die Stadt Langenzenn keinen positiven Förderbescheid erhalten. Für diesen wären mindesten ca. 240 Punkte erforderlich gewesen. Dieses Punkteranking wurde nötig, da die angefragten Mittel der Kommunen die Fördermittel des Bundes bei weitem überstiegen. Die Stadt Langenzenn hat von der Option Gebrauch gemacht, die im Rahmen der Bewerbung übermittelten Daten auf einen neuen Förderaufruf zu übertragen. Somit entfällt für eine weitere Bewerbung der so genannte Branchendialog.\n\nDerzeit besteht wieder die Möglichkeit sich für das Förderprogramm des Bundes mit folgendem (groben Zeitablauf) zu bewerben: - Durchführung eines Markterkundungsverfahren (Dauer ca. 2 Monate) - Auswerten der Ergebnisse des Markterkundungsverfahren - Stellen eines Förderantrages bis spätestens 30.09.2024\n\nSeitens des Markterkundungsverfahrens ist mit keinen neuen Erkenntnissen zu rechnen (kein weiterer eigenwirtschaftlicher Ausbau der Telekommunikationsanbieter über die bisher bekannten Maßnahmen hinaus), sodass wieder mit 1.193 förderfähigen Adressen im gesamten Stadtgebiet von Langenzenn gerechnet werden kann.\n\nBei einer angenommen Wirtschaftlichkeitslücke von 5.000,-- Euro pro förderfähiger Adresse ergibt dies eine gesamte Wirtschaftlichkeitslücke von 6.000.000,-- Euro, die haushaltsrechtlich eine Verpflichtungsermächtigung darstellen. Dem gegenüber steht ein Fördersatz von ca. 80%, sodass der Eigenanteil ca. 1.200.000,-- Euro beträgt.\n\nSofern die Stadt Langenzenn 2024 positiv beschieden wird, erfolgt grob geschätzt 2025/2026 der finale Förderantrag. Der im Vergabeverfahren ausgewählte Telekommunikationsanbieter benötigt nach Unterzeichnung des Ausbauvertrages ca. 48 Monate für den eigentlichen Ausbau. Die Zahlung der Wirtschaftlichkeitslücke im Rahmen der Ausbautätigkeit erfolgt in mehreren Teilzahlungen, i.d.R. 20-25% am Anfang, 50% während der Ausbauarbeiten und 25-30% mit Abschluss der Arbeiten. Teilmittelabrufe von Fördergeldern sind möglich (also 80% der ersten Abschlagszahlung, 80% der zweiten Abschlagszahlung sowie 80% der letzten Abschlagszahlung). Zwischen der Leistung der Teilzahlung und Erhalt der abgerufenen Fördermittel liegen ca. 3 Monate Bearbeitungszeit. Mit der ersten Teilzahlung von 25-30% ist im Jahr 2027 zu rechnen.\n\nOb die Stadt Langenzenn bei diesem Förderaufruf positiv beschieden wird, hängt in erster Linie von der durch andere Kommunen beantragten Fördergelder ab. Sicher ist jedoch, dass jede Kommune, die einen Förderantrag stellt, wieder einem Punkteranking unterzogen wird. Die Daten, die zur Punkte-Berechnung führen wurden seitens PWC (Pricewaterhouse Coopers GmbH Wirtschaftsprüfungsgesellschaft) zwar aktualisiert, jedoch sind die Auswirkungen auf die Punktevergabe nach außen nicht klar.\n\nIm Falle einer positiven Entscheidung des Stadtrates müssten darüber hinaus noch Gespräche mit der Rechtsaufsicht hinsichtlich der Verpflichtungsermächtigung in Höhe von\n\n6.000.000,-- Euro geführt werden. Unter Umständen können diese aufgrund der gegenüberstehenden Fördermittelzusage gewährt werden. Faktisch müssen aber in den kommenden Hausjahren entsprechende Mittel für den Eigenanteil bereitgestellt werden. Zudem muss die Liquidität zur Zahlung der Abschlagszahlungen gewährleistet sein.",
+        "decision": "Der Stadtrat beschließt derzeit keinen erneuten Antrag für das Förderprogramm des Bundes zum Breitbandausbau (Gigabitrichtlinie 2.0) bis spätestens 30.09.2024 abzugeben.\n\n(Stadträtin Ritter ist während der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "14.",
+        "title": "Ertüchtigung des Kinosaales; hier: Beschlussfassung zur Gewährung eines Zuschusses an die Hans- Sachs-Spielgruppe Langenzenn e.V.",
+        "facts": "Mit Mietvertrag (südlicher Kulturhof) vom 28.11.2019 wurde der Kinosaal von der Stadt Langenzenn an die Hans-Sachs-Spielgruppe Langenzenn e.V. zum Betrieb und Unterhalt für die Dauer von 25 Jahren übergeben.\n\nFür die Ertüchtigung des Kinosaales hat der Verein eine Leader Förderung beantragt. Diese Förderung unterstützt überwiegend die Anschaffung von Ausstattung. Für den reinen Gebäudeunterhalt erfolgt über Leader keine Förderung. Da es sich um eine städtische Liegenschaft handelt, liegt grundsätzlich die Unterhaltslast beim Eigentümer und somit bei der Stadt Langenzenn.\n\nFür den Förderantrag der Leader Förderung wurden parallel die Kosten für den aktuell erforderlichen baulichen Unterhalt ermittelt. Diese Kosten belaufen sich auf rund 182.000 €.\n\nDie Verwaltung empfiehlt analog der Städtebauförderung für dieses Projekt eine Förderquote von 60 % der tatsächlich angefallenen Kosten, maximal jedoch 120.000 €, auf Maßnahmen der Kostengruppen 300, 400 und 700.\n\nDie Kostenzusammenstellung liegt als Anlage bei.\n\nGemäß Beschluss des Stadtrates vom 11.04.2024 hat die Hans-Sachs-Spielgruppe Langenzenn e.V. bereits einen Vorschuss in Höhe von 50.000 €, zur Sicherstellung der Leader Förderung, erhalten. Der Verein hat diesen Vorschuss spätestens bis 31.12.2024 an die Stadt Langenzenn zurück zu zahlen. Sollte für das Projekt „Renovierung Kinosaal“ noch eine Bezuschussung durch die Stadt beschlossen werden, erfolgt die Verrechnung des Vorschusses mit der Zuschusssumme.\n\nDie Verwaltung wird beauftragt die Mittel im Haushaltsplan 2024 bereit zu stellen.\n\nDer Hauptausschuss hat in seiner Sitzung vom 04.06.2024 einstimmig, mit 8 : 0 Stimmen folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt, der Hans-Sachs-Spielgruppe Langenzenn e. V. einen freiwilligen Zuschuss in Höhe von 60 % der tatsächlich angefallenen Kosten (Kostengruppe 300, 400 und 700), maximal jedoch 120.000 €, für die Ertüchtigung des Kinosaales zu gewähren.\n\nDer bereits ausgezahlte Vorschuss in Höhe von 50.000 €, zur Sicherstellung der Leader Förderung, wird mit der Auszahlung des Zuschusses verrechnet.\n\nDie Verwaltung wird beauftragt die Mittel im Haushaltsplan 2024 bereit zu stellen.\n\n(Stadträtin Ritter ist während der Abstimmung nicht im Sitzungssaal anwesend",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "15.",
+        "title": "Kindertagesstätte Krippe Thüringer Str. 8a: hier: Absage der Bauamaßnahme",
+        "facts": "Stellungnahme des Hauptamts:\n\nIm Bereich der Kindergärten sind noch sieben Anmeldungen (im Alter von drei bis vier) offen. Um diese Kinder zum September unterbringen zu können, plant die Verwaltung derzeit die „Reaktivierung“ des Klaushofer Wegs mit einer „Kleinkindgruppe“.\n\nNach den derzeitigen Prognosen, bzw. Geburtenzahlen wird sich die Anmeldesituation in den Krippen und Kindergärten in den kommenden Jahren etwas entspannen und sich die Platznot vorübergehend verringern.\n\nAus diesem Grund besteht aus heutiger Sicht die Möglichkeit, dass auf die „Aufstockung“ der Krippe in der Thüringer Str. 8 a verzichtet werden kann und dafür der Neubau für die Kita Wurzelkinder schneller vorangetrieben wird.\n\nStellungnahme des Bauamts:\n\nDie aktuellen Kostenberechnungen haben für die Aufstockung der Kinderkrippe (ca. 25 - 30 Kinder) Bau- und Honorarkosten in Höhe von rund brutto 2.993.000 Euro ergeben. Diese Kosten sind in den Haushaltsplänen 2024/2025 vorgesehen.\n\nDie Kosten für den Neubau einer Kindertagesstätte (3+3 = ca. 120 Kinder) wurden durch das Bauamt auf Grundlage von BKI-Daten auf rund brutto 5.500.000 Euro geschätzt. Das inzwischen vorliegende Angebot für eine Konzeptstudie als Grundlage für das VgV-Verfahren geht von Kosten von rund brutto 6.000.000 Euro auf Basis einer bereits errichteten, vergleichbaren Kindertagesstätte aus.\n\nVerschiedene Angebote für Vorplanungen / Untersuchungen auf dem in der Stadtratssitzung vom 06.05.2024 beschlossenen Standort „Nr. 14 – Nördlich des Hallenbads“ liegen vor und könnten auf Grundlage der Beschlusslage beauftragt und durchgeführt werden.\n\nDie Bauleitplanung und notwendigen VgV-Verfahren könnten zunächst parallel erfolgen, sodass in ca. 8 Monaten objektspezifischen Planungsaufträge vergeben werden könnten. Eine mittelfristige Fertigstellung der neuen Kindertagesstätte würde somit aktuell den Haushalt 2024 und 2025 um rund 3.000.000 Euro entlasten.\n\nDer Hauptausschuss hat in seiner Sitzung vom 04.06.2024 einstimmig, mit 8:0 Stimmen, folgende Beschlussfassung empfohlen:",
+        "decision": "Der Stadtrat beschließt die Aussetzung der Aufstockung der Krippe „Thüringer Straße“.\n\nDie Planungen und Förderanträge sollen soweit „förderunschädlich“ weiterverfolgt und fertiggestellt werden, so dass bei Bedarf eine unmittelbare Umsetzung erfolgen kann.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "16.",
+        "title": "Verlängerung der Veränderungssperre Nr. 15 im Bereich des Bebauungsplanes Nr. 80 \"Westlich der Deberndorfer Straße\"",
+        "facts": "Tagesordnungspunkt 16 wird vor Tagesordnungspunkt 5 behandelt.\n\nAm 07.07.2022 beschloss der Stadtrat der Stadt Langenzenn die Veränderungssperre Nr. 15 als Satzung. Die Veränderungssperre wurde am 15.07.2022 bekannt gemacht und trat am Tag nach ihrer Bekanntmachung im Mitteilungsblatt in Kraft.\n\nAufgrund der Vergrößerung des Geltungsbereichs des Bebauungsplans Nr. 80 „Westlich der Deberndorfer Straße“, wurde die Veränderungssperre angepasst und am 21.07.2023 die 1. Änderung erlassen, die auch den Geltungsbereich der Veränderungssperre anpasste.\n\nZiel der Veränderungssperre ist die Sicherung der Planung der Bauleitplanung des Bebauungsplans Nr. 80 „Westlich der Deberndorfer Straße“.\n\nAnlass für die Aufstellung der Veränderungssperre war ein Antrag auf eine immissionsschutzrechtliche Änderungsgenehmigung gemäß §§ 16 und 19 BImSchG. Da dieses Vorhaben nicht nach § 35 Abs. 1 BauGB privilegiert war und den Planungsabsichten des Bebauungsplans Nr. 80 „Westlich der Deberndorfer Straße“ widersprach wurde die Veränderungssperre Nr. 15 erlassen, die für die Dauer von zwei Jahren gilt, also bis 15.07.2024.\n\nZum Bebauungsplan wurde bereits die frühzeitige Öffentlichkeitsbeteiligung nach § 3 Abs. 1 BauGB und die frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 1 BauGB im Dezember 2023 und Januar 2024 durchgeführt. Aktuell werden die eingegangenen Stellungnahmen ausgewertet, die Abwägung vorbereitet und noch notwendige Gutachten erstellt. Danach wird der Entwurf fertiggestellt und könnte gebilligt werden.\n\nDa die Aufstellung der Bauleitplanung noch nicht abgeschlossen werden konnte, ist daher eine Verlängerung der Veränderungssperre zur weiteren Sicherung der Planung erforderlich. Eine Veränderungssperre tritt nach Ablauf von zwei Jahren außer Kraft, kann aber um ein Jahr verlängert werden (§ 17 Abs. 1 BauGB). Die Veränderungssperre hätte damit eine Gültigkeit bis einschließlich 15.07.2025. Wenn besondere Umstände es erfordern sollten, kann die Stadt die Frist bis zu einem weiteren Jahr nochmals verlängern (§ 17 Abs. 2 BauGB).",
+        "decision": "Der Stadtrat der Stadt Langenzenn beschließt die Verlängerung der Veränderungssperre Nr. 15 (mit 1. Änderung) im Bereich des Bebauungsplanes Nr. 80 „Westlich der Deberndorfer Straße“ mit Stand vom 06.06.2024 gem. § 17 Abs. 1 BauGB um ein Jahr als Satzung.\n\nDie Verwaltung wird hiermit beauftragt, die Satzung über die Verlängerung der Veränderungssperre Nr. 15 ortsüblich bekannt zu machen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 14,
+          "against": 2
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "165929",
+    "minutes": "170454"
+  }
+}

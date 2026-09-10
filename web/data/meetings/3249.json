@@ -1,0 +1,239 @@
+{
+  "meetingId": "3249",
+  "announcement": {
+    "heading": "68. Sitzung des Stadtrates",
+    "sessionNumber": 68,
+    "date": "2024-11-12",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "4.",
+        "title": "Bekanntgabe von in nichtöffentlicher Sitzung gefassten Beschlüssen"
+      },
+      {
+        "number": "5.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Billigung zur Öffentlichen Auslegung der vorbereitenden Untersuchung"
+      },
+      {
+        "number": "6.",
+        "title": "26. Änderung des Flächennutzungsplanes für den Bereich des Sportgeländes Siedelbacher Straße; hier: Abwägung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB"
+      },
+      {
+        "number": "7.",
+        "title": "26. Änderung des Flächennutzungsplanes für den Bereich des Sportgeländes Siedelbacher Straße; hier: Billigungs- und Auslegungsbeschluss"
+      },
+      {
+        "number": "8.",
+        "title": "Neuerlass der Satzung für die Erhebung der Hundesteuer (Hundesteuersatzung - HStS);"
+      },
+      {
+        "number": "9.",
+        "title": "Neuerlass der Satzung über die Benutzung der Stadtbücherei Langenzenn (Büchereisatzung) 10. Neuerlass der Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei Langenzenn (Bücherei Gebührensatzung); 11. Bericht der städtischen Sozialbeauftragten 12. Spendenaktion der Sparkasse Fürth; hier: Einreichung von Vorschlägen durch die Stadt Langenzenn 13. Bedarfsanerkennung zusätzlicher Betreuungsplätze im Krippen- und KiTa-Bereich 14. Kindertagesstätte am Hallenbad; hier: Finanzierungsplan und Eigenmittelbestätigung 15. Mitteilungen 16. Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. 16:30 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "4. November 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "68. Sitzung des Stadtrates",
+    "sessionNumber": 68,
+    "date": "2024-11-12",
+    "startTime": "16:00",
+    "endTime": "18:47",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Erhart, Wolfgang",
+            "note": "bis TOP 23"
+          },
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 21.1, bis TOP 21.4"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "bis TOP 21.2"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "4.",
+        "title": "Bekanntgabe von in nichtöffentlicher Sitzung gefassten Beschlüssen",
+        "facts": "Der Stadtrat gibt folgende in nichtöffentlicher Sitzung gefassten Beschlüsse öffentliche bekannt:\n\n47. Sitzung des Bau- Umwelt- und Verkehrsausschuss\n\n1. Vergabe von Planungsleistungen zur Erstellung einer schalltechnischen Untersuchung Der Hauptausschuss beschließt, die AKDB zu einem Preis von 7.047,43 Euro mit dem Druck und Versand der Grundsteuerbescheide 2025 zu beauftragen.\n\n59. Sitzung des Hauptausschusses vom 24.10.2024\n\n2. Druckauftrag und Versand der Grundsteuerbescheide 2025, Beauftragung der AKDB Der Hauptausschuss beschließt, die AKDB zu einem Preis von 7.047,43 Euro mit dem Druck und Versand der Grundsteuerbescheide 2025 zu beauftragen.\n\n3. Vergabe für Zwangsvollstreckungssoftware \"avviso\" Der Hauptausschuss beschließt die Anschaffung und Softwarepflege der Vollstreckungssoftware avviso auf Grundlage des Angebots vom 20.06.2024 in Höhe von 8.508,50 Euro.\n\nDie monatliche Pauschale für die Softwarepflege beträgt 314,46 Euro.\n\n4. Beschaffung von Tablet-PC's für die Mittelschule Der Hauptausschuss genehmigt die Beschaffung von insgesamt 22 Tablets (inkl. Eingabestifte) für die Mittelschule Langenzenn – Veitsbronn bis zu einer Summe von 19.500,00 €.\n\n5. Genehmigung der letzten Niederschriften:\n\nNiederschrift über die                      Sitzungsdatum    Niederschrift vom 52. Sitzung des Hauptausschusses            25.04.2024       26.09.2024 56. Sitzung des Hauptausschusses            27.06.2024       30.07.2024 58. Sitzung des Hauptausschusses            24.07.2024       08.08.2024\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Billigung zur Öffentlichen Auslegung der vorbereitenden Untersuchung",
+        "facts": "Nach Vorstellung der Ergebnisse der Vorbereitenden Untersuchungen im Stadtrat am 29.10.2024 lagen den Stadträten die Unterlagen zur Einsicht vor.\n\nUm die Vorbereitenden Untersuchungen fortführen zu können ist nun ein Beteiligungsverfahren erforderlich.\n\nDabei werden sowohl die Träger öffentlicher Belange als auch die betroffenen Bürger zum Planungsstand und zum geplanten Sanierungsgebiet gehört.",
+        "decision": "Der Stadtrat billigt die vorliegenden Ergebnisse der Vorbereitenden Untersuchungen und beauftragt die Verwaltung die Beteiligung und öffentliche Auslegung nach §§ 137 und 139 ff. BauGB durchzuführen.\n\n(Stadträtin Ritter ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "26. Änderung des Flächennutzungsplanes für den Bereich des Sportgeländes Siedelbacher Straße; hier: Abwägung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB",
+        "facts": "Der Verein der Sport- und Sängerfreunde Laubendorf e.V. plant westlich des OT Laubendorf und nördlich der Siedelbacher Straße die Errichtung eines Kletterturms zur Erweiterung des Sportangebots. Da der wirksame Flächennutzungsplan mit integriertem Landschaftsplan (FNP) für diesen Bereich Flächen für die Landwirtschaft, mit einer symbolhaften Zweckbestimmung „Skilift“ darstellt, sollten die Darstellungen des FNP in diesem Bereich geändert werden.\n\nDer Stadtrat hat hierzu am 21.02.2024 die Aufstellung der 26. Änderung des FNP beschlossen. Vorgesehen ist die Darstellung einer Grünfläche mit der Zweckbestimmung Sportplatz bzw. Skilift. Der Änderungsbereich liegt westlich des Ortsteils Laubendorf sowie nördlich der Siedelbacher Straße und hat eine Gesamtgröße von ca. 0,9 ha. Der Änderungsbereich umfasst die Flurstücke Nrn. 84 (tlw.) und 86 (tlw.) in der Gemarkung Laubendorf.\n\nDie frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 1 BauGB, sowie der Nachbargemeinden nach § 2 Abs. 2 BauGB erfolgte mit Anschreiben vom 17.09.2024, dabei wurde um Stellungnahme bis zum 25.10.2024 gebeten.\n\nEs wurden folgende Stellungnahmen mit Anregungen abgegeben:  Amt für Ernährung, Landwirtschaft und Forsten Fürth-Uffenheim  Bund Naturschutz e.V., Ortsgruppe Langenzenn  Deutsche Telekom Netzproduktion GmbH, T NL Süd PTI 13  Landratsamt Fürth, Sachgebiet 44  N-ERGIE Netz GmbH, Abt. Netzmanagement  Regierung von Mittelfranken, Fachberater Brand- u. Katastrophenschutz  Regierung von Mittelfranken, Höhere Landesplanungsbehörde  Staatliches Bauamt Nürnberg, Straßenbau  Wasserwirtschaftsamt, Nürnberg\n\nKeine Anregungen bzw. keine Betroffenheit wurden in folgenden Stellungnahmen geltend gemacht:  Landesjagdverband Bayern, Jägerschaft Fürth Stadt und Land e.V.  Gemeinde Großhabersdorf  Handwerkskammer für Mittelfranken\n\n HBE Handelsverband Bayern e.V.  IHK Nürnberg für Mittelfranken  Infra Fürth GmbH  Landesbund für Vogel- und Naturschutz e.V., Kreisgruppe Fürth  Markt Cadolzburg  Markt Emskirchen  Planungsverband Region Nürnberg  PLEdoc GmbH, Netzverwaltung  Regierung von Mittelfranken, Luftamt Nordbayern  Regierung von Mittelfranken, Gewerbeaufsichtsamt  Regierung von Oberfranken, Bergamt Nordbayern  TenneT TSO GmbH, Bereich Leitungen  Verwaltungsgemeinschaft Hagenbüchach-Wilhelmsdorf  Vodafone Kabel Deutschland GmbH, Geschäftsstelle Nürnberg  Zweckverband zur Wasserversorgung Dillenberggruppe\n\nKeine Stellungnahme ging im Beteiligungsverfahren ein von:  Amt für Digitalisierung, Breitband und Vermessung, Neustadt ad. Aisch  Amt für Ländliche Entwicklung  Bayerischer, Bauernverband  Bayerisches Landesamt für Denkmalpflege, Sachgebiet B Q  BDS-Gewerbeverband Bayern e.V.  Deutsche Post DHL Real Estate Deutschland GmbH  Fischereiverband Mittelfranken e.V.  Gemeinde Puschendorf  Kreisheimatpfleger  Kreisjugendring Fürth-Land  Markt Wilhermsdorf  Stadtwerke Langenzenn  Verkehrsclub Deutschland, Landesverband Bayern e.V.  Verkehrsverbund Großraum Nürnberg GmbH  Verwaltungsgemeinschaft Veitsbronn/Seukendorf\n\nDie frühzeitige Beteiligung der Öffentlichkeit zum Vorentwurf der Flächennutzungsplanänderung nach § 3 Abs. 1 BauGB fand vom 23.09.2024 bis einschließlich 25.10.2024 statt. Es gingen keine Stellungnahmen ein.\n\nAmt für Ernährung, Landwirtschaft und Forsten Fürth-Uffenheim, vom 23.09.2024 Jahnstraße 7, 90763 Fürth\n\nBereich Landwirtschaft Ansprechpartner: [N.N.] Aus landwirtschaftlich-fachlicher Sicht     Kenntnisnahme. bestehen keine Einwände gegen die aktuelle Planung. Sollten im Rahmen der weiteren Planung      Kenntnisnahme. Da die weitere Pla- Ausgleichsmaßnahmen auf landwirt-           nung auf Vorhabenebene erfolgt und schaftlichen Flächen vorgesehen werden,     die Stadt nicht Vorhabenträger ist, bitten wir darum, auf agrarstrukturelle     wird der Hinweis an den Bauherren Belange entsprechend Rücksicht zu           weitergegeben. nehmen. Bereich Forsten Ansprechpartnerin: […] Waldflächen i.S.d. § 2 Bundeswaldgesetz     Kenntnisnahme. (BWaldG) i.V.m. Art. 2 Bayerisches Waldgesetz (BayWaldG) sind durch die o.g. Planung nicht betroffen. Aus forstlicher Sicht bestehen daher ge-    Kenntnisnahme. gen die aktuelle Planung keine Einwendungen.                                     Da die weitere Planung auf Vorha- Sollten im Rahmen der weiteren Planung      benebene erfolgt und die Stadt nicht Ausgleichsmaßnahmen im Wald vorge-          Vorhabenträger ist, wird der Hinweis sehen werden, bitten wir darum, diese mit   an den Bauherren weitergegeben. uns abzusprechen. Um Abdruck des Abwägungsergebnis            Das Ergebnis der Abwägung der Stelunter Angabe des Aktenzeichens an post-     lungnahme wird im Zuge der Beteilistelle@aelf-fu.bayern.de wird gebeten.      gung nach § 3 Abs. 2 BauGB zugesendet. Bund Naturschutz, Ortsgruppe Langenzenn, vom 23.10.2024 Ziegelstr. 22, 90579 Langenzenn Der Bund Naturschutz in Bayern e.V.        Kenntnisnahme. stimmt der 26. Änderung des Flächennutzungsplanes unter nachfolgenden Bedingungen zu. Im Einzelnen: Zusätzliche verkehrliche Erschließungs-    Auf Ebene der Flächennutzungsplamaßnahmen, die über unbefestigte Geh- nung können derartige Festlegungen und Radwege hinausgehen, sind auf der nicht getroffen werden. Grundsätzlich Fläche zu untersagen.                      ist davon auszugehen, dass die Fläche verkehrlich als erschlossen gilt. Aufgrund der Lage zwischen Grünland        Kenntnisnahme. Es wird auf die Vor- und Wald darf es auf dieser Fläche keine habenebene verwiesen, auf der die Bauten mit Glasflächen geben, die nicht    artenschutzrechtlichen Bestimmungen gegen Vogelschlag ausgerüstet sind.        des BNatSchG zu beachten sind. Zudem darf es nicht zu dauerhafter Außenbeleuchtung oder Lichtabstrahlung nach außen kommen, um die Lichteinwirkung auf Pflanzen, Pilze und Tiere in diesem Außenbereich zu begrenzen. Bislang fanden außerhalb des möglichen Die Fläche wurde neben der Skiabtei- Skiliftbetriebes keine Störungen der       lung der Sportfreunde Laubendorf e.V. Waldsaumflora und -fauna statt. Dies       bereits jetzt auch schon durch die Kletwird sich nun potenziell ändern, was eine tergruppe des Vereins sowie bei audeutliche Verschlechterung darstellen      ßergewöhnlichen anderen Veranstalwürde. Daher sollte der bereits jetzt vor- tungen genutzt. Eine signifikante Erhögeschriebene Abstand zum nördlich und hung der Störeinflüsse wird daher nicht\n\nsüdlich an den Skihang angrenzenden       gesehen. Waldrand von 5 Metern auf 10 Meter        Zudem können auf Ebene der Fläverbreitert werden, um Störungen der      chennutzungsplanung derartige Festam Waldsaum lebenden Tiere und            legungen nicht getroffen werden. Es wachsenden Pflanzen zu vermeiden.         wird hier auf die Vorhabenebene verwiesen. Sinnvoll wäre es unseres Erachtens zu-    Die Fläche des eigentlichen Skilifts dem, die Flächennutzungsänderung auf      dient ja nur dem Transport der Skifahdie Fläche des Skilifts selbst und die    rer, während der gesamte Hang für die Fläche des zukünftigen Kletterturms zu    Abfahrt genutzt wird. Für diese Skihang begrenzen, statt eine Nutzungsänderung wurden aber schon Geländeauffüllunfür die gesamte Fläche vorzusehen.        gen und -modellierungen durchgeführt, die gemäß Bescheid des Landratsamts Fürth vom 11.01.2001 (Az. 512 - BV 403/2000 - V/sa) genehmigt waren. Es ist daher folgerichtig, wenn die gesamte Fläche im FNP zukünftig als Grünfläche dargestellt wird. Der Anregung wird daher nicht gefolgt. Wir gehen davon aus, dass die Einwen-     Die Stellungnahme der Ortsgruppe dungen detailliert geprüft und entspre-   Langenzenn des BN wurde in die Abchend berücksichtigt werden.              wägung eingestellt und wie oben be- Wir bitten Sie, uns einen Protokollauszug handelt. Das Ergebnis der Abwägung des Beschlussbuches über die Behand-      der Stellungnahme wird im Zuge der lung der Stellungnahme zukommen zu        Beteiligung nach § 3 Abs. 2 BauGB lassen.                                   zugesendet. Deutsche Telekom Technik GmbH, T NL Süd PTI 13, vom 22.10.2024 Niederlassung Süd, Am Fernmeldeturm 2, 90441 Nürnberg Die Telekom Deutschland GmbH (nach-         Kenntnisnahme. folgend Telekom genannt) - als Netzeigentümerin und Nutzungsberechtigte i.S.v. § 125 Abs. 1 TKG - hat die Deutsche Telekom Technik GmbH beauftragt und bevollmächtigt, alle Rechte und Pflichten der Wegesicherung wahrzunehmen sowie alle Planverfahren Dritter entgegenzunehmen und dementsprechend die erforderlichen Stellungnahmen abzugeben. Zu der o. g. Planung nehmen wir wie folgt Stellung:                                   Kenntnisnahme. Im Planbereich befinden sich noch keine Telekommunikationslinien der Telekom.       Für die geplanten Vorhaben ist der- Wir werden zu gegebener Zeit zu dem         zeit die Aufstellung eines Bebauaus dem Flächennutzungsplan zu entwi-       ungsplanes nicht vorgesehen, da sie ckelndem Bebauungsplan noch detaillierte auf anderer Grundlage genehmigt Stellungnahme abgeben.                      werden sollen. Bei Planungsänderung bitten wir um er-      Kenntnisnahme. neute Beteiligung. Landratsamt Fürth, Sachgebiet 44, vom 22.10.2024 Im Pinderpark 2, 90513 Zirndorf 1. SG 41 AB 412 – Wasserrecht/Bodenschutz/Altlasten: Das Wasserwirtschaftsamt Nürnberg ist noch       Kenntnisnahme. Das Wasserwirtzu hören und dessen Stellungnahme ist zu         schaftsamt Nürnberg wurde beteiligt beachten.                                        und deren Stellungnahme in die Ab-\n\nwägung eingestellt. N-ERGIE Netz GmbH, Abt. Netzmanagement, vom 23.09.2024 Sandreuthstraße 21, 90441 Nürnberg In der Anlage erhalten Sie einen Bestandsplan der N-ERGIE Kenntnisnahme. Netz GmbH und der von uns gegebenenfalls im Rahmen einer Betriebsführung mitbetreuten Versorgungsanlagen im oben genannten Bereich. Dieser Bestandsplan besitzt nur informellen Charakter. [Anm.: Bestandsplan in Originalstellungnahme beigefügt] Der Bestandsplan enthält Anlagen der N-ERGIE Netz GmbH Kenntnisnahme. und der N-ERGIE Aktiengesellschaft. Soweit es sich vorstehend nicht um Anlagen der N-ERGIE Netz GmbH handelt, wird diese im Namen und Auftrag der jeweiligen Anlagenbetreiber tätig. Zusätzlich zu den auf dem überlassenen Plan bekannt gegebenen Anlagen können sich vor Ort weitere im Eigentum Dritter stehende Anlagen - insbesondere Kabel, Rohre oder Leitungen zum Anschluss von Erneuerbaren Energieanlagen - befinden, für die wir nicht zuständig sind. Über diese können wir keine Auskunft geben und diese sind deshalb auch nicht im Planwerk dokumentiert. Hierfür ist der jeweilige Anlagenbetreiber zuständig. Von der oben genannten Maßnahme haben Kenntnis genommen. Wie aus dem Bestandsplan zu ersehen ist, befinden sich im instruierten Bereich keine Versorgungsanlagen der N-ERGIE Netz GmbH, sowie keine von uns betreuten Anlagen. Es bestehen somit aus unserer Sicht keine Anregungen und Bedenken. Die übersandten Unterlagen nehmen wir zu unseren Akten. Für die Benachrichtigung bedanken wir uns. Wir bitten Sie zu veranlassen, dass wir bei allen öffentlichen und privaten Planungen und Bauvorhaben, wie z.B. Aufstellung von Bebauungsplänen, Straßen- und Kanalbaumaßnahmen, Baumpflanzungen etc. rechtzeitig in den Verfahrensablauf eingebunden werden. Die aktuellen Datenschutzhinweise zum Umgang mit personenbezogenen Daten finden Sie auf unserer Internetseite www.n-ergie-netz.de. Regierung von Mittelfranken, Fachberater Brand- u. Katastrophenschutz, vom 01.10.2024 Promenade 27, 91522 Ansbach Da es sich bei diesem Vorhaben lediglich um eine Um-           Kenntnisnahme. widmung von landwirtschaftlicher Fläche zu Grünfläche handelt, ergeben sich aus unserer Sicht keine neuen brandschutztechnischen Anforderungen. Generell gilt jedoch bei der Aufstellung und Änderung von Die Hinweise werden zur Flächennutzungsplänen sind für den durch die Gemeinde Kenntnis genommen. sicherzustellenden Feuerschutz - Art. 1 des Gesetzes           Eine besondere Brandüber das Feuerlöschwesen - grundsätzlich folgende all-         last im Hinblick auf die gemeine Belange des abwehrenden Brandschutzes zu               geplanten Nutzungen überprüfen und bei Bedarf im Benehmen mit dem Kreis-           besteht nicht. Schon brandrat durchzuführen:                                        derzeit werden auf der Der Löschwasserbedarf ist nach dem Ermittlungs- und            Fläche sportliche Nut- Richtwertverfahren des ehemaligen Landesamtes für              zungen ausgeübt. Auch Brand- und Katastrophenschutz festzustellen und ggf.           wenn keine Erschliedurch den Ausbau der abhängigen Wasserversorgung               ßung über Hydranten\n\n(Hydrantennetz) entsprechend dem Erlass Nr. w/1502/1          vorhanden ist, bestehen vom 23.07.1971 des Bayer. Landesamtes für Wasserwirt- für das Plangebiet alterschaft bzw. nach den Technischen Regeln des Deutschen native Möglichkeiten der Vereins des Gas- und Wasserfaches e. V. (DVGW) - Ar-          Löschwasserversorgung. beitsblätter W 331 und W 405 - und/oder der unabhängi-        Eine detaillierte Überprügen Wasserversorgung (z. B. unterirdische Löschwasser-        fung der vorhandenen behälter nach DIN 14 230 o. ä.) zu sichern.                   und erforderlichen Ka- Das bzw. die Feuerwehrgerätehäuser müssen hinsichtlich pazitäten kann daher auf ihrer Größe, räumlichen Ausstattung, zentralen Lage, ver- Vorhabenebene erfolkehrstechnischen Anbindung und Erweiterungsmöglichkeit gen. sowohl den derzeitigen als auch den künftigen Anforderungen entsprechen. Sofern in einem absehbaren Zeitraum ein Neu-, Um- oder Erweiterungsbau eines Feuerwehrgerätehauses erforderlich wird und die Grundstücksverhältnisse unzureichend sind, ist eine entsprechende Gemeinbedarfsfläche auszuweisen. Regierung von Mittelfranken, Höhere Landesplanungsbehörde, vom 10.10.2024 Promenade 27, 91522 Ansbach Die Regierung von Mittelfranken nimmt als höhe- Kenntnisnahme. re Landesplanungsbe-hörde anhand der von ihr in dieser Eigenschaft ausschließlich zu vertretenden überörtlich raumbedeutsamen Belange der Raumordnung und Landesplanung zum o.a. Entwurf wie folgt Stellung: In der Stadt Langenzenn soll westlich des Orts-      Kenntnisnahme. Es wird aber teils Laubendorf der wirk-same Flächennut-           darauf hingewiesen, dass die zungsplan nördlich der Siedelbacher Straße ge-       bisherige Darstellung im FNP ändert werden. Um für den Bau eines Kletter-         „Fläche für Landwirtschaft“ turms die planungsrechtlichen Grundlagen zu          und nicht „Ackerfläche“ ist. schaffen, ist beabsichtigt auf Teilbereichen der Flurnummern 84 und 86 jeweils Gemarkung Laubendorf eine Grünfläche mit den Zweckbestimmungen „Sportplatz“ und „Skilift“ auszuweisen. Der Änderungsbereich umfasst insgesamt ca. 0,9 ha und wird bisher als Ackerfläche mit symbolhaf- Kenntnisnahme. ter Zweckbestimmung „Skilift“ im wirksamen Flächennutzungsplan dargestellt. Am Standort sind bereits ein Schlepplift und eine Rettungshütte neben weiteren angrenzenden Sportanlagen und -gebäuden, die bereits als Grünflächen dargestellt werden, vorhanden. Einwendungen aus landesplanerischer Sicht werden nicht erhoben. Staatliches Bauamt Nürnberg, Straßenbau, vom 23.09.2024 Postfach 47 57, 90025 Nürnberg Seitens des Staatlichen Bauamtes           Kenntnisnahme. Nürnberg stimmen wir der vorgelegten Änderung bzw. Aufstellung des Flächennutzungsplanes zu, wenn folgende Auflagen berücksichtigt und aufgenommen werden: Der Baulastträger der Staatsstraße         Auf das Plangebiet einwirkender Verträgt keine Kosten für Schallschutz-       kehrslärm von der St 2252 ist aufgrund maßnahmen an den Anlagen, die Ge-          der Entfernung von über 700 m und der genstand des Bauleitplanes sind.           topographischen Situation nicht relevant. Wir bitten um Übersendung des Ge-          Kenntnisnahme. Das Ergebnis der Ab-\n\nmeinderatsbeschlusses, wenn unsere        wägung der Stellungnahme wird im Zuge Stellungnähme behandelt wurde.            der Beteiligung nach § 3 Abs. 2 BauGB zugesendet. Weiterhin bitten wir um Übersendung       Die Planunterlagen werden im Internet, des rechtsgültigen Bauleitplanes (ein-    auf der Homepage der Stadt Langenschließlich Satzung).                     zenn, veröffentlicht, wenn die Flächennutzungsplanänderung wirksam geworden ist. Wasserwirtschaftsamt, Nürnberg, vom 23.10.2024 Allersberger Str. 17/19, 90461 Nürnberg Gewässer/Hochwasser/Starkregenereignisse Durch die bisher landwirtschaftlich genutzten Flächen können Entwässerungsanlagen (Drainagesammler, Grä-             Kenntnisnahme. Der Hinben usw.) der oberhalb gelegenen Flächen verlaufen.            weis wird an den Bauher- Ggf. sind diese Entwässerungsanlagen so umzubauen,             ren weitergegeben und ist dass ihre Funktion erhalten bleibt und das Oberflächen-        auf Vorhabenebene zu wasser sowie das Grundwasser schadlos weiter- bzw.             berücksichtigen. abgeleitet werden kann.",
+        "decision": "Der Stadtrat beschließt, dass alle Vorschläge des Bauamtes wie aufgelistet beschlossen werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "26. Änderung des Flächennutzungsplanes für den Bereich des Sportgeländes Siedelbacher Straße; hier: Billigungs- und Auslegungsbeschluss",
+        "facts": "Der Verein der Sport- und Sängerfreunde Laubendorf e.V. plant westlich des OT Laubendorf und nördlich der Siedelbacher Straße die Errichtung eines Kletterturms zur Erweiterung des Sportangebots. Da der wirksame Flächennutzungsplan mit integriertem Landschaftsplan (FNP) für diesen Bereich Flächen für die Landwirtschaft, mit einer symbolhaften Zweckbestimmung „Skilift“ darstellt, sollten die Darstellungen des FNP in diesem Bereich geändert werden.\n\nDer Stadtrat hat hierzu am 21.02.2024 die Aufstellung der 26. Änderung des FNP beschlossen. Vorgesehen ist die Darstellung einer Grünfläche mit der Zweckbestimmung Sportplatz bzw. Skilift. Der Änderungsbereich liegt westlich des Ortsteils Laubendorf sowie nördlich der Siedelbacher Straße und hat eine Gesamtgröße von ca. 0,9 ha. Der Änderungsbereich umfasst die Flurstücke Nrn. 84 (tlw.) und 86 (tlw.) in der Gemarkung Laubendorf.\n\nDie frühzeitige Beteiligung der Öffentlichkeit zum Vorentwurf der 26. Änderung des FNP nach § 3 Abs. 1 BauGB wurde vom 23.09.2024 bis einschließlich 25.10.2024 durchgeführt. Es gingen keine Stellungnahmen ein. Die frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 1 BauGB fand mit Anschreiben vom 17.09.2024 statt. Stellungnahmen konnten bis 25.10.2024 abgegeben werden. Dabei gingen keine Stellungnahmen ein, die zu einer Änderung der Planung führen. Es waren im Wesentlichen nur Hinweise für die späteren Planungsebenen, insbesondere die Vorhabenebene.\n\nDer Entwurf der 26. FNP-Änderung ist daher unverändert zur Fassung des Vorentwurfs.\n\nDer Stadtrat der Stadt Langenzenn hat unter vorgenannten Tagesordnungspunkt x über die eingegangenen Stellungnahmen zum Vorentwurf der 26. FNP-Änderung „Sportplatz Laubendorf“ entsprechend Beschluss gefasst.",
+        "decision": "Der Stadtrat der Stadt Langenzenn billigt den Entwurf der 26. Änderung des Flächennutzungsplanes im Bereich des Sportgeländes Siedelbacher Straße bei Laubendorf in der Fassung vom 30.10.2024.\n\nDie Verwaltung wird beauftragt, die Veröffentlichung im Internet des Entwurfs der FNP- Änderung nach § 3 Abs. 2 BauGB und die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB sowie die Abstimmung mit den Nachbargemeinden nach § 2 Abs. 2 BauGB durchzuführen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Neuerlass der Satzung für die Erhebung der Hundesteuer (Hundesteuersatzung - HStS);",
+        "facts": "Im Hauptausschuss am 24.10.2024 wurde über eine Hundesteuererhöhung zum 01.01.2025 beraten und eine Änderung in § 5 Abs. 1 der Hundesteuersatzung wie folgt einstimmig empfohlen, für den\n\n   ersten Hund von 85,00 € auf 90,00 € für den    zweiten Hund von 115,00 € auf 150,00 € und für    jeden weiteren Hund von 145,00 € auf 200,00 €. Der Steuersatz für Kampfhunde ohne Negativzeugnis, wird von 425,00 € auf 1.000,00 € erhöht.\n\nIn § 10 Abs. 4 wird das Wort „soll“ durch das Wort „muss“ ersetzt. Es ist den meisten Steuerpflichtigen nicht klar, dass „soll“ in der Rechtssprache „muss“ bedeutet, wenn nicht besondere Umstände vorliegen.\n\nDiese Änderungen wurden in den vorliegenden Entwurf vom 25.10.2024 einer Satzung für die Erhebung der Hundesteuer eingearbeitet.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf vom 25.10.2024 einer Satzung für die Erhebung der Hundesteuer (Hundesteuersatzung – HStS) als Satzung.\n\nHierdurch erfolgt eine Anpassung (Erhöhung) der Steuersätze in § 5 Abs. 1 und in § 10 Abs. 4 wird das Wort „soll“ durch das Wort „muss“ ersetzt.\n\nDie Satzung tritt zum 01.01.2025 in Kraft. Gleichzeitig treten diesbezügliche frühere Satzungen außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Neuerlass der Satzung über die Benutzung der Stadtbücherei Langenzenn ( Büchereisatzung);",
+        "facts": "Die Satzung über die Nutzung der Stadtbücherei Langenzenn vom 05.08.2009 wurde überarbeitet. Die Satzungsänderungen sind im Hauptausschuss vom 24.10.2024 vorberaten und zur Beschlussfassung empfohlen worden.\n\nDer Entwurf zum Neuerlass der Satzung über die Benutzung der Stadtbücherei Langenzenn (Büchereisatzung) vom 24.10.2024 wird der Niederschrift als Anlage 1 beigefügt\n\nDer Hauptausschuss empfiehlt dem Stadtrat einstimmig, mit 8 . 0 Stimmen, folgende Beschlussfassung:",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf der Satzung über die Benutzung der Stadtbücherei Langenzenn vom 24.10.2024 als Satzung. Die Satzung ist öffentlich bekannt zu geben und tritt am 01.01.2025 in Kraft, gleichzeitig tritt die Satzung vom 05.08.2009 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Neuerlass der Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei Langenzenn (Bücherei Gebührensatzung);",
+        "facts": "Die Satzung über die Erhebung von Gebühren für die Benutzung der Stadtbücherei vom 05.08.2009 wurde überarbeitet und an der Hauptausschusssitzung vom 24.10.2024 zur Beratung vorgestellt.\n\nDer Entwurf der Satzung über die Erhebung der Gebühren für die Benutzung der Stadtbücherei Langenzenn vom 24.10.2024 wird der Niederschrift als Anlage 2 beigefügt.\n\nDer Hauptausschuss hat in seiner Sitzung vom 24.10.2024 einstimmig, mit 8 . 0 Stimmen, folgenden Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf der Satzung über die Erhebung für die Benutzung der Stadtbücherei (Bücherei-Gebührensatzung) vom 24.10.2024 als Satzung. Die Satzung ist öffentlich bekannt zu geben und tritt am 01.01.2025 in Kraft, gleichzeitig tritt die bisherige Satzung vom 05.08.2009 außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Bericht der städtischen Sozialbeauftragten",
+        "facts": "Frau Stadträtin Meyer berichtet dem Stadtrat über ihre Tätigkeiten in der Funktion als städtische Sozialbeauftragte.\n\nDer Bericht samt eingebrachten Anträge sind der Niederschrift als Anlage 3 beigefügt.\n\nDer Stadtrat nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "169980",
+    "minutes": "171119"
+  }
+}

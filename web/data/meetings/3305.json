@@ -1,0 +1,257 @@
+{
+  "meetingId": "3305",
+  "announcement": {
+    "heading": "80. Sitzung des Stadtrates",
+    "sessionNumber": 80,
+    "date": "2025-07-08",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Hochwasserschutz hier: Sachstandsbericht des Wasserwirtschaftsamts"
+      },
+      {
+        "number": "2.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Satzungsbeschluss zur Erweiterung (Nord und Ost) des Sanierungsgebiets „Altstadt Langenzenn\""
+      },
+      {
+        "number": "3.",
+        "title": "Haushaltssatzung 2025 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsplan)"
+      },
+      {
+        "number": "3.1.",
+        "title": "Verlesen der Haushaltssatzung 2025 der Hospitalstiftung Langenzenn"
+      },
+      {
+        "number": "3.2.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2025 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsprogramm)"
+      },
+      {
+        "number": "4.",
+        "title": "6. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung - GeschO)"
+      },
+      {
+        "number": "5.",
+        "title": "Redaktionsausschuss der Stadt Langenzenn; hier: Antrag auf Auflösung"
+      },
+      {
+        "number": "6.",
+        "title": "Veröffentlichung von Bildern im Redaktionsausschuss, hier: Bilder aus der NS Zeit"
+      },
+      {
+        "number": "7.",
+        "title": "Antrag von Herrn Stadtrat Ammon: Abgabe eidesstattlicher Versicherungen zur Weitergabe von Informationen aus nichtöffentlicher Sitzung"
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.1.",
+        "title": "Antrag Stadträtin Osswald bzgl. Fragestellungen an die Rechtsaufsicht bzgl. der Landesgartenschau 2032"
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "22.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "3. Juli 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "80. Sitzung des Stadtrates",
+    "sessionNumber": 80,
+    "date": "2025-07-08",
+    "startTime": "16:00",
+    "endTime": "18:19",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab 17:03 zu TOP 2"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab 17:53 zu TOP 14"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Antrag der CSU Stadtratsfraktion zum Hochwasserschutz hier: Sachstandsbericht des Wasserwirtschaftsamts",
+        "facts": "Die CSU Stadtratsfraktion Langenzenn hatte mit Schreiben vom 02.04.2025 einen Sachstandsbericht durch das WWA beantragt. Der Bau-, Umwelt- und Verkehrsausschuss hat dem Antrag am 08.04.2025 zugestimmt.\n\nDas Wasserwirtschaftsamt stellt durch den Projektverantwortlichen Herrn B. sowie Herrn H. den aktuellen Sachstand dar.\n\nDerzeit läuft die Grundlagenermittlung, es werden verschiedene Varianten zum Hochwasserschutz für Langenzenn ermittelt, im Fokus stehen eine Verlegung der Zenn in den Tiefpunkt des Tales mit nur noch einem schmalen Kanal Richtung Neumühle, eine Flutmulde, ein Brückenneubau sowie ein Deich oder eine Mauer als Abgrenzung zur Altstadt sowie zu weiteren bewohnten Bereichen an der Bleiche sowie am Wiesenweg.\n\nEs werden hydraulische Berechnungen des Bemessungsabflusses durchgeführt, um die Wirkungen der einzelnen Schutzvarianten zu untersuchen.\n\nInwiefern die neue Bebauung am Laubendorfer Weg sowie das neue Einkaufszentrum einbezogen werden müssen, wird derzeit geprüft. Das zu betrachtende Gebiet hat sich auch auf diesen Bereich erweitert, jedoch ist noch unklar, ob dort Maßnahmen erforderlich sind.\n\nMit ersten Ergebnissen ist gegen Ende des Jahres zu rechnen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Städtebauförderung Langenzenn - Erweiterung und Rücknahme des Sanierungsgebietes \"Altstadt Langenzenn\"; hier: Satzungsbeschluss zur Erweiterung (Nord und Ost) des Sanierungsgebiets „Altstadt Langenzenn\"",
+        "facts": "Die Stadt Langenzenn hat im Jahr 2002 das Sanierungsgebiet „Altstadt Langenzenn“ förmlich festgelegt, um städtebauliche Missstände zu beheben, die historische Altstadt zu erhalten und die Wohn- und Lebensqualität zu verbessern. Die durchgeführten Vorbereitenden Untersuchungen von 2024/2025 zeigen verschiedene Missstände in den untersuchten Teilbereichen nördlich und östlich des bestehenden Sanierungsgebietes „Altstadt“. Im Rahmen der Untersuchungen wurden für beide Teilbereiche Maßnahmen zur Beseitigung der Missstände und zur Weiterentwicklung der Bereiche aufgezeigt. Die Zielsetzungen des bestehenden Sanierungsgebiets werden auch in diesen Bereichen gesehen. Eine Erweiterung des Sanierungsgebietes um die betreffenden Gebiete wird als Grundlage für eine gesamtheitliche Stärkung und Weiterentwicklung des Sanierungsgebiets Altstadt gesehen und um einen einheitlichen Förderrahmen zu schaffen.",
+        "decision": "Der Stadtrat der Stadt Langenzenn fasst folgenden Satzungsbeschluss:\n\n1. Die Satzung zur Erweiterung (Nord und Ost) des förmlich festgelegten Sanierungsgebiets „Altstadt Langenzenn“ gemäß § 142 Baugesetzbuch (BauGB) wird in der vorliegenden Fassung vom 09.07.2025 beschlossen.\n\n2. Die Erweiterung des Sanierungsgebiets umfasst zusätzlich die im beiliegenden Lageplan (Anlage 1) gekennzeichneten Flächen. Der Lageplan ist Bestandteil dieser Satzung.\n\n3. Die Verwaltung wird beauftragt, die Satzung gemäß § 143 BauGB ortsüblich bekannt zu machen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Haushaltssatzung 2025 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsplan)"
+      },
+      {
+        "number": "3.1.",
+        "title": "Verlesen der Haushaltssatzung 2025 der Hospitalstiftung Langenzenn"
+      },
+      {
+        "number": "3.2.",
+        "title": "Beschlussfassung über die Haushaltssatzung 2025 der Hospitalstiftung Langenzenn samt Anlagen (Haushaltsplan, Finanzplan mit Investitionsprogramm)",
+        "facts": "Der Haushalt des Rechnungsjahres 2025 der Hospitalstiftung Langenzenn ist im Verwaltungshaushalt mit 364.000,00 € und im Vermögenshaushalt mit 278.750,00 € in Einnahmen und Ausgaben ausgeglichen.\n\nDie Zuführung des Verwaltungs- an den Vermögenshaushalt beträgt 165.270,00 €.\n\nDer Gesamtbetrag der Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt 113.480,00 €.\n\nVerpflichtungsermächtigungen werden nicht festgesetzt.\n\nDer Höchstbetrag der Kassenkredite wird auf 60.000,00 € festgesetzt.\n\nDer Hauptausschuss hat in der Sitzung am 03.06.2025 einstimmig, mit 8 : 0 Stimmen, folgende Beschlussfassung empfohlen.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf der Haushaltssatzung 2025 der Hospitalstiftung Langenzenn vom 30.05.2025 samt Anlagen, wie Haushaltsplan, Finanzplan und Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "6. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung - GeschO)",
+        "facts": "Mit Antrag vom 26.05.2025 (Eingang per Mail in der Verwaltung am 27.05.2025) beantragt die Stadtratsfraktion der CSU die Änderung der Geschäftsordnung hinsichtlich des neu gebildeten Redaktionsausschusses. Der Antrag ist als Anlage zu diesem TOP beigefügt.\n\nInsbesondere soll der § 9 Abs. 3 Ziffer 5 Buchstabe b eine Veränderung/Konkretisierung erhalten. Diese sind aus der Anlage beigefügten Ausführungen zu entnehmen.\n\nIn der Sitzung des Hauptausschusses vom 30.06.2025 wurde die Verwaltung mit der Änderung der Geschäftsordnung der Stadt Langenzenn zur Vorlage/Beschlussfassung in der nächsten Stadtratssitzung beauftragt.\n\nDie 6. Änderung der Geschäftsordnung der Stadt Langenzenn liegt als Entwurf ebenfalls zu diesem TOP mit bei.\n\nEine Änderung der Geschäftsordnung der Stadt Langenzenn kann gem. Art. 45 Abs. 1 der Gemeindeordnung in Bayern (GO) nur durch den Stadtrat erfolgen.",
+        "decision": "Der Stadtrat beschließt, den vorliegenden Entwurf vom 03.07.2025 der 6. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO).\n\nDie 6. Änderung der Geschäftsordnung des Stadtrats Langenzenn (Geschäftsordnung – GeschO) tritt einen Tag nach dieser Beschlussfassung in Kraft.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 16,
+          "against": 3
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Redaktionsausschuss der Stadt Langenzenn; hier: Antrag auf Auflösung zurückgestellt"
+      },
+      {
+        "number": "6.",
+        "title": "Veröffentlichung von Bildern im Redaktionsausschuss, hier: Bilder aus der NS Zeit",
+        "facts": "In regelmäßigen Abständen veröffentlicht das Stadtarchiv Bilder rund um die Geschichte aus Langenzenn. Ziel ist es, Detailinfos wie Bürger oder Örtlichkeiten genau zu bestimmen. Unter anderem sollte in der letzten Ausgabe des Mitteilungsblattes Bilder aus der NS-Zeit veröffentlicht werden. Hierzu hatte der Redaktionsausschuss Bedenken angemeldet und bittet den Stadtrat um eine Entscheidung, ob diese Bilder veröffentlicht werden sollen.",
+        "decision": "Der Stadtrat beschließt, die vorgelegten Bilder nicht zu veröffentlichen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 13,
+          "against": 2
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Antrag von Herrn Stadtrat Ammon: Abgabe eidesstattlicher Versicherungen zur Weitergabe von Informationen aus nichtöffentlicher Sitzung",
+        "facts": "zurückgestellt"
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176526",
+    "minutes": "181344"
+  }
+}

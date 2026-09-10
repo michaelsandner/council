@@ -1,0 +1,351 @@
+{
+  "meetingId": "3322",
+  "announcement": {
+    "heading": "85. Sitzung des Stadtrates",
+    "sessionNumber": 85,
+    "date": "2025-11-12",
+    "startTime": "15:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "5.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "6.",
+        "title": "Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße; hier: Beschluss zur Ausschreibung"
+      },
+      {
+        "number": "7.",
+        "title": "Verrechnung der Verluste der Stadtwerke Langenzenn bis einschließlich 2022"
+      },
+      {
+        "number": "8.",
+        "title": "Seniorenrat der Stadt Langenzenn hier: Neuerlass der Seniorenratssatzung"
+      },
+      {
+        "number": "9.",
+        "title": "Sitzungssaal im historischen Rathaus hier: Neuanschaffung von zwei Beamern und der dazugehörigen Infrastruktur für die Sitzungen von städtischen Gremien"
+      },
+      {
+        "number": "10.",
+        "title": "Wohnungsbaugesellschaft der Stadt Langenzenn (WBG); hier: Entscheidung über die Erstellung eines Anhangs und Lageberichts im Rahmen des Jahresabschlusses der WBG Langenzenn"
+      },
+      {
+        "number": "11.",
+        "title": "Redaktionsausschuss der Stadt Langenzenn hier: Antrag von Stadträtin Osswald zum Verzicht der Veröffentlichung von Niederschriften des RedA im Mitteilungsblatt der Stadt Langenzenn"
+      },
+      {
+        "number": "12.",
+        "title": "Beschlussfassung zur Kommunalwahl 2026; hier: Festlegung der Eintragungsräume und Eintragungszeiten hinsichtlich der eventuellen Notwendigkeit von Unterstützungslisten"
+      },
+      {
+        "number": "13.",
+        "title": "Kommunale Wärmeplanung; hier: Ergebnisse der Eignungsprüfung"
+      },
+      {
+        "number": "14.",
+        "title": "Bekanntgabe des Ergebnisses des Jahresabschlusses 2024 der Stadt Langenzenn"
+      },
+      {
+        "number": "15.",
+        "title": "Marktfestsetzung Weihnachtsmarkt 2025"
+      },
+      {
+        "number": "16.",
+        "title": "Festlegung der Wahlhelferentschädigung für eine Stichwahl bei einer Wahl zum Bürgermeister"
+      },
+      {
+        "number": "17.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "17.1.",
+        "title": "Atommüll Endlagersuche -Sachstandsbericht-"
+      },
+      {
+        "number": "18.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. 16:00Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "7. November 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "85. Sitzung des Stadtrates",
+    "sessionNumber": 85,
+    "date": "2025-11-12",
+    "startTime": "15:30",
+    "endTime": "17:10",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis TOP 27.3"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Durlak, Manfred",
+            "note": "Vorsitz ab Ende TOP 27.3"
+          },
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 11"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn",
+            "note": "ab TOP 2"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 11"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander",
+            "note": "ab TOP 8"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Markus",
+            "note": "ab TOP 10"
+          },
+          {
+            "name": "Vogel, Oliver",
+            "note": "ab TOP 11"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 20"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "ab TOP 2"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Ortsbesichtigung im Bürgersaal - Tafel Bürgerringträger",
+        "facts": "Wir dürfen die neue Ehrentafel der Bürgerringträgerinnen und Bürgerringträger besichtigen.\n\nDiese Tafel ist mehr als nur ein Stück Acryl an der Wand – sie ist ein sichtbares Zeichen unserer Wertschätzung für Menschen, die sich in herausragender Weise um die Stadt Langenzenn und ihre Gemeinschaft verdient gemacht haben. Sie erinnert uns daran, dass unsere Stadt vom Engagement ihrer Bürgerinnen und Bürger lebt.\n\nDie Idee zu dieser Ehrentafel stammt von unserem Ehrenamtsbeauftragten, dem ich an dieser Stelle herzlich für seinen Impuls danken möchte. Herr Durlak trat schon im Juni 2024 mit diesem Vorschlag an mich heran. Die Umsetzung habe ich gerne übernommen – und ich freue mich, dass wir dieses Zeichen der Anerkennung nun gemeinsam sehen können. Der Aufdruck der Tafel ist veränderbar. Sodass, es jederzeit bzw. laut Satzung über Auszeichnungen und Ehrungen der Stadt Langenzenn, möglich ist diese zu erweitern.\n\nWer sich auf unserer Homepage umschaut, findet dort nicht nur ein Bild vom Ehrenamtsabend vom 20.Oktober 2022, sondern auch die Tätigkeiten der Bürgerringträgerinnen und Bürgerringträger, die zeigen, wie vielfältig und lebendig das ehrenamtliche Engagement in unserer Stadt ist."
+      },
+      {
+        "number": "5.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse",
+        "facts": "Der Stadtrat der Stadt Langenzenn gibt folgende, in nichtöffentlicher Sitzung gefassten Beschlüsse öffentlich bekannt:\n\n84. Sitzung des Stadtrates vom 09.10.2025\n\n1. Genehmigung der letzten Niederschrift (TOP N19)\n\nNiederschrift über die                      Sitzungsdatum    NS im RIS eingestellt am 21. Ferienausschusssitzung                  26.08.2025       17.09.2025\n\n61. Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 28.10.2025\n\n2. Kläranlage Langenzenn hier: Vergabe der Klärschlammentsorgung (TOP N17.1)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Klärschlammentsorgung der Kläranlage Langenzenn ab 2026 an die Firma Remondis Aqua Stoffstrom, Nürnberg, auf Grundlage des Angebotes vom 15.10.2025 in Höhe von brutto 66.080,11 Euro.\n\n3. Kläranlage Langenzenn hier: Vergabe von Reparaturleistungen / Teilaustausch der Sandpumle (TOP N17.2)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Reparaturleistungen / Teilaustausch der Sandpumpe an die Firma Pumpen Service Bublic, Nürnberg, auf Grundlage des Angebots vom 04.09.2025 in Höhe von brutto 17.047,94 Euro.\n\n4. Ökokonto/Ausgleichsmaßnahmen Hier: Vergabe zur Erstellung der Entwicklungskonzepte (TOP N17.3)\n\nDer Ausschuss beschließt die Annahme der Angebote des Landschaftspflegeverbandes Mittelfranken e.V. vom 20.10.2025 zur Erstellung von Konzepten auf den Grundstücken Fl.- Nr. 261, Gemarkung Laubendorf in Höhe von 1.305,40 Euro und Fl.-Nr. 1987, Gemarkung Langenzenn in Höhe von 1.226,10 Euro, gesamt 2.531,50 Euro.\n\n5. Abwasseranlage Langenzenn; 10 Jahres Plan; Abwasserschiene; ergänzendes Baugutachten; Hier: Auftragsvergabe (TOP N 17.4)\n\nDer Bau-, Umwelt- und Verkehrsausschuss beschließt Die Vergabe für das notwendige Baugrundgutachten zum Bau der neuen Abwasserschiene auf das Angebot der KP Ingenieurgesellschaft mbH vom 23.09.2025. Die Gesamtkosten in Höhe von 54.158,09 € werden entsprechend der Kostenteilung des IB Miller mit den Stadtwerken Langenzenn geteilt.\n\n6. Genehmigung der letzten Niederschrift (TOP N20)\n\nNiederschrift über die                      Sitzungsdatum   NS im RIS eingestellt am 57. Sitzung des BUVA                        27.05.2025      01.10.2025\n\n34. Sitzung des Werkausschusses vom 29.10.2025\n\n7. Umstellung Leitsystem Stromversorgung Langenzenn Software „FlowChief“ sowie Beauftragung (TOP N6)\n\nDer Werkausschuss beschließt die „Ertüchtigung“ des Leitsystems der Stadtwerke und die Beauftragung der Fa. FlowChief GmbH gemäß Angebot Nr. 2503242 vom 24.03.2025 zu einem Angebotspreis von 49.160 € netto zzgl. der gesetzlichen Mehrwertsteuer. Mit abgeschlossen wird der optionale Wartungsvertrag zum Angebotspreis von 3.649,20 € netto jährlich.\n\n8. Digitalisierung des NS „Grid Cal“ Stromversorgung Langenzenn hier: Beauftragung PQ-Plus (Hard- und Software) (TOP N7)\n\nDer Werkausschuss beschließt die Beauftragung der Fa. PQ Plus GmbH, 91094 Langensendelbach, mit der Digitalisierung der Niederspannung zum Gesamtange-\n\nbotspreis von 176.229,25 € zzgl. der gesetzlichen Mehrwertsteuer gemäß der nachfolgenden Gesamtübersicht: Angebotsnr. Station              Nr. Kosten 2024-31585 Weimer                 35 12.470,00 € 2024-31586 Am Weisen-Stein        32 12.700,00 € 2024-31587 Mühlsteig GEV/4        40 11.855,10 € 2025-30839 Mobile Messung         xx    6.908,15 €\n\n2025-30841     Greller                33    12.395,00 € 2025-30841     Sorex                  38    12.903,70 € 2025-30841     Frankenstr.            23    12.303,90 € 2025-30841     Riedenbacher Straße    17    12.085,00 € 2025-30841     Veit-Stoß-Straße       28    12.085,00 € 2025-30841     Baggersee              41     9.784,60 € 2025-30841     Teichenbach            10    13.354,90 € 2025-30841     Galgenberg             30    12.903,70 € 2025-30841     öst. Ziegelstraße      36    10.987,00 € 2025-30841     Ziegelstraße WBG       25    11.859,40 € 2025-30841     Kläranlag/ Wohlrab     24    11.633,80 €   132.296,00 € 176.229,25 € Die Stadtwerke werden mit der Umsetzung beauftragt.\n\n73. Sitzung des Hauptausschusses vom 29.10.2025\n\n9. Genehmigung der letzten Niederschrift (TOP N12)\n\nNiederschrift über die                      Sitzungsdatum          NS im RIS eingestellt am 66. Sitzung des Hauptausschusses            03.04.25               06.10.25 67. Sitzung des Hauptausschusses            06.05.25               14.10.25 69 Sitzung des Hauptausschusses             30.06.25               20.08.25 68 Sitzung des Hauptausschusses             03.06.25               01.10.25 70. Sitzung des Hauptausschusses            07.07.25               14.10.25 71. Sitzung des Hauptausschusses            15.07.25               14.10.25 72. Sitzung des Hauptausschusses            25.09.25               14.10.25",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße; hier: Beschluss zur Ausschreibung",
+        "facts": "Aufgrund einer Anfrage zum Erwerb des Grundstücks Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße, schlägt die Verwaltung vor, dass das Grundstück auf dem freien Markt zum Kauf angeboten werden soll.",
+        "decision": "Der Stadtrat beschließt, dass das Grundstück Fl.-Nr.: 936, Gemarkung Keidenzell; Ansbacher Straße, mit einer Größe von 1.019 m² auf dem freien Markt zu folgenden Eckpunkten angeboten werden soll.\n\nEckpunkte:\n\n-   Verkauf gegen Höchstgebot, mindestens 350,00 €/m².\n\n-   Bei einem möglichen Gleichstand der Kaufangebote soll der Zuschlag per Losverfahren ermittelt werden.\n\n-   Folgende Dachform ist wünschenswert: Satteldach mit einer Dachneigung von 25° - 52°.\n\n-   Das Grundstück ist innerhalb von drei Jahren ab Beurkundung mit einem Wohngebäude / Wohngebäuden zu bebauen. Bei Nichteinhaltung der Bauverpflichtung steht der Stadt Langenzenn ein Wiederkaufsrecht zum beurkundeten Kaufpreis und den tatsächlichen bezahlten Erschließungskosten zu. Der Weiterverkauf eines unbebauten Grundstücks ist nur mit Zustimmung durch die Stadt möglich.\n\n-   Dingliche Sicherung des vorhandenen Entwässerungsgrabens\n\n-   Weiter verpflichtet sich der Erwerber im Zuge dessen, soweit dies technisch möglich und wirtschaftlich (vgl. § 5 Gebäudeenergiegesetz – GEG) ist, auf jedem Wohngebäude Anlagen zur Solarenergienutzung mit einer jährlichen Leistung von mindestens 2.500 kWh (durchschnittlicher Stromverbrauch eines Zwei-Personen-Haushaltes) zu installieren. Zur Klarstellung wird festgehalten, dass es sich auch bei einer Doppelhaushälfte um ein Wohngebäude im Sinne dieser Verpflichtung handelt, somit sind bei der Errichtung von zwei Doppelhaushälften zwei Mal Anlagen mit einer jährlichen Leistung von mindestens 2.500 kWh zu installieren.\n\n-   Die Vorgaben des Grundsatzbeschlusses des Bau-, Umwelt- und Verkehrsausschusses vom 23.03.2021 bzgl. der Informationen zur Begrünung von Vorgärten, Fassaden und Dächern sind zu beachten und anzuwenden.\n\n-   Die Kosten bei Notar, Behörden, Grundbuchamt, aller Genehmigungen und Bescheide sowie die Grunderwerbssteuer usw. trägt der Erwerber.\n\nDie eingegangenen Angebote sind dem Gremium vorzulegen. Ein Verkauf erfolgt mit einem separaten Beschluss. Ggfs. ist dann ein Gutachten einzuholen, um darzustellen, dass die Veräußerung nicht unter Wert erfolgt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Verrechnung der Verluste der Stadtwerke Langenzenn bis einschließlich 2022",
+        "facts": "Der Stadtrat hat in seiner Sitzung vom 27.02.2025 vom Jahresabschluss 2022 der Stadtwerke Langenzenn Kenntnis genommen. Wie bekannt und aus dem Jahresabschluss 2022 ersichtlich ist weist die Passivseite der Bilanz einen noch nicht ausgeglichenen Jahresverlust in\n\nHöhe von 1.375.854,90 € aus, welcher noch nicht mit der „Allgemeinen Rücklage“ verrechnet wurde. Vorjahr Passivseite                                         €                 €                 T€\n\nA.     Eigenkapital\n\nI.     Stammkapital                                                  766.937,82              767\n\nII.    Allgemeine Rücklage                                         1.541.287,31          1.541\n\nIII.   Gewinn/Verlust Gewinn aus Vorjahren                       -751.121,65 Zuführung allgemeine Rücklage -751.121,65 Jahresgewinn                               -624.733,26      -1.375.854,91             -751\n\n932.370,22          1.557\n\nHierzu ist ein formeller Beschluss notwendig. Nach Abstimmung mit dem Bayerischen Kommunalen Prüfungsverband wird dem Werkausschuss folgender Beschluss für den Stadtrat empfohlen:\n\nDer Stadtrat beauftragt die Werkleitung, die noch nicht ausgeglichenen Jahresverluste bis zum Jahr 2022 in Höhe von insgesamt 1.375.854,90 €, in Verbindung mit § 8 Abs. 2 EBV, mit den Allgemeinen Rücklagen zu verrechnen.",
+        "decision": "Der Stadtrat beauftragt die Werkleitung, die noch nicht ausgeglichenen Jahresverluste bis zum Jahr 2022 in Höhe von insgesamt 1.375.854,90 €, in Verbindung mit § 8 Abs. 2 EBV, mit den Allgemeinen Rücklagen zu verrechnen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Seniorenrat der Stadt Langenzenn hier: Neuerlass der Seniorenratssatzung",
+        "facts": "Der Seniorenrat der Stadt Langenzenn trat mit der Bitte zur Vornahme diverser Änderungen der Seniorenratssatzung an die Geschäftsleitung der Stadt Langenzenn heran.\n\nIn einigen Gesprächsrunden mit dem Vorsitzenden des Seniorenrates wurden die vorgeschlagenen Änderungen verfeinert und in den beiliegenden Satzungsentwurf eingearbeitet. Ebenso liegt der Beschlussvorlage eine Synopse der aktuell gültigen Satzung sowie der Entwurfssatzung bei.\n\nFür Rückfragen zu den Änderungen steht der Vorsitzende des Seniorenrates der Stadt Langenzenn dem Gremium zur Verfügung.",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf vom 29.10.2025 der Satzung der Stadt Langenzenn für den Seniorenrat (Seniorenratssatzung – SRS) als Satzung. Die Verwaltung\n\nwird mit der Ausfertigung und Bekanntmachung beauftragt. Die Satzung tritt einen Tag nach ihrer Bekanntmachung in Kraft. Gleichzeitig tritt die Satzung vom 05. April 2011 (zuletzt geändert am 26.10.2022) außer Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 17,
+          "against": 0
+        }
+      },
+      {
+        "number": "9.",
+        "title": "Sitzungssaal im historischen Rathaus hier: Neuanschaffung von zwei Beamern und der dazugehörigen Infrastruktur für die Sitzungen von städtischen Gremien",
+        "facts": "Die angebrachten Beamer des Sitzungssaals im historischen Rathaus sind in die Jahre gekommen und müssen ausgetauscht werden.\n\nSeitens der IT der Stadt Langenzenn wurden mehrere Optionen zur Verbesserung der aktuellen Situation getestet.\n\nEs wurde u.a. die Alternative in Betracht gezogen, 4 große Monitore/TFTs in die Mitte des Raums zu platzieren. Erste Tests ergaben jedoch, dass durch die Säulen in der Mitte sich keine gute Sichtqualität auf 2-3m Höhe realisieren lässt.\n\nAuch die zweite Option, diese 4 Bildschirme in der Mitte am Boden zu platzieren wurde verworfen, da bei öffentlichen Sitzungen für die Zuschauer sich kaum eine gute Einsicht ergibt.\n\nSomit wurde mit einem neuen Testbeamer die Möglichkeit genauer untersucht, die alten Leinwände mit den aktuellen Beamer-Auflösungen so zu kalibrieren, sodass diese weiter verwendet werden können. Das Ergebnis war erstaunlich gut und gilt als finale Option.\n\nZu berücksichtigen war noch dabei, dass es sich bei den neuen Beamern bereits um Laserprojektion handelt, welche unter Umständen Schäden an den Leinwänden verursachen könnten. Nach einigen Rücksprachen mit Fachhändlern und längeren Tests vor Ort kam die IT zu dem Ergebnis, dass neue Beamer bedenkenlos eingesetzt werden können.\n\nNach Recherchen und Angebotseinholung konnten folgende Preise ermittelt werden:\n\n2 Beamer a 1.400,00 Euro (Gesamt ca. 2.800.- EUR) Umbau und Kalibrierung die Fa. Ruf mit einer Arbeitszeit von ca. 5 Stunden mit ca. 500,00. Anbringung einer neuen Verkabelung mit einer Arbeitszeit von ca. 5 Stunden mit ca. 500,00.\n\nSomit ergeben sich Gesamtkosten für die Umrüstung von gesamt ca. 4.000,00€ brutto.",
+        "decision": "Der Stadtrat beschließt die Anschaffung zweier neuer Beamer für den Sitzungssaal im historischen Rathaus. Die Verwaltung wird ermächtigt die Firma Ruf mit der Installation und der neuen Verkabelung zu beauftragen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 17,
+          "against": 0
+        }
+      },
+      {
+        "number": "10.",
+        "title": "Wohnungsbaugesellschaft der Stadt Langenzenn (WBG); hier: Entscheidung über die Erstellung eines Anhangs und Lageberichts im Rahmen des Jahresabschlusses der WBG Langenzenn",
+        "facts": "In der 83. Sitzung des Stadtrates vom 18.09.2025 wurde durch das Gremium die Änderung des Gesellschaftsvertrages der Wohnungsbaugesellschaft der Stadt Langenzenn – Gesellschaft mit beschränkter Haftung (WBG) beschlossen.\n\nGemäß der geänderten Regelung im Gesellschaftsvertrag ist die WBG nun nicht mehr verpflichtet, einen Anhang sowie einen Lagebericht im Rahmen des Jahresabschlusses zu erstellen. Dennoch besteht die Möglichkeit, dass der Gesellschafter die Erstellung eines Anhangs und Lageberichts verlangt, um eine umfassendere Darstellung der wirtschaftlichen Lage der Gesellschaft zu erhalten. Der Stadtrat wird daher gebeten, über die Notwendigkeit der Erstellung dieser zusätzlichen Berichtsbestandteile zu entscheiden.\n\nFür Rückfragen steht die Geschäftsführerin der WBG zur Verfügung.",
+        "decision": "Der Stadtrat beschließt, dass im Rahmen der Erstellung des Jahresabschlusses ab 2025 auf die Anfertigung eines Anhangs und Lageberichts verzichtet wird.",
+        "vote": {
+          "summary": "stimmengleich abgelehnt",
+          "inFavour": 9,
+          "against": 9
+        }
+      },
+      {
+        "number": "11.",
+        "title": "Redaktionsausschuss der Stadt Langenzenn hier: Antrag von Stadträtin Osswald zum Verzicht der Veröffentlichung von Niederschriften des RedA im Mitteilungsblatt der Stadt Langenzenn",
+        "facts": "Frau Stadträtin Osswald hat den Antrag gestellt, dass zukünftig keine Niederschriften des Redaktionsausschusses der Stadt Langenzenn im Mitteilungsblatt der Stadt Langenzenn veröffentlicht werden sollen. In der 70. Sitzung des Hauptausschusses vom 07.07.2025 wurde die Verwaltung mit der Prüfung des Antrages beauftragt.\n\nIn der Gemeindeordnung des Freistaates Bayern (GO) ist eine Veröffentlichung von Niederschriften (z.B. im Mitteilungsblatt bzw. auf der städtischen Homepage) nicht geregelt. In Art. 54 Abs. 1 GO ist lediglich festgehalten, dass die Verhandlungen des Gemeinderats (und seiner Ausschüsse in analoger Anwendung) niederzuschreiben sind. Die Niederschrift muss Tag und Ort der Sitzung, die anwesenden Gemeinderatsmitglieder, die behandelten Gegenstände, die Beschlüsse und das Abstimmungsergebnis ersehen lassen.\n\nIn der Sitzung des Verwaltungs- und Finanzausschusses vom 18.12.2008 wurde der Beschluss gefasst, dass Niederschriften des Stadtrates und aller Ausschüsse zeitnah und mit dem Vermerk „vorbehaltlich der Genehmigung“ im Mitteilungsblatt der Stadt Langenzenn veröffentlicht werden sollen.\n\nIn dem seit 2025 gegründeten Redaktionsausschuss werden die geplanten Veröffentlichungen der Stadt Langenzenn vorwiegend im Mitteilungsblatt aber auch auf der Homepage so- wie in den sozialen Medien (Facebook), die nicht gem. der Geschäftsordnung der Stadt Langenzenn bereits freigegeben sind, besprochen und zur Veröffentlichung freigegeben. Hierzu werden den Ausschussmitgliedern die eigentlichen Beiträge und Bildern aufgezeigt und auch so in die Niederschrift übernommen. Durch die Veröffentlichung der Niederschrift sowie des eigentlichen Berichts im Mitteilungsblattes der Stadt Langenzenn ergeben sich hieraus Doppelungen aus der erstellten Niederschrift und des eigentlichen Beitrages in den jeweiligen Mitteilungsblättern.\n\nDie Verwaltung weißt darauf hin, dass es nicht in allen Fällen zu Doppelungen kommt, beispielsweise, wenn der Ausschuss sich mit einer Frage befasst, die mit den Veröffentlichungen nur mittelbar etwas zu tun hat.\n\nAls Beispiel kann hier die Sitzung des Redaktionsausschusses vom 6.5. genannt werden, hier hatte der Ausschuss über seine allgemeine Vorgehensweise zu beraten.\n\nAuszug aus der Niederschrift:\n\nUnter anderem in solchen Fällen würde es sich nicht um doppelte Veröffentlichungen handeln sondern um reguläre Beschlüsse, die auch im Interesse der Öffentlichkeit sein dürften, so dass hier eine Veröffentlichung zu befürworten wäre.\n\nAls weiteres Beispiel kann die Sitzung vom 23.5. genannt werden, hier der TOP 2.1:\n\nAuch die Behandlung von Anfragen könnte von Interesse für die Öffentlichkeit sein, hier das Beispiel aus der Sitzung vom 15.7.2025:",
+        "decision": "Der Stadtrat beschließt, dass zukünftig keine Niederschriften des Redaktionsausschusses der Stadt Langenzenn im Mitteilungsblatt der Stadt Langenzenn veröffentlicht werden sollen",
+        "vote": {
+          "summary": "mehrheitlich abgelehnt",
+          "inFavour": 10,
+          "against": 11
+        }
+      },
+      {
+        "number": "12.",
+        "title": "Beschlussfassung zur Kommunalwahl 2026; hier: Festlegung der Eintragungsräume und Eintragungszeiten hinsichtlich der eventuellen Notwendigkeit von Unterstützungslisten",
+        "facts": "Falls Wahlvorschläge zusätzliche Unterstützungsunterschriften benötigen, können sich die Wahlberechtigten spätestens ab dem Tag nach der Einreichung des Wahlvorschlags (Einreichung Wahlvorschläge frühestens ab dem 9.12.2025 möglich) bis spätestens 19.01.2026; 12.00 Uhr in die Unterstützungslisten eintragen.\n\nDie Gemeinden bestimmen die Eintragungsräume und die Eintragungszeiten so, dass jede wahlberechtigte Person ausreichend Gelegenheit findet, sich ohne längere Wartezeiten in die Unterstützungslisten einzutragen. Jede Gemeinde richtet mindestens einen Eintragungsraum ein.\n\nDie Entscheidung über Eintragungsräume und Eintragszeiten für Unterstützungslisten ist eine wichtige Sachentscheidung, sodass eine rein innerorganisatorische Zuständigkeitsregelung ausscheidet und im Zweifel vor Erlass der nach § 34 Abs. 4 GLKrWO erforderlichen Bekanntmachung in der Sitzung des Stadtrates eine Beschlussfassung über die Eintragungsräume und Eintragszeiten herbeizuführen ist (Büchner, Kommunalwahlrecht in Bayer, § 36 GLKrWO).\n\nGem. § 36 Abs. 4 GLKrWO sind die Unterstützungslisten mindestens während der allgemeinen Dienststunden aufzulegen. Zusätzlich sind die Unterstützungslisten mindestens zwei Stunden an einem Sonntag oder Feiertag oder Samstag und mindestens bis 20:00 Uhr an einem weiteren Werktag aufzulegen.",
+        "decision": "Der Stadtrat beschließt, für die Bekanntmachung über die Eintragungsmöglichkeiten in Unterstützungslisten folgenden\n\nEintragungsraum:\n\nRathaus, Bürgerbüro, Zimmer W 0.10, Friedrich-Ebert-Straße7, 90579 Langenzenn (barrierefrei)\n\nund Eintragungszeiten:\n\nMontag, Mittwoch, Donnerstag, Freitag von           08.00 Uhr bis 16.00 Uhr Dienstag von                                        08.00 Uhr bis 18.00 Uhr\n\nDienstag, den 13.01.2026 von                        08.00 Uhr bis 20.00 Uhr\n\nSamstag, den 10.01.2026 von                         10.00 Uhr bis 12.00 Uhr\n\nWeiterhin ermächtigt der Stadtrat für etwaige Änderungen / Ergänzungen und etwaige noch erforderlichen Entscheidungen zur Kommunalwahl 2026 den 1.Bürgermesiter oder seinen Vertreter im Amt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 21,
+          "against": 0
+        }
+      },
+      {
+        "number": "13.",
+        "title": "Kommunale Wärmeplanung; hier: Ergebnisse der Eignungsprüfung",
+        "facts": "Der Stadtrat hat in seiner Sitzung am 15.01.2025 die Durchführung der Kommunalen Wärmeplanung beschlossen. Anschließend wurde das Projekt öffentlich ausgeschrie-ben. Die Vergabe der kommunalen Wärmeplanung an die Firma zeitgeist engineering gmbh erfolgte am 24.06.2025 durch Beschluss des Bau-, Umwelt- und Verkehrsausschusses.\n\nIm Rahmen des Projekts wurde jetzt die Eignungsprüfung fertiggestellt. Diese bildet den ersten Schritt der kommunalen Wärmeplanung. Dabei erfolgt eine erste Abwägung, wo im Gemeindegebiet sehr wahrscheinlich ein Wärmenetz aufgebaut werden kann und welche Gebiete dafür weniger eignet sind. Daraus resultiert für die nächsten Schritte, welche Gebiete intensiver geprüft werden und welche weniger intensiv betrachte werden.\n\nGemäß §13 Wärmeplanungsgesetz ist die Veröffentlichung der Ergebnisse vorgeschrieben. Der Öffentlichkeit sowie weiteren Trägern öffentlicher Belange ist für 30 Tage die Möglichkeit zur Stellungnahme einzuräumen. Dies soll über die städtische Homepage unter dem hierfür eingerichteten Unterpunkt https://www.langenzenn.de/leben-wohnen/bauen/kommunalewaermeplanung, sowie über Aushang im Rathaus erfolgen.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "14.",
+        "title": "Bekanntgabe des Ergebnisses des Jahresabschlusses 2024 der Stadt Langenzenn",
+        "facts": "Dem Stadtrat wird das Ergebnis der Jahresrechnung 2024 der Stadt Langenzenn zur Kenntnisnahme vorgelegt.\n\nDie Feststellung des Jahresabschlusses erfolgt erst nach Abschluss der örtlichen Rechnungsprüfung.\n\nVerwaltungshaushalt\n\nEinnahmen                                                     32.151.139,41 € -   Erlass lfd. Jahr (§ 32 Abs. 1 KommHV)                                385,00 € -   Niederschlagungen lfd. Jahr (§ 32 Abs. 1 KommHV)                   8.885,75 € -   Globalniederschlagung nach VV Nr. 5 zu § 79 KommHV                     0,00 € -   Erlass auf Kasseneinnahmereste aus Vorjahren                           0,00 € -   Niederschlagungen auf Kasseneinnahmereste aus Vorjahr             10.362,21 € -   Sonstige Abgänge auf Kasseneinnahmereste aus Vorjahr                  68,00 € Summe bereinigte Einnahmen                                    32.131.438,45 €\n\nAusgaben                                                        32.131.438,45 € - Abgänge auf Kassenausgabereste aus Vorjahr                               0,00 € - Abgänge auf Haushaltsausgabereste aus Vorjahr                            0,00 € + neue Haushaltsausgabereste                                               0,00 € Summe bereinigte Ausgaben                                       32.131.438,45 €\n\nVermögenshaushalt\n\nEinnahmen                                                        5.288.724,24 € - Erlass lfd. Jahr (§ 32 Abs. 1 KommHV)                                    0,00 € - Niederschlagungen lfd. Jahr (§ 32 Abs. 1 KommHV)                         0,00 € - Globalniederschlagung nach VV Nr. 5 zu § 79 KommHV                       0,00 € - Erlass auf Kasseneinnahmereste aus Vorjahr                               0,00 € - Niederschlagungen auf Kasseneinnahmereste aus Vorjahr                    0,00 € - sonstige Abgänge auf Kasseneinnahmereste aus Vorjahr                     0,00 € - Abgänge auf Haushaltseinnahmereste aus Vorjahr                           0,00 € + neue Haushaltseinnahmereste - Kreditermächtigung                         0,00 € Summe bereinigte Einnahmen                                       5.288.724,24 €\n\nAusgaben                                                         5.053.834,00 € - Abgänge auf Kassenausgabereste aus Vorjahr                               0,00 € - Abgänge auf Haushaltsausgabereste aus Vorjahr                        9.109,76 € + neue Haushaltsausgabereste                                         244.000,00 € Summe bereinigte Ausgaben                                        5.288.724,24 €\n\nIn dem Rechnungsergebnis sind enthalten:\n\nZuführung vom Verwaltungs- an den Vermögenshaushalt                2.201.431,09 € Sollüberschuss                                                        12.104,96 €\n\nDer Überschuss wird der Allgemeinen Rücklage zugeführt.",
+        "decision": "Der Stadtrat nimmt vom Ergebnis der Jahresrechnung 2024 der Stadt Langenzenn Kenntnis (Art. 102 Abs. 2 GO).\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "15.",
+        "title": "Marktfestsetzung Weihnachtsmarkt 2025",
+        "facts": "Am 14. Dezember 2025 findet wieder der alljährliche Weihnachtsmarkt statt. Da der Weihnachtsmarkt gem. §68 Abs. 1 GewO ein sogenannter Spezialmarkt ist, empfiehlt die Verwaltung eine Marktfestsetzung für den Weihnachtsmarkt als rechtliche Absicherung. So wie es auch für den jährlichen Regionalmarkt und Trödelmarkt gehandhabt wird.\n\nDie Veranstaltung von Märkten ist grundsätzlich erlaubnisfrei möglich. Mit der Marktfestsetzung sind Befreiungen von ansonsten einzuhaltenden Vorschriften verbunden (sog. Marktprivilegien). So finden z.B. regelmäßig keine Anwendung die gewerberechtlichen Regelungen zum stehenden Gewerbe (etwa Gewerbeanzeige), zum Reisegewerbe (etwa die Reisegewerbekartenpflicht), das Ladenschlussgesetz (an dessen Stelle tritt die im Festsetzungsbescheid festgelegte Öffnungszeit) sowie bestimmte Regelungen des Jugendarbeitsschutzgesetzes, des Gaststättengesetzes und das Sonn- und Feiertagsrecht.",
+        "decision": "Der Stadtrat beschließt die Marktfestsetzung gem. §69 GewO für den Weihnachtsmarkt 2025.\n\nSpezialmarkt: Langenzenner Weihnachtsmarkt am Sonntag, dem 14.12.2025 von 11:00 Uhr bis 19:00 Uhr im Bereich der Altstadt zwischen Friedrich-Ebert-Straße/Einmündung Sanktustorstraße , Klosterstraße/Backhaus Areal, Rosenstraße, Prinzregentenplatz und Martin- Luther-Platz",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 21,
+          "against": 0
+        }
+      },
+      {
+        "number": "16.",
+        "title": "Festlegung der Wahlhelferentschädigung für eine Stichwahl bei einer Wahl zum Bürgermeister",
+        "facts": "Für die kommende Wahl zum Bürgermeister bzw. auch für folgende Bürgermeisterwahlen muss noch die Höhe der Wahlhelferentschädigung für eine mögliche Stichwahl festgelegt werden.\n\nDie Verwaltung schlägt vor, die Entschädigung bei einer Stichwahl zum Bürgermeister auf 50,00 € festzulegen. Es gibt keine Unterscheidung zwischen Wahlvorsteher, Schriftführer und Beisitzer.",
+        "decision": "Der Stadtrat legt die Höhe der Wahlhelferentschädigung bei einer Stichwahl zum Bürgermeister auf 50,00 € fest.\n\nEs gibt keine Unterscheidung zwischen Wahlvorsteher, Schriftführer und Beisitzer. Diese Wahlhelferentschädigung gilt erstmals für die Kommunalwahlen 2026.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 20,
+          "against": 1
+        }
+      },
+      {
+        "number": "17.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "17.1.",
+        "title": "Atommüll Endlagersuche -Sachstandsbericht-",
+        "facts": "Die Bundesgesellschaft für Endlagersuche (BGE) hat einen Navigator für Endlagersuche, wie aktuell in den Medienberichten zu hören war, herausgegeben.\n\nDer Endlager Atommüll Navigator, der von der Bundesgesellschaft für Endlagerung (BGE) bereitgestellt wird, ist ein wichtiges Tool, das Bürgern und der Öffentlichkeit hilft, sich über den aktuellen Stand der Endlagersuche zu informieren.\n\nDie BGE kategorisiert hier Standortregionen für Teilgebiete stufenweise als ungeeignet, wenig geeignet und gut geeignet.\n\nLangenzenn und Umgebung wurde als Kategorie D eingestuft, was bedeutet, dass dieses Gebiet für die Endlagerung hochradioaktiver Abfällt ungeeignet ist.\n\nBeschlussvorschlag:\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "18.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "18.1.",
+        "title": "Tempo 70 zwischen Burggrafenhof und Keidenzell",
+        "facts": "Stadträtin Plevka stellt einen Antrag auf eine dauerhafte Reduzierung der Höchstgeschwindigkeit auf 70 km/h der Kreisstraße FÜ11 zwischen Burggrafenhof und Keidenzell.\n\nDer Antrag liegt der Niederschrift als Anlage 1 bei"
+      },
+      {
+        "number": "18.2.",
+        "title": "Sachstand Querungshilfe Würzburger Str.",
+        "facts": "Stadträtin Plevka bittet um einen kurzen Sachstand, in welchem Schritt die Querungshilfe in der Würzburger Str. ist."
+      },
+      {
+        "number": "18.3.",
+        "title": "Haus Wapp und Kanaldeckel Frankenstr.",
+        "facts": "Stadtrat Durlak bittet um einen kurzen Sachstand zum Haus Wapp. Auch weißt er auf die unfertigen Kanaldeckel in der Frankenstr. hin."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179599",
+    "minutes": "182235"
+  }
+}

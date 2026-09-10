@@ -1,0 +1,136 @@
+{
+  "meetingId": "3276",
+  "announcement": {
+    "heading": "58. Sitzung des Hauptausschusses",
+    "sessionNumber": 58,
+    "date": "2024-07-24",
+    "startTime": "16:45",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Privates Kita-Projekt \"Fell und Feder\"; hier: Vorstellung der Konzeption durch die Interessenten"
+      },
+      {
+        "number": "2.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Mitteilung der Endzahlen und Vorlage der Haushaltssatzung"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "18. Juli 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "58. Sitzung des Hauptausschusses",
+    "sessionNumber": 58,
+    "date": "2024-07-24",
+    "startTime": "16:45",
+    "endTime": "18:12",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen",
+            "note": "bis Anfang TOP 7.2"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "ab TOP 7.2 Sitzungsleiter, in Vertretung von ersten Bür-"
+          }
+        ]
+      },
+      {
+        "role": "germeister Habel",
+        "members": [
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Franz, Irene",
+            "note": "Stellvertreterin für StR Erhart"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "Stellvertreter für StR Ströbel"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Mitteilung der Endzahlen und Vorlage der Haushaltssatzung",
+        "facts": "Die Verwaltung informiert den Hauptausschuss über die Endzahlen des Haushaltsplanes 2024 der Stadt Langenzenn.\n\nDer Entwurf der Haushaltssatzung 2024 vom 23.07.2024 sowie der Entwurf des Haushaltsplanes 2024 wird zur Empfehlung an den Stadtrat vorgelegt.\n\nStadtrat Durlak bittet um Erläuterung, weshalb die Summe der Verpflichtungsermächtigungen in der Haushaltssatzung auf über 2,5 Millionen Euro angestiegen ist.\n\nDie Kämmerin informiert, dass es sich um Verpflichtungsermächtigungen für Grundstückskäufe handelt, welche nachträglich von der Liegenschaftsabteilung angemeldet wurden.\n\nNachdem hierzu in den Haushaltssitzungen keine Beratung stattgefunden hat entscheidet der Ausschuss, die Verpflichtungsermächtigungen auf die ursprüngliche Summe zu reduzieren.\n\nIm Entwurf der Haushaltssatzung werden unter § 3 die Summe der Verpflichtungsermächtigungen auf 15.000 Euro festgesetzt.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und empfiehlt dem Stadtrat die Beschlussfassung des vorliegenden Entwurfes der Haushaltssatzung 2024 der Stadt Langenzenn vom 23.07.2024 samt Anlagen, wie Haushaltsplan, Stellenplan, Finanzplan und Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "167295",
+    "minutes": "170608"
+  }
+}

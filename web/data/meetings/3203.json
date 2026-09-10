@@ -1,0 +1,426 @@
+{
+  "meetingId": "3203",
+  "announcement": {
+    "heading": "39. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 39,
+    "date": "2024-01-23",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Altbausanierung und Modernisierung zu einem Vierfamilienwohnhaus mit Errichtung von Gauben auf dem Grundstück Brunnenweg 13"
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Umbau und Sanierung eines Zweifamilienwohnhauses mit Einliegerwohnung auf dem Grundstück Pirkacher Straße 5"
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zur Scheunenertüchtigung und Dacherneuerung auf dem Grundstück Wittinghof 1"
+      },
+      {
+        "number": "2.4.",
+        "title": "Antrag zur Errichtung und Änderung der Werbeanlagen auf dem Grundstück Am Galgenberg 8"
+      },
+      {
+        "number": "2.5.",
+        "title": "Antrag zur Änderung der Werbeanlagen auf dem Grundstück Nürnberger Str. 53"
+      },
+      {
+        "number": "2.6.",
+        "title": "Bauvoranfrage zur Errichtung eines Bungalow bzw. Einfamilienhaus auf dem Grundstück Nähe Reichenberger Straße"
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Gemeinde Veitsbronn - Aufstellung eines vorhabenbezogenen Bebauungsplanes Nr. 49 sowie 17. Änderung des FNP Solarpark westlich der Grundschule hier: Beteiligung der Nachbargemeinden § 2 Abs. 2 BauGB"
+      },
+      {
+        "number": "3.2.",
+        "title": "Aufstellung eines Bebauungsplans mit Flächen für Gemeinbedarf und Dauerkleingärten im Bereich Ziegenberg"
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; Förderzusage durch den Verein Lorenzer Reichswald e.V.; hier: Beschluss zum Ausbau und zur Verbesserung von Wegen in Kirchfembach"
+      },
+      {
+        "number": "4.2.",
+        "title": "Grundsatzbeschluss über Gestattungsverträge /Straßen- und Wegebenutzung zur Verlegung von privaten Leitungen im Stadtgebiet Langenzenn"
+      },
+      {
+        "number": "5.",
+        "title": "Anträge aus der Bürgerversammung Langenzenn 2023"
+      },
+      {
+        "number": "5.1.",
+        "title": "Antrag zur Geschwindigkeitsbegrenzung auf den Ortsverbindungsstraßen zwischen Langenzenn - Klaushof - Stinzendorf sowie den Ortsstraßen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag auf Errichtung einer Tempo- 30 Zone von 7 bis 17 Uhr an den Bushaltestellen Stinzendorf und Hammerschmeide"
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf Einführung einer Tempo 30 Zone in der Flurstraße sowie Ausschilderung von Parkplätzen"
+      },
+      {
+        "number": "5.4.",
+        "title": "Antrag auf Errichtung eines Verkehrsspiegels in der Flurstraße / Zollnerstraße"
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf Beibehaltung des Halteverbots in der Zollnerstraße"
+      },
+      {
+        "number": "5.6.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Hopfenstraße; hier: Antrag zur Erneuerung der Bordsteinkanten"
+      },
+      {
+        "number": "5.7.",
+        "title": "Bushaltestelle Keidenzell; hier: Antrag auf Errichtung eines zweiten Wartehäuschens"
+      },
+      {
+        "number": "5.8.",
+        "title": "Städtische Spiel- und Bolzplätze; hier: Antrag auf Absperrung des Spielplatzes Frankenstraße"
+      },
+      {
+        "number": "5.9.",
+        "title": "Feuerwehr Kirchfembach; hier: Antrag zum weiteren Vorgehen hinsichtlich Sanierung oder Neubau Feuerwehrhaus"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Zollnerstraße; hier: Sachstandsbericht"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Einzäunung des Spielplatzes Von-Wildenfels-Straße/Lukas-Cranach-Straße"
+      },
+      {
+        "number": "7.2.",
+        "title": "Abtransport von Laub am Waldfriedhof"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 16:15 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Januar 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "39. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 39,
+    "date": "2024-01-23",
+    "startTime": "16:00",
+    "endTime": "18:23",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Antrag auf Altbausanierung und Modernisierung zu einem Vierfamilienwohnhaus mit Errichtung von Gauben auf dem Grundstück Brunnenweg 13",
+        "facts": "Antrag auf Altbausanierung und Modernisierung zu einem Vierfamilienwohnhaus mit Errichtung von Gauben und Antrag auf Befreiung bezüglich der Stellplatzsatzung auf dem Grundstück Flur-Nr. 33, Gemarkung Laubendorf.\n\nDie Verwaltung teilt mit, dass einer Befreiung bezüglich der Stellplatzsatzung (Anzahl der Stellplätze) nicht zugestimmt werden kann, da auf dem Gesamtgrundstück die Anordnung eines weiteren Stellplatzes möglich sei.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen der Stellplatzsatzung bezüglich der Anzahl der Stellplätze wird nicht erteilt.\n\nHinweis: Die erforderlichen Fahrradstellplätze sind nachzuweisen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Umbau und Sanierung eines Zweifamilienwohnhauses mit Einliegerwohnung auf dem Grundstück Pirkacher Straße 5",
+        "facts": "Antrag auf Umbau und Sanierung eines Zweifamilienwohnhauses mit Einliegerwohnung auf dem Grundstück Flur-Nr. 161, Gemarkung Kirchfembach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.3.",
+        "title": "Antrag zur Scheunenertüchtigung und Dacherneuerung auf dem Grundstück Wittinghof 1",
+        "facts": "Antrag zur Scheunenertüchtigung und Dacherneuerung und Antrag auf Abweichung bezüglich der Abstandsflächen auf dem Grundstück Flur-Nr. 774, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDem Antrag auf Abweichung bezüglich der Abstandsflächen wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.4.",
+        "title": "Antrag zur Errichtung und Änderung der Werbeanlagen auf dem Grundstück Am Galgenberg 8",
+        "facts": "Antrag zur Errichtung und Änderung der Werbeanlagen und Antrag auf Befreiung von den Festsetzungen der Werbeanlagensatzung bezüglich der Größe auf dem Grundstück Flur-Nr. 567/13, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass die bisherige Werbeanlage an der Giebelfassade geändert und vergrößert werden soll. Zusätzlich soll die Werbeanlage am bereits bestehenden Werbepylon ausgetauscht werden. Die Beleuchtungen werden blendfrei hergestellt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen der Werbeanlagensatzung bezüglich der Größe (§ 4 Abs. 3) wird erteilt.\n\nHinweis: Die Leuchtreklamen sind um spätestens 22.00 Uhr abzuschalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.5.",
+        "title": "Antrag zur Änderung der Werbeanlagen auf dem Grundstück Nürnberger Straße 53",
+        "facts": "Antrag zur Änderung der Werbeanlagen und Antrag auf Befreiung von den Festsetzungen der Werbeanlagensatzung bezüglich der Größe auf den Grundstücken Flur-Nrn. 556, 556/3 und 556/4, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass hierbei die bereits vorhandenen drei Werbebanner (entlang der westlichen Fassade) zurückgebaut und durch drei Großflächenwerbetafeln/Billboards (wechselnde Plakatwerbung) ersetzt werden sollen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen der Werbeanlagensatzung bezüglich der Größe (§ 4 Abs. 3) wird erteilt.\n\nHinweis: Die Leuchtreklamen sind um spätestens 22.00 Uhr abzuschalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.6.",
+        "title": "Bauvoranfrage zur Errichtung eines Bungalow bzw. Einfamilienhaus auf dem Grundstück Nähe Reichenberger Straße",
+        "facts": "Antrag zum Klärung des Innen- und Aussenbereiches sowie einer städtebaulichen Satzung zur Errichtung eines Bungalow bzw. Einfamilienhaus auf dem Grundstück Fl.-Nr. 1136/1, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass bereits im Jahre 2022 eine ähnliche Bauvoranfrage zur Bebaubarkeit einer Teilfläche des Grundstückes eingereicht wurde. Eine Baugenehmigung konnte nicht in Aussicht gestellt werden, das sich der Abschnitt im Außenbereich befindet.\n\nBei dem Antrag handelt es sich nun um eine alternative Postionierung des Gebäudes, welches sich im gleichen Abschnitt des Grundstückes (Außenbereich) befindet.\n\nFerner teilt die Verwaltung mit, dass die Teilfläche im Flächenutzungsplan der Stadt Langenzenn als „Grünfläche“ dargestellt ist.\n\nEin Rechtsanspruch einzelner bezüglich der Aufstellung von Bauleitplänen                 und städtebaulichen Satzungen besteht gemäß §1 Abs. 3 Satz 2 BauGB nicht.\n\nAus städtebaulichen Gründen kommt hier nur eine Gesamtbetrachtung – u.a. unter Berücksichtigung der 110 kV-Leitung – des Areals entlang der „Schlucht“ in Betracht.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen nicht in Aussicht.\n\nDie Aufstellung einer städtebaulichen Satzung für das „Einzelgrundstück“ wird nicht befürwortet.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "3.1.",
+        "title": "Gemeinde Veitsbronn - Aufstellung eines vorhabenbezogenen Bebauungsplanes Nr. 49 sowie 17. Änderung des FNP Solarpark westlich der Grundschule hier: Beteiligung der Nachbargemeinden § 2 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB zum o.g. Verfahren der Gemeinde Veitsbronn vor.\n\nDie Unterlagen liegen der Niederschrift als Anlage 1 bei.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass die Belange der Stadt Langenzenn nicht berührt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Aufstellung eines Bebauungsplans mit Flächen für Gemeinbedarf und Dauerkleingärten im Bereich Ziegenberg",
+        "facts": "An die Verwaltung werden immer wieder Anfragen von interessierten Betreibern nach Flächen für einen Waldkindergarten bzw. einen tiergestützten Kindergarten herangetragen. Dieser Standort sollte waldnah bzw. „im Wald“ liegen, muss gleichzeitig aber erschlossen bzw. leicht erschließbar und als ebenso wichtiges Kriterium an eine bestehende Siedlung „angebunden“ sein.\n\nAuch ist der Standort für den zukünftigen fünften Kindergarten, in städtischer Trägerschaft, bis heute nicht entschieden.\n\nUm für derartige Anfragen zukünftig ein potentielles Areal zur Verfügung zu haben und um dem Stadtrat eine weitere Option für den Standort des fünften Kindergartens zu geben, hat die Verwaltung Gespräche mit dem Eigentümer von Flächen am Tieftalweg geführt und mit dem Landratsamt eine mögliche Bauleitplanung vorabgestimmt.\n\nDer Eigentümer würde der Stadt die Flächen zu einem Kaufpreis von 35 € pro qm überlassen und steht der Einrichtung einer Kindertagesstätte an dieser Stelle offen gegenüber.\n\nDas Landratsamt sieht diese Flächen als planungsrechtlich umsetzbar an, wenn der Bebauungsplan des benachbarten GEs rechtskräftig ist und damit das von der Landesplanung erforderliche Anbindegebot eingehalten wird. Der Bebauungsplan des GEs ist nur noch eine Beschlussfassung von der Rechtskraft entfernt und diese kann zeitnah erfolgen.\n\nErschließung:\n\nDie Wasser- und Abwassererschließung ist gesichert.\n\nDie öffentliche Erschließung (Straße, Zufahrt) ist gegeben.\n\nStrom: Der Hausanschluss ist unproblematisch, eventuell müssen die Stadtwerke im Zuge der Erschließung des gesamten Gebietes (Tierfriedhof, Kleingartenanlage, ggf. Kita, weitere Nutzung des GE’s, weiteres durch Vorbescheid genehmigtes Mehrfamilienhaus im Bereich der bestehenden drei Mehrfamilienhäuser am Ziegenberg) eine Netzverstärkung durchführen.\n\nFriedhof: Der benachbarte Friedhof spielt für die Bauleitplanung eine untergeordnete Rolle, er soll erhalten bleiben und würde von einer besseren Zufahrt bzw. einem besseren Zugang profitieren.\n\nDetails zum Planungsrecht:\n\nDie Grundstücke liegen im planungsrechtlichen Außenbereich. Vorgesehen ist im Zuge der Landesgartenschau auf Teilen des Areals die Errichtung einer Muster-Kleingartenanlage, die nach der Landesgartenschau als dauerhafte Kleingartenanlage verbleibt und verwendet wird.\n\nZur Schaffung von Baurecht sind die Fortschreibung des Flächennutzungsplanes und die Aufstellung eines Bebauungsplanes erforderlich.\n\nVoraussetzung für die Einleitung eines solchen Verfahrens ist u. a., dass das sog. Anbindegebot erfüllt ist. Das Landesentwicklungsprogramm (LEP) Bayern gibt unter 3.3 Vermeidung von Zersiedelung – Anbindegebot vor, dass neue Siedlungsflächen möglichst in Anbindung an geeignete Siedlungseinheiten auszuweisen sind. Dies dürfte dann erfüllt sein, wenn der Bebauungsplan GE rechtskräftig wird (derzeit in der zweiten Trägerrunde, rechtskräftig vermutlich im Frühjahr 2024).\n\nDies gilt es noch mit der/den entsprechenden Fachbehörde/n abzustimmen.\n\nIn jedem Fall macht die Aufstellung eines Bebauungsplanes an dieser Stelle Sinn, um sowohl der Stadt einen weiteren potentiellen als auch Drittanbietern überhaupt einen Standort anbieten zu können.\n\nDie Verwaltung schlägt deshalb vor, dass eine Bauleitplanung gestartet wird, um hierfür keine Zeit zu verlieren und einen weiteren Baustein zur zukünftigen Bedarfsabdeckung im Kita- Bereich zu bieten. Hierzu wurde eine Vorstudie erstellt um mit den maßgeblichen Behörden in Vorgespräche eintreten zu können.\n\nStadträtin Schlager stellt einen Antrag auf Einsicht der Genehmigung des Landratsamtes zur Auffüllung und bittet um Nachreichung.\n\nStadtrat Sieber stellt einen Antrag auf Vertagung des Beschlusses.\n\nmehrheitlich abgelehnt                       Dafür: 3 Dagegen: 4",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung mit einer Behördenabstimmung und Aufstellung eines entsprechenden Bebauungsplans.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 4,
+          "against": 3
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "4.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; Förderzusage durch den Verein Lorenzer Reichswald e.V.; hier: Beschluss zum Ausbau und zur Verbesserung von Wegen in Kirchfembach",
+        "facts": "Durch das Stadt- und Verkehrsplanungsbüro Kaulen wurde gemäß dem Beschluss des Bau-, Umwelt- und Verkehrsausschusses vom 24.01.2023 die Planung der Maßnahmen „Fahrradweg nach Puschendorf“ als überörtliche Verbindung (Maßnahme 64) durchgeführt.\n\nIm Rahmen der Auflösung des Wasserverbandes Kirchfembach-Oberfembach wurden ein Forderungskatalog der Mitglieder erarbeitet. Der Übergang des Verbandsvermögens von 20.000 € und der Übergang diverser Grundstücke des Verbandsvermögens an die Stadt Langenzenn und die Gemeinde Hagenbüchach soll erst nach Zusage der Erfüllung der Anforderungen stattfinden. Eine Anforderung ist die Verbesserung des Weges zwischen Kirchfembach und Oberfembach.\n\nAm 05.10.2023 wurde gemäß Beschluss des Bau-, Umwelt- und Verkehrsausschusses vom 26.09.2023 für die Maßnahmen der Förderantrag beim Verein Naherholungsgebiet Lorenzer Reichswald und Umgebung e.V. eingereicht. Die Förderung beträgt 40 % auf die zuwendungsfähigen Kosten.\n\nKostenschätzung:\n\n   Verbindungsweg Kirchfembach – Hagenbüchach: förderfähige Kosten (Teil- und Vollausbau in wassergebundener Bauweise) etwa 103.000 Euro = Zuwendung: ca. 41.000 €\n\nMit Zuwendung und den Mitteln der Wassergenossenschaft verbleibt eine Eigeninvestition von ca. 50.000 Euro\n\n   Radwegeverbindung Kirchfembach – Puschendorf: Kosten (im Bereich des Wirtschaftsweges) etwa 45.000 Euro davon förderfähig 27.200 Euro. = Zuwendung ca. 11.000 Euro\n\nMit Zuwendung verbleibt eine Eigeninvestition von ca. 34.000 Euro.\n\nDer Verein Naherholungsgebiet Lorenzer Reichswald und Umgebung e.V. fördert auf Grundlage seiner Bestimmungen nur einen Ausbau beider Wege in wassergebundener Bauweise.\n\nEine Abstimmung mit der Nachbargemeinde Hagenbüchach war bereits vor Dezember 2023 erfolgt. Die Verbesserung des weiterführenden Weges ab der Gemeindegrenze in Richtung Hagenbüchach / Oberfembach ist mit den finanziellen Mitteln aus dem Wasserverband für Hagenbüchach machbar, da der Weg bereits gepflastert ist und laut Mitteilung der Gemeinde die Ausbesserungsarbeiten sehr geringfügig sind.\n\nEine Verbesserung des weiterführenden Weges ab der Gemeindegrenze in Richtung Puschendorf ist nicht notwendig. Der Weg ist in Asphaltweise ausgebaut. Eine Absprache mit der Gemeinde Puschendorf bezüglich einer gemeinsamen Vorgehensweise ist nicht notwendig, da lediglich der Teil des Weges auf der Gemarkung Langenzenn einer Verbesserung bedarf.\n\nVerschiedene Bildaufnahmen zum aktuellen Zustand der Wege sind der Niederschrift als Anlage 2 beigefügt.\n\nStadtrat O. Vogel stellt einen Antrag auf Ortsbesichtigung der beiden Wege.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung mit der Planung und Durchführung der Maßnahmen in 2024.\n\nIm Haushaltsplan 2023 sind für Radwegemaßnahmen 50.000 € vorgesehen und nach wie vor verfügbar. Die zusätzlich benötigten Finanzmittel sind im Haushaltsplan 2024 einzustellen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "Grundsatzbeschluss über Gestattungsverträge /Straßen- und Wegebenutzung zur Verlegung von privaten Leitungen im Stadtgebiet Langenzenn Der Tagesordnungspunkt wird vertagt."
+      },
+      {
+        "number": "5.",
+        "title": "Anträge aus der Bürgerversammlung Langenzenn 2023"
+      },
+      {
+        "number": "5.1.",
+        "title": "Antrag zur Geschwindigkeitsbegrenzung auf den Ortsverbindungsstraßen zwischen Langenzenn - Klaushof - Stinzendorf sowie den Ortsstraßen",
+        "facts": "Der Verwaltung liegt ein Antrag aus der Bevölkerung vor.\n\nDie Verwaltung schlägt die Einführung einer Geschwindigkeitsbegrenzung bereits vor der Ortseinfahrt vor.\n\nStadtrat O. Vogel möchte ein mögliches Halteverbot in Klaushof geprüft haben.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Antrag wird zur Prüfung an die Verwaltung verwiesen. Die Verwaltung wird mit der Prüfung beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag auf Errichtung einer Tempo- 30 Zone von 7 bis 17 Uhr an den Bushaltestellen Stinzendorf und Hammerschmeide",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 19.11.2019 einen Antrag auf Geschwindigkeitsreduzierung im Bereich von Schulbushaltestellen in Keidenzell und Stinzendorf behandelt. Die zuständige Straßenverkehrsbehörde hat den Antrag abgelehnt.\n\nDer Antrag stützt sich auf § 45 Abs. 1c StVO und somit auf die Ausweisung einer Tempo-30- Zone.\n\nGem. Satz 2 des Abs. 1c StVO darf sich die Anordnung weder auf Straßen des überörtlichen Verkehrs noch auf Vorfahrtsstraßen erstrecken. Die Straßen sind Kreisstraßen (FÜ16).\n\nDer Antrag aus der Bürgerversammlung kann wiederholt zur Prüfung an die übergeordnete Straßenverkehrsbehörde weitergeleitet werden. Die Verwaltung regt an, die Fragestellung wie folgt zu ergänzen:\n\nEs wird um Prüfung gebeten, ob die Einrichtung einer streckenbezogenen Anordnung von Tempo 30 km/h an den innerörtlich klassifizierten Straßen (hier: FÜ16, Ortsdurchfahrt Hammerschmiede, Keidenzell und Ortsdurchfahrt Stinzendorf) gem. § 45 Abs. 9 Satz 4 Nr. 6 StVO, nicht nur im unmittelbaren Bereich von Schulen und Kindergärten etc., sondern auch im Bereich von Schulbushaltestellen ermöglicht werden kann.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung, den ergänzten Antrag erneut an die übergeordnete Straßenverkehrsbehörde weiterzuleiten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.3.",
+        "title": "Antrag auf Einführung einer Tempo 30 Zone in der Flurstraße sowie Ausschilderung von Parkplätzen",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 20.01.2016 beschlossen, dass der Antrag aus der Bürgerversammlung 2015 zur Einrichtung einer Tempo-30- Zone im Rahmen der Fortschreibung des Verkehrskonzeptes 2016 aufgegriffen wird.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung die Ausweisung einer Tempo-30-Zone in der Flurstraße stimmgleich abgelehnt.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 09.11.2017 den Antrag aus der Bürgerversammlung 2017 erneut abgelehnt.\n\nDer Verwaltung liegt ein Antrag aus der Bürgerversammlung 2023 vor.\n\nIm Verkehrskonzept war die Flurstraße als Tempo-30-Zone vorgesehen. Die Flurstraße ist eine Hauptsammelstraße, wobei der Durchgangsverkehr mit einer geringeren Bedeutung zu\n\nbemessen ist, da die Verkehrsteilnehmer nach unten oder nach oben abfahren. Die Straßen FÜ 11 und die Veit-Stoß-Straße stellen das leistungsfähige Vorfahrtsstraßennetz dar.\n\nObwohl die Straße nicht als Schulweg ausgewiesen ist, nutzen sehr viele Kinder die Flurstraße, um von den anliegenden Baugebieten über den Fußweg am Parkplatz Klaushofer Weg zu den Schulen zu gelangen.\n\nDie Ausschilderung von Parkplätzen ist in Tempo-30-Zonen nicht erforderlich. Die Ausweisung von Parkplätzen mittels Markierungen ist nur für die Einrichtung von verkehrsberuhigten Bereichen Voraussetzung.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag zu.\n\nDie Ausweisung einer Tempo-30-Zone soll umgesetzt werden. Eine Ausweisung von eingezeichneten Parkflächen wird abgelehnt.\n\nDie Beschlüsse vom 13.07.2016 und vom 09.11.2017 werden aufgehoben.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 5,
+          "against": 2
+        }
+      },
+      {
+        "number": "5.4.",
+        "title": "Antrag auf Errichtung eines Verkehrsspiegels in der Flurstraße / Zollnerstraße",
+        "facts": "Die Verwaltung teilt mit, dass der Bau-, Umwelt- und Verkehrsausschuss in seiner Sitzung im Januar 2016 sowie im November 2017 diesen Antrag, der im Rahmen der Bürgerversammlung gestellt wurde, 2016 sowie auch 2017 abgelehnt hat. Der Antrag wurde geprüft, beschlossen und abschließend behandelt.\n\nHier kommt es auf die Sichtverhältnisse im Einmündungsbereich an. Ein Unfallschwerpunkt liegt nicht vor.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat auch in seiner Sitzung am 09.04.2019 beschlossen, keinen Spiegel zu errichten.\n\nIm Jahre 2019 wurde eine Stellungnahme der Verkehrsfachbehörden eingeholt. Die Situation hat sich nicht verändert, sodass eine erneute eingehende Prüfung und verkehrsrechtliche Betrachtung der Situation nicht für erforderlich erachtet wird.\n\nDie Verkehrsfachbehörden stehen und standen grundsätzlich einer Aufstellung eines Verkehrsspiegels nicht entgegen, da die Entscheidung über Spiegel durch den Straßenbaulastträger zu erfolgen hat, weisen aber auf die Schwächen von Verkehrsspiegeln hin, die möglicherweise gefährliche Situationen im Straßenverkehr begünstigen könnten (verzerrtes Bild, beschlagene Spiegel etc.)\n\nAus Sicht des Straßenbaulastträgers kann eine Aufstellung nicht empfohlen werden, alle Fahrzeuge die aus der Flurstraße in die Zollnerstraße einfahren können ca. 60 m nach rechts und ca. 80 m nach links einsehen, ohne die Blockmarkierung zu überfahren. Auch parkende Fahrzeuge beeinträchtigen die Sicht in beide Richtungen nicht.\n\nDie Verwaltung möchte ergänzend darauf hinweisen, dass im gesamten Bereich der Zollnerstraße und Frankenstraße des Öfteren größere Fahrzeuge wie Sprinter oder Fahrzeuge mit\n\nverdunkelten Scheiben parken. Die Verkehrsüberwachung ist regelmäßig in diesem Bereich unterwegs, um die Parkdauer dieser Fahrzeuge und der Anhänger zu überwachen.\n\nLangfristig wäre im Rahmen der Verkehrsplanung eine Neugestaltung der Straßen sowie Verbreiterung der Fußwege sinnvoll. Da die Straßen im Einzugsgebiet der Schulen liegen könnte eine Umgestaltung im Hinblick auf das Schulwegekonzept, sowie im Hinblick auf ein Fahrradkonzept geplant werden. In diesem Zuge können auch die Sichtverhältnisse optimiert und langfristig gelöst werden.\n\nStadtrat Sieber stellt einen Antrag auf Abstimmung.\n\neinstimmig beschlossen                  Dafür: 7 Dagegen: 0",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Anbringen eines Verkehrsspiegels zu.\n\nDie Beschlüsse von Januar 2016 und November 2017 und April 2019 werden aufgehoben.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 4,
+          "against": 3
+        }
+      },
+      {
+        "number": "5.5.",
+        "title": "Antrag auf Beibehaltung des Halteverbots in der Veit-Stoß-Straße",
+        "facts": "Der Verwaltung liegt ein Antrag aus der Bürgerversammlung 2023 vor.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Antrag wird zur Prüfung an die Verwaltung verwiesen. Die Verwaltung wird mit der Prüfung beauftragt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.6.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Hopfenstraße; hier: Antrag zur Erneuerung der Bordsteinkanten",
+        "facts": "In der Bürgerversammlung am 16.11.2023 wurde der Antrag gestellt, die Bordsteinkanten in der Hopfenstraße zu sanieren, da diese bei Parkvorgängen zu Beschädigungen an Reifen führen könnten. Dadurch wäre eine bessere Zufahrt für PKW, Feuerwehr und Rettungsdienste möglich.\n\nDie Hopfenstraße wurde daraufhin am 18.01.2024 durch das Tiefbauamt besichtigt. Folgendes Schadensbild konnte festgestellt werden:\n\nDie vorhandenen Betonbordsteine sind bereits in die Jahre gekommen. An vereinzelten Stellen, wie beispielsweise vor Hausnummer 5, weisen diese Risse und Ausbrüche auf. Der vorhandene Gehweg weist ebenso an vereinzelten Stellen Schäden wie Risse und Setzungen auf. Diese sind jedoch in so geringer Zahl vorhanden, dass aus diesem Grund eine Sanierung auf gesamter Länge nicht notwendig ist.\n\nBei der Befahrbarkeit fällt auf, dass der Straßenrand wechselseitig von Anliegern zum Parken verwendet wird. Durch die zum Teil einseitig vorhandenen Stützwände und dem wechselnden Parkverkehr wirkt der gesamte Straßenzug sehr schmal. Die vorhandene Straßenbreite wird jedoch für den stattfindenden Verkehr als ausreichend erachtet.\n\nDer begleitende Gehweg weist eine Breite von ca. 80 cm auf. Nach aktueller Regelung wäre für sehbehinderte Personen mit Langstock eine Gehwegbreite von 1,20 m notwendig. Selbst Rollstuhlfahrer oder Personen mit Rollator benötigen mindestens 1,00 m Gehwegbreite.\n\nBei einer Sanierung der Bordsteinkannten wäre demnach eine Verbreiterung des Gehwegs durchzuführen. Dies führt jedoch dazu, dass für den motorisierten Verkehr nicht mehr ausreichend Straßenbreite zur Verfügung wäre, um die Straße zweispurig nutzen zu können. Folglich wäre eine komplette Neuplanung als verkehrsberuhigter Bereich notwendig.\n\nAufgrund des Zustands des Straßenzugs, der örtlichen Lage und der finanziellen Auswirkungen sieht das Bauamt nicht die Notwendigkeit hier eine Ausbau-/Umbaumaßnahme durchzuführen.\n\nIm Zuge des Straßenunterhalts können jedoch vereinzelte Bordsteine erneuert werden.\n\nAntrag auf Anhörung einer Bürgerin.\n\neinstimmig beschlossen                  Dafür: 7 Dagegen: 0\n\nDie Bürgerin erklärt, dass die Sanierung einzelner defekter Bordsteine ausreichen würde.\n\nStadtrat Ammon stellt einen Antrag auf Umschreibung der Beschlussvorlage: Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag auf Vollausbau nicht zu.\n\neinstimmig beschlossen                  Dafür: 7 Dagegen: 0",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag auf Vollausbau nicht zu.\n\nIm Rahmen des üblichen Straßenunterhalts werden lediglich die defekten Betonbordsteine ausgetauscht.\n\n(Erster Bürgermeister Habel ist während der Beschlussfassung nicht im Sitzungssaal anwesend. Stadtrat Ammon übernimmt die Ausschusssitzung und Beschlussfassung für ersten Bürgermeister Habel.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.7.",
+        "title": "Bushaltestelle Keidenzell; hier: Antrag auf Errichtung eines zweiten Wartehäuschens",
+        "facts": "In der Bürgerversammlung am 16.11.2023 wurde der Antrag auf die Errichtung eines zweiten Wartehäuschens in Keidenzell gestellt.\n\nNach Sichtung der vorhandenen Luftbilder ist die Errichtung eines weiteren Wartehäuschens auf Höhe der aktuellen Bushaltestelle nicht möglich.\n\nWeiterhin befinden sich keine Grundstücke im Eigentum der Stadt Langenzenn, die über entsprechende Aufstellflächen verfügen.\n\nStadtrat Ammon stellt einen Antrag auf Umschreibung des Beschlussvorschlags: Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag wegen Platzmangel an dieser Stelle nicht zu.\n\neinstimmig beschlossen          Dafür: 7 Dagegen: 0",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stimmt dem Antrag wegen Platzmangel an dieser Stelle nicht zu.\n\n(Erster Bürgermeister Habel ist während der Beschlussfassung nicht im Sitzungssaal anwesend. Stadtrat Ammon übernimmt die Ausschusssitzung und Beschlussfassung für ersten Bürgermeister Habel.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.8.",
+        "title": "Städtische Spiel- und Bolzplätze; hier: Antrag auf Absperrung des Spielplatzes Frankenstraße",
+        "facts": "In der Bürgerversammlung am 16.11.2023 wurde der Antrag gestellt, den Spielplatz in der Frankenstraße ähnlich den anderen Spielplätzen abzusperren.\n\nDie letzte Prüfung der Spielgeräte, Zaun- und Toranlage durch den Bauhof hat keine Auffälligkeiten ergeben.\n\nEine Absperrung über die vorhandene Zaunanlage inkl. Türchen hinaus wird daher als nicht notwendig erachtet.\n\nStadtrat Ammon stellt einen Antrag auf Zurückstellung des Beschlusses.\n\neinstimmig beschlossen          Dafür: 7 Dagegen: 0",
+        "decision": "Der Tagesordnungspunkt wird zurückgestellt.\n\n(Erster Bürgermeister Habel ist während der Beschlussfassung nicht im Sitzungssaal anwesend. Stadtrat Ammon übernimmt die Ausschusssitzung und Beschlussfassung für ersten Bürgermeister Habel.)",
+        "vote": {
+          "summary": "zurückgestellt",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.9.",
+        "title": "Feuerwehr Kirchfembach; hier: Antrag zum weiteren Vorgehen hinsichtlich Sanierung oder Neubau Feuerwehrhaus",
+        "facts": "In der Bürgerversammlung am 16.11.2023 wurde um Auskunft zum weiteren Vorgehen bei der Sanierung des Feuerwehrhauses in Kirchfembach gebeten.\n\nDas Bauamt teilt mit, dass verschiedene Maßnahmen im Rahmen einer Sanierung notwendig sind:\n\n   das Dach ist undicht und muss saniert werden.    die Sanitäranlagen sind sanierungsbedürftig und nicht nach Geschlechter getrennt.    die Versorgungsanschlüsse müssen überholt werden.    der Fahrzeugstellplatz ist nach aktuellen Vorschriften zu klein, die Fahrzeughalle wird zudem als Umkleide genutzt.    die Einfahrt zum Stellplatz ist sehr eng.\n\nDurch das Bauamt und die FFW Kirchfembach wurden das Raumprogramm und die Flächen geprüft und eine Umplanung des Hauses durchgeführt. Die Baukosten wurden im Jahr 2021 mit rund 600.000 Euro beziffert und in den Haushalt 2022 eingestellt. Für 2023 wurden angepasste Kosten ebenfalls eingestellt.\n\nBezüglich eines Standorts für einen möglichen Neubau eines Feuerwehrgerätehauses mit Gemeindesaal konnten bisher keine Grundstücke gefunden werden.\n\nAufgrund der derzeit unbesetzten Stelle „Hochbau“ wurden zuletzt keine weiteren Planungen umgesetzt.\n\nDie Ausschussmitglieder sprechen sich für eine Besichtigung des Feuerwehrhauses aus, mit anschließender Einsicht in die Planungen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Zollnerstraße; hier: Sachstandsbericht",
+        "facts": "Für das Jahr 2023 war eine Deckensanierung vorgesehen. Bei einer erneuten Begehung am 05.01.2024 mit dem Ingenieurbüro Christofori wurden jedoch verstärkt Netzrisse vorgefunden. Diese Netzrisse deuten darauf hin, dass nicht nur die befahrende Asphaltdeckschicht, sondern auch die darunterliegende Asphalttragschicht bereits geschädigt ist. Eine kurzfristige Entnahme von Asphaltkernen durch den städtischen Bauhof brachte als Ergebnis eine, nach heutigem Stand, zu geringe Dimensionierung der Asphaltschichten hervor. Bei einer Bohrung wurde eine Asphaltdicke von gerade einmal 3 cm vorgefunden.\n\nZur endgültigen Feststellung der Tragfähigkeit liegt ein Angebot für ein Baugrundgutachten des baugeologischen Büros Messerer, Fürth vor, das im Rahmen der laufenden Verwaltung bereits beauftragt wurde.\n\nNach aktuellem Stand wird davon ausgegangen, dass für den Sanierungsbereich ein Vollausbau notwendig wird.\n\nEine Abfrage der Spartenträger zur Mitverlegung bzw. Sanierung der vorhandenen Trassen wurde in die Wege geleitet. Ebenso wurden alle direkt betroffenen Anlieger angeschrieben, ob Interesse an einer Beteiligung bei der Kanalverfilmung besteht. Die letzte Überprüfung der öffentlichen und privaten Kanäle fand vor 10 Jahren statt.\n\nIm Haushalt waren bisher die Kosten für eine Deckensanierung in Höhe von ca. 100.000 € angemeldet.\n\nDurch die Änderung in der Ausführung sind weitere Finanzmittel notwendig. Die Kosten steigen hierdurch auf ca. 300.000 € (inkl. Baunebenkosten).",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDie Verwaltung wird beauftragt, die Planungen fortzuführen und die Ausschreibung der Baumaßnahme durchzuführen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Einzäunung des Spielplatzes Von-Wildenfels-Straße/Lukas-Cranach- Straße",
+        "facts": "Im Rahmen der jährlichen Kontrolluntersuchungen durch den externen Spielplatzprüfer wurde auf die fehlende Einzäunung des Spielplatzes in der Von–Wildenfels-Straße / Lukas- Cranach-Straße hingewiesen.\n\nAuf dieser Grundlage wurde durch den Bauhofleiter in Abstimmung mit dem Tiefbauamt entschieden, die Umzäunung zu errichten.\n\nDie Beauftragung des Doppelstabmattenzauns mit Aushängetor erfolgte im April 2023 durch das Tiefbauamt zum Preis von rund 10.800 Euro. Die Montage wurde im Dezember 2023 durch eine Fachfirma ausgeführt.\n\nIm Rahmen des regelmäßigen Spielplatzunterhalts werden Spielgeräte, einzelne Bauteile und die Umzäunung / Zugangstüren geprüft, gewartet, instandgesetzt oder erneuert. Die Entscheidungen über die einzelnen Maßnahmen trifft im Regelfall der Bauhofleiter, im Einzelfall in Abstimmung mit dem zuständigen Tiefbauamt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.2.",
+        "title": "Abtransport von Laub am Waldfriedhof",
+        "facts": "Bezüglich einer Anfrage zum Abtransport von Laub am Waldfriedhof in 38. Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 19.12.2023 hat der Bauhofleiter nachfolgende Stellungnahme abgegeben.\n\nFür die Störung am Waldfriedhof entschuldigen wir uns.\n\nNach Aussage meiner Bauhofmitarbeiter wurde der Waldfriedhof zweimal angefahren, einmal während der Beerdigung und einmal nach der Beerdigung. Das Laub vom Waldfriedhof wurde mit dem Rasenmähertraktor aufgesammelt und oben links auf dem großen Parkplatz\n\nzwischengelagert. Wir blockierten ca. eine Parkfläche für die Lagerung des Laubes. Der große Laubhaufen wurde dann von unserem LKW aufgeladen und entsorgt.\n\nDer Grünschnitt und das Laub werden schon seit Jahren immer oben links am Parkplatz zwischengelagert und mit einem Großfahrzeug geladen und abgefahren. Den Grünschnitt oder das Laub einzeln in den Bauhof zu fahren wäre nicht wirtschaftlich. Grundsätzlich wird versucht alles so schnell wie möglich abzutransportieren, um eine Geruchbelästigung zu vermeiden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Straßenschäden in der Burggrafenhofer Straße und Frankenstraße",
+        "facts": "Stadträtin Plevka nennt Straßenschäden in der Burggrafenhofer Straße bis zur Einmündung Berliner Straße, sowie in der Frankenstraße. Sie bittet die Verwaltung um Prüfung des Zustands und eventuelle Sanierungsmaßnahmen.\n\nDie Verwaltung nimmt den Sachverhalt auf."
+      },
+      {
+        "number": "8.2.",
+        "title": "Aktueller Stand zur Querungshilfe Pfaffenleite / Würzburger Straße",
+        "facts": "Stadtrat Ammon erkundigt sich nach dem aktuellen Stand zur Querungshilfe Pfaffenleite / Würzburger Straße.\n\nDie Verwaltung wird in einer der nächsten Ausschusssitzungen hierzu berichten.\n\nStadtrat Ammon erkundigt sich in diesem Zusammenhang nach der Treppe von der Würzburger Straße hin zum Einkaufszentrum.\n\nDie Verwaltung erklärt, dass hier der Bau einer Rampe nicht umsetzbar ist und sich eine mögliche Alternative in der Klärung befindet."
+      },
+      {
+        "number": "8.3.",
+        "title": "Schlaglöcher in der Straße \"An der Bleiche\"",
+        "facts": "Stadtrat O. Vogel gibt Schlaglöcher in der Straße „An der Bleiche“ bekannt.\n\nDie Verwaltung nimmt den Hinweis auf."
+      },
+      {
+        "number": "8.4.",
+        "title": "Defekte Geschwindigkeitsanzeiger",
+        "facts": "Stadtrat O. Vogel gibt defekte Geschwindigkeitsanzeiger bekannt.\n\nDie Verwaltung informiert, dass aufgrund der Witterung der Solarbetrieb ausfällt und dadurch keine Anzeige erscheint."
+      },
+      {
+        "number": "8.5.",
+        "title": "Informationstafel der Stadt Langenzenn",
+        "facts": "Stadträtin Schlager weist auf die Notwendigkeit der Aktualisierung der Informationstafel hin. Außerdem wären dort Aufräumarbeiten nötig.\n\nDie Verwaltung erklärt, dass im nächsten Sitzungsausschuss der Weiterbetrieb der Informationstafel beraten werden soll."
+      },
+      {
+        "number": "8.6.",
+        "title": "Vorgehen bei geplanten Ortsbesichtigungen",
+        "facts": "Stadtrat Schramm stellt die Sinnhaftigkeit einzelner Ortsbesichtigungen in Frage.\n\nDie Verwaltung erklärt die Einbeziehung des Stadtrates auch in kleinere Anträge damit, dass die Ausschussmitglieder hierüber beraten und gegebenenfalls beschließen müssen."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "162451",
+    "minutes": "163308"
+  }
+}

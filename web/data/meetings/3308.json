@@ -1,0 +1,126 @@
+{
+  "meetingId": "3308",
+  "announcement": {
+    "heading": "33. Sitzung des Werkausschusses",
+    "sessionNumber": 33,
+    "date": "2025-07-22",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Bekanntgabe des Jahresabschlusses 2023 der Stadtwerke"
+      },
+      {
+        "number": "2.",
+        "title": "Verrechnung der Verluste der Stadtwerke Langenzenn bis einschließlich 2022"
+      },
+      {
+        "number": "3.",
+        "title": "Wirtschaftsplan 2025 Stadtwerke Langenzenn"
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Juli 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "33. Sitzung des Werkausschusses",
+    "sessionNumber": 33,
+    "date": "2025-07-22",
+    "startTime": "16:00",
+    "endTime": "17:17",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Bekanntgabe des Jahresabschlusses 2023 der Stadtwerke",
+        "facts": "Der Jahresabschluss 2023 der Stadtwerke Langenzenn\n\nSumme Aktivseite                                           7.816.168,39 Euro Summe Passivseite                                          7.816.168,39 Euro Jahresverlust                                              886.452,76 Euro Jahresverlust lt. G. u. V. Rechnung                        886.452,76 Euro wird hiermit festgestellt.\n\nDer Jahresverlust 2023 in Höhe von 886.452,76 Euro ist auf neue Rechnung vorzutragen.\n\nDer Jahresverlust von 886.452,76 € führt zu einer Reduzierung des Eigenkapitals auf 45.917,47 €, die Allgemeine Rücklage in Höhe von 1.541.287,31 € ist durch die aufgelaufenen Verluste der Vorjahre in Höhe von 2.262.307,47 € aufgebraucht.",
+        "decision": "Der Werkausschuss empfiehlt dem Stadtrat folgenden Beschluss: Der Stadtrat nimmt vom Jahresabschluss 2023 der Stadtwerke Kenntnis.\n\nFür das Jahr 2023 kann keine Konzessionsabgabe nach den Vorgaben des Kommunalabgabengesetzes (KAG) und der Konzessionsabgabenverordnung (KAV) an die Stadt abgeführt werden.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Verrechnung der Verluste der Stadtwerke Langenzenn bis einschließlich 2022",
+        "facts": "Der Stadtrat hat in seiner Sitzung vom 27.02.2025 vom Jahresabschluss 2022 der Stadtwerke Langenzenn Kenntnis genommen. Wie bekannt und aus dem Jahresabschluss 2022 ersichtlich ist weist die Passivseite der Bilanz einen noch nicht ausgeglichenen Jahresverlust in Höhe von 1.375.854,90 € aus, welcher noch nicht mit der „Allgemeinen Rücklage“ verrechnet wurde.\n\nVorjahr Passivseite                                         €                €                 T€\n\nA.     Eigenkapital\n\nI.     Stammkapital                                                 766.937,82              767\n\nII.    Allgemeine Rücklage                                        1.541.287,31          1.541\n\nIII.   Gewinn/Verlust Gewinn aus Vorjahren                       -751.121,65 Zuführung allgemeine Rücklage -751.121,65 Jahresgewinn                               -624.733,26     -1.375.854,91             -751\n\n932.370,22          1.557\n\nHierzu ist ein formeller Beschluss notwendig. Nach Abstimmung mit dem Bayerischen Kommunalen Prüfungsverband wird dem Werkausschuss folgender Beschluss für den Stadtrat empfohlen:\n\nDer Stadtrat beauftragt die Werkleitung, die noch nicht ausgeglichenen Jahresverluste bis zum Jahr 2022 in Höhe von insgesamt 1.375.854,90 €, in Verbindung mit § 8 Abs. 2 EBV, mit den Allgemeinen Rücklagen zu verrechnen.",
+        "decision": "Der Werkausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beauftragt die Werkleitung, die noch nicht ausgeglichenen Jahresverluste bis zum Jahr 2022 in Höhe von insgesamt 1.375.854,90 €, in Verbindung mit § 8 Abs. 2 EBV, mit den Allgemeinen Rücklagen zu verrechnen.",
+        "vote": {
+          "summary": "an anderes Gremium verwiesen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Wirtschaftsplan 2025 Stadtwerke Langenzenn",
+        "facts": "Der Werkleiter stellt dem Gremium den Wirtschafts- und Investitionsplan 2025 Stadtwerke Langenzenn vor.",
+        "decision": "Der Ausschuss empfiehlt dem Stadtrat den folgenden Beschluss:\n\nDer Stadtrat stellt den Wirtschaftsplan 2025, den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2025 – 2028 fest (Art. 88 Abs. 6 GO).\n\nNach dem Erfolgsplan weisen die Stadtwerke mit den Sparten Stromversorgung, Wasserversorgung, Hallenbad und ÖPNV für das Wirtschaftsjahr 2025 einen Verlust in Höhe von 1.234.151,00 € aus.\n\nDer Gesamtbetrag der geplanten Kreditaufnahmen für Investitionen und Investitionsfördermaßnahmen beträgt 2.044.000,00 €.\n\nDer Wirtschaftsplan 2025 mit den Finanz- und Investitionsplan des Eigenbetriebes Stadtwerke Langenzenn für die Jahre 2025 – 2028 ist dem Haushaltsplan 2025 der Stadt Langenzenn als Anlage beizufügen.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen",
+        "facts": "Die Kämmerin stellt dem Werksauschuss die Haushaltssatzung der Stadt Langenzenn vor.",
+        "decision": "Der Werkausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine weiteren Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176892",
+    "minutes": "183587"
+  }
+}

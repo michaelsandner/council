@@ -1,0 +1,41 @@
+{
+  "meetingId": "3181",
+  "announcement": {
+    "heading": "1. Gemeinsame Sitzung des Werkausschusse und des Hauptausschusses",
+    "date": "2023-06-14",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1 eine öffentliche 1. Gemeinsame Sitzung des Werkausschusse",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2023 Stadtwerke Langenzenn; hier: Fortführung der Beratungen"
+      },
+      {
+        "number": "2.",
+        "title": "Haushaltsplanberatungen 2023"
+      },
+      {
+        "number": "2.1.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023; hier: Mitteilung der endgültigen Eckwerte des Haushaltsplanes 2023 ff"
+      },
+      {
+        "number": "2.2.",
+        "title": "Prognose der Rechtsaufsichtsbehörde zur Genehmigungsfähigkeit der Haushaltssatzung 2023 ff"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "6. Juni 2023",
+    "signedBy": "Christian Ell, Zweiter Bürgermeister"
+  },
+  "sources": {
+    "announcement": "156802"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "meetingId": "3353",
+  "announcement": {
+    "heading": "8. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 8,
+    "date": "2025-05-30",
+    "startTime": "08:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift/en"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "8. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift/en, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 21. Mai 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "8. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 8,
+    "date": "2025-05-30",
+    "startTime": "08:30",
+    "endTime": "08:42",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Meyer, Evelyn",
+            "note": "für Stadtrat Gawehn"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Es liegen keine neuen Veröffentlichungen vor."
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges",
+        "facts": "Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift/en",
+        "facts": "Es liegen keine Niederschriften zur Genehmigungen vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "175358",
+    "minutes": "181375"
+  }
+}

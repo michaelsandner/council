@@ -1,0 +1,26 @@
+{
+  "meetingId": "3287",
+  "announcement": {
+    "heading": "32. Sitzung des Werkausschusses",
+    "sessionNumber": 32,
+    "date": "2025-03-27",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. März 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "173480"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "meetingId": "3230",
+  "announcement": {
+    "heading": "27. Sitzung des Werkausschusses",
+    "sessionNumber": 27,
+    "date": "2024-07-18",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Bekanntgabe des Jahresabschlusses 2022 der Stadtwerke"
+      },
+      {
+        "number": "2.",
+        "title": "Wirtschafts- und Investitionsplan 2024 Stadtwerke Langenzenn"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "11. Juli 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "27. Sitzung des Werkausschusses",
+    "sessionNumber": 27,
+    "date": "2024-07-18",
+    "startTime": "16:00",
+    "endTime": "17:24",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Osswald, Birgit",
+            "note": "ab 16:20 TOP 1"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Bekanntgabe des Jahresabschlusses 2022 der Stadtwerke",
+        "facts": "Der Jahresabschluss 2022 der Stadtwerke Langenzenn\n\nSumme Aktivseite                                           6.213.012,14 Euro Summe Passivseite                                          6.213.012,14 Euro\n\nJahresverlust                                              624.733,25 Euro\n\nJahresverlust lt. G. u. V. Rechnung                        624.733,25 Euro wird hiermit festgestellt.\n\nDer Jahresverlust 2022 in Höhe von 624.733,25 Euro ist auf neue Rechnung vorzutragen.\n\nDer Jahresverlust von 624.733,26 € führt zu einer Reduzierung des Eigenkapitals auf 932.370,22 €, die Allgemeine Rücklage in Höhe von 1.541.287,31 € wird durch die aufgelaufenen Verluste der Vorjahre in Höhe von 1.375.854,91 € auf 165.432,40 € geschmälert.\n\nDie Konzessionsabgabe wird nicht in voller Höhe nach den Vorgaben des Kommunalabgabengesetzes (KAG) und der Konzessionsabgabenverordnung (KAV) an die Stadt abgeführt.\n\nDie Jahresbilanz 2022 liegt der Niederschrift als Anlage 1 bei.",
+        "decision": "Der Werkausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat nimmt vom Jahresabschluss 2022 der Stadtwerke Kenntnis.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Wirtschafts- und Investitionsplan 2024 Stadtwerke Langenzenn",
+        "facts": "Der Werkleiter stellt den Wirtschafts- und Investitionsplan 2024 der Stadtwerke Langenzenn vor. Dieser wird der Niederschrift als Anlage 2 beigefügt. Eine weitere Beratung/Information findet am 24.07.2024 im Werkausschuss statt.\n\nDer Ausschuss nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "166957",
+    "minutes": "168875"
+  }
+}

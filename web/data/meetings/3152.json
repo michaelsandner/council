@@ -1,0 +1,66 @@
+{
+  "meetingId": "3152",
+  "announcement": {
+    "heading": "47. Sitzung des Hauptausschusses",
+    "sessionNumber": 47,
+    "date": "2023-07-20",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Forstrevier Langenzenn - Verabschiedung der Försterin Miriam Reingruber"
+      },
+      {
+        "number": "2.",
+        "title": "Forstrevier Langenzenn - Vorstellung des neuen Försters, Herrn Serwotka"
+      },
+      {
+        "number": "3.",
+        "title": "Waldbeauftragten der Stadt und der Hospitalstiftung Langenzenn - Jahresberichte"
+      },
+      {
+        "number": "4.",
+        "title": "Kirchweih Langenzenn 2023 - Nachbericht"
+      },
+      {
+        "number": "5.",
+        "title": "Nachbericht Regionalmarkt"
+      },
+      {
+        "number": "6.",
+        "title": "Vorbericht Trödelmarkt"
+      },
+      {
+        "number": "7.",
+        "title": "Friedhofsverwaltung - Sachstandsbericht"
+      },
+      {
+        "number": "8.",
+        "title": "KiTa-Neubau - Antrag der Herren Stadträte Roscher und Schramm zur Standortsuche"
+      },
+      {
+        "number": "9.",
+        "title": "Verwendung des Stadtwappens der Stadt Langenzenn; hier: Antrag der Karnevals Gesellschaft Langenzenn \"Die Bracken\" e.V."
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Anträge aus den Stadtratsfraktionen - Bearbeitungsstand"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "14. Juli 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "157691"
+  }
+}

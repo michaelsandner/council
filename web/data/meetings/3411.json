@@ -1,0 +1,42 @@
+{
+  "meetingId": "3411",
+  "announcement": {
+    "heading": "78. Sitzung des Hauptausschusses",
+    "sessionNumber": 78,
+    "date": "2026-04-30",
+    "startTime": "17:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Angebot des Bezirksjugendwerk der AWO Ober- und Mittelfranken zur Durchführung von Ferienbetreuungsmaßnahmen in der Stadt Langenzenn"
+      },
+      {
+        "number": "2.",
+        "title": "Bericht über die Finanzsituation im 1. Quartal 2026 (Kassenstatistik)"
+      },
+      {
+        "number": "3.",
+        "title": "Haushaltsplanberatungen 2026 der Stadt Langenzenn; hier: Beginn der Vorberatungen"
+      },
+      {
+        "number": "4.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "4.1.",
+        "title": "Infos zur vergangenen Kommunalwahl"
+      },
+      {
+        "number": "5.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "24. April 2026",
+    "signedBy": "Ell, Zweiter Bürgermeister"
+  },
+  "sources": {
+    "announcement": "183946"
+  }
+}

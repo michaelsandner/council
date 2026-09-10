@@ -1,0 +1,134 @@
+{
+  "meetingId": "3275",
+  "announcement": {
+    "heading": "28. Sitzung des Werkausschusses",
+    "sessionNumber": 28,
+    "date": "2024-07-24",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2024 Stadtwerke Langenzenn"
+      },
+      {
+        "number": "2.",
+        "title": "Hallenbad Langenzenn; hier: Sanierung des Hallenbaddaches"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "18. Juli 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "28. Sitzung des Werkausschusses",
+    "sessionNumber": 28,
+    "date": "2024-07-24",
+    "startTime": "16:00",
+    "endTime": "16:49",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Osswald, Birgit",
+            "note": "Vertretung für Herrn Stadtrat Ströbel"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta",
+            "note": "Vertretung für Frau Stadträtin Ströbel"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2024 Stadtwerke Langenzenn",
+        "facts": "Der Werkleiter stellt den 2. Entwurf des Wirtschafts- und Investitionsplans 2024 der Stadtwerke Langenzenn vor, dieser wird der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Werkausschuss empfiehlt dem Stadtrat folgende Beschlussfassung:\n\nDer Stadtrat stimmt dem Wirtschaft- und Investitionsplan 2024 der Stadtwerke zu.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Hallenbad Langenzenn; hier: Sanierung des Hallenbaddaches",
+        "facts": "Aufgrund der Wassereintritte im Hallenbad Langenzenn hat ein lokales Dachdecker- Unternehmen das Dach des Hallenbades Langenzenn begutachtet. Die Stadtwerke wurden mit Mail vom 15.05. bzw. 24.05.2024 über den Zustand des Daches informiert.\n\nHierzu ist folgende Information zu geben:\n\nIm Rahmen der Planungen für eine Sanierung bzw. der Sanierung+ wurden die Dachflächen durch das Architekturbüro „Heid + Heid Architekten BDA“ begutachtet. Mit Mail vom 04.05.2020 wurden die Stadtwerke darüber informiert, dass von einer ca. 20%-Sanierung der Dachfläche/Dachanschlüsse ausgegangen wird, wobei „zur Verfeinerung der Kosten, insbesondere der Dachsanierung, …“ noch ein Vor-Ort-Termin mit einer Dachdeckerfirma benötigt wird.\n\nDie Bauteilöffnung am 02.06.2020 hat ergeben, „dass es sich um eine Trapezdeckenkonstruktion mit Bitumendickbeschichtung als Dampfbremse mit einer 100mm starken Formglasdämmung und einer 20mm starken Bitumenfliesabdichtung handelt, welche in der Fläche noch komplett funktionsfähig und in Ordnung ist.“ (E-Mail vom 05.06.2020). Im Rahmen der Vorstellung der damals geplanten Sanierung im Stadtrat am 29.07.2020 wurden die Kosten für eine Dachsanierung noch auf einen Betrag von ca. 130.000 € geschätzt.\n\nDiese Situation stellt sich leider mittlerweile als überholt dar. Mit E-Mail vom 24.05.2024 wird mitgeteilt, „dass sich die Foliendachabdichtung vollflächig in einem absolut desolaten Zustand befindet. Sämtliche Anschlüsse an aufgehende Bauteile sind aufgrund der überschrittenen Lebensdauer der Folienabdichtung in einem nicht reparablen Zustand.“ Die Folienabdichtung hat die Lebensdauer weit überschritten, eine Reparatur des Hallenbaddaches ist weder möglich noch wirtschaftlich sinnvoll. Eine vollumfängliche Dachsanierung kann ohne gesonderte Fachplanung nicht erfolgen. Auf die Informationen und den Schriftverkehr, welche im Ratsinformationssystem hinterlegt sind, wird verwiesen.\n\nEine weitere Sitzung zum Thema der weiteren Vorgehensweise in Bezug auf das Hallenbad Langenzenn ist für den September geplant.\n\nDer Ausschuss nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "167286",
+    "minutes": "171207"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meetingId": "3460",
+  "announcement": {
+    "heading": "2. Sitzung des Hauptausschusses",
+    "sessionNumber": 2,
+    "date": "2026-07-15",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2026 der Stadt Langenzenn"
+      },
+      {
+        "number": "1.1.",
+        "title": "Anträge der Stadtratsfraktionen zum Haushalt"
+      },
+      {
+        "number": "1.2.",
+        "title": "Haushaltsplanberatungen 2026 der Stadt Langenzenn; hier: Fortsetzung der Vorberatungen"
+      },
+      {
+        "number": "2.",
+        "title": "Haushaltsplanung 2026 der Hospitalstiftung Langenzenn Ihier: Vorberatung des Verwaltungs- und Vermögenshaushaltes"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "9. Juli 2026",
+    "signedBy": "Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "185658"
+  }
+}

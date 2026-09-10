@@ -1,0 +1,26 @@
+{
+  "meetingId": "3404",
+  "announcement": {
+    "heading": "35. Sitzung des Werkausschusses",
+    "sessionNumber": 35,
+    "date": "2026-01-29",
+    "startTime": "16:00",
+    "location": "im",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "22. Januar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "181418"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "meetingId": "3408",
+  "announcement": {
+    "heading": "76. Sitzung des Hauptausschusses",
+    "sessionNumber": 76,
+    "date": "2026-01-29",
+    "startTime": "16:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Erlass einer Rechtsverordnung über verkaufsoffene Sonntage im Jahr 2026"
+      },
+      {
+        "number": "2.",
+        "title": "Marktfestsetzungen für das Jahr 2026 nach §69 GewO"
+      },
+      {
+        "number": "3.",
+        "title": "Regionalmarkt: Absage für 2026 und Neukonzeption für 2027"
+      },
+      {
+        "number": "4.",
+        "title": "Antrag auf eine ebenerdige Grabplatte an einem Baumgrab"
+      },
+      {
+        "number": "5.",
+        "title": "Bericht über die Finanzsituation für das Kalenderjahr 2025 (Kassenstatistik)"
+      },
+      {
+        "number": "6.",
+        "title": "Anpassung der Verrechnungssätze für den Bauhof und die Kläranlage der Stadt Langenzenn"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "22. Januar 2026",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "181421"
+  }
+}

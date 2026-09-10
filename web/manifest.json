@@ -1,11 +1,11 @@
 {
-    "name": "council",
-    "short_name": "council",
+    "name": "Stadtrat Langenzenn",
+    "short_name": "Stadtrat",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFFFFF",
+    "theme_color": "#1B5E9B",
+    "description": "Termine und Niederschriften des Langenzenner Stadtrats.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -31,5 +31,6 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-    ]
+    ],
+    "lang": "de"
 }

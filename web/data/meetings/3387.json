@@ -1,0 +1,111 @@
+{
+  "meetingId": "3387",
+  "announcement": {
+    "heading": "27. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 27,
+    "date": "2025-11-11",
+    "startTime": "10:30",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "27. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 31. Oktober 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "27. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 27,
+    "date": "2025-11-11",
+    "startTime": "10:30",
+    "endTime": "10:32",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "Folgendes steht zur Veröffentlichung offen:\n\n1. Sie suchen noch ein Weihnachtsgeschenk? Wie wäre es mit einem schönen Buch zur Geschichte von Langenzenn? Folgende Bücher können vor Ort im Stadtarchiv erworben werden:    Michael Kroner, Langenzenn. Vom Königshof zur Gewerbe- und Industriestadt, Langenzenn 1988, 236 Seiten, Preis: 19,- €    Helmut Mahr, Im Laufe der Zeit. Zur Geschichte der Vereinigten Sparkasse im Landkreis Fürth, Fürth 1989, 160 Seiten, Preis 10,- €    Berta Winter, Johann Georg Grienseysen 1657-1732. Vogt in Langenzenn von 1685-1712. Ein Lebensbild, Langenzenn 1990, 103 Seiten, Preis: 10,- €    Michael Kroner, 500 Jahre Schule in Langenzenn. Beiträge zur Schulgeschichte, Langenzenn 1999, 134 Seiten, Preis: 10,- €    Michael Kroner/ Martin Weber, Langenzenn aus der Luft. 1050 Jahre seit der Reichsversammlung in Langenzenn, Langenzenn 2004, 86 Seiten, Preis: 10,- €    Susanne Habel, Das Augustiner-Chorherrenstift in Langenzenn 1409- 1533, Langenzenn 2004, 160 Seiten, Preis: 25,- €    Konrad Nickel, Von der Vergangenheit zur Gegenwart. Laubendorf, Heinersdorf, Lohe, Hardhof, Erlachskirchen, Laubendorf 2013, 716 Seiten, Preis: 40,- €    Susanne Schmidt, Gefangen unter freiem Himmel. Das amerikanische Kriegsgefangenenlager in Langenzenn, Langenzenn 2015, 128 Seiten, Preis: 20,- €    Kurt Sellner, 400 Jahre Friedhofskapelle zum Heiligen Kreuz in Langenzenn 1621-2021, Langenzenn 2021, 112 Seiten, Preis: 15,- €    Wolfgang Bleiweis/ Gerhard Striegel, Eisenbahn Siegelsdorf – Markt Erlbach. Von der Vizinalbahn zum modernen Taktverkehr, Schweinfurt 2022, 96 Seiten, Preis: 16,90 € Öffnungszeiten Stadtarchiv: Mo-Fr 8:30 – 13:00 Uhr Tel. 09101 90444-50 Das Stadtarchiv Langenzenn wünscht Ihnen Frohe Weihnachten.",
+        "decision": "Der Redaktionsausschuss beschließt die Veröffentlichung der genannten Inhalte.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 5,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift Es liegt keine Niederschrift zur Genehmigung vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179506",
+    "minutes": "182579"
+  }
+}

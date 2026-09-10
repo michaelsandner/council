@@ -1,0 +1,125 @@
+{
+  "meetingId": "3391",
+  "announcement": {
+    "heading": "28. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 28,
+    "date": "2025-11-25",
+    "startTime": "09:00",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Stock Besprechungszimmer W1.12 die",
+    "signedBy": "28. Sitzung des Redaktionsausschusses, mit folgender öffentlicher, Tagesordnung, statt:, 1.       Freigabe aktueller Veröffentlichungen, 2.       Sonstiges, 3.       Genehmigung der letzten Niederschrift, Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt., Langenzenn, 20. November 2025, Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "28. Sitzung des Redaktionsausschusses",
+    "sessionNumber": 28,
+    "date": "2025-11-25",
+    "startTime": "09:10",
+    "endTime": "09:21",
+    "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Osswald, Birgit"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Ströbel, Marion",
+            "note": "für Stadtrat Jäger"
+          },
+          {
+            "name": "Vogel, Oliver",
+            "note": "für Stadträtin Schlager"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "für Stadtrat Durlak"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe aktueller Veröffentlichungen",
+        "facts": "1      Info zum Bauernmarkt 2      Informationen zur Kommunalwahl 3      Parkplatz ehemaliger Edeka 4      Allgemeine Informationen zum Parken an Fußwegen etc. 5      Hinweis Kleinfußballfeld 6      Internationaler Tag des Ehrenamtes 7      Stellenausschreibungen Hort, Bauhof und Sekretariat 8      Übung US Streitkräfte 9      Karten der Wahlbezirke 10     Einladung zum ABC Elternabend 11     Spende für kleine Schachmeister",
+        "decision": "Der Ausschuss beschließ, die Inhalte 1-11 zur Veröffentlichung freizugeben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 5,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Sonstiges Die Veröffentlichung der Stadtwerke wird zur Kenntnis gegeben."
+      },
+      {
+        "number": "3.",
+        "title": "Genehmigung der letzten Niederschrift Es liegen keine Niederschriften zur Genehmigung vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "179939",
+    "minutes": "182569"
+  }
+}

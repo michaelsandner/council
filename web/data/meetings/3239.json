@@ -1,0 +1,282 @@
+{
+  "meetingId": "3239",
+  "announcement": {
+    "heading": "66. Sitzung des Stadtrates",
+    "sessionNumber": 66,
+    "date": "2024-09-12",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Vortrag zu gesetzlichen Änderungen und Rahmenbedingungen im Bereich der Windkraft und daraus resultierende Konsequenzen für die Stadt Langenzenn"
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V"
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf Vorbescheid zur Umnutzung Werkhallen in eine Spedition auf den Grundstücken Gewerbestr. 4 und Nürnberger Straße"
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Leitungsverlegung auf dem Grundstück Höllenberg 1"
+      },
+      {
+        "number": "4.",
+        "title": "Baugebiet Nr. 53 \"Stinzendorf Süd-West\"; hier: Straßennamensvergabe"
+      },
+      {
+        "number": "5.",
+        "title": "Erlass einer Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung)"
+      },
+      {
+        "number": "6.",
+        "title": "Kindertagesstätte am Hallenbad; hier: Sachstandsbericht"
+      },
+      {
+        "number": "7.",
+        "title": "Antrag der CSU-Stadtratsfraktion; hier: Antrag zum Projekt „Modulgebäude\""
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.1.",
+        "title": "VHS Langenzenn e.V. - Information zu Personalwechsel"
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt um ca. 18:00 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "5. September 2024",
+    "signedBy": "In Vertretung, Manfred Durlak, Stadtrat"
+  },
+  "minutes": {
+    "heading": "66. Sitzung des Stadtrates",
+    "sessionNumber": 66,
+    "date": "2024-09-12",
+    "startTime": "17:00",
+    "endTime": "20:45",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "bis Ende TOP 1"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit",
+            "note": "ab TOP 2"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ruf, Georg"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta",
+            "note": "bis Mitte TOP 6"
+          },
+          {
+            "name": "Schlager, Anni",
+            "note": "bis Mitte TOP 2"
+          },
+          {
+            "name": "Vogel, Markus"
+          },
+          {
+            "name": "Vogel, Oliver"
+          },
+          {
+            "name": "Weber, Thomas"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Vortrag zu gesetzlichen Änderungen und Rahmenbedingungen im Bereich der Windkraft und daraus resultierende Konsequenzen für die Stadt Langenzenn",
+        "facts": "In der Planungsregion Region Nürnberg wird auf Grund der gesetzlichen Vorgaben des Wind an Land Gesetzes sowie des Bayerischen Landesentwicklungsprogramms der Regionalplan im Bereich Windkraft fortgeschrieben, um den Flächenbeitragswert für die Region (1,8% der Regionsfläche, die für Vorranggebiete Windkraft dargestellt werden müssen) zu realisieren.\n\nVor diesem Hintergrund müssen auch im Stadtgebiet Langenzenn, ergänzend zu den bestehenden Gebieten, weitere Flächen für die Windenergie dargestellt werden.\n\nDer zuständige Regionsbeauftragte, Herr Liebel von der Regierung von Mittelfranken, erläutert dem Gremium den aktuellen Stand des Planungsprozesses und zeigt das im Stadtgebiet vorhandene Flächenpotenzial auf. Des Weiteren steht er für Fragen und Diskussion zur Verfügung.\n\nFür mündliche Erläuterungen wird die Nichtöffentlichkeit hergestellt, die Beratungen öffentlich danach weitergeführt.",
+        "decision": "Der Stadtrat nimmt Kenntnis und fasst folgenden Beschluss:\n\nDer Stadtrat beauftragt die Verwaltung, den Planungsverband Region Nürnberg zu bitten, bei der Fortschreibung des Kapitels Windkraft die in der Gesamtübersichtskarte dargestellten Flächen in den Regionalplan aufzunehmen. Auf die Gesamtübersichtskarte wird verwiesen.\n\nFerner soll darum gebeten werden, von der Darstellung weiterer Flächen im Stadtgebiet abzusehen.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 13,
+          "against": 2
+        }
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts/dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V",
+        "facts": "Der Stadtrat der Stadt Langenzenn zieht die Angelegenheit an sich, soweit nicht die Befugnis / Zuständigkeit ohnehin schon beim Stadtrat liegt (§ 1 Abs. 2 Satz 2 der Geschäftsordnung des Stadtrates)\n\nAntrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und\n\nAsylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V.\n\nDie Verwaltung teilt mit, dass der Antrag auf Nutzungsänderung in der Ferienausschusssitzung am 20.08.2024 behandelt wurde.\n\nFolgender Beschluss wurde hierbei gefasst:\n\nDer Ferienausschuss der Stadt Langenzenn beschließt, das gemeindliche Einvernehmen zum Antrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51 nicht zu erteilen.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes nach § 246 Abs. 10 BauGB wird nicht erteilt . Siehe Ergänzende Begründung (Schreiben vom 21.08.2024)\n\nHierzu ging am 04.06.2024 (vorab per Email) ein Anhörungsschreiben gemäß Art. 67 Abs. 4 Satz 1 BayBO des Landratsamt Fürth ein.\n\nDas Anhörungsschreiben wurde ins Ratsinformationssystem eingestellt.\n\nDie Bauvorlagen zum Antrag des Bauvorhabens „Atntrag auf Nutzungsänderung eines ehem. Verwaltungsgebäudes und Teilumnutzung eines Betriebsgebäudes zu einer Gemeinschafts- /dezentralen Unterkunft für 120 Flüchtlinge und Asylbegehrende, Errichtung eines außenliegenden Aufzugschachtes und einer Fluchttreppe auf dem Grundstück Mühlsteig 51, GE V“ werden Ihnen hiermit aus datenschutzrechtlichen Gründen in geschwärzter Form zur Vorbereitung auf die Behandlung des Antrages in der Stadtratssitzung vom 12.09.2024 zur Verfügung gestellt.",
+        "decision": "Der Stadtrat nimmt von dem Anhörungsschreiben gemäß Art. 67 Abs. 4 Satz 2 BayBO Kenntnis und erteilt das gemeindliche Einvernehmen.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes gemäß § 246 Abs. 10 BauGB wird erteilt.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 5,
+          "against": 10
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf Vorbescheid zur Umnutzung Werkhallen in eine Spedition auf den Grundstücken Gewerbestr. 4 und Nürnberger Straße",
+        "facts": "Der Stadtrat der Stadt Langenzenn zieht die Angelegenheit an sich, soweit nicht die Befugnis / Zuständigkeit ohnehin schon beim Stadtrat liegt (§ 1 Abs. 2 Satz 2 der Geschäftsordnung des Stadtrates)\n\nEine Bauvoranfrage zur Umnutzung von Werkhallen und Werksgelände in eine Spedition auf den Grundstücken Flur-Nrn. 675, 677, 678, 679 und 679/2, Gemarkung Langenzenn.",
+        "decision": "Der Stadtrat stellt das gemeindliche Einvernehmen in Aussicht.\n\nHinweis: Die Belange des Brandschutzes, Immissionsschutzes, Stellplatznachweis, etc. sind zu beachten, bzw. einzuhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Leitungsverlegung auf dem Grundstück Höllenberg 1",
+        "facts": "Der Stadtrat der Stadt Langenzenn zieht die Angelegenheit an sich, soweit nicht die Befugnis / Zuständigkeit ohnehin schon beim Stadtrat liegt (§ 1 Abs. 2 Satz 2 der Geschäftsordnung des Stadtrates)\n\nAntrag auf denkmalschutzrechtliche Erlaubnis zur Grabung für Wasserleitung auf dem Friedhof (Leitungsverlegung Wasser, neuer Wasserhahn) auf dem Grundstück Flur-Nr. 1, Gemarkung Kirchfembach.",
+        "decision": "Der Stadtrat erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Baugebiet Nr. 53 \"Stinzendorf Süd-West\"; hier: Straßennamensvergabe",
+        "facts": "Im Rahmen der Erschließungsarbeiten des Baugebietes Nr. 53 „Stinzendorf Süd-West“ wird eine neue Erschließungsstraße hergestellt.\n\nDie Erschließungsarbeiten sind größtenteils bereits abgeschlossen.\n\nDie Verwaltung schlägt deshalb folgende mögliche Straßenbezeichnungen vor:\n\n1. Weiterführung der Dillenbergstraße mit den geraden Hausnummer 20 ff.\n\n2. Neuvergabe nach Flurbezeichnung: - Druidenranken (z.B. Am Druidenranken) - Brunnleite (z.B. An der Brunnleite)\n\nUm Entscheidung wird gebeten welcher Straßenname vergeben werden soll.",
+        "decision": "Der Stadtrat der Stadt Langenzenn beschließt die Straßenbezeichnung „Am Druidenranken“ für die Erschließungsstraße des Neubaugebietes Nr. 53 Stinzendorf Süd-West.\n\n(Stadträtin Osswald ist zum Zeitpunkt der Abstimmung nicht im Sitzungssaal anwesend)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 14,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Erlass einer Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung)",
+        "facts": "In der Sitzung vom 18.07.2024 des Hauptausschusses wurde erstmals über die anstehende Grundsteuerreform und das weitere Vorgehen informiert und im Ferienausschuss am 08.08.2024 wurden folgende aktuelle Daten bekannt gegeben:\n\nDer Stadt Langenzenn liegen vom Finanzamt Fürth insgesamt 81 Prozent der Daten der Grundsteuer A und 90 Prozent der Daten der Grundsteuer B vor. Wie sich die Zahlen mit den noch fehlenden Prozentzahlen verändern, kann zum jetzigen Zeitpunkt noch nicht abgesehen werden und auch nicht wie viele Daten letztendlich bei der Beschlussfassung über die Hebesatzsatzung vorliegen werden.\n\nEs zeichnet sich schon jetzt ab, dass die Grundsteuerreform mit der Hebesatzfestsetzung für das Jahr 2025 noch nicht abgeschlossen sein wird. Es ist davon auszugehen, dass es in den Folgejahren noch zu reformbedingten Anpassungen bei den Messbetragsdaten kommen wird und dies zu Hebesatzanpassungen führen kann.\n\nNach den aktuell vorliegenden Messbetragsdaten für 2025 und bei gleichbleibendem Hebesatz in Höhe von 360 v. H. würden die Grundsteuereinnahmen der Stadt Langenzenn für die Grundsteuer A und B auf nahezu gleichem Niveau bleiben. Aufgrund von fehlerhaften Grundsteuererklärungen ist allerdings davon auszugehen, dass sich in den nächsten Monaten die Messbetragsdaten durch Einsprüche beim Finanzamt Fürth verändern können. Wie sich diese auf die Grundsteuereinnahmen der Stadt Langenzenn in den Folgejahren auswirken werden ist fraglich und ist künftig jährlich erneut zu betrachten.\n\nDie Verwaltung legte dem Ferienausschuss in seiner Sitzung am 20.08.2024 den Entwurf vom 12.08.2024 der Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung) zur Empfehlung an den Stadtrat vor. Die Steuersätze für die Grundsteuer A und B sind unverändert mit 360 v. H. übernommen worden.\n\nDer Entwurf der Satzung liegt der Niederschrift als Anlage 1 bei.\n\nDer Ferienausschuss empfiehlt dem Stadtrat einstimmig folgenden Beschluss:",
+        "decision": "Der Stadtrat beschließt den vorliegenden Entwurf vom 12.08.2024 der Satzung über die Festsetzung der Grundsteuerhebesätze der Stadt Langenzenn (Hebesatzsatzung) zur Satzung.\n\nDie Verwaltung wird beauftragt die Satzung auszuarbeiten und bekannt zu machen.\n\nDie Satzung tritt zum 01.01.2025 in Kraft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 15,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Kindertagesstätte am Hallenbad; hier: Sachstandsbericht",
+        "facts": "Stadtbaumeister Wittmann erläutert dem Stadtrat den aktuellen Sachstand zum Neubau der Kindertagesstätte am Hallenbad.\n\nAuf Grundlage des Bodengutachtens konnten die Baukörper nun auf dem Grundstück sinnvoll angeordnet werden. Die Studie von Dürschinger-Architekten ist Grundlage für das architektonische und haustechnische Konzept und bildet die Grundlage für die weiteren Abstimmungen mit den Fachplanern, Fachstellen und der Förderbehörde in den kommenden Wochen.\n\nWeiterhin bildet sie den Leitfaden für die durchzuführenden, europaweiten Vergabeverfahren.\n\nDie Entwurfsstudie liegt als Anlage 2 bei.\n\nDer Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Antrag der CSU-Stadtratsfraktion; hier: Antrag zum Projekt „Modulgebäude\"",
+        "facts": "Die CSU-Stadtratsfraktion hat folgenden Antrag gestellt:\n\n„Antrag zum Projekt „Modulgebäude“\n\nNachdem die Stadtwerke jetzt endgültig anderweitig untergebracht sind, als es Bürgermeister und Verwaltung geplant hatten, stellt sich wahrscheinlich nicht nur uns die Frage, ob und wozu wir das Modulgebäude noch brauchen.\n\nEs sollten jetzt alle Möglichkeiten geprüft werden, wie z.B. auch eine Weiterveräußerung oder schlimmstenfalls eine Entsorgung. Bei allen Überlegungen ist unsere aktuelle Finanzlage im Auge zu behalten. Wegen der Wichtigkeit dieser Entscheidung beantragen wir eine Beratung im Stadtrat und dies bei nächster Gelegenheit.“",
+        "decision": "Der Stadtrat beauftragt die Verwaltung zur Ausarbeitung einer entsprechenden Beschlussvorlage.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 14,
+          "against": 0
+        }
+      },
+      {
+        "number": "8.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.1.",
+        "title": "VHS Langenzenn e.V. - Information zu Personalwechsel Mitteilung: Der Verein Volkshochschule Langenzenn e.V. hat über folgenden personellen Wechsel in der Geschäftsleitung informiert. Die langjährige Geschäftsleiterin, Frau Sonja Knies, ist ausgeschieden. Ab 1. September 2024 hat Frau Heidi Billmann die Geschäftsleitung der VHS übernommen."
+      },
+      {
+        "number": "9.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "9.1.",
+        "title": "Antrag: Anschaffung eines AED Defibrillators für die Feuerwehrhaus Keidenzell",
+        "facts": "Stadträtin Franz stellt den Antrag auf Anschaffung eines 24/7 AED Defibrillators für das Feuerwehrhaus Keidenzell."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "168255",
+    "minutes": "169981"
+  }
+}

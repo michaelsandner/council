@@ -1,0 +1,38 @@
+{
+  "meetingId": "3183",
+  "announcement": {
+    "heading": "46. Sitzung des Hauptausschusses",
+    "sessionNumber": 46,
+    "date": "2023-07-12",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Landesgartenschau 2032; hier: Information zum Arbeitslogo und zur neuen Website"
+      },
+      {
+        "number": "2.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023; hier: Information zu den Ansatzänderungen"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.1.",
+        "title": "Terminankündigung über die Vollversammlung mit Wahlen des Seniorenrates"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "5. Juli 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "157499"
+  }
+}

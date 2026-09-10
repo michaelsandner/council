@@ -1,0 +1,492 @@
+{
+  "meetingId": "3229",
+  "announcement": {
+    "heading": "44. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 44,
+    "date": "2024-06-25",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Biergarten: Bericht des aktuellen Betreibers"
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Erweiterung der bestehenden Photovoltaikanlage auf dem Grundstück Hindenburgstraße 61"
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf dauerhafte Umnutzung des Ausstellungsraumes eines Autohauses in einen Übungsraum für eine Musikkapelle auf dem Grundstück Gewerbestr. 7"
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag zum Umbau eines Einfamilienhauses mit Anbau einer Treppe und Errichtung eines Carports auf dem Grundstück Am Neuholz 9"
+      },
+      {
+        "number": "3.4.",
+        "title": "Formlose Bauvoranfrage zur Errichtung einer kieferorthopädischen Fachzahnarztpraxis sowie vier Wohnungen auf dem Grundstück Komotauer Straße 10"
+      },
+      {
+        "number": "3.5.",
+        "title": "Formlose Bauvoranfrage zur Nutzungsänderung, Umbau und Ausbau einer Scheune zum Lager und einer Wohnung im Dachgeschoss auf dem Grundstück Waldstraße 3"
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag auf Errichtung einer Doppelgarage mit Stützwand auf dem Grundstück Bergstraße 12"
+      },
+      {
+        "number": "3.7.",
+        "title": "Antrag auf Änderung von 3 Wohneinheiten auf 2 Wohneinheiten, Neugestaltung der Außenanlagen mit Veränderung der Geländeanschütthöhe, Neubau zweier Garagen und Neubau einer inneliegenden Treppe auf dem Grundstück Marienbader Straße 2"
+      },
+      {
+        "number": "3.8.",
+        "title": "Tekturantrag zum Umbau eines Milchviehstalles auf dem Grundstück Hardhof 2"
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf Errichtung von vier doppelseitigen, beleuchteten Werbeanlagen freistehend auf dem Grundstück Würzburger Straße 26"
+      },
+      {
+        "number": "3.10.",
+        "title": "Tekturantrag zur Erweiterung der Dachgeschosswohnung mit Aufstockung Garage auf dem Grundstück Tillystraße 30"
+      },
+      {
+        "number": "3.11.",
+        "title": "Antrag auf Neubau eines Einfamilienwohnhauses mit Doppelgarage im Genehmigungsfreistellungsverfahren auf dem Grundstück Im Gründl 18"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "13. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 81 \"Klaushofer Weg/Zollnerstraße im Parallelverfahren; hier: Überarbeitung der Rahmenplanung"
+      },
+      {
+        "number": "4.2.",
+        "title": "Gemeinde Seukendorf; Aufstellung Bebauungsplan Nr. 23 \"Am alten Postweg\"; hier: erneute Beteiligung nach § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "4.3.",
+        "title": "Markt Cadolzburg - Aktualisierung Sanierungsgebiet \"Altort Cadolzburg\"; hier: Beteiliung der Träger öffentlicher Belange gem §§ 136 ff. i.V.m. § 4 BauGB"
+      },
+      {
+        "number": "4.4.",
+        "title": "Markt Cadolzburg - Aufstellung eines Bebauungsplanes für das Sondergebiet „Solarpark Steinbach Süd-West“ und 2. Änderung des FNP; hier: Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "5.",
+        "title": "Integrales Konzept zum kommunalen Sturzflut-Risikomanagement hier: Öffentlichkeitsbeteiligung über Starkregenmelder"
+      },
+      {
+        "number": "6.",
+        "title": "Information aus der Interessengemeinschaft Wasserstoff im Landkreis Fürth hier: Ergebnisse der Wasserstoffpotenzialanalyse"
+      },
+      {
+        "number": "7.",
+        "title": "Sonderabfalldeponie Raindorf hier: Deponiejahrbuch 2023"
+      },
+      {
+        "number": "8.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "8.1.",
+        "title": "Antrag des Bürgerbusvereins Langenzenn e.V. auf sichtbare Abmarkierungen der Fahrbahn an Haltestellen"
+      },
+      {
+        "number": "8.2.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept: hier: Sachstand der Entwurfsplanungen"
+      },
+      {
+        "number": "8.3.",
+        "title": "Information über die Entscheidung des Bundesverwaltungsgerichts im Bereich ruhender Verkehr; Gehwegparken"
+      },
+      {
+        "number": "9.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "9.1.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Neugestaltung Raindorfer Weg; hier: Sachstandsbericht"
+      },
+      {
+        "number": "9.2.",
+        "title": "Kindertagesstätte am Hallenbad; hier: Sachstandsbericht"
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "19. Juni 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "44. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 44,
+    "date": "2024-06-25",
+    "startTime": "16:00",
+    "endTime": "18:31",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "Stellvertreter für ersten Bürgermeister Habel ab TOP 5"
+          },
+          {
+            "name": "Roscher, Klaus",
+            "note": "Stellvertreter für ersten Bürgermeister Habel bis TOP"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 3.11"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Meyer, Evelyn",
+            "note": "bis TOP 11"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Biergarten: Bericht des aktuellen Betreibers",
+        "facts": "Herr Ünal, der aktuelle Biergartenbetreiber, berichtet über das laufende Jahr bzw. über die weitere Vorgehensweise in Bezug auf den Umbau und die Neugestaltung des festen Biergartenbetriebs. Die Umsetzung soll voraussichtlich im Herbst 2024 beginnen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Erweiterung der bestehenden Photovoltaikanlage auf dem Grundstück Hindenburgstraße 61",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Erweiterung der bestehenden Photovoltaikanlage auf dem Grundstück Flur-Nr. 153, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis: Bei der Anordnung der Module ist auf eine geschlossene Fläche zu achten. Eine kompakte und rechteckige Anordnung ist vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf dauerhafte Umnutzung des Ausstellungsraumes eines Autohauses in einen Übungsraum für eine Musikkapelle auf dem Grundstück Gewerbestr. 7",
+        "facts": "Antrag auf dauerhafte Umnutzung des Ausstellungsraumes eines Autohauses in einen Übungsraum für eine Musikkapelle und Antrag auf Ausnahme gemäß § 8 BauNVO auf dem Grundstück Flur-Nr. 648/5, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDem Antrag auf Ausnahme gemäß § 8 BauNVO wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag zum Umbau eines Einfamilienhauses mit Anbau einer Treppe und Errichtung eines Carports auf dem Grundstück Am Neuholz 9",
+        "facts": "Antrag zum Umbau des bestehenden Einfamilienhauses zu zwei Wohneinheiten und einem Büro mit Anbau einer Treppe, sowie Errichtung eines Carports und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze sowie ein Antrag auf Abweichung nach Art. 29 BayBO (Decken) auf dem Grundstück Flur-Nr. 1076/10, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenzen wird erteilt.\n\nDer beantragten Abweichung nach Art. 29 BayBO wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.4.",
+        "title": "Formlose Bauvoranfrage zur Errichtung einer kieferorthopädischen Fachzahnarztpraxis sowie vier Wohnungen auf dem Grundstück Komotauer Straße 10",
+        "facts": "Formlose Bauvoranfrage zur Errichtung einer kieferorthopädischen Fachzahnarztpraxis so- wie vier Wohnungen und Befreiung von den Festsetzungen des Bebauungsplanes bezüglich Bebauungstiefe auf dem Grundstück Flur-Nr. 1203/10, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Bebauungstiefe wird in Aussicht gestellt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.5.",
+        "title": "Formlose Bauvoranfrage zur Nutzungsänderung, Umbau und Ausbau einer Scheune zum Lager und einer Wohnung im Dachgeschoss auf dem Grundstück Waldstraße 3",
+        "facts": "Formlose Bauvoranfrage zur Nutzungsänderung, Umbau und Ausbau einer Scheune zum Lager und einer Wohnung im Dachgeschoss auf dem Grundstück Flur-Nr. 241, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nHinweis: Die Länge und Anordnung der Dachaufbauten haben sich an den Bestand der Umgebung einzufügen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag auf Errichtung einer Doppelgarage mit Stützwand auf dem Grundstück Bergstraße 12",
+        "facts": "Antrag auf Errichtung einer Doppelgarage mit Stützwand und Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Stützwandhöhe auf dem Grundstück Flur-Nr. 1203/10, Gemarkung Langenzenn.\n\nDie Verwaltung teilt mit, dass der beantragten Abweichung bezüglich der Stellplatzsatzung der Stadt Langenzenn (hier: Länge der Aufstellfläche) aufgrund der bisherigen Bestandsgaragensituierung sowie der topografischen Lage des Grundstücks zugestimmt werden kann.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Stützwandhöhe wird erteilt.\n\nDer beantragten Abweichung bezüglich der Stellplatzsatzung der Stadt Langenzenn (hier: Länge der Aufstellfläche) wird aufgrund der bisherigen Bestandsgaragensituierung sowie der topografischen Lage des Grundstücks zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.7.",
+        "title": "Antrag auf Änderung von 3 Wohneinheiten auf 2 Wohneinheiten, Neugestaltung der Außenanlagen mit Veränderung der Geländeanschütthöhe, Neubau zweier Garagen und Neubau einer innenliegenden Treppe auf dem Grundstück Marienbader Straße 2",
+        "facts": "Antrag auf Änderung von 3 Wohneinheiten auf 2 Wohneinheiten und dadurch Änderung der Gebäudeklasse von 3 zu 1, Reduzierung der benötigten Kfz-Stellplätze von 6 auf 3 Stück, Neugestaltung der Außenanlagen mit Veränderung der Geländeanschütthöhe am Haus, Neubau zweier Garagen/Geräteräume und Umbau der ehemaligen Garage im KG und weiterer Kellerräume zu Wohnräumen sowie Neubau einer innenliegenden Treppe auf dem Grundstück 1207/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.8.",
+        "title": "Tekturantrag zum Umbau eines Milchviehstalles auf dem Grundstück Hardhof 2",
+        "facts": "Tekturantrag zum Neubau eines Milchviehstalles auf dem Grundstück Flur-Nr. 1829, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf Errichtung von vier doppelseitigen, beleuchteten Werbeanlagen freistehend auf dem Grundstück Würzburger Straße 26",
+        "facts": "Antrag auf Errichtung von vier doppelseitigen, beleuchteten Werbeanlagen freistehend auf dem Grundstück Flur-Nr. 1296, Gemarkung Langenzenn.\n\nZur städtebaulichen Beratung liegt der Verwaltung eine Stellungnahme vom Büro P4, Nürnberg vor.\n\nHierzu wird u.a. Folgendes mitgeteilt / empfohlen:\n\n   Werbeanlagen: Wir verweisen auf § 8 (1) „Werbeanlagen sind nur an der Stätte der Leistung zulässig (…)“, sowie (2) „Werbeanlagen sind so zu gestalten, dass sie sich nach Größe, Farbe, Form und Werkstoff der Architektur des Bauwerkes sowie dem Orts‐ und Straßenbild anpassen. (…)“    Das betroffene Grundstück mit der Flur-Nr. 1296 befindet sich im Sanierungsgebiet, an der westlichen Stadteinfahrt.    Die geplanten Werbetafeln sind an prominenter Stelle in der Anfahrt zum westlichen Stadteingang geplant. Mit einer Breite von 3,76 m und einer Gesamthöhe von 3,96 m pro Tafel sind die Tafeln stark ortsbildprägend.    Aus städtebaulicher Sicht und unter Bezugnahme auf §8 Absatz (1) und (2) sind die geplanten Tafeln als störend für das Stadtbild zu werten. Insbesondere die beiden zur Kreuzung hin geplanten Tafeln sind weithin sichtbar und prägen die Zufahrtssituation. Eine Anpassung an das Orts‐ und Straßenbild ist aufgrund der Größe, Form und Werkstoff nicht gegeben. Die beiden Tafeln im Bereich des Parkplatzes ordnen sich insgesamt in den Parkplatz ein, sind aber ebenfalls in der Dimension unverhältnismäßig groß.    Dem Punkt „Werbeanlagen sind nur an der Stätte der Leistung zulässig (…)“ widersprechen alle Tafeln.    Unter der Maßgabe, dass der Bereich Edeka aus dem Sanierungsgebiet genommen werden soll, ist, entgegen unserer Stellungnahme vom Februar letzten Jahre, die Errichtung von Werbeanlagen im Bereich des Parkplatzes denkbar.    Über die Dimension (2 Tafeln nebeneinander ergeben eine Breite von ca. 7,6 m und einer Höhe von ca. 4m) sollte unseres Erachtens aber trotzdem nochmals nachgedacht werden!    Von einer Errichtung weiterer Werbetafeln im Bereich der Straße sollte nach wie vor abgesehen werden, da hier ja auch schon der Pylon mit der Edeka‐Werbung positioniert ist und der optische Stadteingang hier nachhaltig verschlechtert würde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt nicht das gemeindliche Einvernehmen.\n\nAus städtebaulicher Sicht und unter Bezugnahme auf § 8 Absatz 1 und 2 der Werbeanlagensatzung der Stadt Langenzenn sind die beantragten Werbetafeln als störend für das Stadt-\n\nbild zu werten. Insbesondere die beiden zur Kreuzung hin geplanten Werbetafeln sind weithin sichtbar und prägen die Zufahrtssituation.\n\nEine Anpassung an das Orts‐ und Straßenbild ist aufgrund der Größe, Form und Werkstoff nicht gegeben.\n\nDie beiden Werbetafeln im Bereich des Parkplatzes würden sich zwar insgesamt in den Parkplatz einordnen, werden aber aufgrund deren Dimension als unverhältnismäßig groß angesehen.\n\nFerner befindet sich die das Grundstück im Geltungsbereich des Sanierungsgebietes „Altstadt Langenzenn“. Die Vorgaben der Gestaltungssatzung der Stadt Langenzenn sind hier ebenfalls zu beachten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.10.",
+        "title": "Tekturantrag zur Erweiterung der Dachgeschosswohnung mit Aufstockung Garage auf dem Grundstück Tillystraße 30",
+        "facts": "Tekturantrag zur Erweiterung der Dachgeschosswohnung mit Aufstockung Garage auf dem Grundstück Flur-Nr. 883/31, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Höhe von baulichen Anlagen bei Garagen und Nebengebäuden wird erteilt.\n\nDer beantragten Abweichung nach Art. 6 BayBO (Abstandflächen) wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.11.",
+        "title": "Antrag auf Neubau eines Einfamilienwohnhauses mit Doppelgarage im Genehmigungsfreistellungsverfahren auf dem Grundstück Im Gründl 18",
+        "facts": "Antrag auf Neubau eines Einfamilienwohnhauses mit Doppelgarage im Genehmigungsfreistellungsverfahren auf dem Grundstück mit den Flur-Nrn. 927/36 und 927/73, Gemarkung Laubendorf.",
+        "decision": "Die Stadt Langenzenn erklärt gemäß Art. 58 Abs. 1 Nr. 5 BayBO, dass kein Genehmigungsverfahren durchgeführt werden soll und eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 BauGB nicht beantragt wird.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "13. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 81 \"Klaushofer Weg/Zollnerstraße im Parallelverfahren; hier: Überarbeitung der Rahmenplanung",
+        "facts": "Der Stadtrat der Stadt Langenzenn hat in seiner Sitzung am 27.07.2023 die Aufstellung des Bebauungsplanes Nr. 81 „Klaushofer Weg/Zollnerstraße“ beschlossen. In gleicher Sitzung wurde der Änderungsbeschluss zur 13. Änderung des Flächennutzungsplans (FNP) mit integriertem Landschaftsplan geändert.\n\nIn der Sitzung des Bau-, Umwelt- und Verkehrsausschusses der Stadt Langenzenn am 24.10.2023 wurde ein Rahmenplan für ein erstes Bebauungskonzept des Areals vorgestellt. Im Rahmenplan ist nur die grobe Erschließung für den fließenden und ruhenden Verkehr dargestellt, sowie mögliche Platzhalter für die Stellung der Hauptgebäude. Eine detailliertere Planung mit Wegeverbindungen, Erschließung Hauszugängen, erforderlichen Fahrradabstellplätzen, Müllhäusern, Tiefgaragenzufahrten etc. wäre in einer weiteren Detailplanung notwendig.\n\nDiese Rahmenplanung hat aber das für den Bebauungsplan Nr. 59 „Wohnen am Klaushofer Weg II“ errichtete Regenrückhaltebecken in Fortführung der Coburger Straße überplant, da davon ausgegangen wurde, diesen Erschließungsansatz fortzuführen. Diese Rahmenplanung wurde nach der Kenntnisnahme durch den Bau-, Umwelt- und Verkehrsausschuss dem Ingenieurbüro Miller zur Stellungnahme bezüglich der Entwässerung vorgelegt. Mit Mail vom 02.11.2023 hat dieses darauf hingewiesen, dass das Volumen des überplanten Beckens zur Zwischenspeicherung des Niederschlagswasserabflusses vor der gedrosselten Einleitung in den Schmutz- bzw. Mischwasserkanal weiterhin benötigt wird und gegebenenfalls an anderer Stelle geschaffen werden muss. Daraufhin wurde das Büro GSP mit einer Überarbeitung der Rahmenplanung beauftragt, die sowohl die Erhaltung des Regenrückhaltebeckens an der Ecke Klaushofer Weg/Zollnerstraße vorsehen sollte, als auch eine Verschiebung des zweiten Regenrückhaltebeckens.\n\nIn dem nun vorliegenden Rahmenplan wurde ein im Vergleich zum bestehenden Regenrückhaltebecken östlich der Coburger Straße weitgehend flächengleiches (und damit auch hinsichtlich der Dimensionierung ausreichendes) Regenrückhaltebecken im Norden an der Zollnerstraße vorgesehen, da hier der Baubeschränkungsbereich der elektrischen Freileitung liegt. Die dabei entfallenden oberirdischen Stellplätze sollen nun in Tiefgaragen untergebracht werden, was die Oberflächenversiegelung reduziert und gleichzeitig auch ein gefälligeres Erscheinungsbild ergibt als bei der bisher großflächigen Stellplatzanlage. Zudem wird die Frequentierung dieser Stellplatzanlagen reduziert bzw. verteilt und damit auch Immissionskonflikten vorgebeugt. Weiterhin wurde auf einen Erschließungsansatz nach Süden verzichtet, um den Verlust an Baufläche zu minimieren.\n\nDer Bau-, Umwelt- und Verkehrsausschuss vertritt die Ansicht, dass bei den weiteren Planungen und Entwicklungen eine nachhaltige Konzeption in Hinblick auf Energieeffizienz, Klimaneutralität und Barrierefreiheit zur Anwendung kommen soll.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDie Verwaltung wird beauftragt, auf Grundlage der Rahmenplanung die Ausarbeitung der Vorentwürfe und die Durchführung der frühzeitigen Beteiligungen nach § 3 Abs. 1 und § 4 Abs. 1 BauGB sowie die Abstimmung mit den Nachbargemeinden nach 2 Abs. 2 BauGB durchzuführen.\n\nFerner wird die Verwaltung beauftragt, dass bei den weiteren Planungen und Entwicklungen eine nachhaltige Konzeption in Hinblick auf Energieeffizienz, Klimaneutralität und Barrierefreiheit zur Anwendung kommen soll.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.2.",
+        "title": "Gemeinde Seukendorf; Aufstellung Bebauungsplan Nr. 23 \"Am alten Postweg\"; hier: erneute Beteiligung nach § 4 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie zur erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur Aufstellung des Bebauungsplanes Nr. 23 \"Am alten Postweg“ der Gemeinde Seukendorf vor.\n\nAufgrund der Änderung der Zufahrtssituation und Anpassung der Grünordnung ist eine erneute öffentliche Auslegung erforderlich.",
+        "decision": "Der Ausschuss nimmt Kenntnis, die Belange der Stadt Langenzenn werden nicht berührt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.3.",
+        "title": "Markt Cadolzburg - Aktualisierung Sanierungsgebiet \"Altort Cadolzburg\"; hier: Beteiliung der Träger öffentlicher Belange gem §§ 136 ff. i.V.m. § 4 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 BauGB zur Aktualisierung des Sanierungsgebietes \"Altort Cadolzburg\" der Marktgemeinde Cadolzburg vor.\n\nDie Marktgemeinde beabsichtigt insbesondere durch die anstehende Ausbaumaßnahme der Ortsdurchfahrt St 2401 eine neue Betrachtungsweise des Gebietes. Zur bestmöglichen Ausschöpfung der Potenziale, die mit einer ganzheitlichen, baulichen Überarbeitung der St 2401 einhergehen, sollen die anliegenden Privatflächen in das Sanierungsgebiet aufgenommen werden. Die Aufnahme soll bewirken, dass Haus- und Grundstückseigentümer das Kommunale Förderprogramm des Marktes in Anspruch nehmen können.",
+        "decision": "Der Ausschuss nimmt Kenntnis, die Belange der Stadt Langenzenn werden nicht berührt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.4.",
+        "title": "Markt Cadolzburg - Aufstellung eines Bebauungsplanes für das Sondergebiet „Solarpark Steinbach Süd-West“ und 2. Änderung des FNP; hier: Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur Aufstellung eines vorhabenbezogenen Bebauungsplanes für das Sondergebiet „Solarpark Steinbach Süd-West“ und 2. Änderung des Flächennutzungsplanes im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) der Marktgemeinde Cadolzburg vor.\n\nDer Markt Cadolzburg beabsichtigt, eine Freiflächen-Photovoltaikanlage südwestlich von Steinbach zu ermöglichen. Die Fläche umfasst ca. 9,44 ha.",
+        "decision": "Der Ausschuss nimmt Kenntnis, die Belange der Stadt Langenzenn werden nicht berührt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Integrales Konzept zum kommunalen Sturzflut-Risikomanagement hier: Öffentlichkeitsbeteiligung über Starkregenmelder",
+        "facts": "Die Aufträge zur Erstellung des „Integrales Konzepts zum kommunalen Sturzflut- Risikomanagement“ für das Stadtgebiet Langenzenn wurde an das Büro Spekter vergeben, wie im Stadtrat am 21.02.2024 beschlossen.\n\nDas Projekt beginnt mit einer Bestandsanalyse, bei der die Bürgerinnen und Bürger einbezogen werden sollen. Das Büro Spekter hat dazu eigens eine Software entwickelt, über die online in der Vergangenheit eingetretene Schäden gemeldet werden können: www.starkregenmelder.de. Zusätzlich gibt es ein Formular, das im Rathaus erhältlich und auf der Homepage abrufbar sein wird.\n\nDie Veröffentlichung erfolgt im Juli auf den ortsüblichen Wegen.\n\nEs entstehen keine zusätzlichen Kosten, dies sind bereits im Gesamtprojekt enthalten.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Information aus der Interessengemeinschaft Wasserstoff im Landkreis Fürth hier: Ergebnisse der Wasserstoffpotenzialanalyse",
+        "facts": "Im Landkreis Fürth hat sich eine Interessensgemeinschaft zusammengeschlossen, um die Möglichkeiten einer regionalen Wasserstoffwirtschaft zu ermitteln. Im ersten Schritt wurde dazu eine Potentialanalyse erstellt.\n\nHierbei wurde ermittelt, wer für welche Anwendung Wasserstoff nutzen kann und wo und wie er erzeugt werden kann. Dies wurde jeweils für die Bereiche Mobilität, Wärme, industrieller Rohstoff ermittelt. Ergebnis:\n\n   Abnehmer in der Mobilität stark begrenzt    Es ist sinnvoll, über die Landkreisgrenze hinaus zu denken.    Interesse am ehesten bei dezentraler Nutzung von H2 für die (semi-)autarke Versorgung von Gebäuden.\n\nMit der Interessengemeinschaft besteht ein Forum, bei dem Akteure verschiedener Seiten zusammengebracht werden. Das betrifft besonders Unternehmen und Technologieanbieter. Das Ergebnis der Potentialanalyse sowie der Abschlussbericht und die Rechnung mit Umlage sind in der Dokumentation.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Sonderabfalldeponie Raindorf hier: Deponiejahrbuch 2023",
+        "facts": "Die Sonderabfall-Entsorgung Bayern GmbH (gsb) hat das Deponiejahrbuch 2023 für die Sonderabfalldeponie Raindorf veröffentlicht und neben anderen amtlichen Stellen der Stadt Langenzenn zur Kenntnis weitergeleitet.\n\nIm Jahrbuch sind u.a. sämtliche technische Prüfberichte, Statistiken zur Sondermüllsammlung, Messungen und Abschussberichte der gsb in digitaler Form enthalten.\n\nNach Sichtung der Unterlagen konnte seitens der Verwaltung festgestellt werden, dass sich keine besonderen Vorkommnisse, Anomalien oder anderweitige außerordentliche Ergebnisse ergeben haben und der laufende Betrieb der Sonderabfalldeponie nicht gefährdet ist.\n\nErgebnisse der Deponievermessung vom 29.12.2023  Gesamtvolumen                           897.250 m3  Verfülltes Gesamtvolumen                721.602 m3  Verfülltes Volumen im Berichtsjahr       20.986 m3  Restvolumen der Deponie                 175.648 m3  Aufnahme Deponiebetrieb                 Wiederinbetriebnahme 02/2017  Restlaufzeit der Deponie                voraussichtlich 2031\n\nDer allgemein zusammenfassende Auszug aus dem Jahresbericht lautet wie folgt:\n\nLeitungsuntersuchungen: Im Berichtsjahr wurden die jährlichen Reinigungen und Untersuchung der Leitungssysteme der SAD Raindorf durch das Fachunternehmen RRS, Nürnberg, ausgeführt. Außerdem wurden zusätzliche Reinigungen der Haltungen SW 14 - SW15 - SW102 im Februar, Juni, August und Dezember des Berichtsjahres vorgenommen. Die Ergebnisse sind mit den Kontrollen der Vorjahre vergleichbar. Durch Setzungen in und am Deponiekörper sind leichte Verformungen und Unterbögen an einigen Rohrabschnitten festzustellen. Inkrustationen und Ablagerungen konnten durch Hochdruckreinigung und den Einsatz einer Spezialdüse (Schlag-/Vibrationsdüse – Hochdruck) in allen untersuchten Sickerwasser- Leitungen durchgängig gereinigt und mittels Kamerabefahrung inspiziert werden. Der Sickerwasserdurchfluss ist komplett in allen Sickerwasserleitungen gewährleistet.\n\nDie Ergebnisse der Kamerabefahrungen sowie der Überwachungsplan der Sickerwasserbecken und der Schächte sind in der Anlage 3 tabellarisch dargestellt.\n\nGrundwasser/Schichtenwasser/Kontrolldrainagen: Die Grundwasseruntersuchungen, einschl. Schichtenwasser und Kontrolldrainagen, bestätigen im Berichtsjahr die bisherigen Befunde. Die Analysenergebnisse zeigen im Gesamtbild, dass keine von der SAD Raindorf ausgehende Beeinträchtigung gegeben ist.\n\nDer Jahresbericht der Sonderabfalldeponie Raindorf ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt vom Jahresbericht 2023 der Sonderabfall- Entsorgung Bayern GmbH (gsb) sowie der beigefügten Anlage Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "8.1.",
+        "title": "Antrag des Bürgerbusvereins Langenzenn e.V. auf sichtbare Markierungen der Fahrbahn an Haltestellen",
+        "facts": "Der Tagesordnungspunkt wird zurückgezogen.\n\nStadträtin Schendzielorz-Kostopoulos teilt mit, dass laut Aussage der neuen Vorstandschaft des Bürgerbusvereins Langenzenn e.V. der Antrag vorerst nicht behandelt werden soll. Sie beantragt eine Nichtbehandlung des Tagesordnungspunktes.\n\neinstimmig beschlossen                       Dafür: 8 Dagegen: 0"
+      },
+      {
+        "number": "8.2.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept: hier: Sachstand der Entwurfsplanungen",
+        "facts": "Dem Ausschuss werden die Vorplanungsentwürfe aus dem Radverkehrskonzept des Fachplaners Ingenieurbüro Kaulen aufgezeigt.\n\nDerzeit wird für die Nürnberger Straße eine Alternative 2 mit einer Querungsinsel und einem Radschutzstreifen erarbeitet.\n\nZiel ist es, die Maßnahmen aus dem Radverkehrskonzept künftig im Rahmen von Förderprogrammen, z.B. „Stadt + Land“ (Laufzeit bis 2028), umsetzen zu können.\n\nDie Vorentwürfe „Zollner Straße / Veit-Stoß-Straße“ liegen der Niederschrift als Anlage 2 bis 4 bei.",
+        "decision": "Der Ausschuss nimmt Kenntnis von den Vorentwurfsplanungen.\n\nDer Ausschuss beschließt die Umsetzung der Maßnahme Veit-Stoß-Straße gemäß den vorgestellten Vorentwürfen im Rahmen der Straßenbaumaßnahme des Teilstücks der Zollnerstraße.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 7,
+          "against": 1
+        }
+      },
+      {
+        "number": "8.3.",
+        "title": "Information über die Entscheidung des Bundesverwaltungsgerichts im Bereich ruhender Verkehr; Gehwegparken",
+        "facts": "Die Verwaltung informiert über eine Entscheidung des Bundesverwaltungsgerichtes vom 06.06.2024, zum Thema ruhender Verkehr und Gehwegparken.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "9.1.",
+        "title": "Verkehrs- und Abwasseranlagen Langenzenn: Neugestaltung Raindorfer Weg; hier: Sachstandsbericht",
+        "facts": "Anfang Juni hat der Landkreis mit den Umbauarbeiten in der Nürnberger Straße begonnen. Die Querungshilfe wurde vor dem Eingang der AWO bereits weitestgehend fertiggestellt.\n\nIm Anschluss an die erste Fußgängerquerung wird durch den Landkreis noch die Querungshilfe für querende Radfahrer in die Nürnberger Straße in Richtung Osten errichtet.\n\nParallel dazu hat der städtische Bauhof den Gehweg barrierefrei angeglichen und begonnen die Einengung der Einmündung Nürnberger Straße / Raindorfer Weg herzustellen.\n\nDie Arbeiten werden im ersten Arbeitsabschnitt soweit ausgeführt, dass eine spätere Fortsetzung ohne Eingriff in die Nürnberger Straße erfolgen kann.\n\nDie Restdauer der Arbeiten wird auf weitere 4 Wochen (Stand 19.06.2024) geschätzt.\n\nDurch die Verlegung der Fußgängerquerung wird in Zusammenarbeit mit den Stadtwerken geprüft, ob die vorhandene Beleuchtung ausreichend ist, oder ob hier eine Ergänzung notwendig wird.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "9.2.",
+        "title": "Kindertagesstätte am Hallenbad; hier: Sachstandsbericht",
+        "facts": "Inzwischen wurden für die Planung und Errichtung einer Kindertagesstätte am Hallenbad nachfolgende Leistungen beauftragt und durchgeführt:\n\nBauleitplanung: Die Bauleitplanung und Änderung des Flächennutzungsplans wurde an GSP, Nürnberg, vergeben.\n\nVermessung: Die Vermessung und Höhenaufnahme des Grundstücks sowie der umliegenden Erschließung und des ortstypischen Bestandes wurden am 03.06.2024 durch das Ingenieurbüro\n\nChristofori, Heilsbronn, durchgeführt. Diese Unterlagen wurden bereits an die Fachplaner weitergeleitet.\n\nBaugrundgutachten: Die Baugrunduntersuchungen wurden an das Büro Messerer, Fürth, vergeben. Die Erlaubnis des LRA für die verschiedenen Bohrungen auf dem Grundstück steht aktuell noch aus. Diese sollen spätestens am 11./12.07.2024 erfolgen.\n\nObjektplanung / Haustechnik: Die Erstellung einer Objektstudie wurde an Dürschinger Architekten, Fürth, und das Ingenieurbüro Hornberger, Zirndorf, vergeben. Gerade im Hinblick auf eine energetisch nachhaltig und hochwertige technische Gebäudeausstattung ist diese erweiterte Basisstudie sinnvoll.\n\nBeide Konzeptionen gehen als Grundlage in das europaweite VgV-Verfahren für Objektplanung und Technische Gebäudeausstattung ein.\n\nVgV-Verfahren: Die Durchführung der beiden VgV-Verfahren wurde bereits angefragt. Es liegt Angebot in Höhe von rund brutto 18.500 Euro vor. Die Beauftragung könnte zeitnah erfolgen.\n\nGerade wegen der derzeitigen Anpassung des Vergaberechts ist hier eine umfangreiche Abstimmung mit der Förderstelle notwendig.\n\nWeiterer Projektablauf: Es ist davon auszugehen, dass nach den Sommerferien erste Konzepte vorliegen, die dann Grundlage für das VgV-Verfahren sind.\n\nDie Kosten für die Projektierung bis zum Abschluss der VgV-Verfahren belaufen sich einschließlich Bauleitplanung auf brutto rund 75.000 Euro.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "10.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "10.1.",
+        "title": "Information zur Abwesenheit des Ersten Bürgermeisters Habel",
+        "facts": "Die Verwaltung teilt auf Nachfrage mit, dass sich erster Bürgermeister Habel für die heutige Sitzung kurzfristig abgemeldet habe.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "11.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "11.1.",
+        "title": "Schäden am Flurbereinigungsweg in der Reichenberger Straße",
+        "facts": "Stadtrat Schramm teilt mit, dass der Flurbereinigungsweg in der Reichenberger Straße im geschotterten Bereich tiefe Spurrillen aufweist."
+      },
+      {
+        "number": "11.2.",
+        "title": "Schaden an der Fassade des Feuerwehrhauses",
+        "facts": "Stadtrat Schramm erkundigt sich nach der Behebung des Risses an der Fassade des Feuerwehrhauses. Dieser wurde durch Dritte beim Abtransport des WC-Wagens verursacht.\n\nDie Verwaltung hat den Fall mit der Versicherung bereits geklärt und sichert zu, dass der Schaden kurzfristig behoben wird."
+      },
+      {
+        "number": "11.3.",
+        "title": "Sachstand zum Denkmalplatz",
+        "facts": "Stadträtin Schlager erkundigt sich nach dem Sachstand zum Denkmalplatz.\n\nDie Verwaltung erklärt die Verzögerung durch die Krankheit einer Mitarbeiterin und dass bereits ein Termin für die Abstimmung vereinbart wurde.\n\nFür den nächsten Bau-, Umwelt- und Verkehrsausschuss sollen im Vorfeld die Besprechungen mit den Eigentümern stattfinden und das Konzept im Ausschuss selbst vorgestellt werden."
+      },
+      {
+        "number": "11.4.",
+        "title": "Bauarbeiten am Traumsee",
+        "facts": "Stadträtin Ritter erkundigt sich nach dem Traumsee, da ihr zugetragen wurde, dass dieser saniert werden soll. Sie erkundigt sich, ob dieser abgelassen wird und ob bereits Bäume entfernt wurden.\n\nDie Verwaltung erklärt, dass das Wehr statisch geprüft werden muss, da Probleme am Fuß des Wehres vermutet werden. Geplant ist nur das Wasser im Bereich des Wehres für eine Begutachtung abzulassen."
+      },
+      {
+        "number": "11.5.",
+        "title": "Antrag auf Errichtung eines Verkehrszeichens an der Einmündung Waldstraße / Siedelbacher Straße im Ortsteil Lohe",
+        "facts": "Stadtrat Sieber legt einen Antrag der Fraktion vor, in welchem die Errichtung eines Verkehrszeichens mit Hinweis auf die Vorfahrtsregelung an der Einmündung Waldstraße / Siedelbacher Straße im Ortsteil Lohe gefordert wird, sowie ein Verkehrszeichen mit Hinweis auf die zulässige Höchstgeschwindigkeit von 30 km/h."
+      },
+      {
+        "number": "11.6.",
+        "title": "Mitteilung zu Grabbeschädigung im Stadtfriedhof",
+        "facts": "Stadtrat O. Vogel gibt bekannt, dass auf dem Stadtfriedhof, von der Unteren Ringstraße kommend, das erste Grab rechts um 10 cm nach hinten geschoben wurde. Es handelt sich um einen kürzlich entstandenen Schaden."
+      },
+      {
+        "number": "11.7.",
+        "title": "Information zur Säuberung der Sandsteinmauern und Sitzstufen am Oberen Markt",
+        "facts": "Stadtrat O. Vogel informiert, dass die Sandsteinmauern und Sitzstufen am Oberen Markt vom Grünbelag etc. gesäubert werden müssten."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "166318",
+    "minutes": "171220"
+  }
+}

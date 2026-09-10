@@ -1,0 +1,432 @@
+{
+  "meetingId": "3209",
+  "announcement": {
+    "heading": "40. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 40,
+    "date": "2024-02-27",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Anbau an ein Einfamilienhaus auf dem Grundstück Burggrafenhofer Straße 8"
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag zur Errichtung einer Überdachung auf dem Grundstück Ansbacher Str. 50"
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag auf Errichtung eines Landwirtschaftlichen Zucht und Pensionsstalles mit Aktiv – Laufstall, Einbindung bestehender \"Jungpferdestall\", Errichtung eines Reitplatzes sowie Errichtung e. Betriebsleiterwohnhauses auf d. Grundstück Nähe Am Neuen Weg"
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag auf Erweiterung der Verkaufsfläche auf dem Grundstück Nürnberger Straße 53"
+      },
+      {
+        "number": "3.5.",
+        "title": "Tektur zur Nutzungsänderung in zwei Monteurwohnungen auf dem Grundstück Rosenstr. 12"
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag auf Nutzungsänderung einer Produktions- und Lagerhalle in Einzelhandel auf dem Grundstück Im Kessel 2"
+      },
+      {
+        "number": "3.7.",
+        "title": "Bauvoranfrage zur Errichtung eines Heizwerkes auf dem Grundstück Klaushof 1"
+      },
+      {
+        "number": "3.8.",
+        "title": "Bauvoranfrage zur Errichtung eines Wohnhauses auf dem Grundstück Hausen 4"
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf Verlängerung des Vorbescheides zur Errichtung einer Wohnanlage auf dem Grundstück Milchgasse 2"
+      },
+      {
+        "number": "3.10.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung eines Doppelhauses auf dem Grundstück Klaushof 6"
+      },
+      {
+        "number": "3.11.",
+        "title": "Bauvoranfrage zur Errichtung eines Einfamilienhauses auf dem Grundstück Nähe Im Gründl"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Markt Cadolzburg – Aufstellung des vorhabenbezogenen Bebauungsplanes für das Sondergebiet „Solarpark Vogtsreichenbach Ost„ und 39. Änderung des Flächennutzungsplanes; hier: Beteiligung der Nachbargemeinden § 2 Abs. 2 BauGB sowie Behördenbeteiligung nach § 4 Abs. 1 BauGB"
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Mitteilung über die Verkehrsschau 2023"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Tagesordnungspunkt 1. wird in nichtöffentlicher Sitzung beraten. Die öffentliche Sitzung",
+      "beginnt um ca. 17:00 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Februar 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "40. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 40,
+    "date": "2024-02-27",
+    "startTime": "16:00",
+    "endTime": "19:13",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vertretung für ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian",
+            "note": "ab TOP 2, 17.17 Uhr"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Plevka, Melanie",
+            "note": "für Stadträtin Franz"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "für Stadträtin Schlager, zu TOP 1.1 bis TOP 11.1, 16.05"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Schlager, Anni"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen"
+      },
+      {
+        "number": "2.1.",
+        "title": "Feuerwehr Kirchfembach; hier: Beschlussfassung zur Ortsbesichtigung",
+        "facts": "Die gemeinsam mit der Feuerwehr erarbeiteten Vorentwürfe für die Umbau- und Sanierungsplanung des Feuerwehrhauses in Kirchfembach werden dem Bau-, Umwelt- und Verkehrsausschuss vorgestellt.\n\nFür die Kostenschätzung wurde eine erste Baukostenermittlung nach BKI mit folgenden Parametern durchgeführt:\n\nGrundlage BKI ALTBAU 2012 - Bereitschaftsdienste, Regionalfaktor Landkreis Fürth 1,11, Baupreisindexfaktor 1,666\n\n   Kostenansatz Modernisierung: 1.520 € (2/2012) x 1,11 x 1,666 = 2.811 €/m² BGF    Kostenansatz Erweiterung:     910 € (2/2012) x 1,11 x 1,666 = 1.683 €/m² BGF\n\nDie Bruttogeschossflächen im Erdgeschoss und Obergeschoss wurden mit jeweils 130 m² angesetzt. Somit ergeben sich Baukosten für Gebäude und haustechnische Anlagen zu rund 585.000 Euro (KG 300+400). Die Baunebenkosten werden mit 25% der KG 300+400 angesetzt und betragen aufgerundet 146.000 Euro Für die Anpassung der Außenanlagen wird von rund 80.000 Euro ausgegangen.\n\nDie Gesamtkosten werden damit auf rund 810.000 Euro geschätzt.\n\nDie Eckdaten zum Feuerwehrhaus wurden durch Mitglieder der Freiwilligen Feuerwehr Kirchfembach vorgestellt.\n\nEine Zusammenfassung der Eckdaten des bestehenden Feuerwehrhauses ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt die Vergabe der Planungsleistungen der Leistungsphasen 1 und 2 an einen geeigneten Fachplaner.\n\nPlanungsgrundlage hierfür sind die vorgestellten Vorentwurfsplanungen. Weiterhin werden im Rahmen der Kostenermittlung die Optionen Generalsanierung oder Ersatzneubau an gleichem Standort überprüft.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.2.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Beschlussfassung zur Ortsbesichtigung",
+        "facts": "Der Tagesordnungspunkt wird unter TOP 1.2 beraten.\n\nDes Weiteren gilt der Beschluss aus der Sitzung des Bau-, Umwelt- und Verkehrsausschusses vom 23.01.2024.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung mit der Nachbargemeinde Hagenbüchach bzgl. der Wegeführung zur Umsetzung des Radwegekonzeptes Kontakt aufzunehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Anbau an ein Einfamilienhaus auf dem Grundstück Burggrafenhofer Straße 8",
+        "facts": "Antrag auf Anbau an ein Einfamilienhaus und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachgestaltung (Dachneigung und Material) auf dem Grundstück Flur-Nr. 1081, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung bezüglich der Dachgestaltung (Dachneigung und Material) wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag zur Errichtung einer Überdachung auf dem Grundstück Ansbacher Str. 50",
+        "facts": "Antrag zur Errichtung einer Überdachung an ein bestehendes Gebäude auf dem Grundstück Flur-Nr. 1072, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag auf Errichtung eines landwirtschaftlichen Zucht- und Pensionsstalls mit Aktivlaufstall, Einbindung bestehender \"Jungpferdestall\", Errichtung eines Reitplatzes sowie Errichtung e. Betriebsleiterwohnhauses auf d. Grundstück Nähe Am Neuen Weg",
+        "facts": "Antrag auf Errichtung eines landwirtschaftlichen Zucht und Pensionsstalles mit Aktiv – Laufstall, Einbindung bestehender \"Jungpferdestall\", Errichtung eines Reitplatzes sowie Errichtung eines Betriebsleiterwohnhauses auf dem Grundstück Flur-Nr. 1161, Gemarkung Keidenzell.\n\nDie Verwaltung teilt mit, dass im Jahre 2001 bereits eine Baugenehmigung zur Errichtung einer Pferdezuchtanlage erteilt wurde, welche allerdings -laut Aussage des LRA Fürth aufgrund Nichtverlängerung- im Jahre 2015 erloschen ist.\n\nDa sich das Grundstück Fl.-Nr. 1161, Gem. Keidenzell im Außenbereich befindet, wurde die Baugenehmigung als ein privilegiertes Bauvorhaben gemäß § 35 Abs. 1 Satz 1 BauGB erteilt.\n\nIn den nunmehr neu eingereichten Antragsunterlagen wird Folgendes beantragt:\n\n   Errichtung eines landwirtschaftlichen Zucht und Pensionsstalles mit Aktiv – Laufstall    Einbindung bestehender \"Jungpferdestall\"    Errichtung eines Reitplatzes    Errichtung eines Betriebsleiterwohnhauses\n\nGrundsätzlich ist ein Bauvorhaben im Außenbereich gemäß § 35 BauGB nur zulässig, wenn öffentliche Belange nicht entgegenstehen, die ausreichende Erschließung gesichert ist und die Maßnahme z.B. einem landwirtschaftlichen Betrieb dient. In dem Fall müssen die Voraussetzungen für die sogenannte „Privilegierung“ erfüllt werden. Die ausreichende Erschließung umfasst die Bereiche Trinkwasser- und Stromversorgung, Abwasserentsorgung und entsprechende Wege. Dabei richten sich die zu erfüllenden Anforderungen jeweils nach dem konkreten Bauvorhaben.\n\nDie Verwaltung stellt fest, dass u.a. folgende Angaben/Anlage/Informationen dem Bauantrag nicht entnommen werden können:\n\n   Detaillierte Entwässerungsplanung bezüglich der Schmutz- und Oberflächenwasserableitung    Antrag auf wasserrechtliche Genehmigung bezgl. der Einleitung in Vorfluter    Nachweis der Privilegierung zur Bebauung im Außenbereich    Landschaftspflegerischer Begleitplan    Brandschutznachweis    Löschwasserversorgung    Freiflächengestaltung",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt nicht das gemeindliche Einvernehmen, da die Erschließung nicht ausreichend gesichert und bislang eine Privilegierung gemäß § 35 Abs. 1 Nr. 1 BauGB nicht nachgewiesen ist.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag auf Erweiterung der Verkaufsfläche auf dem Grundstück Nürnberger Straße 53",
+        "facts": "Antrag auf Erweiterung der Verkaufsfläche auf dem Grundstück Flur-Nrn. 556, 556/3, 556/4, Gemarkung Langenzenn.\n\nZu dem Bauvorhaben lag bereits eine Bauvoranfrage (BUVA 28.03.2023) vor, welche vom Landratsamt Fürth positiv bewertet wurde.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nHinweis: Die Außenanlagen (Eingrünungen) sind gemäß des Eingabeplanes (hier: 2. Tektur – genehmigt am 09.03.2017) noch durchzuführen bzw. umzusetzen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.5.",
+        "title": "Tektur zur Nutzungsänderung in zwei Monteurwohnungen auf dem Grundstück Rosenstr. 12",
+        "facts": "Antrag auf Tektur zur Nutzungsänderung in zwei Monteurwohnungen auf dem Grundstück Flur-Nr. 66, Gemarkung Langenzenn.\n\nDer Antrag zur Nutzungsänderung in eine Monteurwohnung wurde bereits am 21.11.2023 behandelt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0,
+          "present": 8
+        }
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag auf Nutzungsänderung einer Produktions- und Lagerhalle in Einzelhandel auf dem Grundstück Im Kessel 2",
+        "facts": "Antrag auf Nutzungsänderung einer Produktions- und Lagerhalle in ein Einzelhandels-, Lager- und Bürogebäude auf dem Grundstück Flur-Nr. 577/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.7.",
+        "title": "Bauvoranfrage zur Errichtung eines Heizwerkes auf dem Grundstück Klaushof 1",
+        "facts": "Bauvoranfrage zur Errichtung eines Heizwerkes mit Nahwärmeversorgung auf dem Grundstück Flur-Nr. 303, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.8.",
+        "title": "Bauvoranfrage zur Errichtung eines Wohnhauses auf dem Grundstück Hausen 4",
+        "facts": "Formlose Bauvoranfrage zur Errichtung eines Wohnhauses auf dem Grundstück Flur-Nr. 1287, Gemarkung Horbach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf Verlängerung des Vorbescheides zur Errichtung einer Wohnanlage auf dem Grundstück Milchgasse 2",
+        "facts": "Antrag auf Verlängerung des Vorbescheides vom 21.01.2022 zur Errichtung einer Wohnanlage: Haus 1 (12 WE), Haus 2 (8 WE, zwei DHH mit Garagen, 17 Freistellplätzen und 5 Carports auf dem Grundstücken Flur-Nr. 220, 221, 225 und 227/1, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.10.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung eines Doppelhauses auf dem Grundstück Klaushof 6",
+        "facts": "Antrag auf Verlängerung der Baugenehmigung vom 30.03.2004 zur Errichtung eines Doppelhauses auf dem Grundstück Flur-Nr. 304, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.11.",
+        "title": "Bauvoranfrage zur Errichtung eines Einfamilienhauses auf dem Grundstück Nähe Im Gründl",
+        "facts": "Bauvoranfrage zur Errichtung eines Einfamilienhauses auf den Grundstücken Flur-Nrn. 927/36 und 927/73, Gemarkung Laubendorf.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze sowie der Fläche für Stellplätze und Garagen sowie deren Zufahrten werden in Aussicht gestellt. Die Vorgaben der Stellplatzsatzung hinsichtlich des Stauraumes von mind. 5,0 m sind einzuhalten.\n\nEine Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Anzahl der Vollgeschosse sowie der max. Firsthöhe wird nicht in Aussicht gestellt, da hierdurch die Grundzüge des Bebauungsplanes berührt werden.\n\n(Frau Stadträtin Plevka nimmt gemäß Art. 49 Abs. 1 GO an der Beratung und Abstimmung nicht teil))",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Markt Cadolzburg – Aufstellung des vorhabenbezogenen Bebauungsplanes für das Sondergebiet „Solarpark Vogtsreichenbach Ost„ und 39. Änderung des Flächennutzungsplanes; hier: Beteiligung der Nachbargemeinden § 2 Abs. 2 BauGB sowie Behördenbeteiligung nach § 4 Abs. 1 BauGB",
+        "facts": "Der Verwaltung liegt ein Schreiben zur Abstimmung der Bauleitplanung mit den Nachbargemeinden gem. 2 Abs. 2 BauGB sowie frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB zum o.g. Verfahren der Marktgemeinde Cadolzburg vor.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass die Belange der Stadt Langenzenn nicht berührt werden.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Mitteilung über die Verkehrsschau 2024",
+        "facts": "Der Sachverhalt wird zur Beratung in die einzelnen Fraktionen gegeben.\n\nEine Abstimmung und Beschlussfassung findet in der nächsten Sitzung des Bau-, Umwelt- und Verkehrsausschusses statt."
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte Es liegen keine Sachstandsberichte vor."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Bauhof - Baumkontrolle und -unterhalt; hier: Aktuelle Baumfällungen",
+        "facts": "Bei den regelmäßigen Kontrollen der städtischen Bäume wurde bei 2 Bäumen in der Försterallee die Notwendigkeit zur Fällung festgestellt.\n\nBeide Bäume werden abschließend einer Bohrwiderstandsmessung mit einem Resistograph unterzogen. Bei zu geringer Restwandstärke des gesunden Holzes werden die Bäume unmittelbar gefällt.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.2.",
+        "title": "Eingang Rundschreiben Bay. Staatsministerium für Wohnen, Bau und Verkehr; hier: Baurechtliche Hinweise zu Unterkünften für Flüchtlinge und Asylbegehrende",
+        "facts": "Der Verwaltung informiert, dass ein aktuelles Rundschreiben vom 09.02.2024 bezgl. baurechtlicher Hinweise zu Unterkünften für Flüchtlinge und Asylbegehrende (Stand 01.02.2024) vorliegt.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.3.",
+        "title": "Städtische Spiel- und Bolzplätze; hier: Antrag auf Absperrung des Spielplatzes Frankenstraße",
+        "facts": "In der Bürgerversammlung am 16.11.2023 wurde der Antrag gestellt, den Spielplatz in der Frankenstraße abzusperren.\n\nDer Antragsteller wurde durch die Verwaltung erneut zu seinem Antrag befragt. Es wird eine Absperrschranke am Ende des Fußweges zwischen den beiden Spielplätzen an der Frankenstraße gewünscht um ein unkontrolliertes Betreten der Straße zu verhindern.\n\nDer Bau-, Umwelt- und Verkehrsausschuss sieht in der Umsetzung des Antrages keine Notwendigkeit, da bereits die beiden Spielplätze über geeignete Eingangstüren in der Zaunanlage verfügen.\n\nDie Mitglieder des Ausschusses diskutieren den Sachverhalt und sehen keine weitere Veranlassung."
+      },
+      {
+        "number": "7.4.",
+        "title": "Mitteilung über Maßnahmen der Städtebauförderung",
+        "facts": "Die Verwaltung teilt mit, dass folgende Zuwendungsanträge durch die Städtebauförderung positiv beschieden wurden:\n\n-   Klosterstraße 6a -   Erweiterung und Rücknahme des Sanierungsgebietes „Altstadt Langenzenn“\n\nWeiterhin teilt die Verwaltung mit, dass für den Förderantrag „Parkplatz Schießhausplatz“ Unterlagen nachzureichen sind, um das Förderverfahren abzuschließen.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.5.",
+        "title": "Städtebauförderungsmaßnahme Klosterstraße 6a",
+        "facts": "Die Verwaltung teilt mit, dass aufgrund der Zusage zum vorzeitigen Maßnahmenbeginn für die Sanierungsmaßnahme Klosterstraße 6a die Auftragsvergaben für Bauleistungen nun förderunschädlich möglich sind.\n\nAufgrund der zeitlichen Notwendigkeit sollen die Auftragsvergaben in der nächsten Sitzung des Stadtrates bzw. des Bau-, Umwelt- und Verkehrsausschusses kurzfristig erfolgen.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Straßenarbeiten in der Komotauer Straße",
+        "facts": "Stadtrat O. Vogel erkundigt sich, welche Straßenarbeiten in der Komotauer Straße derzeit durchgeführt werden.\n\nDie Verwaltung teilt mit, dass es sich hierbei um Sanierungsarbeiten an der Entwässerungsrinne, den Bordsteinen und dem Gehweg handelt."
+      },
+      {
+        "number": "8.2.",
+        "title": "Baumrückschnitt am Regenrückhaltebecken Nähe Hardhof",
+        "facts": "Stadtrat O. Vogel teilt mit, dass am Regenrückhaltebecken Nähe Hardhof Bäume (Pappeln) geschnitten worden sind. Die abgeschnittenen Äste wurden nicht entsorgt, sondern dort zurückgelassen und treiben nun wieder neu aus."
+      },
+      {
+        "number": "8.3.",
+        "title": "Straßenschäden in der Oberfembacher Straße",
+        "facts": "Stadträtin Plevka fragt an, ob Planungen für eine Straßendeckensanierung in der Oberfembacher Straße vorliegen, da hier viele Straßenschäden vorhanden sind.\n\nDie Verwaltung teilt mit, dass für Straßenneubau und Unterhalt jährlich Mittel in Höhe von rund 600.000 € zur Verfügung stehen. Die einzelnen Maßnahmen wären im Rahmen der Haushaltsplanungen festzulegen.\n\nFür 2024 sind bereits die Maßnahmen Zollnerstraße und die Restarbeiten in der Imhofstraße im Bereich Straßenneubau vorgesehen."
+      },
+      {
+        "number": "8.4.",
+        "title": "Parkende Autos an der Pirkacher Straße",
+        "facts": "Stadträtin Plevka berichtet, dass an der Pirkacher Straße kurz nach der Unterführung Richtung Dorfmitte viele parkende Autos in der Kurve stehen. An dieser Stelle ist es sehr eng, so dass durch parkende Autos der Gegenverkehr schlecht eingesehen werden kann.\n\nDie Verwaltung wird um Überprüfung gebeten, ob hier ein entsprechendes Parkverbot angeordnet werden kann.\n\nDa es sich bei der Pirkacher Straße um eine Kreisstraße handelt, wird die Anfrage an das Landratsamt Fürth weitergeleitet."
+      },
+      {
+        "number": "8.5.",
+        "title": "Lagerplatz an der Burggrafenhofer Straße",
+        "facts": "Stadtrat Schramm weist darauf hin, dass der Lagerplatz an der Burggrafenhofer Straße, welcher derzeit von einer Firma für Glasfaserausbau genutzt wird, frei zugänglich und nicht abgeschlossen ist.\n\nDie Verwaltung wird sich diesbezüglich mit der zuständigen Firma in Verbindung setzen."
+      },
+      {
+        "number": "8.6.",
+        "title": "Parkende Autos an der Unteren Ringstraße",
+        "facts": "Stadtrat Schwämmlein teilt mit, dass durch viele parkende Autos an der Unteren Ringstraße der fließende Verkehr beeinträchtigt wird. Durch den derzeitigen Neubau eines Wohnhauses in der Unteren Ringstraße ist an dieser Stelle bereits die Straße auf eine Fahrspur verengt worden. Durch die direkt nach dem Neubau parkenden Autos staut sich der Verkehr teils sehr weit nach hinten, so dass u.a. auch Rettungsfahrzeuge schwer hindurchkommen.\n\nDie Verwaltung informiert, dass diese Thematik bereits mehrfach an das Landratsamt Fürth weitergegeben worden ist. Die Verwaltung wird dies erneut an das Landratsamt Fürth weiterleiten."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "163330",
+    "minutes": "170116"
+  }
+}

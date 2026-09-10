@@ -1,0 +1,213 @@
+{
+  "meetingId": "3255",
+  "announcement": {
+    "heading": "70. Sitzung des Stadtrates",
+    "sessionNumber": 70,
+    "date": "2024-12-05",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Erweiterung Grundschule Langenzenn; hier: Pädagogische Prozessberatung (Lernlandschaften); hier: Zusammenfassung der Ergebnisse"
+      },
+      {
+        "number": "2.",
+        "title": "Jahresantrag Städtebauförderung 2025"
+      },
+      {
+        "number": "3.",
+        "title": "15. Änderung des Flächennutzungsplanes sowie Aufstellung der 8. Änderung des Bebauungsplanes \"GE V Burggrafenhof\" im Parallelverfahren; hier: Abwägung zur erneuten Beteilgung gemäß § 4a Abs.3 und § 3 Abs.2 BauGB"
+      },
+      {
+        "number": "4.",
+        "title": "15. Änderung des Flächennutzungsplanes sowie Aufstellung der 8. Änderung des Bebauungsplanes \"GE V Burggrafenhof\" im Parallelverfahren; hier: Satzungsbeschluss zur 8. Änderung des Bebauungsplanes \"GE V Burggrafenhof\""
+      },
+      {
+        "number": "5.",
+        "title": "15. Änderung des Flächennutzungsplanes sowie Aufstellung der 8. Änderung des Bebauungsplanes \"GE V Burggrafenhof\" im Parallelverfahren; hier: Feststellungsbeschluss zur 15. Änderung des Flächennutzungsplanes"
+      },
+      {
+        "number": "6.",
+        "title": "1. Änderung der Richtlinie zur Ehrung verdienter Bürgerinnen und Bürger der Stadt Langenzenn; hier: Beschlussfassung zum Antrag des Arbeitskreises Ehrenamt"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "28. November 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "70. Sitzung des Stadtrates",
+    "sessionNumber": 70,
+    "date": "2024-12-05",
+    "startTime": "16:00",
+    "endTime": "19:12",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Franz, Irene",
+            "note": "ab TOP 9"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Meyer, Evelyn"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ritter, Margit",
+            "note": "bis TOP 18"
+          },
+          {
+            "name": "Ruf, Georg",
+            "note": "ab TOP 1"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta",
+            "note": "bis Mitte TOP 19"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Ströbel, Marion"
+          },
+          {
+            "name": "Vogel, Markus",
+            "note": "ab TOP 10"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "ab TOP 1"
+          },
+          {
+            "name": "Ziegler, Thomas"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Stadtratsmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Roscher, Klaus"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Sieber, Christian"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Erweiterung Grundschule Langenzenn; Pädagogische Prozessberatung (Lernlandschaften); hier: Zusammenfassung der Ergebnisse",
+        "facts": "Dem Stadtrat werden die Ergebnisse der pädagogischen Prozessberatung LernLandSchaft an der Grundschule Langenzenn vorgestellt.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "2.",
+        "title": "Jahresantrag Städtebauförderung 2025",
+        "facts": "Im Wesentlichen werden im Jahresantrag zur Städtebauförderung 2025 nachfolgende Maßnahmen fortgesetzt, ausgeführt bzw. abgeschlossen:\n\nÖffentliche Maßnahmen in Durchführung:\n\n58 - Schießhausplatz BA1: Neugestaltung und Erweiterung Parkplätze (Bau- und Bau-NK) 77 – Klosterstraße 6a: Sanierung des Daches 81 – Erweiterung Sanierungsgebiet „Altstadt“ (gem. Beschlussfassung vom Dez. 2023)\n\nEs laufen derzeit Sanierungsberatungen für private Baumaßnahmen.\n\nÖffentliche Maßnahmen im Programmjahr 2025:\n\n31a - Försterallee - Grunderwerb Fl.-Nr. 264 37 – Friedrich-Ebert-Straße 28: Abriss 58 – Schießhausplatz BA1: Neugestaltung und Erweiterung Parkplätze (Bau- und Bau-NK) 67 – Schießhausplatz BA2: Neugestaltung und Erweiterung Parkplätze (Bau- und Bau-NK) 69 – Alte Zennstraße: Neugestaltung (Bau-NK) 70a – Hindenburgstraße 48: Abriss 70b – Hindenburgstraße 48 / Ecke Schießhausplatz: Umgestaltung 71 - Beleuchtungskonzept: Dauerhafte Illumination städtebaulicher Räume 79 - Stadtfriedhof: Eingangstore (Turnstraße / Ringstraße) 81 – Erweiterung Sanierungsgebiet „Altstadt“ (gem. Beschlussfassung vom Dez. 2023)\n\nDie Gesamtaufwendungen für die Maßnahmen der Städtebauförderung (einschließlich Privatmaßnahmen) belaufen sich 2025 auf 907.000 Euro. Davon fallen rund 560.000 auf die Baumaßnahmen am Schießhausplatz.\n\nDie Förderquote für Maßnahmen im Rahmen der Städtebauförderung beträgt im Regelfall 60%.\n\nDer Bau-, Umwelt- und Verkehrsausschuss hat den Antrag in der Sitzung am 26.11.2025 vorberaten und empfiehlt dem Stadtrat einstimmig folgende Beschlussfassung.",
+        "decision": "Der Stadtrat beschließt den vorgelegten Jahresantrag zur Städtebauförderung 2025.\n\nDie entsprechenden Haushaltsmittel sind im Haushaltsplan 2025 vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "15. Änderung des Flächennutzungsplanes sowie Aufstellung der 8. Änderung des Bebauungsplanes \"GE V Burggrafenhof\" im Parallelverfahren; hier: Abwägung zur erneuten Beteiligung gemäß § 4a Abs.3 und § 3 Abs.2 BauGB",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss beschloss in seiner Sitzung am 17.02.2016 die 8. Änderung und Erweiterung des Bebauungsplans „GE V Burggrafenhof“. Am 10.10.2019 wurde die Aufstellung der 15. Änderung des FNP beschlossen und am 27.07.2023 beschloss der Stadtrat die Änderung der Aufstellungsbeschlüsse dahingehend, dass die jeweiligen Geltungsbereiche angepasst bzw. erweitert wurden um eine Verlegung und Vergrößerung des Regenrückhaltebeckens sowie eine zusätzliche Anbindung an die Straße „Mühlsteig“ nach Nordwesten zu ermöglichen.\n\nAufgrund von Änderungen am Entwurf (Aufnahme einer bedingenden Festsetzung nach § 9 Abs. 2 BauGB bezüglich der Lage des Regenrückhaltebeckens und dem sich daraus ergebenden Zuschnitt des Gewerbegebiets und anderer Punkte) wurden in der Sitzung des Bau-; Umwelt- und Verkehrsausschusses am 24.09.2024 die beiden Entwürfe (BP- und FNP- Änderung) erneut gebilligt und die erneute Veröffentlichung im Internet nach § 4a Abs. 3 BauGB i.V.m. § 3 Abs. 2 BauGB und die erneute Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4a Abs. 3 BauGB i.V.m. § 4 Abs. 2 BauGB beschlossen.\n\nIm Zeitraum vom 07.10. bis 08.11.2024 erfolgte die erneute Veröffentlichung im Internet (Beteiligung nach § 3 Abs. 2 BauGB) sowie vom 02.10. bis 08.11.2024 die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange (§ 4 Abs. 2 BauGB) zu den Entwürfen der Bebauungsplan- und FNP-Änderung.\n\nFür die eingegangenen Stellungnahmen wurden Abwägungsvorschläge durch das Büro Grosser-Seeger& Partner, Nürnberg erarbeitet. Aus der Öffentlichkeit ging keine Stellungnahme ein, aus der Behördenbeteiligung 13 Stellungnahmen mit Anregungen. Weitere sechs Behörden und Träger öffentlicher Belange äußerten keine Bedenken. Es gingen im Wesentlichen Anregungen zur Inanspruchnahme landwirtschaftlich genutzter Flächen (im Plangebiet und für die artenschutzrechtliche Ausgleichsfläche) ein sowie Hinweise zur Spartenverlegung, der Löschwasserversorgung, der Entwässerung und den Grundwasserbelangen. Die Löschwasserversorgung im Gebiet ist erst nach weiteren, noch durch die Stadt zu veranlassenden Maßnahmen gesichert. Sehr häufig wurde auf bereits zum Entwurf abgegebene Stellungnahmen verwiesen und keine neuen Belange vorgetragen. Daher konnte auch oft auf die schon durchgeführte Abwägung zu diesen Belangen verwiesen werden und es sind keine Änderungen an der Planung erforderlich.\n\nDer Bebauungsplan in der Satzungsfassung vom 19.11.2024 kann daher nach § 10 Abs. 1 BauGB als Satzung beschlossen werden. Die öffentliche Bekanntmachung des Satzungsbeschlusses kann aber erst nach Genehmigung der FNP-Änderung erfolgen, da der BP aus dem FNP entwickelt sein muss. Mit der Bekanntmachung tritt die Bebauungsplanänderung in Kraft.\n\nHinweis: Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 26.11.2024 folgende Beschluss einstimmig empfohlen.",
+        "decision": "Der Stadtrat der Stadt Langenzenn beschließt über die eingegangenen Stellungnahmen zu den geänderten Entwürfen der 15. Änderung des Flächennutzungsplans sowie der 8. Änderung und Erweiterung des Bebauungsplans Nr. GE V „Burggrafenhof“ entsprechend der Vorschläge des Büro Grosser-Seeger & Partner, Nürnberg, vom 18.11.2024.\n\nDer Stadtrat der Stadt Langenzenn beschließt die 8. Änderung des Bebauungsplanes „GE V Burggrafenhof“ in der Fassung vom 19.11.2024 als Satzung nach § 10 Abs. 1 BauGB.\n\nDie Verwaltung wird beauftragt, diesen Satzungsbeschluss nach Erteilung der Genehmigung der Flächennutzungsplanänderung ortsüblich bekannt zu machen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "1. Änderung der Richtlinie zur Ehrung verdienter Bürgerinnen und Bürger der Stadt Langenzenn; hier: Beschlussfassung zum Antrag des Arbeitskreises Ehrenamt",
+        "facts": "Auf Antrag des Vergabegremiums zur Ehrung verdienter Bürgerinnen und Bürger der Stadt Langenzenn soll eine Änderung der Richtlinie erfolgen.\n\nIm Hauptausschuss vom 28.11.2024 wurde der Antrag vorberaten, folgende Beschlussfassung wird dem Stadtrat einstimmig, mit 8 : 0 Stimmen empfohlen.",
+        "decision": "Der Stadtrat beschließt die 1. Änderung der Richtlinie zur Ehrung verdienter Bürgerinnen und Bürger der Stadt Langenzenn entsprechend dem vorliegenden Entwurf.\n\n§ 3 Abs. 1 erhält folgende neue Fassung: „Geehrt werden können natürliche Personen, die ihr ehrenamtliches Engagement zum Wohle der Langenzenner Bevölkerung ausüben.“",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 16,
+          "against": 0
+        }
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "170851",
+    "minutes": "173353"
+  }
+}

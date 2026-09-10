@@ -1,0 +1,109 @@
+{
+  "meetingId": "3268",
+  "announcement": {
+    "heading": "54. Sitzung des Hauptausschusses",
+    "sessionNumber": 54,
+    "date": "2024-05-23",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Fortsetzung der Haushaltsplanberatungen"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "17. Mai 2024",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "54. Sitzung des Hauptausschusses",
+    "sessionNumber": 54,
+    "date": "2024-05-23",
+    "startTime": "16:00",
+    "endTime": "16:27",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Schlager, Anni",
+            "note": "Vertreterin für Stadtrat Ströbel"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Vogel, Markus"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanung 2024 der Stadt Langenzenn; hier: Fortsetzung der Haushaltsplanberatungen",
+        "facts": "Zu Beginn der heutigen Sitzung stellt die Verwaltung anhand einer Statistik des Landkreises Fürth die Entwicklung der Pro-Kopf-Verschuldung der Stadt Langenzann von 2018 bis 2023 dar (Quelle: Auszug aus dem Haushalt des Landkreises Fürth).\n\nPro-Kopf-Verschuldung (gesamt) der Stadt Langenzenn 2018           2019         2020         2021           2022                2023 2.760,84       2.244,44     1.691,60     1.874,23       1.881,77            1.707,85\n\nDie Verwaltung informiert über die neu eingestellten Unterlagen zum Haushalt 2024 (Eckwerte und Haushaltsplan Stand 02.05.2024) sowie der Übersicht der Antworten zu den gestellten Fragen der Fraktionen an die Verwaltung.\n\nDes Weiteren wurde über die Steuereinnahme im 1. Quartal 2024 berichtet. Bisher hat die Stadt Langenzenn bei der Gewerbesteuer rund 200.000,00 € weniger eingenommen als im Vorjahr. Von Seiten der Kämmerei erfolgt in der nächsten Hauptausschusssitzung eine Berichterstattung zum Gewerbesteuer-Ist-Aufkommen mit Stand 31.05.2024.\n\nBei der Einkommensteuer sind im 1. Vierteljahr 2024 nahezu die gleichen Einnahmen zu verzeichnen wie im Vorjahr. Auch hier ist die weitere Entwicklung abzuwarten, da der Ansatz 2024 um 200.000,00 € bei der Einkommensteuer erhöht wurde.\n\nAnschließend informiert die Verwaltung anhand einer Auflistung über die zwischenzeitlich aufgetretenen Änderungen des Haushaltplanentwurfs 2024. Die Mindestzuführung vom Verwaltungs- an den Vermögenshaushalt wird noch nicht ganz erreicht und eine Genehmigungsfähigkeit des Haushalts liegt auch noch nicht vor.\n\nFür die nächste Sitzung wird für die Stadträte ein neuer Haushaltplanentwurf mit den Änderungen erstellt und im Ratsinformationssystem bereitgestellt.\n\nDie noch offenen Anträge zum Haushalt 2024, u. a. die Anträge durch die SPD, Stadtrat Erhart, bzgl. der bitte um die Aufstellung der geplanten Grundstückskäufe- und verkäufe sowie der Streichung der Ansätze zur Landesgartenschau, und die noch nicht behandelten Zuschussanträge werden in der nächsten Sitzung des Hauptausschusses behandelt.\n\nZu weiteren Themen (FNP 26. Änderung SFL Sportgelände, Aufstockung Krippe, Imagefilm, etc.) erfolgt noch eine Aufklärung der Verwaltung.\n\nDer Ausschuss nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "165582",
+    "minutes": "167752"
+  }
+}

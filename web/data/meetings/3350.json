@@ -1,0 +1,190 @@
+{
+  "meetingId": "3350",
+  "announcement": {
+    "heading": "68. Sitzung des Hauptausschusses",
+    "sessionNumber": 68,
+    "date": "2025-06-03",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Antrag von Herrn Stadtrat Ammon: Abgabe eidesstattlicher Versicherungen zur Weitergabe von Informationen aus nichtöffentlicher Sitzung"
+      },
+      {
+        "number": "2.",
+        "title": "Kirchweihplanung 2025"
+      },
+      {
+        "number": "3.",
+        "title": "Abbruch eines Wohnhauses auf dem Grundstück Hindenburgstraße 48; hier: Finanzierungsplan und Eigenmittelbestätigung"
+      },
+      {
+        "number": "4.",
+        "title": "Abbruch eines Wohn- und Geschäftshauses und einer Scheune auf dem Grundstück Friedrich-Ebert-Str. 28; hier: Finanzierungsplan und Eigenmittelbestätigung"
+      },
+      {
+        "number": "5.",
+        "title": "Haushaltsplanung 2025 der Hospitalstiftung Langenzenn; hier: Vorberatung des Verwaltungs- und Vermögenshaushaltes"
+      },
+      {
+        "number": "6.",
+        "title": "Haushalt 2025 - Fortsetzungen der Beratungen"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "27. Mai 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "68. Sitzung des Hauptausschusses",
+    "sessionNumber": 68,
+    "date": "2025-06-03",
+    "startTime": "16:00",
+    "endTime": "18:01",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang",
+            "note": "bis Ende TOP 9"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Plevka, Melanie"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Gawehn, Michael",
+            "note": "für Stadtrat Schwämmlein"
+          },
+          {
+            "name": "Weber, Thomas",
+            "note": "für Stadtrat Ströbel"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Antrag von Herrn Stadtrat Ammon: Abgabe eidesstattlicher Versicherungen zur Weitergabe von Informationen aus nichtöffentlicher Sitzung",
+        "facts": "Im November 2021 wurde im Rahmen einer nichtöffentlichen Stadtratssitzung ein Beschluss über einen Immobilienkauf gefasst.\n\nÜber diesen Beschluss wurde wenige Tage später vom Lokalredakteur ausführlichst in den Fürther Nachrichten berichtet. Aus der Berichterstattung wurde klar, dass die Informationen nur von Sitzungsteilnehmern an ihn weitergegeben worden sein konnten.\n\nAuf mehrfache Nachfrage im Stadtrat hatten 2021 alle Mitglieder des Gremiums abgestritten, dass sie die Informationen weitergegeben hätten.\n\nStadtrat Ammon beantragte deshalb, dass die Damen und Herren des Stadtrates, die an der Sitzung teilgenommen hatten, eine eidesstattliche Versicherung abgeben sollten, dass sie keine Informationen diesbezüglich weitergegeben hatten.\n\nIn einer der letzten Sitzungen erkundigte sich Stadtrat Jäger, was aus diesem Antrag geworden ist.\n\nNach Recherchen der Verwaltung wurde dieser Antrag nach einer Beratung im Hauptausschuss nie abschließend im Stadtrat behandelt.\n\nDie Gemeindeordnung gibt keine Rechtsgrundlage dafür her, eine eidesstattliche Versicherung von Stadtratsmitgliedern verlangen zu können. Wenn sie jemand freiwillig abgeben möchte, ist dies möglich.\n\nMöglich und sinnvoll wäre deshalb ein Beschluss des Stadtrates, dass alle Sitzungsteilnehmer freiwillig eine eidesstattliche Erklärung abgeben, dass sie in dieser Sache keine Informationen weitergegeben haben.",
+        "decision": "Der Ausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Stadtrat beschließt, dass alle Sitzungsteilnehmer an der Sitzung des Stadtrates vom 10.11.2021 eine eidesstattliche Erklärung, dass sie keine Informationen aus dem nichtöffentlichen Teil der Sitzung weitergegeben haben, abgeben sollen.\n\nDie Verwaltung wird mit dem Vollzug der Abfrage der eidesstattlichen Versicherungen und Rückmeldung an den Stadtrat beauftragt.",
+        "vote": {
+          "summary": "mehrheitlich abgelehnt",
+          "inFavour": 2,
+          "against": 6
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Kirchweihplanung 2025",
+        "facts": "Die Kirchweih in Langenzenn findet dieses Jahr vom 13.06. – 17.06.2025 statt. Der Charakter einer Straßenkirchweih wird beibehalten. Die Kirchweih verläuft vom Martin-Luther-Platz über den Prinzregentenplatz zum Denkmalpatz bis hin zu den Zennwiesen (hinter dem Autohaus Besenbeck).\n\nDas Bühnenprogramm wird überwiegend beibehalten. Am Freitag spielt das Brass Ensemble „SpaßInBrass“ der Stadtkapelle Langenzenn, am Samstag die Band „Burnin‘ Stages“. Die Band „SRS Jazzmen“ ist am Sonntag vertreten und am Montag „Chris Angels – Linedance & Country Music“. Außerdem wird am Montag zum Familiennachmittag das Puppenspiel „Drache Lumpo und das geheimnisvolle Ei“ aufgeführt und als Abschluss am Kirchweihdienstag spielt die Band „Light Kultur“.\n\nEine Abschlussshow am Dienstag, den 17.06.2025 wird nicht stattfinden. Es werden allerdings von 16-17 Uhr sowie von 18-19 Uhr Walk-Acts auf Stelzen am Kirchweihgelände unterwegs sein.\n\nDas Jugendzentrum Alte Post wird die „Postkärwa“ in diesem Jahr leider nicht durchführen können. Auf eine Veranstaltung am Postparkplatz muss allerdings nicht verzichtet werden, da die Fußballabteilung des TSV Langenzenn den Betrieb in diesem Jahr dankenswerterweise übernehmen wird.\n\nEin Infobrief vom Team des Jugendzentrums mit weiteren Informationen sowie ein Plan zum Festgelände ist im Ratsinformationssystem eingestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Abbruch eines Wohnhauses auf dem Grundstück Hindenburgstraße 48; hier: Finanzierungsplan und Eigenmittelbestätigung",
+        "facts": "Für den Abbruch eines Wohnhauses auf dem Grundstück Hindenburgstraße 48 hat die Stadt Langenzenn die Unterlagen für die Antragstellung bei der Regierung von Mittelfranken erstellt.\n\nDie Maßnahme ist Teil der Neugestaltung des Schießhausplatzes mit Parkplätzen mit Übergangsbereich zur Försterallee bis hin zum Kreuzungsbereich Hindenburgstraße / Würzburger Straße.\n\nDie Gesamtkosten der Abbruchmaßnahme belaufen sich aufgrund eines vorliegenden Richtpreisangebots auf rund 25.000 Euro.\n\nDer Finanzierungsplan der Stadt Langenzenn für diese Maßnahme liegt dem Hauptausschuss zur Entscheidung vor.",
+        "decision": "Der Hauptausschuss bestätigt den vorliegenden Finanzierungsplan für den Abbruch des Wohnhauses.\n\nDie Verwaltung wird beauftragt, die Mittel im Haushalt der Stadt Langenzenn in den Haushaltsjahren 2025/2026 bereitzustellen und den Zuwendungsantrag bei der Regierung von Mittelfranken einzureichen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Abbruch eines Wohn- und Geschäftshauses und einer Scheune auf dem Grundstück Friedrich-Ebert-Str. 28; hier: Finanzierungsplan und Eigenmittelbestätigung",
+        "facts": "Für den Abbruch eines Wohn- und Geschäftsgebäudes und einer Scheune auf dem Grundstück Friedrich-Ebert-Straße 28 hat die Stadt Langenzenn die Unterlagen für die Antragstellung bei der Regierung von Mittelfranken erstellt.\n\nDie Maßnahme ist Teil der Neugestaltung des Quartiers am Denkmalplatz auf Grundlage des Kommunalen Denkmalkonzeptes von Stadt, WBG und Bayerischen Landesamt für Denkmalpflege.\n\nDie Gesamtkosten der Abbruchmaßnahme belaufen sich aufgrund eines vorliegenden Richtpreisangebots auf rund 155.000 Euro.\n\nDer Finanzierungsplan der Stadt Langenzenn für diese Maßnahme liegt dem Hauptausschuss zur Entscheidung vor.",
+        "decision": "Der Hauptausschuss bestätigt den vorliegenden Finanzierungsplan für den Abbruch des Wohn- und Geschäftsgebäudes und einer Scheune.\n\nDie Verwaltung wird beauftragt, die Mittel im Haushalt der Stadt Langenzenn in den Haushaltsjahren 2025/2026 bereitzustellen und den Zuwendungsantrag bei der Regierung von Mittelfranken einzureichen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Haushaltsplanung 2025 der Hospitalstiftung Langenzenn; hier: Vorberatung des Verwaltungs- und Vermögenshaushaltes",
+        "facts": "Die Kämmerin legt den Entwurf der Haushaltssatzung 2025 der Hospitalstiftung Langenzenn vom 30.05.2025 und den Entwurf des Haushaltsplanes 2025 der Hospitalstiftung Langenzenn zur Empfehlung an den Stadtrat vor.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und empfiehlt dem Stadtrat die Beschlussfassung des vorliegenden Entwurfes der Haushaltssatzung 2025 der Hospitalstiftung Langenzenn vom 30.05.2025 samt Anlagen, wie Haushaltsplan und Finanzplan mit Investitionsprogramm.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Haushalt 2025 - Fortsetzungen der Beratungen",
+        "facts": "Die Verwaltung informiert den Hauptausschuss über die aktuellen Daten zum Haushaltsplanentwurf 2025 der Stadt Langenzenn aufgrund der zwischenzeitlich eingearbeiteten Änderungen bzw. Anpassungen von Ansätzen.\n\nDie Genehmigungsfähigkeit des Haushaltes liegt noch nicht vor.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor"
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "175579",
+    "minutes": "179508"
+  }
+}

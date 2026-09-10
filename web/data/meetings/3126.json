@@ -1,0 +1,224 @@
+{
+  "meetingId": "3126",
+  "announcement": {
+    "heading": "Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "date": "2023-02-28",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Baugesuche und Anträge aus laufender Verwaltung hier: Anträge aus der laufenden Verwaltung"
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines Gartenhauses auf dem Grundstück Klaushofer Weg 46"
+      },
+      {
+        "number": "3.3.",
+        "title": "Bauvoranfrage zur Errichtung von zwei Wohngebäuden auf dem Grundstück Lenzenstr. 4"
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag auf Tektur zur Aufstockung des Zwischenbaus am Bürogebäude auf dem Grundstück Kapell-Leite 4"
+      },
+      {
+        "number": "3.5.",
+        "title": "Antrag zur Errichtung von 4 doppelseitigen, beleuchteten Werbeanlagen freistehend auf dem Grundstück Würzburger Str. 26"
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag zum Austausch Spindeltreppe (Rückbau) und Erneuerung Fluchttreppenanlage Nord incl. Abfangungsmaßnahmen Turnhalle UG auf dem Grundstück Sportplatzstraße 2"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "23. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 83 \"Agri-PV Göckershof\" im Parallelverfahren; hier: Aufstellungsbeschluss zum Bebauungsplan sowie Änderungsbeschluss zum Flächennutzungsplan"
+      },
+      {
+        "number": "5.",
+        "title": "Einführung eines kommunalen Energiemanagementsystems für die Liegenschaften der Stadt Langenzenn"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Klosterstraße 6a; hier: Sachstandsbericht zur Sanierung des Daches und weiteres Vorgehen"
+      },
+      {
+        "number": "6.2.",
+        "title": "Feuerwehr Kirchfembach; hier: Sachstandsbericht zum weiteren Vorgehen"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Hochwasserschutz Zenn hier: Sachstand zum Planungskonzept"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 16:45 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Februar 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "29. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 29,
+    "date": "2023-02-28",
+    "startTime": "16:00",
+    "endTime": "18:04",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Baugesuche und Anträge aus laufender Verwaltung hier: Anträge aus der laufenden Verwaltung",
+        "facts": "Den Ausschussmitgliedern werden die Anträge aus der laufenden Verwaltung (hier: Geschäftsordnung der Stadt Langenzenn § 13 Abs. 2 Nr. 4) mitgeteilt:\n\n   Antrag zur Errichtung einer Dachgaube an einer Doppelhaushälfte dem Grundstück Fichtenstraße 12 a    Antrag auf denkmalschutzrechtliche Erlaubnis zum Tausch der Ladenfensterfront auf dem Grundstück Alte Zennstraße 4    Antrag zur Wohnhauserweiterung auf dem Grundstück Burggrafenhofener Straße 6    Antrag zur Wohnhaussanierung und Aufstockung auf dem Grundstück Lohäckerstraße 18    Antrag auf denkmalschutzrechtliche Erlaubnis zur Renovierung der Sandsteinfassade auf dem Grundstück Klosterstraße 2    Antrag auf denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Schwabenberg 1    Antrag auf denkmalschutzrechtliche Erlaubnis für den Neuanstrich der Tore auf dem Grundstück Höllenberg 1    Antrag auf denkmalschutzrechtliche Erlaubnis für Leitungsgrabungen und Design der Zäune auf dem Grundstück Nähe Untere Ringstraße    Antrag auf Verlängerung der Baugenehmigung auf Vorbescheid zur Nutzungsänderung des Kulturhofes auf dem Grundstück Hindenburgstraße 32    Antrag auf Genehmigungsfreistellung zum Anbau an bestehendes Wohnhaus und Errichtung eines Carports auf dem Grundstück Königsberger Straße 26 a    Antrag auf denkmalschutzrechtliche Erlaubnis zum Rückbau neuzeitlicher Anbringungen auf dem Grundstück Hindenburgstraße 46    Antrag auf denkmalschutzrechtliche Erlaubnis zur Anbringung einer Photovoltaik- Anlage auf dem Grundstück Dürrnbucher Straße 2    Antrag zur Errichtung eines Balkons im Dachgeschoss auf dem Grundstück Augustinerstraße 6",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines Gartenhauses auf dem Grundstück Klaushofer Weg 46",
+        "facts": "Antrag zur Errichtung eines Gartenhauses und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze und des Dachmaterials auf dem Grundstück Flur-Nr. 1010/91, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze und des Dachmaterials wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Bauvoranfrage zur Errichtung von zwei Wohngebäuden auf dem Grundstück Lenzenstraße 4",
+        "facts": "Bauvoranfrage zur Errichtung von zwei Wohngebäuden (2 Varianten) auf dem Grundstück Flur-Nr. 929/2, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen für Variante 1 in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag auf Tektur zur Aufstockung des Zwischenbaus am Bürogebäude auf dem Grundstück Kapell-Leite 4",
+        "facts": "Antrag auf Tektur zur Errichtung eines Bürogebäudes mit Lagerhalle; hier: Aufstockung des Zwischenbaus am Bürogebäude und Errichtung einer kleinen Betriebstankstelle und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze auf dem Grundstück Flur-Nr. 1226/15, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Baugrenze wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.5.",
+        "title": "Antrag zur Errichtung von 4 doppelseitigen, beleuchteten Werbeanlagen freistehend auf dem Grundstück Würzburger Straße 26",
+        "facts": "Der Tagesordnungspunkt wird abgesetzt."
+      },
+      {
+        "number": "3.6.",
+        "title": "Antrag zum Austausch Spindeltreppe (Rückbau) und Erneuerung Fluchttreppenanlage Nord incl. Abfangungsmaßnahmen Turnhalle UG auf dem Grundstück Sportplatzstraße 2",
+        "facts": "Antrag zum Austausch Spindeltreppe (Rückbau) und Erneuerung Fluchttreppenanlage Nord, incl. Abfangungsmaßnahmen Turnhalle UG des Wolfgang-Borchert-Gymnasiums auf dem Grundstück Flur-Nr. 1217/5, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDer beantragten Abweichung gemäß Art. 6 Abs. 3 BayBO wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "23. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes Nr. 83 \"Agri-PV Göckershof\" im Parallelverfahren; hier: Aufstellungsbeschluss zum Bebauungsplan sowie Änderungsbeschluss zum Flächennutzungsplan",
+        "facts": "Antrag zur Aufstellung einer Bauleitplanung bezüglich einer Agri-Photovoltaikanlage.\n\nDer Antrag wurde bereits in der Sitzung des Bau- Umwelt- und Verkehrsausschusses am 19.07.2022 behandelt.\n\nDem Antrag wurde zugestimmt und die Verwaltung mit der Vorbereitung einer Bauleitplanung beauftragt.\n\nDer Vorhabenträger beabsichtigt westlich von Göckershof in der Gemarkung Horbach eine Agri-Photovoltaikanlage zu erstellen. Hierfür sind die Änderung des Flächennutzungsplans sowie die Aufstellung eines Bebauungsplans erforderlich. Aus diesem Grund beantragt der Vorhabenträger die Änderung des Flächennutzungsplans sowie die Aufstellung eines Bebauungsplanes.\n\nDie Planungshoheit liegt bei der Stadt Langenzenn.\n\nDie Stadt Langenzenn ist mit dem für die Durchführung der Bauleitplanung beauftragten Planungsbüro Team 4, Nürnberg einverstanden. Sämtliche Planungs- und Verfahrenskosten bis zum Abschluss des Änderungsverfahrens hat der Antragsteller zu tragen. Ein städtebaulicher Vertrag zur Übernahme der Planungskosten ist abzuschließen. Für die Verwaltungstätigkeit der Stadt werden keine Kosten erhoben.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\n23. Änderung des Flächennutzungsplans mit Landschaftsplan:\n\nDer Stadtrat der Stadt Langenzenn beschließt gemäß § 2 Abs. 1 BauGB die 23. Änderung des Flächennutzungsplans mit Landschaftsplan im Bereich \" Agri-PV Göckershof \".\n\nIm Geltungsbereich befinden sich die Fl.-Nrn. 1382 und 1385, jeweils Gemarkung Horbach. Der wirksame Flächennutzungsplan stellt im Änderungsbereich Fläche für die Landwirtschaft dar.\n\nZiel der Planung ist, die Ausweisung eines Sondergebiets für die Erzeugung regenerativer Energien durch Photovoltaik als Agri PV-Anlage.\n\nDer Beschluss über die 23. Änderung des Flächennutzungsplanes ist öffentlich bekanntzumachen (§ 2 Abs. 1 BauGB).\n\nDie Kosten für die Änderung des Flächennutzungsplanes (Planungskosten etc.) und evtl. weitere im Zusammenhang mit dem Änderungsverfahren anfallende Kosten hat der Antragssteller zur tragen. Hierzu ist ein städtebaulicher Vertrag zur Übernahme der Planungskosten abzuschließen:\n\nEmpfehlung:\n\nAufstellung des Bebauungsplanes Nr. 83 „Agri-PV Göckershof“:\n\nDer Stadtrat der Stadt Langenzenn beschließt gemäß § 2 Abs. 1 BauGB die Aufstellung des Bebauungsplanes Nr. 83 mit Grünordnungsplan \" Agri-PV Göckershof \".\n\nIm Geltungsbereich befinden sich die Fl.-Nrn. 1382 und 1385, jeweils Gemarkung Horbach. Der wirksame Flächennutzungsplan stellt im Änderungsbereich Fläche für die Landwirtschaft dar. Ziel der Planung ist, die Ausweisung eines Sondergebiets für die Erzeugung regenerativer Energien durch Photovoltaik als Agri PV-Anlage.\n\nDer Beschluss über die Aufstellung des Bebauungsplanes ist öffentlich bekanntzumachen.\n\nDie Kosten für die Änderung des Flächennutzungsplanes (Planungskosten etc.) und evtl. weitere im Zusammenhang mit dem Änderungsverfahren anfallende Kosten hat der Antragssteller zur tragen. Hierzu ist ein städtebaulicher Vertrag zur Übernahme der Planungskosten abzuschließen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Einführung eines kommunalen Energiemanagementsystems für die Liegenschaften der Stadt Langenzenn",
+        "facts": "Im Jahr 2021 wurde ein Energienutzungsplan für die städtischen Gebäude erstellt. Als Ergebnis wurde die Installation eines Energiemanagementsystems dringend empfohlen. Zur ersten Abschätzung des zu erwartenden Aufwands liegt ein Angebot der Energieagentur Nordbayern vor. Das Angebot umfasst dreizehn Gebäude, davon befinden sich zwölf im Eigentum der Stadt Langenzenn und eines im Eigentum der Hospitalstiftung Langenzenn, in dem die Stadtverwaltung untergebracht ist. Die Hospitalstiftung Langenzenn erklärt sich in einem separaten Schreiben mit der Installation der Fördergegenstände einverstanden. Des Weiteren bestätigt die Hospitalstiftung in diesem Schreiben, dass die Stadt Langenzenn während des gesamten Zeitraums der Zweckbindungsfrist die ausschließliche Verfügungsgewalt über die Fördergegenstände besitzt.\n\nDie dreizehn Gebäude sind aufgeteilt in zwei Pools:\n\n   Pool 1 umfasst sieben Verwaltung- und Veranstaltungsgebäude einschließlich des Gebäudes aus dem Eigentum der Hospitalstiftung Langenzenn.\n\n   Pool 2 umfasst die Schulen und Kindergärten mit sechs Gebäuden.\n\nDas Angebot der Energieagentur Nordbayern dient der Kostenabschätzung, damit ist noch kein Auftrag vergeben. Auf Basis dieser Kostenabschätzung wurde in der Sitzung des Bau-, Umwelt und Verkehrsausschusses am 13.12.2022 beschlossen, für den Aufbau eines Energiemanagementsystems Fördergelder zu beantragen. Die entsprechenden Anträge wurden im Dezember 2022 beim Bundesministerium für Wirtschaft und Klimaschutz sowie bei der Regierung von Mittelfranken eingereicht.\n\nZur Ergänzung der gestellten Förderanträge ist dieser weitere Beschluss notwendig. Die Bearbeitung des Förderantrags erfolgt erst, wenn alle Unterlagen vollständig vorliegen.\n\nDie Stadt Langenzenn beabsichtigt den Aufbau eines Energiemanagementsystems für die o. g. Gebäude. Der Aufbau erstreckt sich über drei Jahre. Danach soll das System durch Verwaltungsmitarbeitende fortgeführt werden. Der Beschluss zum Aufbau des Energiemanagementsystems gilt vorbehaltlich der Förderzusage. Für diesen Fall wird der Eigenanteil im Haushalt bereitgestellt. Die Kosten wurden bereits im Beschluss vom 13.12.22 aufgezeigt.",
+        "decision": "Der Bau-, Umwelt und Verkehrsausschuss beschließt die Implementierung eines Energiemanagementsystems und dessen kontinuierlichen Weiterbetrieb.\n\nDer Beschluss erfolgt vorbehaltlich eines positiven Zuwendungsbescheids.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Klosterstraße 6a; hier: Sachstandsbericht zur Sanierung des Daches und weiteres Vorgehen",
+        "facts": "Das Gebäude Milchgasse 6a, Fl.-Nr. 220/2 („ehemaliges Milchhaus“) wird derzeit durch den Verein „Lahma-Bräu“ genutzt und unterhalten. Im Rahmen von Unterhaltsarbeiten wurde das Bauamt informiert, dass ein Teil der Dachsparren beschädigt ist. Während eines gemeinsamen Ortstermins wurden weitere Teile des Bretterbelags geöffnet und dabei weitere Beschädigungen an der gesamten Dachkonstruktion festgestellt. Die in Eigenleistung des Vereins geplanten Dämmmaßnahmen der Geschossdecke wurden daher auf Anraten des Stadtbauamtes und des Statikers abgebrochen. Eine Instandsetzung des kompletten Daches ist aufgrund des Schadensbildes notwendig und sinnvoll.\n\nGemeinsam mit einem Statiker und einem Architekten wurde nun ein Sanierungskonzept für die Dachkonstruktion erstellt. Dabei wird die Dachkonstruktion einschließlich der Zerrbalkenlage komplett entfernt und auf einer neuen Mauerlatte aus Vollziegel aufgebaut.\n\nDie Gesamtkosten für die Baumaßnahme wurden in Höhe von brutto 157.400 Euro zuzüglich 37.600 Euro (24%) Planungskosten bauteilgetreu ermittelt. Die Maßnahme wurde für den Jahresantrag 2023 der Städtebauförderung angemeldet. Auf Grundlage der Kostenberechnung ist von förderfähigen Kosten in Höhe von etwa 170.000 Euro auszugehen, bei einem Fördersatz von 60% wird der Zuschuss auf etwa 102.000 Euro geschätzt.\n\nDie Sanierungsmaßnahme wurde im Rahmen einer Vorstandssitzung dem Verein vorgestellt. Dabei hat der Verein signalisiert, verschiedene Arbeiten, wie Abbruch, Trockenbau und Malerarbeiten, teilweise in Eigeninitiative zu übernehmen.\n\nIm nächsten Schritt wäre ein maßnahmenbezogener Förderantrag zu stellen und der Umfang der Sanierungsmaßnahme mit der Regierung von Mittelfranken abzustimmen und ein Antrag auf denkmalrechtliche Erlaubnis zu stellen.\n\nDie notwendigen Haushaltsmittel in Höhe von 200.000 sind unter 1.6151.9450 für 2023 im Entwurf des Haushaltsplans vorgesehen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beauftragt die Verwaltung zur Erstellung und Abgabe der maßnahmenbezogenen Förderanträge. Die notwendigen Bauantragsunterlagen sind vorzubereiten und beim Landratsamt Fürth einzureichen.\n\nDie Haushaltsmittel für die Sanierungsmaßnahmen sind im Haushalt 2023 vorzusehen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.2.",
+        "title": "Feuerwehr Kirchfembach; hier: Sachstandsbericht zum weiteren Vorgehen",
+        "facts": "Der Tagesordnungspunkt wird abgesetzt."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Hochwasserschutz Zenn hier: Sachstand zum Planungskonzept",
+        "facts": "Das Planungskonzept zum Hochwasserschutz an der Zenn wurde im Wasserwirtschaftsamt erstellt und liegt der Regierung von Mittelfranken vor.\n\nDie Regierung will Ende Januar 2023 ihre Bearbeitung abschließen und die Unterlagen danach weiter an das Umweltministerium zur abschließenden Genehmigung und Freigabe weiterreichen.\n\nDiese Freigabe wird für Ende Februar 2023 erwartet.\n\nAm heutigen Tage ist folgende Information eingegangen. Das Wasserwirtschaftsamt teilt mit, dass die Regierung das Planungskonzept genehmigt hat. Dieses wird nun zur Zustimmung an das Umweltministerium weitergeleitet.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "8.1.",
+        "title": "Denkmalprämierung 2022 für die Bildungs- und Kulturscheune",
+        "facts": "Die Verwaltung teilt die Denkmalprämierung der Bildungs- und Kulturscheune durch den Bezirk Mittelfranken mit. Die Verleihung wird am 10.03.2023 stattfinden."
+      },
+      {
+        "number": "8.2.",
+        "title": "Neubau Feuerwehrhaus mit Stadtarchiv; hier: Ausbesserungsarbeiten",
+        "facts": "Stadtrat Schramm erkundigt sich nach dem Stand der Ausbesserungsarbeiten im Feuerwehrhaus Langenzenn, da demnächst die Einweihung geplant ist.\n\nDie Verwaltung stellt den Abschluss der restlichen Arbeiten in KW10 in Aussicht."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "153622",
+    "minutes": "154376"
+  }
+}

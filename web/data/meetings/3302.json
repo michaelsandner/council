@@ -1,0 +1,362 @@
+{
+  "meetingId": "3302",
+  "announcement": {
+    "heading": "58. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 58,
+    "date": "2025-06-24",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Weitere Vorgehensweise zur Entwurfsplanung und Testphase"
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Bauvoranfrage zur Errichtung eines Gewächshauses auf dem Grundstück Dürrnbucher Str. 7 a"
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Gundstück Hindenburgstr. 34"
+      },
+      {
+        "number": "2.3.",
+        "title": "Tekturantrag zum Neubau eines Einfamilienhauses auf dem Grundstück Frankenstr. 19"
+      },
+      {
+        "number": "2.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Tiny Houses auf dem Grundstück Ansbacher Str. 10"
+      },
+      {
+        "number": "2.5.",
+        "title": "Antrag zur Errichtung von zwei Werbeanlagen auf dem Grundstück Würzburger Str. 26"
+      },
+      {
+        "number": "2.6.",
+        "title": "Antrag zum Dachgeschossausbau und Anbau an ein bestehendes Wohnhaus auf dem Grundstück Lenzenstr. 21"
+      },
+      {
+        "number": "2.7.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines begrünten Flachdach-Carport mit 2 Stellplätzen auf dem Grundstück Am Druidenranken 5"
+      },
+      {
+        "number": "3.",
+        "title": "Erweiterung Sanierungsgebiet Altstadt: Sachstandsbericht und weitere Vorgehensweise"
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Markt Markt Erlbach - 2. Änderung der Innenbereichssatzung „Haidt“; hier: Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB"
+      },
+      {
+        "number": "4.2.",
+        "title": "Markt Emskirchen - Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 48 Landtechnik in der Reut Mausdorf; hier: frühzeitige Beteiligung gem. $ 4 Abs.1 BauGB"
+      },
+      {
+        "number": "4.3.",
+        "title": "Gemeinde Veitsbronn - Aufstellung Bebauungsplan Nr. 50 Gewerbegebiet zwischen den Bahnlinien und 18. Änderung FNP; hier: Beteiligung gem. § 4 Abs. 1 BauGB"
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen / Verkehrssperrungen"
+      },
+      {
+        "number": "5.2.",
+        "title": "Rundschreiben der Unteren Straßenverkehrsbehörde des Landkreises Fürth zur StVO-Novelle"
+      },
+      {
+        "number": "5.3.",
+        "title": "Mitteilung zur Verkehrsschau 2025"
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Förderung von Einzelmaßnahmen"
+      },
+      {
+        "number": "6.2.",
+        "title": "Sachstandsbericht; Kanalsanierung Frankenstraße"
+      },
+      {
+        "number": "6.3.",
+        "title": "Sachstandsbericht; Schießhausplatz; Zennquerung - Neubau Düker"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Projekt Gewässerbiotopverbundprojekt hier:Aktuelle Informationen"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca. 16:30Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "18. Juni 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "58. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 58,
+    "date": "2025-06-24",
+    "startTime": "16:00",
+    "endTime": "16:45",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schwämmlein, Gerd",
+            "note": "Vertreter für Stadträtin Ritter"
+          },
+          {
+            "name": "Vogel, Oliver",
+            "note": "Ab TOP 10.2"
+          },
+          {
+            "name": "Ziegler, Thomas",
+            "note": "Vertreter für Stadtrat Schramm"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Weitere Vorgehensweise zur Entwurfsplanung und Testphase",
+        "facts": "Der Bau-, Umwelt- und Verkehrsausschuss hat in seiner Sitzung am 25.01.2023 acht Maßnahmen zur Umsetzung beschlossen. Auf Grundlage des Beschlusses wurde im Weiteren beschlossen, das Stadt- & Verkehrsplanungsbüro Kaulen mit den Planungen zu beauftragen.\n\nDer Beschluss über die Detailplanung und zur Umsetzung der Radverkehrsausleitung in der Zollner Straße wurde durch den Bauausschuss in seiner Sitzung am 25.06.2024 gefasst. Der Bauausschuss hat in seiner Sitzung am 26.11.2024 beschlossen, die weitere Umsetzung der Maßnahme auszusetzen. Es wurde Rahmen einer Testphase mittels Gelbmarkierung der Radverkehr bereits an der Einmündung „Von-Wildenfels-Straße“ ausgeleitet. Die Verwaltung teilt mit, dass die Markierung bereits mehrfach abgefahren wurde und stetig kontrolliert und erneuert werden muss. Weiterhin konnte im Rahmen der Testphase beobachtet werden, dass Fahrzeuge in zahlreichen Situation keine andere Möglichkeit haben, als die durchgezogenen Linien zu überfahren. Dies stellt eine potentielle Gefahrensituation für den Fahrradfahrer dar, da dieser grundsätzlich damit rechnet auf einer für Ihn geschaffenen Ausleitung „sicher“ zu sein. Die Verwaltung bittet den Ausschuss um eine endgültige Entscheidung, ob das Provisorium oder die Entwurfsplanung umgesetzt werden soll, da die provisorische Gelbmarkierung zu unterhaltsintensiv ist.\n\nStellungnahme Mobilitätsbeauftragter: Die Stellungnahme liegt aktuell noch nicht vor und wird zeitnah erwartet.",
+        "decision": "Der Beschluss vom 25.06.2024 wird aufgehoben.\n\nDer Rückbau der bereits in Umsetzung befindlichen Einbauten ist zu veranlassen.\n\nDie provisorischen Markierungen und Beschilderungen auf Höhe der Von-Wildenfels-Straße sind zu entfernen.\n\nDie Verwaltung wird beauftragt zur prüfen, ob entlang der Veit-Stoß-Straße ein Schutzstreifen für den Fahrradverkehr eingerichtet werden kann.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "2.1.",
+        "title": "Bauvoranfrage zur Errichtung eines Gewächshauses auf dem Grundstück Dürrnbucher Str. 7 a",
+        "facts": "Der Tagesordnungspunkt wird abgesetzt.",
+        "decision": "zurückgestellt"
+      },
+      {
+        "number": "2.2.",
+        "title": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Hindenburgstr. 34",
+        "facts": "Antrag auf Denkmalschutzrechtliche Erlaubnis zur Errichtung einer Photovoltaikanlage auf dem Grundstück Flur-Nr. 168, Gemarkung Langenzenn (straßenseitig einsehbar).\n\nZur städtebaulichen Beratung liegt der Verwaltung eine Stellungnahme des Büro P4, Nürnberg, vor.\n\nHierzu wird u.a. folgendes mitgeteilt / empfohlen:\n\nStädtebauliche Bewertung Das Gebäude Hindenburgstraße Nr. 34 liegt im Sanierungsgebiet. Es ist kein Baudenkmal und liegt nicht im Ensemblebereich.\n\nDas zweigeschossige Sandsteingebäude mit Satteldach ist als stark ortsbildprägendes Gebäude zu werten, auch wenn sich gestalterische Veränderungen zeigen. Dachform, Ortgangabschlüsse und Ziegelart sind ortstypisch, die dunkle Farbgebung der Biber ist jedoch als untypisch zu werten. Siehe hierzu auch Kommunales Denkmalkonzept Modul 1.\n\nDer Bereich westliche Hindenburgstraße liegt im Altstadtbereich innerhalb der (ehemaligen) Stadtummauerung und ist als städtebaulich sensibler Straßenraum zu werten.\n\nStellungnahme / Empfehlung\n\nDie gewünschten Module sollen als „Full Black“ Modelle (schwarz, ohne sichtbare Leiterstrukturen) und ohne Rahmen ausgeführt werden. Die Anordnung ist als Block geplant. Für die Anbringung sind folgende Punkte zu berücksichtigen:\n\nHinsichtlich eines geplanten Solarkatasters für die Altstadt von Langenzenn gilt es gesamträumliche Aspekte zu berücksichtigen.\n\n   Vorbehaltlich einer detaillierten Untersuchung „Solarkataster“ und erforderlichen Abstimmung mit den zuständigen Denkmalschutzbehörden wäre langfristig die Festlegung einer Kernzone (Vermeidung von Solaranlagen) wünschenswert. Diese sollte zwingend den Ensemblebereich umfassen. Die weiteren straßen- und ortsbildprägenden Straßenabschnitte wie z.B. der westliche Bereich der Hindenburgstraße sollten mit Gestaltungsvorgaben für Solaranlagen den Eigentümern eine Möglichkeit zur Anbringung von Modulen geben, sofern keine rückwärtigen, nicht einsehbaren geeigneten Dachflächen auf dem Anwesen zur Verfügung stehen.    Aus derzeitiger Sicht wäre Anwesen Nr. 34 in diesem Bereich einzuordnen.\n\n   Das vorhandene Dach mit seiner dunklen Dacheindeckung stellt einen Sonderfall dar, da dunkle Farbgebungen im Altstadtbereich grundsätzlich nicht gewünscht sind. Um eine möglichst unauffällige ruhige Dachfläche zu erreichen, wären in diesem Sonderfall die dunklen Module zu bevorzugen.    Wir empfehlen eine Prüfung vor Ort, inwieweit rückwärtig geeignete Dachflächen vorhanden sind. Sofern nur die geplante straßenseitige Dachfläche für die Solarnutzung sinnvoll ist, sollten folgende Punkte zwingend berücksichtigt werden: - Full Black Module (schwarz, ohne sichtbare Leiterstrukturen) - Rahmenlos bzw. schwarzer Rahmen - Rechteckige Blockanordnung ohne Versätze oder Abtreppungen - Ausreichende Abstände zu First und Ortgängen. Hierzu ist eine Skizze der geplanten Anordnung vorzulegen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nEin ausreichender Abstand zum First sowie zu den Giebelseiten ist einzuhalten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.3.",
+        "title": "Tekturantrag zum Neubau eines Einfamilienhauses auf dem Grundstück Frankenstr. 19",
+        "facts": "Tekturantrag zum Neubau eines Einfamilienhauses mit Doppelgarage, Nebengebäude und Carport auf dem Grundstück Flur-Nr. 1025/80, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.4.",
+        "title": "Bauvoranfrage zur Errichtung eines Tiny Houses auf dem Grundstück Ansbacher Str. 10",
+        "facts": "Bauvoranfrage zur Errichtung eines Tiny Houses auf einer Teilfläche des Grundstückes Flur- Nr. 963, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.5.",
+        "title": "Antrag zur Errichtung von zwei Werbeanlagen auf dem Grundstück Würzburger Str. 26",
+        "facts": "Antrag zur Errichtung von zwei doppelseitigen, beleuchteten, freistehenden Werbeanlagen und Antrag auf Abweichung von der Gestaltungssatzung auf dem Grundstück Flur-Nr. 1296, Gemarkung Langenzenn.\n\nDie Verwaltung informiert darüber, dass bereits ein Antrag gestellt wurde, um insgesamt vier doppelseitige Werbeanlagen zu errichten – zwei sollen zur Straße hin und zwei im Bereich eines Parkplatzes aufgestellt werden. Dieser Antrag wurde in zwei Sitzungen des Bau-, Umwelt- und Verkehrsausschusses (am 25.06.2024 und am 22.10.2024) behandelt. Das gemeindliche Einvernehmen wurde dabei nicht erteilt.\n\nIm Laufe des Verfahrens wurde der Antrag so angepasst, dass die beiden straßenseitigen Werbetafeln entfallen. Stattdessen werden nun lediglich zwei Werbetafeln im Bereich des Parkplatzes beantrag.\n\nAus städtebaulicher Sicht kann dem nunmehr angepassten Antrag zugestimmt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDem Antrag auf Abweichung gemäß der Gestaltungssatzung (§ 8 I.V. § 10) wird zugestimmt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.6.",
+        "title": "Antrag zum Dachgeschossausbau und Anbau an ein bestehendes Wohnhaus auf dem Grundstück Lenzenstr. 21",
+        "facts": "Antrag zum Dachgeschossausbau und Anbau an bestehendes Wohnhaus auf dem Grundstück Flur-Nr. 1057/10, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.7.",
+        "title": "Antrag auf Isolierte Befreiung zur Errichtung eines begrünten Flachdach-Carport mit 2 Stellplätzen auf dem Grundstück Am Druidenranken 5",
+        "facts": "Antrag auf isolierte Befreiung zur Errichtung eines begrünten Flachdach-Carports mit 2 Stellplätzen bezüglich der Dachform auf dem Grundstück Flur-Nr. 553/5, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen.\n\nDie Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Erweiterung Sanierungsgebiet Altstadt: Sachstandsbericht und weitere Vorgehensweise",
+        "facts": "Nach Rückmeldung des Planungsbüros Projekt 4, Nürnberg, liegt vom 05.06.2025 eine telefonische Rückmeldung der Regierung von Mittelfranken zum Sanierungsgebiet vor.\n\nDemnach bestehen zu den vorliegenden Unterlagen keine weiteren Bedenken und somit könnte im nächsten Schritt der Satzungsbeschluss „VU Erweiterung Altstadt“ im Rahmen der anstehenden Stadtratssitzung im Juli 2025 erfolgen.\n\nDer Satzungsbeschluss mit Abgrenzungsplan ist der Regierung von Mittelfranken vorzulegen.\n\nDas Entwicklungskonzept mit Bearbeitungsstand 05/2025 ist als Anlage im Ratsinformationssystem eingestellt.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Markt Markt Erlbach - 2. Änderung der Innenbereichssatzung „Haidt“; hier: Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB",
+        "facts": "Abstimmung der Bauleitplanung mit den Nachbargemeinden bzw. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zur 2. Änderung der Innenbereichssatzung für den Ortsteil Haidt des Marktes Markt Erlbach.\n\nEs wurde festgestellt, dass die Belange der Stadt Langenzenn nicht berührt werden. Weitere Stellungnahme ist nicht veranlasst.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.2.",
+        "title": "Markt Emskirchen - Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 48 Landtechnik in der Reut Mausdorf; hier: frühzeitige Beteiligung gem. $ 4 Abs.1 BauGB",
+        "facts": "Abstimmung der Bauleitplanung mit den Nachbargemeinden bzw. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB zur Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 48 Landtechnik in der Reut Mausdorf des Marktes Emskirchen.\n\nEs wurde festgestellt, dass die Belange der Stadt Langenzenn nicht berührt werden. Weitere Stellungnahme ist nicht veranlasst.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.3.",
+        "title": "Gemeinde Veitsbronn - Aufstellung Bebauungsplan Nr. 50 Gewerbegebiet zwischen den Bahnlinien und 18. Änderung FNP; hier: Beteiligung gem. § 4 Abs. 1 BauGB",
+        "facts": "Abstimmung der Bauleitplanung mit den Nachbargemeinden bzw. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB zur Aufstellung des Bebauungsplanes Nr. 50 „Gewerbegebiet zwischen den Bahnlinien“ und zugehöriger 18. Änderung des Flächennutzungs- und Landschaftsplanes (FNP) der Gemeinde Veitsbronn.\n\nEs wurde festgestellt, dass die Belange der Stadt Langenzenn nicht berührt werden. Weitere Stellungnahme ist nicht veranlasst.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen / Verkehrssperrungen",
+        "facts": "   Wilhermsdorfer Straße 8 / halbseitige Sperrung Fahrbahn / Absicherung einsturzgefährdetes Gebäude, Sicherung Straße bis 11.07.2025    Hindenburgstraße 18 / Wohnhaus Sanierung, Sperrung Gehweg bis 31.07.2025    Hausener Weg 26-40, halbseitige Sperrung, Sperrung Wendehammer / Arbeiten an Gasleitung vom 30.06. - 11.07.2025    BG 59 Rothenburger Straße 14; Fahrbahneinengung / Kranstellung, Materiallager NB EFH vom 20.05. - 20.09.2025    Görlitzer Straße 23 / Sperrung Parkflächen, Baustellenzufahrt / NB EFH / vom 12.05. - 13.07.2025    Div. Straßen / Wanderbaustelle / geschlossene Kanalsanierung vom 06.05. - 31.12.2025    Div. Straßen / Wanderbaustelle / Standsicherheitsprüfung an Beleuchtungsmasten / 30.04. - 31.10.2025    Denkmalplatz 1 – 7 / Sperrung Parkplatz, Vollsperrung Fahrbahn / Glasfasernetzausbau / 23.06.2024 - 27.06.2025    Untere Ringstraße 27 / teilweise Sperrung Gehweg / Fassadenarbeiten vom 23.06. - 15.08.2025    Hindenburgstraße 44-46 / hier: Nachtrag Aufstellen eines Baugerüstes bis 30.08.2025    Gewerbestraße + Fußweg Gewerbestraße / Glasfasernetzausbau vom 23.06. – 07.07.2025    Adam-Klein-Straße, Hans-Sachs-Straße, Albrecht-Dürer-Straße, Veit-Stoß-Straße / Glasfasernetzausbau vom 01.07. - 02.08.2025    Gehwege Albrecht-Dürer-Straße, Lukas-Cranach-Straße / Glasfasernetzausbau vom 01.07. - 02.08.2025",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Rundschreiben der Unteren Straßenverkehrsbehörde des Landkreises Fürth zur StVO-Novelle",
+        "facts": "Die Straßenverkehrsbehörde des Landkreises Fürth bittet um Kenntnisnahme der im Ratsinformationssystem eingestellten Rundschreiben.\n\nBezüglich der gestellten Anträge wird mitgeteilt, dass diese ohne erneute Anfrage nach Konkretisierung der Rechtslage durch das StMI Zug um Zug beantwortet werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.3.",
+        "title": "Mitteilung zur Verkehrsschau 2025",
+        "facts": "Das Protokoll über die Verkehrsschau 2025 ist im Ratsinformationssystem zur Ansicht eingestellt.\n\nZu einigen einzelnen Themen findet eine gesonderte Beschlussfassung in nachfolgenden Sitzungen statt. Hierzu sind vor Beratung durch die Verwaltung Angebote einzuholen, oder Planungsskizzen zu erstellen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Sachstandsberichte laufender städtischer Projekte"
+      },
+      {
+        "number": "6.1.",
+        "title": "Umsetzungsstrategie Radverkehrskonzept; hier: Förderung von Einzelmaßnahmen",
+        "facts": "Mit Schreiben vom 26.05.2025 hat der Bayerische Gemeindetag die Kommunen über die Neuerungen bei der Förderinitiative „Radoffensive Klimaland Bayern“ (2025 – 2028) informiert.\n\nDemnach können oberhalb den Bagatellgrenzen Machbarkeitsstudien, Planungen und Bauausführungen mit 80% der förderfähigen Kosten bezuschusst werden.\n\nBereits im November 2023 wurden dem Bau-, Umwelt- und Verkehrsausschuss nachfolgende Maßnahmen aus dem städtischen und landkreiseigenem Radverkehrskonzept vorgestellt, für die im Anschluss Konzeptstudien entwickelt wurden.\n\nMaßnahmen:\n\n1) Rad-Pendlerroute in Ost-West-Richtung (1.3.1.1), Klaushofer Weg und Route durch Horbach (Maßnahmen 176, 160, 159, 158, 157, 117) als durchgängige Fahrradstraße, abschnittsweise ist dabei auch der Oberbau in Asphaltbauweise herzustellen,\n\nMaßnahmen für den landwirtschaftlichen Verkehr sind ebenfalls vorzusehen. Streckenlänge ca. 4,6 km. (Die Pendler-Route soll südlich, statt nördlich, der B8 verlaufen. Die Ortsdurchfahrt von Horbach soll ebenfalls geprüft werden, inwieweit diese bei geänderter Ost-West-Wegeführung notwendig erforderlich ist.)\n\n2) Verbindung zwischen Fuß- und Radweg am Klaushofer Weg über die B8 Brücke (1.3.1.2) bis zum Parkplatz am Waldrand (Maßnahmen 163, 233) eventuell als Fahrradstraße bzw. mit Abschnitten als verkehrsberuhigte Bereiche. Prüfung und Vorplanung eines Fuß- und Radwegs ab der Baugebiet in Richtung Klaushof mit Vorplanung der Wegeführung über die B8-Brücke. Streckenlänge ca. 1,4 km.\n\n3) Südliche Route durch Horbach (Maßnahme 111, 114, 115 und eventuell 116) mit Anschluss an die Pendlerroute 117 bis Auffahrt zur B8 (1.3.1.3) eventuell als Fahrradstraße bzw. mit Maßnahmen zur Reduzierung des Durchgangsverkehrs sowie Bau einer Querungshilfe in der Nürnberger Straße. Streckenlänge ca. 2,5 km.\n\n4) Fahrradweg nach Puschendorf (1.3.2) als überörtliche Verbindung (Maßnahme 64) abschnittsweise mit Oberbau in Asphaltbauweise, Maßnahmen für den landwirtschaftlichen Verkehr sind ebenfalls vorzusehen. Streckenlänge ca. 1,7 km.\n\n5) Veit-Stoß-Straße (1.3.3) im Bereich zwischen Nürnberger Straße und Flurstraße abschnittsweise als kombinierter Fuß- und Radweg (Maßnahme 110) bzw. unter Berücksichtigung einer Neuaufteilung der Verkehrsflächen. Streckenlänge ca. 1,1 km.\n\n6) Radwegeverbindung von der Kreuzung Windsheimer Straße/Würzburger Straße (1.3.4) über den Bahnübergang mit Ein- und Ausleitung Fahrradverkehr von der alten B 8 (Maßnahme 167, überwiegend Baulast Landkreis). Die Planung der Gesamtmaßnahme erfolgt zusammen mit dem staatlichen Bauamt unter Berücksichtigung der anstehenden Sanierung der Zennbrücke sowie der Fußgänger- und Radfahrerführung im Bereich zwischen den Kreuzungsbereichen „Schwaiger“ und Bahnübergang Hardhof. Die Baulast liegt im Wesentlichem beim Landkreis Fürth bzw. staatlichen Bauamt. Streckenlänge ca. 2,2 km. Die gesamte Verkehrssituation Knotenpunkt Windsheimer Straße (Kreuzung, Kreisverkehr oder ähnliches) soll geprüft und betrachtet werden).\n\n7) Entschärfung des Knotens Äußere Windsheimer Straße – Lohäckerstraße (1.3.5) als Gefahrenpunkt (Maßnahme ohne Benennung bei Landkreiskonzept, Nähe 194), Streckenlänge ca. 0,3 km.\n\n8) Abstellanlagen für den Bahnhof Laubendorf (1.4) im Rahmen einer Vorplanung für die Gestaltung von Abstellanlagen für Fahrräder, Fußgängerwege und Aufenthaltsflächen.\n\nDiese Konzeptstudien könnten nun im Weiteren für Förderanträge aufbereitet und bis zum 01.09.2025 eingereicht werden. Während die Planungen (Leistungsphasen 1 - 4) zeitnah im Rahmen einer Fördermaßnahme erstellt werden könnten, könnte die bauliche Umsetzung je nach finanziellen Möglichkeiten und Priorisierung in den kommenden Jahren erfolgen.\n\nAus Sicht der Verwaltung wären die Maßnahmen zu priorisieren (Planung):\n\n   Maßnahme Nr. 3 „Südliche Route durch Horbach“ beginnend am Kreisverkehr Raindorfer Weg mit Bau einer Querungshilfe in der Nürnberger Straße. Streckenlänge ca. 2,5 km.\n\n   Maßnahme Nr. 6 „Radwegeverbindung von der Kreuzung Windsheimer Straße/Würzburger Straße“. Streckenlänge ca. 2,2 km.\n\n   Maßnahme Nr. 7 „Entschärfung des Knotens Äußere Windsheimer Straße – Lohäckerstraße“. Streckenlänge ca. 0,3 km.\n\nDie Maßnahme Nr. 4 „Fahrradweg Kirchfembach - Puschendorf“ dürfte die Kriterien nicht erfüllen. Hier erfolgt eine Förderung durch den Verein Lorenzer Reichswald.\n\nDie Maßnahme Nr. 5 „Veit-Stoß-Straße“ (1.3.3) im Bereich zwischen Nürnberger Straße und Flurstraße abschnittsweise als kombinierter Fuß- und Radweg (Maßnahme 110) bzw. unter Berücksichtigung einer Neuaufteilung der Verkehrsflächen (Streckenlänge ca. 1,1 km) fällt voraussichtlich unter die Bagatellgrenze, da es sich hier überwiegend um Markierungs- und Beschilderungsarbeiten handelt.",
+        "decision": "Die Verwaltung wird beauftragt, die gelisteten Maßnahmen wie im Sachverhalt dargestellt zu priorisieren und für die Planung der einzelnen Maßnahmen entsprechende Honorarangebote einzuholen.\n\nNach Eingang sind die Honorarangebote dem Bau-, Umwelt- und Verkehrsausschuss vorzulegen.\n\nIn Abhängigkeit von den Kosten (Planung- / Baukosten) sind die entsprechenden Förderanträge zu stellen.\n\nDie Beauftragung einzelner Planung kann erst nach Eingang eines vorzeitigen Maßnahmenbeginns durch den Fördergeber erfolgen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 6,
+          "against": 0
+        }
+      },
+      {
+        "number": "6.2.",
+        "title": "Sachstandsbericht; Kanalsanierung Frankenstraße",
+        "facts": "Nachdem zuerst die Kanäle gereinigt und für die Sanierung vorbereitet wurden, wird aktuell parallel an dem Einbau der Inliner und dem Fräsen der einzelnen Hausanschlüsse gearbeitet.\n\nDie Arbeiten werden ohne unerwartete Unterbrechungen in ca. 1 Woche abgeschlossen sein.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.3.",
+        "title": "Sachstandsbericht; Schießhausplatz; Zennquerung - Neubau Düker",
+        "facts": "Die Arbeiten zum Neubau des Dükers (Teil der Abwasserschiene) sollen laut den letzten erhaltenen Informationen in Kalenderwoche 26 beginnen.\n\nNach Abschluss dieser Arbeiten ist zeitlich direkt übergreifend die Sanierung bzw. Umgestaltung des Schießhausplatzes bis zur Einmündung in die Hindenburgstraße / Würzburger Straße (BA 2) vorgesehen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "7.1.",
+        "title": "Projekt Gewässerbiotopverbundprojekt hier:Aktuelle Informationen",
+        "facts": "Bachmuschelkartierung:\n\nAm 8. und 9. Mai wurde der Altbuchbach, der Hammerbach, die Erlach und der Fembach nach Bachmuscheln untersucht. Die Untersuchung wurde vom zuständigen Sachbearbeiter der Muschelkoordinationsstelle für Muschelschutz in Bayern durchgeführt. Leider konnten in den nördlich gelegenen Bächen nur noch leere Muschelschalen gefunden werden. Diese deuten darauf hin, dass dort früher einmal Bachmuscheln lebten und potenziell wieder einwandern können, wenn die Bäche ökologisch aufgewertet werden würden. Auch im Altbuchbach wurde gesucht – hier wurden Teichmuscheln und auch passende Wirtsfische wie der Aitel (Döbel), in deren Kiemen die Larven von Muscheln heranwachsen, gefunden. Hierzu wird eine Infotext im Mitteilungsblatt 11 veröffentlicht.\n\nQuellkartierung:\n\nDie Quellkartierung wird im August und September, wie im Rahmenkonzept festgelegt, vom Landesbund für Vogel- und Naturschutz in Bayern e.V. (LBV) durchgeführt. Malvina Hoppe, Mitarbeiterin des LBV wird dafür einzelne Bäche und Gräben abschnittsweise zu Fuß in Fließrichtung gegen den Strom ablaufen, also vom Unterlauf bis zum Ursprung. Dabei wird besonders auf folgende Punkte geachtet:\n\n   Wo tritt das Wasser erstmals sichtbar an die Oberfläche?    Wo gibt es natürliche oder gefasste Quellen?    In welchem Zustand befindet sich das Quellgebiet?    Sind die Quellen frei abfließend, verbaut oder beeinträchtigt?\n\nDa hier die Bäche abgelaufen werden müssen, sollen die Bürgerinnen und Bürger der Stadt Langenzenn auch hier im Mitteilungsblatt Nr. 12 informiert werden.\n\nEine Exkursion zu den Quellen ist für den 25.10.2025 geplant, damit sich interessierte Bürgerinnen und Bürger auch ein Bild vor Ort machen können.\n\nSteuergruppensitzung:\n\nDie erste Steuergruppensitzung wird am 24.07.2025 stattfinden. Hier wird die Höhere Naturschutzbehörde und die Untere Naturschutzbehörde sowie der Landschaftspflegeverband, ein Vertreter des Bauernverbandes, sowie der LBV und die Stadt Langenzenn anwesend sein.\n\nInfoveranstaltung:\n\nNach der ersten Steuergruppensitzung des Projektes wird am 28.07.2025 ab 18:00 Uhr eine Infoveranstaltung im Bürgersaal des Rathauses über das Projekt stattfinden. Hier wird die zuständige Sachbearbeiterin das Projekt vorstellen. Anschließend wird Malvina Hoppe Informationen zu Quellen und zur anstehenden Kartierung vortragen. Eine erste Ankündigung soll ebenfalls im Mitteilungsblatt Nr.12 veröffentlicht werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "176141",
+    "minutes": "178620"
+  }
+}

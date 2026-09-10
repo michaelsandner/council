@@ -1,0 +1,93 @@
+{
+  "meetingId": "3148",
+  "announcement": {
+    "heading": "45. Sitzung des Hauptausschusses",
+    "sessionNumber": 45,
+    "date": "2023-06-28",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2023"
+      },
+      {
+        "number": "1.1.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023; hier: Mitteilung der endgültigen Eckwerte des Haushaltsplanes 2023 ff"
+      },
+      {
+        "number": "1.2.",
+        "title": "Haushaltsplanung 2023; hier: Empfehlung der Haushaltssatzung 2023 an den Stadtrat"
+      },
+      {
+        "number": "2.",
+        "title": "Landtags- und Bezirkswahlen 2023 - Information zur Stimmbezirkseinteilung und Wahlhelferentschädigung"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Juni 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "45. Sitzung des Hauptausschusses",
+    "sessionNumber": 45,
+    "date": "2023-06-28",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2023"
+      },
+      {
+        "number": "1.1.",
+        "title": "Fortführung der Haushaltsplanberatungen 2023; hier: Mitteilung der endgültigen Eckwerte des Haushaltsplanes 2023 ff",
+        "facts": "Die Haushaltsplanberatungen 2023 werden fortgesetzt.\n\nVorberatungen sind bisher in den Hauptausschusssitzungen vom 23.03.2023, 30.03.2023, 20.04.2023 und am 14.06.2023 erfolgt.\n\nVon Seiten der Verwaltung wurde der Haushaltsplanentwurf mit Stand vom 07.06.2023 nach den Vorgaben der Rechtsaufsichtsbehörde überarbeitet. Die endgültigen Eckwerte werden den Mitgliedern des Hauptausschusses bekannt gegeben.\n\nStadtrat Erhart bittet, eine Auflistung der neusten Änderungen vorzulegen.\n\nStadtrat Schramm bittet ebenfalls darum, eine Auflistung der Grundstückskäufe und – verkäufe vorzulegen.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "1.2.",
+        "title": "Haushaltsplanung 2023; hier: Empfehlung der Haushaltssatzung 2023 an den Stadtrat",
+        "facts": "Die Kämmerin legt den Entwurf der Haushaltssatzung 2023 der Stadt Langenzenn vom 23.06.2023 und den Entwurf des Haushaltsplanes 2023 der Stadt Langenzenn vom 23.06.2023 dem Hauptausschuss zur Kenntnis vor.\n\nDer Hauptausschuss empfiehlt dem Stadtrat folgenden Beschluss:\n\nDer Haushalt des Rechnungsjahres 2023 der Stadt Langenzenn ist im Verwaltungshaushalt mit 29.335.237,00 € und im Vermögenshaushalt mit 12.531.000,00 € in Einnahmen und Ausgaben ausgeglichen.\n\nDie Zuführung des Verwaltungs- an den Vermögenshaushalt beträgt 989.650,00 €.\n\nDer Gesamtbetrag der Kreditaufnahmen für Investitionen und Investitionsförderungsmaßnahmen beträgt 0,00 €.\n\nDer Gesamtbetrag der Verpflichtungsermächtigungen im Vermögenshaushalt wird auf 0,00 € festgesetzt.",
+        "decision": "Der Hauptausschuss nimmt Kenntnis und empfiehlt dem Stadtrat die Beschlussfassung des vorliegenden Entwurfes der Haushaltssatzung 2023 der Stadt Langenzenn samt Anlagen, wie Haushaltsplan, Stellenplan und Finanzplan mit Investitionsprogramm.",
+        "vote": {
+          "summary": "mehrheitlich beschlossen",
+          "inFavour": 5,
+          "against": 3
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Landtags- und Bezirkswahlen 2023 - Information zur Stimmbezirkseinteilung und Wahlhelferentschädigung",
+        "facts": "Der Ausschuss wird informiert, dass anlässlich der Landtags- und Bezirkswahlen 2023 am Sonntag, dem 8. Oktober 2023 die Einteilung analog der letzten Wahl (Bundestag) in acht Urnenstimmbezirke sowie acht Briefwahlbezirke erfolgt.\n\nDer Aufruf zur Gewinnung von ehrenamtlichen Wahlhelferinnen und Wahlhelfern ist ab Mitte Juli über die üblichen Kanäle, Mitteilungsblatt/Homepage/Facebook vorgesehen.\n\nAls steuerfreie Aufwandsentschädigung - sogenanntes Erfrischungsgeld – wurden bisher 50 Euro an die Ehrenamtlichen ausgezahlt, unabhängig von der jeweiligen Funktion im Wahlvorstand oder der Wahlzentrale. Der Wahlvorstand setzt sich zusammen aus Wahlvorsteher:in, Schriftführer:in, deren Stellvertretungen sowie Beisitzern.\n\nDie Verwaltung schlägt vor, die Wahlhelferentschädigung für die Landtags- und Bezirkswahlen 2023 auf 60,00 Euro festzusetzen.",
+        "decision": "Der Hauptausschuss beschließt, die Wahlhelferentschädigung (Erfrischungsgeld) anlässlich der Landtags- und Bezirkswahlen 2023 auf 60,00 Euro festzusetzen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges Es liegen keine Beratungsgegenstände vor."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "157209",
+    "minutes": "157531"
+  }
+}

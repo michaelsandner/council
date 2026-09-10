@@ -1,0 +1,30 @@
+{
+  "meetingId": "3439",
+  "announcement": {
+    "heading": "1. Sitzung des Werkausschusses",
+    "sessionNumber": 1,
+    "date": "2026-07-28",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Wirtschafts- und Investitionsplan 2026 der Stadtwerke Langenzenn"
+      },
+      {
+        "number": "2.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "23. Juli 2026",
+    "signedBy": "Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "186015"
+  }
+}

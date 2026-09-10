@@ -1,0 +1,151 @@
+{
+  "meetingId": "3311",
+  "announcement": {
+    "heading": "22. Sitzung des Ferienausschusses",
+    "sessionNumber": 22,
+    "date": "2025-09-04",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Freigabe der aktuellen Veröffentlichungen"
+      },
+      {
+        "number": "2.",
+        "title": "Rechtsaufsichtliches Verfahren zur Unterlassung der Aufnahme des Tagesordnungspunktes aus der Empfehlung des Hauptausschusses bezüglich der Absage der Landesgartenschau hier: Bescheid des Landratsamtes Fürth vom 5.8.25 Möglichkeit der Klageerhebung"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "29. August 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "23. Sitzung des Ferienausschusses",
+    "sessionNumber": 23,
+    "date": "2025-09-04",
+    "startTime": "17:00",
+    "endTime": "17:25",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Vorsitzende/r",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "Vorsitz"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Weber, Thomas",
+            "note": "Vertretung für Stadträtin Osswald"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Osswald, Birgit"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Freigabe der aktuellen Veröffentlichungen",
+        "facts": "Folgende Inhalte stehen zur Veröffentlichung:",
+        "decision": "Genannte Inhalte werden hiermit freigegeben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Rechtsaufsichtliches Verfahren zur Unterlassung der Aufnahme des Tagesordnungspunktes aus der Empfehlung des Hauptausschusses bezüglich der Absage der Landesgartenschau hier: Bescheid des Landratsamtes Fürth vom 5.8.25 Möglichkeit der Klageerhebung",
+        "facts": "Das Landratsamt Fürth hat am 5.8.2025 einen Bescheid mit folgendem Tenor gegenüber der Stadt Langenzenn erlassen:\n\n1. Der erste Bürgermeister der Stadt Langenzenn wir d verpflichtet, den Beschluss des Hautpausschusses vom 29.1.2025 betreffend die Aufnahme der Empfehlung zur Absage der Landesgartenschau auf die Tagesordnung des Stadtrates vom 18.9.2025 oder einer Sondersitzung bis spätestens 30.9.2025 zu setzen. 2. Falls der erste Bürgermeister der Verpflichtung unter Nr. 1 des Bescheides nicht bis spätestens 14.9.2025 nachkommt oder den Tagesordnungspunkt bis zum Sitzungsbeginn wieder absetzt, wird das Landratsamt Fürth den zweiten Bürgermeister der Stadt Langenzenn zum Vollzug des unter Nr. 1 genannten Beschlusses verpflichten. Die Ersatzvornahme wird hiermit angedroht. 3. Die sofortige Vollziehung der Ziffern 1 und 2 dieses Bescheides wird angedroht. 4. Verwaltungskosten werden nicht erhoben.\n\nBei dem Bescheid des Landratsamts handelt es sich um eine rechtsaufsichtliche Beanstandung nach Art. 112 Satz 2 GO, wonach die Rechtsaufsichtsbehörde die Gemeinde bei Nichterfüllung öffentlich-rechtlicher Aufgaben oder Verpflichtungen zur Durchführung der notwendigen Maßnahmen auffordern kann. Aufforderungsadressat nach dieser gesetzlichen Norm ist also die Gemeinde, nicht etwa ein Organ der Gemeinde. Klagebefugt gegen diesen Bescheid ist die Gemeinde, somit die Stadt Langenzenn. Ob neben der Gemeinde ausnahmsweise auch ein Organ der Gemeinde (z. B. Bürgermeister) klagebefugt ist, scheint in der Kommentarmeinung umstritten zu sein und ist nicht Gegenstand der heutigen Beschlussfassung.\n\nEine Klage (ggf. auch nur zur Fristwahrung bis zum 5.9.2025 möglich) gegen den Bescheid des Landratsamtes hat grundsätzlich keine aufschiebende Wirkung. Hier müsste in diesem Fall neben der Klage zusätzlich noch ein Antrag zur Aussetzung des Sofortvollzuges gestellt werden (§ 80 Abs.5 Satz 1 VwGO). Ob diesem Antrag stattgegeben wird, obliegt ebenfalls dem Gericht.",
+        "decision": "Der Ferienausschuss der Stadt Langenzenn beschließt, gegen den Bescheid des Landratsamtes Fürth vom 5.8.2025; AZ: 211-027.2025/001343 ; Betreff: Vollzug der Gemeindeordnung (GO), rechtsaufsichtliches Verfahren betreffend der rechtswidrigen Unterlassung des Aufnehmens der Empfehlung des Hauptausschusses bezüglich der Absage der Landesgartenschau seitens Herrn Ersten Bürgermeister Habel; Hier: Verpflichtung zum Aufnehmen in die Tagesordnung- Empfehlung des Hauptausschusses zur Absage der Landesgartenschau keine Klage zur erheben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 7,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "3.1.",
+        "title": "Bekanntgabe der Haushaltsgenehmigungen für die Stadt Langenzenn und die Hospitalstiftung",
+        "facts": "Die Haushaltgenehmigungen der Stadt und der Hospitalstiftung werden bekannt gegeben.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "4.1.",
+        "title": "Müllbeseitigung Zollnerstraße, Richtung Bienenhaus",
+        "facts": "Stadtrat Jäger weist darauf hin, dass auf dem Weg Ecke Zollnerstr./Richtung Bienenhaus Müll, wie z.B. Schubkarren, Baumaterial etc., liegt und bittet um Beseitigung."
+      },
+      {
+        "number": "4.2.",
+        "title": "Sachstand zu Gebäude Schollerwiese",
+        "facts": "Stadtrat Durlak bittet um Sachstand bezüglich des städtischen Gebäudes in der Schollerwiese, ehem. Anwesen Wapp, hinter Anwesen Brauner und Eberlein"
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "177718",
+    "minutes": "182287"
+  }
+}

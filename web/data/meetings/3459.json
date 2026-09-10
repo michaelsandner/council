@@ -1,0 +1,22 @@
+{
+  "meetingId": "3459",
+  "announcement": {
+    "heading": "1. Sitzung des Hauptausschusses",
+    "sessionNumber": 1,
+    "date": "2026-06-17",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2026 der Stadt Langenzenn; hier: Fortsetzung der Vorberatungen"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "11. Juni 2026",
+    "signedBy": "Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "185007"
+  }
+}

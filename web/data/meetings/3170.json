@@ -1,0 +1,109 @@
+{
+  "meetingId": "3170",
+  "announcement": {
+    "heading": "54. Sitzung des Stadtrates",
+    "sessionNumber": 54,
+    "date": "2023-12-07",
+    "startTime": "15:00",
+    "location": "Kulturhof in Langenzenn, im „Kleinen Saal“, 1. Obergeschoss, Alte Zennstraße 13",
+    "agenda": [
+      {
+        "number": "2.",
+        "title": "Überflutungsvorsorge bei Hochwasser und Starkregen; hier: Vorstellung Auditbericht"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "notes": [
+      "Die öffentliche Sitzung beginnt um ca. 16:00 Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "30. November 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "54. Sitzung des Stadtrates",
+    "sessionNumber": 54,
+    "date": "2023-12-07",
+    "startTime": "15:00",
+    "endTime": "18:17",
+    "location": "Kulturhof in Langenzenn, im \"Kleinen Saal\", 1. Obergeschoss, Alte Zennstraße 13",
+    "items": [
+      {
+        "number": "2.",
+        "title": "Überflutungsvorsorge bei Hochwasser und Starkregen; hier: Vorstellung Auditbericht",
+        "facts": "Die DWA (Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V.) wurde nach Stadtratsbeschluss vom 07.04.2022 beauftragt, bei der Stadt Langenzenn ein Hochwasseraudit durchzuführen. Dieses fand statt am 15. und 16. März 2023. Die Ergebnisse werden in Form eines Auditberichts übermittelt.\n\nDer Auditor, Herr Vogt, stellt die Ergebnisse anhand einer Präsentation vor und steht für Fragen zur Verfügung.\n\nDie Präsentation ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Stadtrat nimmt Kenntnis."
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "4.1.",
+        "title": "Niederschrift zur Bürgerversammlung",
+        "facts": "Stadtrat Gawehn bittet die Niederschrift von der diesjährigen Bürgerversammlung ins Ratsinformationssystem einzustellen."
+      },
+      {
+        "number": "4.2.",
+        "title": "Stellungnahme zur Finanzsituation sowie Antrag zur Landesgartenschau",
+        "facts": "Stadtrat Erhart verliest eine persönliche Stellungnahme zur Darstellung der Finanzsituation der Stadt in der Bürgerversammlung und beantragt anschließend, alle Ausgaben, die im Zusammenhang mit der Landesgartenschau stehen, für die Jahre 2025 bis 2027 zu streichen.\n\nDie Stellungnahme sowie der Antrag sind der Niederschrift als Anlage 2 beigefügt."
+      },
+      {
+        "number": "4.3.",
+        "title": "Antrag zum Z-Quartier",
+        "facts": "Stadträtin Plevka beantragt eine Sondersitzung zum Thema Z-Quartier und dem städtebaulichen Vertrag.\n\nDer Antrag ist der Niederschrift als Anlage 3 beigefügt."
+      },
+      {
+        "number": "4.4.",
+        "title": "Anträge zum Rechtsanspruch auf Ganztagesbetreuung",
+        "facts": "Stadträtin Plevka stellt mehrere Anträge zum Rechtsanspruch in der Ganztagesbetreuung.\n\nDie Anträge sind der Niederschrift als Anlage 4 beigefügt."
+      },
+      {
+        "number": "4.5.",
+        "title": "Sachstand zum Feuerwehrhaus Kirchfembach",
+        "facts": "Stadtrat Weber bittet um Sachstand zur Sanierung des Feuerwehrhauses in Kirchfembach."
+      },
+      {
+        "number": "4.6.",
+        "title": "Sachstand Gemeinschaftshaus Stinzendorf",
+        "facts": "Stadtrat Weber erkundigt sich nach dem Sachstand zum Gemeinschaftshaus in Stinzendorf. Hierüber wurde im Februar 2020 ein Beschluss gefasst und die Verwaltung beauftragt, Skizzen anzufertigen. Er bittet um aktuelle Informationen hierzu."
+      },
+      {
+        "number": "4.7.",
+        "title": "Geschwindigkeitsbegrenzung in der Zollnerstraße",
+        "facts": "Stadtrat Gawehn berichtet über starke Frostschäden der Straßenoberfläche in der Zollnerstraße und beantragt eine Geschwindigkeitsbegrenzung auf Tempo-30 zum Schutz und Erhalt der Fahrbahn."
+      },
+      {
+        "number": "4.8.",
+        "title": "Verkehrsunfälle Flurstraße",
+        "facts": "Stadtrat Gawehn erkundigt sich zu einem Antrag aus der Bürgerversammlung, bezüglich einer Geschwindigkeitsbegrenzung auf Tempo-30, aufgrund vermehrter Verkehrsunfälle in der Flurstraße. Er bittet um Nachfrage bei der Polizei, welche Unfälle sich dort ereignet haben."
+      },
+      {
+        "number": "5.",
+        "title": "Aufstockung Krippe \"Thüringer Straße\"; hier: Vorstellung der Entwurfsplanung und Erteilung des gemeindlichen Einvernehmens Der Tagesordnungspunkt wird in öffentlicher Sitzung vor Tagesordnungspunkt 2 behandelt.",
+        "facts": "Antrag zur Aufstockung einer vorhandenen Kinderkrippe in Holzmodulbauweise auf dem Grundstück Flur-Nr. 1016/8, Gemarkung Langenzenn.\n\nDie Planer Dürschinger Architekten & Partner mbH stellen dem Stadtrat die aktuellen Planungen und den Entwurf der Genehmigungsplanung vor. Der aktuelle Planungsstand ist im Ratsinformationssystem eingestellt.\n\nDerzeit werden Abstimmungen mit den Fachplanern geführt, insbesondere für die technische Gebäudeausstattung sowie Nachhaltigkeit und Gebäudeeffizienz.\n\nParallel werden die Anträge auf Fördermittel bearbeitet.",
+        "decision": "Der Stadtrat erteilt das gemeindliche Einvernehmen.\n\nDie Verwaltung wird beauftragt, eventuelle Anpassungen der Genehmigungsplanung und Abstimmungen mit der Bauaufsichtsbehörde beim Landratsamt Fürth in laufender Verwaltung durchzuführen.\n\n(Stadtrat Jäger ist während der Beschlussfassung nicht im Sitzungssaal anwesend.)",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 19,
+          "against": 0
+        }
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "161702",
+    "minutes": "161926"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "meetingId": "3147",
+  "announcement": {
+    "heading": "22. Sitzung des Werkausschusses",
+    "sessionNumber": 22,
+    "date": "2023-06-28",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Feststellung der Jahresabschlüsse 2018 bis 2019 der Stadtwerke Langenzenn und Entlastung (Art. 102 Abs. 3 GO)"
+      },
+      {
+        "number": "2.",
+        "title": "Beteiligungs- und Investitionsübersicht Stadtwerke Langenzenn"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "21. Juni 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "157216"
+  }
+}

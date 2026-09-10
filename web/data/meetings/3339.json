@@ -1,0 +1,95 @@
+{
+  "meetingId": "3339",
+  "announcement": {
+    "heading": "66. Sitzung des Hauptausschusses",
+    "sessionNumber": 66,
+    "date": "2025-04-03",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2025"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "28. März 2025",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "66. Sitzung des Hauptausschusses",
+    "sessionNumber": 66,
+    "date": "2025-04-03",
+    "startTime": "16:00",
+    "endTime": "17:40",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Zweiter Bürgermeister",
+        "members": [
+          {
+            "name": "Ell, Christian",
+            "note": "ab 16:42 Uhr"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ammon, Erich",
+            "note": "ab 16:19 Uhr"
+          },
+          {
+            "name": "Durlak, Manfred"
+          },
+          {
+            "name": "Erhart, Wolfgang"
+          },
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Jäger, Alfred"
+          },
+          {
+            "name": "Osswald, Birgit",
+            "note": "ab 16:05 Uhr"
+          },
+          {
+            "name": "Plevka, Melanie"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          },
+          {
+            "name": "Ströbel, Rainer"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "1.",
+        "title": "Haushaltsplanberatungen 2025",
+        "facts": "Zu Beginn der Sitzung erläutert die Kämmerin die Vorbereitungsmaßnahmen und das Zustandekommen eines Haushaltsplanes.\n\nDie Verwaltung informiert die Mitglieder des Hauptausschusses über die aktuellen Eckwerte des Haushaltsplanes 2025 und händigt eine Liste der Änderungen der einzelnen Haushaltsstellen sowie eine Übersicht der Einnahmen im Verwaltungshaushalt als Tischvorlage aus. Die Mindestzuführung von Verwaltungs- an den Vermögenshaushalt wird nach wie vor nicht erreicht und eine Genehmigungsfähigkeit des Haushalts liegt noch immer nicht vor.\n\nDie Verwaltung erläutert anhand der Änderungsliste die geänderten Einnahme- und Ausgabeansätze.\n\nFür die nächste Sitzung wird für die Stadträte ein neuer Haushaltsplanentwurf mit den Änderungen erstellt und im Sitzungsdienstprogramm bereitgestellt.\n\nDes Weiteren wurden Fragen der einzelnen Fraktionen an die Verwaltung bzgl. der Einnahme- und Ausgabeansätze gestellt. Die Verwaltung ist hiermit beauftragt, bis zur nächsten Sitzung der Haushaltsplanberatungen, die Fragen schriftlich zu beantworten (Fragenkatalog).",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "173834",
+    "minutes": "179502"
+  }
+}

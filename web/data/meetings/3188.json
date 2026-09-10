@@ -1,0 +1,80 @@
+{
+  "meetingId": "3188",
+  "announcement": {
+    "heading": "12. Sitzung des Ferienausschusses",
+    "sessionNumber": 12,
+    "date": "2023-08-07",
+    "startTime": "16:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Übernahme der Teilnahmekosten des Stadtrates für die Fachtagung \"Klimawandelanpassung durch Schwammlandschaften\" in Nürnberg"
+      },
+      {
+        "number": "2.",
+        "title": "Geschäftsbesorgungsverträge zwischen der Stadt Langenzenn / Hospitalstiftung Langenzenn und der Wohnungsbaugesellschaft der Stadt Langenzenn (WBG) / Stadtentwicklungsgesellschaft (SEG)"
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen"
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. August 2023",
+    "signedBy": "Habel, Erster Bürgermeister"
+  },
+  "minutes": {
+    "heading": "12. Sitzung des Ferienausschusses",
+    "sessionNumber": 12,
+    "date": "2023-08-07",
+    "startTime": "16:00",
+    "endTime": "16:24",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "items": [
+      {
+        "number": "1.",
+        "title": "Übernahme der Teilnahmekosten des Stadtrates für die Fachtagung \"Klimawandelanpassung durch Schwammlandschaften\" in Nürnberg",
+        "facts": "Erster Bürgermeister Habel informiert das Gremium über eine Fachtagung zum Thema „Klimawandelanpassung durch Schwammlandschaften“ am 18.10.2023 im Wasserwirtschaftsamt in Nürnberg und regt zur Teilnahme des gesamten Stadtrates an.\n\nAufgrund der Wichtigkeit der Thematik würden die hierfür anfallenden Teilnahmekosten pro Person in Höhe von 50,00 Euro von der Stadt übernommen werden.\n\nEin Flyer der Fachtagung ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Ferienausschuss beschließt die Übernahme der Teilnahmekosten des Stadtrates für die Fachtagung „Klimawandelanpassung durch Schwammlandschaften“ in Höhe von 50,00 € pro Teilnehmer.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "2.",
+        "title": "Geschäftsbesorgungsverträge zwischen der Stadt Langenzenn / Hospitalstiftung Langenzenn und der Wohnungsbaugesellschaft der Stadt Langenzenn (WBG) / Stadtentwicklungsgesellschaft (SEG)",
+        "facts": "Es wird klargestellt, dass die beschlossenen / bestehenden Geschäftsbesorgungsverträge zwischen der Stadt Langenzenn / Hospitalstiftung Langenzenn und der Wohnungsbaugesellschaft der Stadt Langenzenn (WBG) / Stadtentwicklungsgesellschaft (SEG), trotz des Beschlusses zur Änderung der Geschäftsordnungen vom 19.07.2023 bestand und Gültigkeit haben.",
+        "decision": "Der Ferienausschuss beschließt, dass die beschlossenen / bestehenden Geschäftsbesorgungsverträge zwischen der Stadt Langenzenn / Hospitalstiftung Langenzenn und der Wohnungsbaugesellschaft der Stadt Langenzenn (WBG) / Stadtentwicklungsgesellschaft (SEG), trotz des Beschlusses zur Änderung der Geschäftsordnungen vom 19.07.2023, bestand und Gültigkeit haben.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Mitteilungen Es liegen keine Mitteilungen vor."
+      },
+      {
+        "number": "4.",
+        "title": "Sonstiges"
+      },
+      {
+        "number": "4.1.",
+        "title": "Kameraanlage am Storchennest Kulturhof",
+        "facts": "Stadtrat Gawehn erkundigt sich nach der Kameraanlage am Storchennest beim Kulturhof. Er möchte wissen, ob diese bereits in Betrieb ist und wo man darauf zugreifen kann.\n\nErster Bürgermeister Habel teilt mit, dass die Webcam noch nicht einsatzfähig ist, da die Verkabelung noch nicht vollständig angebracht wurde.\n\nStadtrat Gawehn ist der Meinung, dass dieses Projekt abgeschlossen werden sollte und beantragt daher eine Ertüchtigung der Kameraanlage am Kulturhof."
+      }
+    ]
+  },
+  "sources": {
+    "announcement": "158354",
+    "minutes": "159016"
+  }
+}
