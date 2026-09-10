@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:council/features/meetings/data/dtos/meeting_detail_json.dart';
 import 'package:council/features/meetings/data/dtos/meeting_json.dart';
+import 'package:council/features/meetings/data/parsing/pdf_text.dart';
 import 'package:council/features/meetings/domain/entities/announcement.dart';
 import 'package:council/features/meetings/domain/entities/meeting.dart';
 import 'package:council/features/meetings/domain/entities/minutes.dart';
@@ -23,11 +24,20 @@ class CouncilArchive {
       File('${detailDirectory.path}/$meetingId.json');
 
   List<Meeting> readMeetings() {
-    if (!indexFile.existsSync()) return const [];
-    final json = jsonDecode(indexFile.readAsStringSync()) as Map<String, dynamic>;
+    final json = _readIndex();
+    if (json == null) return const [];
     return (json['meetings'] as List<dynamic>)
         .map((entry) => meetingFromJson(entry as Map<String, dynamic>))
         .toList();
+  }
+
+  /// Stored results are only reusable when they came out of the current
+  /// parsers; otherwise a parser fix would never reach documents already seen.
+  bool get isStale => (_readIndex()?['parserVersion'] as int?) != parserVersion;
+
+  Map<String, dynamic>? _readIndex() {
+    if (!indexFile.existsSync()) return null;
+    return jsonDecode(indexFile.readAsStringSync()) as Map<String, dynamic>;
   }
 
   StoredDetail? readDetail(String meetingId) {
@@ -70,6 +80,7 @@ class CouncilArchive {
       _encode({
         'generatedAt': DateTime.now().toUtc().toIso8601String(),
         'source': source,
+        'parserVersion': parserVersion,
         'meetings': meetings.map(meetingToJson).toList(),
       }),
     );

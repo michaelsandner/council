@@ -26,6 +26,7 @@ Future<void> main(List<String> args) async {
     final report = await runner.run(
       fromYear: options.fromYear,
       toYear: options.toYear,
+      force: options.force,
     );
     stdout.writeln(report);
     exitCode = 0;
@@ -35,17 +36,24 @@ Future<void> main(List<String> args) async {
 }
 
 class _Options {
-  _Options({required this.fromYear, required this.toYear, required this.output});
+  _Options({
+    required this.fromYear,
+    required this.toYear,
+    required this.output,
+    required this.force,
+  });
 
   final int fromYear;
   final int toYear;
   final String output;
+  final bool force;
 
   static _Options parse(List<String> args) {
     final now = DateTime.now().year;
     var fromYear = now - 3;
     var toYear = now + 1;
     var output = _outputPath;
+    final force = args.contains('--force');
 
     for (final arg in args) {
       final parts = arg.split('=');
@@ -59,6 +67,11 @@ class _Options {
           output = parts.last;
       }
     }
-    return _Options(fromYear: fromYear, toYear: toYear, output: output);
+    return _Options(
+      fromYear: fromYear,
+      toYear: toYear,
+      output: output,
+      force: force,
+    );
   }
 }

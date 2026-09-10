@@ -27,11 +27,19 @@ class ScrapeRunner {
   final AnnouncementParser announcementParser;
   final MinutesParser minutesParser;
 
-  Future<ScrapeReport> run({required int fromYear, required int toYear}) async {
+  Future<ScrapeReport> run({
+    required int fromYear,
+    required int toYear,
+    bool force = false,
+  }) async {
     final listParser = MeetingListParser(baseUrl: client.baseUrl);
     final previous = {
       for (final meeting in archive.readMeetings()) meeting.id: meeting,
     };
+    final reparseAll = force || archive.isStale;
+    if (reparseAll) {
+      log('Parser-Version geändert: alle Dokumente werden neu gelesen');
+    }
 
     final meetings = <String, Meeting>{};
     for (var year = fromYear; year <= toYear; year++) {
@@ -52,7 +60,7 @@ class ScrapeRunner {
 
     final report = ScrapeReport();
     for (final meeting in ordered) {
-      await _syncDetail(meeting, previous[meeting.id], report);
+      await _syncDetail(meeting, previous[meeting.id], report, reparseAll);
     }
 
     archive.writeIndex(ordered, source: client.baseUrl);
@@ -79,21 +87,23 @@ class ScrapeRunner {
     Meeting meeting,
     Meeting? previous,
     ScrapeReport report,
+    bool reparseAll,
   ) async {
     if (!meeting.hasDetails) return;
 
     final stored = archive.readDetail(meeting.id);
-    final rescheduled = previous != null && _scheduleChanged(previous, meeting);
+    final refetch =
+        reparseAll || (previous != null && _scheduleChanged(previous, meeting));
 
     final needsAnnouncement = _needsDownload(
       meeting.announcement,
       stored?.announcementDocumentId,
-      rescheduled,
+      refetch,
     );
     final needsMinutes = _needsDownload(
       meeting.minutes,
       stored?.minutesDocumentId,
-      rescheduled,
+      refetch,
     );
 
     if (!needsAnnouncement && !needsMinutes) return;
@@ -103,16 +113,20 @@ class ScrapeRunner {
 
     if (needsAnnouncement) {
       final document = meeting.announcement!;
-      log('  ↓ Bekanntmachung ${document.id} (${meeting.title}, '
-          '${_day(meeting.date)})');
+      log(
+        '  ↓ Bekanntmachung ${document.id} (${meeting.title}, '
+        '${_day(meeting.date)})',
+      );
       final text = await _textOf(document);
       announcement = announcementParser.parse(text);
       report.downloadedAnnouncements++;
     }
     if (needsMinutes) {
       final document = meeting.minutes!;
-      log('  ↓ Niederschrift ${document.id} (${meeting.title}, '
-          '${_day(meeting.date)})');
+      log(
+        '  ↓ Niederschrift ${document.id} (${meeting.title}, '
+        '${_day(meeting.date)})',
+      );
       final text = await _textOf(document);
       minutes = minutesParser.parse(text);
       report.downloadedMinutes++;
@@ -132,10 +146,10 @@ class ScrapeRunner {
   bool _needsDownload(
     MeetingDocument? document,
     String? storedDocumentId,
-    bool rescheduled,
+    bool refetch,
   ) {
     if (document == null) return false;
-    return rescheduled || storedDocumentId != document.id;
+    return refetch || storedDocumentId != document.id;
   }
 
   bool _scheduleChanged(Meeting previous, Meeting current) =>
