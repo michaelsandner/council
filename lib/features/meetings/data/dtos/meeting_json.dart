@@ -32,7 +32,8 @@ Map<String, dynamic> meetingToJson(Meeting meeting) => {
   if (meeting.location != null) 'location': meeting.location,
   if (meeting.announcement != null)
     'announcement': meetingDocumentToJson(meeting.announcement!),
-  if (meeting.minutes != null) 'minutes': meetingDocumentToJson(meeting.minutes!),
+  if (meeting.minutes != null)
+    'minutes': meetingDocumentToJson(meeting.minutes!),
 };
 
 Meeting meetingFromJson(Map<String, dynamic> json) => Meeting(

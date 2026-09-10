@@ -11,8 +11,10 @@ Map<String, dynamic> agendaItemToJson(AgendaItem item) => {
   'title': item.title,
 };
 
-AgendaItem agendaItemFromJson(Map<String, dynamic> json) =>
-    AgendaItem(number: json['number'] as String, title: json['title'] as String);
+AgendaItem agendaItemFromJson(Map<String, dynamic> json) => AgendaItem(
+  number: json['number'] as String,
+  title: json['title'] as String,
+);
 
 Map<String, dynamic> voteToJson(VoteResult vote) => {
   'summary': vote.summary,

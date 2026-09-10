@@ -11,7 +11,9 @@ class MeetingListParser {
 
   final String baseUrl;
 
-  static final _timeRange = RegExp(r'(\d{1,2}:\d{2})(?:\s*-\s*(\d{1,2}:\d{2}))?');
+  static final _timeRange = RegExp(
+    r'(\d{1,2}:\d{2})(?:\s*-\s*(\d{1,2}:\d{2}))?',
+  );
   static final _sessionId = RegExp(r'__ksinr=(\d+)');
   static final _calendarKey = RegExp(r'[?&]key=(\d+)');
   static final _documentId = RegExp(r'[?&]id=(\d+)');
@@ -92,7 +94,8 @@ class MeetingListParser {
   String _readId(Element row, DateTime date, String title) {
     for (final link in row.querySelectorAll('a')) {
       final href = link.attributes['href'] ?? '';
-      final session = _sessionId.firstMatch(href) ?? _calendarKey.firstMatch(href);
+      final session =
+          _sessionId.firstMatch(href) ?? _calendarKey.firstMatch(href);
       if (session != null) return session.group(1)!;
     }
     final day = date.toIso8601String().substring(0, 10);
@@ -108,7 +111,8 @@ class MeetingListParser {
           .querySelectorAll('a')
           .map((candidate) => candidate.attributes['href'])
           .firstWhere(
-            (candidate) => candidate != null && candidate.contains('getfile.php'),
+            (candidate) =>
+                candidate != null && candidate.contains('getfile.php'),
             orElse: () => null,
           );
       if (href == null) continue;
@@ -134,7 +138,9 @@ class MeetingListParser {
     final marker = code.toUpperCase();
     if (marker.startsWith('BM')) return MeetingDocumentKind.announcement;
     if (marker.startsWith('N')) return MeetingDocumentKind.minutes;
-    if (label.contains('Bekanntmachung')) return MeetingDocumentKind.announcement;
+    if (label.contains('Bekanntmachung')) {
+      return MeetingDocumentKind.announcement;
+    }
     if (label.contains('Niederschrift')) return MeetingDocumentKind.minutes;
     return null;
   }

@@ -4,7 +4,11 @@ import 'announcement.dart';
 import 'minutes.dart';
 
 class MeetingDetail extends Equatable {
-  const MeetingDetail({required this.meetingId, this.announcement, this.minutes});
+  const MeetingDetail({
+    required this.meetingId,
+    this.announcement,
+    this.minutes,
+  });
 
   final String meetingId;
   final Announcement? announcement;
