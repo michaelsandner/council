@@ -2,6 +2,7 @@ import 'package:bloc/bloc.dart';
 
 import '../../domain/entities/meeting.dart';
 import '../../domain/repositories/meeting_repository.dart';
+import 'meeting_filter.dart';
 import 'meetings_state.dart';
 
 class MeetingsCubit extends Cubit<MeetingsState> {
@@ -12,6 +13,9 @@ class MeetingsCubit extends Cubit<MeetingsState> {
   Future<void> load() => _fetch(showSpinner: true);
 
   Future<void> refresh() => _fetch(showSpinner: false);
+
+  void selectFilter(MeetingFilter filter) =>
+      emit(state.copyWith(filter: filter));
 
   Future<void> _fetch({required bool showSpinner}) async {
     if (state.isRefreshing) return;

@@ -5,6 +5,7 @@ import '../../../../core/formatting/german_date.dart';
 import '../../domain/entities/meeting.dart';
 import '../cubit/meetings_cubit.dart';
 import '../cubit/meetings_state.dart';
+import '../widgets/meeting_filter_bar.dart';
 import '../widgets/meeting_list_tile.dart';
 
 class MeetingsPage extends StatefulWidget {
@@ -97,43 +98,89 @@ class _MeetingsList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    if (state.isEmpty) {
+      return const _Refreshable(
+        child: _EmptyView('Noch keine Sitzungen vorhanden.'),
+      );
+    }
+    final meetings = state.visibleMeetings;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        MeetingFilterBar(
+          selected: state.filter,
+          onSelect: context.read<MeetingsCubit>().selectFilter,
+        ),
+        Expanded(
+          child: _Refreshable(
+            child: meetings.isEmpty
+                ? const _EmptyView('Keine Sitzungen für diesen Filter.')
+                : _MeetingsListView(
+                    meetings: meetings,
+                    state: state,
+                    onOpenMeeting: onOpenMeeting,
+                  ),
+          ),
+        ),
+      ],
+    );
+  }
+}
+
+class _Refreshable extends StatelessWidget {
+  const _Refreshable({required this.child});
+
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) {
     return RefreshIndicator(
       onRefresh: () => context.read<MeetingsCubit>().refresh(),
-      child: state.isEmpty
-          ? const _EmptyView()
-          : ListView.separated(
-              physics: const AlwaysScrollableScrollPhysics(),
-              padding: const EdgeInsets.fromLTRB(12, 4, 12, 24),
-              itemCount: state.meetings.length,
-              separatorBuilder: (context, index) =>
-                  _separatorFor(context, index),
-              itemBuilder: (context, index) {
-                final meeting = state.meetings[index];
-                return Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    if (index == 0) _MonthHeading(date: meeting.date),
-                    MeetingListTile(
-                      meeting: meeting,
-                      hasNewDocuments: state.hasNewDocuments(meeting),
-                      onTap: () => onOpenMeeting(meeting),
-                    ),
-                  ],
-                );
-              },
+      child: child,
+    );
+  }
+}
+
+class _MeetingsListView extends StatelessWidget {
+  const _MeetingsListView({
+    required this.meetings,
+    required this.state,
+    required this.onOpenMeeting,
+  });
+
+  final List<Meeting> meetings;
+  final MeetingsState state;
+  final void Function(Meeting meeting) onOpenMeeting;
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView.separated(
+      physics: const AlwaysScrollableScrollPhysics(),
+      padding: const EdgeInsets.fromLTRB(12, 4, 12, 24),
+      itemCount: meetings.length,
+      separatorBuilder: (context, index) => _separatorFor(index),
+      itemBuilder: (context, index) {
+        final meeting = meetings[index];
+        return Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            if (index == 0) _MonthHeading(date: meeting.date),
+            MeetingListTile(
+              meeting: meeting,
+              hasNewDocuments: state.hasNewDocuments(meeting),
+              onTap: () => onOpenMeeting(meeting),
             ),
+          ],
+        );
+      },
     );
   }
 
-  Widget _separatorFor(BuildContext context, int index) {
-    final current = state.meetings[index];
-    final next = state.meetings[index + 1];
-    final sameMonth =
-        current.date.year == next.date.year &&
-        current.date.month == next.date.month;
-    if (sameMonth) return const SizedBox(height: 8);
-
-    return _MonthHeading(date: next.date);
+  Widget _separatorFor(int index) {
+    final current = meetings[index].date;
+    final next = meetings[index + 1].date;
+    final sameMonth = current.year == next.year && current.month == next.month;
+    return sameMonth ? const SizedBox(height: 8) : _MonthHeading(date: next);
   }
 }
 
@@ -158,15 +205,17 @@ class _MonthHeading extends StatelessWidget {
 }
 
 class _EmptyView extends StatelessWidget {
-  const _EmptyView();
+  const _EmptyView(this.message);
+
+  final String message;
 
   @override
   Widget build(BuildContext context) {
     return ListView(
       physics: const AlwaysScrollableScrollPhysics(),
-      children: const [
-        SizedBox(height: 120),
-        Center(child: Text('Noch keine Sitzungen vorhanden.')),
+      children: [
+        const SizedBox(height: 120),
+        Center(child: Text(message, textAlign: TextAlign.center)),
       ],
     );
   }

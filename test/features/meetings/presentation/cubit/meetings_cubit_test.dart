@@ -1,4 +1,5 @@
 import 'package:bloc_test/bloc_test.dart';
+import 'package:council/features/meetings/presentation/cubit/meeting_filter.dart';
 import 'package:council/features/meetings/presentation/cubit/meetings_cubit.dart';
 import 'package:council/features/meetings/presentation/cubit/meetings_state.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -104,6 +105,65 @@ void main() {
       build: () => MeetingsCubit(repository),
       act: (cubit) => cubit.refresh(),
       verify: (cubit) => expect(cubit.state.isRefreshing, isFalse),
+    );
+  });
+
+  group('given no filter was chosen', () {
+    blocTest<MeetingsCubit, MeetingsState>(
+      'then every meeting is visible',
+      build: () => MeetingsCubit(repository),
+      act: (cubit) => cubit.load(),
+      verify: (cubit) {
+        expect(cubit.state.filter, MeetingFilter.all);
+        expect(cubit.state.visibleMeetings, hasLength(2));
+      },
+    );
+  });
+
+  group('given the minutes filter is chosen', () {
+    blocTest<MeetingsCubit, MeetingsState>(
+      'then only meetings with minutes are visible',
+      build: () => MeetingsCubit(repository),
+      act: (cubit) async {
+        await cubit.load();
+        cubit.selectFilter(MeetingFilter.minutes);
+      },
+      verify: (cubit) => expect(
+        cubit.state.visibleMeetings.map((meeting) => meeting.id),
+        ['1'],
+      ),
+    );
+  });
+
+  group('given the agenda filter is chosen', () {
+    blocTest<MeetingsCubit, MeetingsState>(
+      'then only meetings with an announcement are visible',
+      build: () => MeetingsCubit(repository),
+      act: (cubit) async {
+        await cubit.load();
+        cubit.selectFilter(MeetingFilter.agenda);
+      },
+      verify: (cubit) => expect(
+        cubit.state.visibleMeetings.map((meeting) => meeting.id),
+        ['2'],
+      ),
+    );
+  });
+
+  group('given another filter is chosen afterwards', () {
+    blocTest<MeetingsCubit, MeetingsState>(
+      'then it replaces the previous one',
+      build: () => MeetingsCubit(repository),
+      act: (cubit) async {
+        await cubit.load();
+        cubit
+          ..selectFilter(MeetingFilter.minutes)
+          ..selectFilter(MeetingFilter.all);
+      },
+      verify: (cubit) {
+        expect(cubit.state.filter, MeetingFilter.all);
+        expect(cubit.state.visibleMeetings, hasLength(2));
+      },
     );
   });
 }
