@@ -14,9 +14,6 @@ permissions:
   pages: write
   id-token: write
 
-env:
-  FLUTTER_VERSION: 3.47.3
-
 jobs:
   deploy:
     name: Auf GitHub Pages veröffentlichen
@@ -29,7 +26,7 @@ jobs:
 
       - uses: subosito/flutter-action@v2
         with:
-          flutter-version: ${{ env.FLUTTER_VERSION }}
+          flutter-version-file: .fvmrc
           channel: stable
           cache: true
 

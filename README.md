@@ -53,13 +53,18 @@ State-Handling über `bloc` mit Cubits.
 
 ## Entwicklung
 
-Die Flutter-Version ist über FVM auf 3.47.3 gepinnt.
+Die Flutter-Version steht nur in `.fvmrc`. VS Code (`.vscode/settings.json`)
+und alle Workflows (`flutter-version-file`) lesen sie von dort.
 
 ```bash
+fvm install
 fvm flutter pub get
 fvm flutter test
 fvm flutter run -d chrome
 ```
+
+Version wechseln mit `fvm use <version>`; das aktualisiert `.fvmrc` und die
+VS-Code-Einstellung.
 
 ## Scraper
 
