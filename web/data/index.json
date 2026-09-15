@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:33:41.176953Z",
+  "generatedAt": "2026-09-15T22:18:21.532741Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -91,6 +91,13 @@
       "id": "3448",
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2026-10-20",
+      "startTime": "17:00",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+    },
+    {
+      "id": "3462",
+      "title": "Stadtrat Langenzenn",
+      "date": "2026-10-15",
       "startTime": "17:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
     },
@@ -1257,26 +1264,6 @@
       }
     },
     {
-      "id": "3308",
-      "title": "Werkausschuss",
-      "date": "2025-07-22",
-      "startTime": "16:00",
-      "endTime": "17:17",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "176892",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=176892&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "183587",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-BIS",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=183587&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3370",
       "title": "Redaktionsausschuss",
       "date": "2025-07-22",
@@ -1294,6 +1281,26 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181461&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3308",
+      "title": "Werkausschuss",
+      "date": "2025-07-22",
+      "startTime": "16:00",
+      "endTime": "17:17",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "176892",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=176892&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "183587",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-BIS",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=183587&type=do&smcmode=32832"
       }
     },
     {
@@ -1536,25 +1543,6 @@
       }
     },
     {
-      "id": "3359",
-      "title": "Redaktionsausschuss",
-      "date": "2025-06-24",
-      "startTime": "10:30",
-      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
-      "announcement": {
-        "id": "175836",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=175836&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "181447",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-BIS",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181447&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3302",
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2025-06-24",
@@ -1572,6 +1560,25 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=178620&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3359",
+      "title": "Redaktionsausschuss",
+      "date": "2025-06-24",
+      "startTime": "10:30",
+      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+      "announcement": {
+        "id": "175836",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=175836&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "181447",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-BIS",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181447&type=do&smcmode=32832"
       }
     },
     {
@@ -1993,20 +2000,6 @@
       }
     },
     {
-      "id": "3287",
-      "title": "Werkausschuss",
-      "date": "2025-03-27",
-      "startTime": "16:00",
-      "endTime": "16:16",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "173480",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=173480&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3288",
       "title": "Hauptausschuss",
       "date": "2025-03-27",
@@ -2024,6 +2017,20 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=178596&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3287",
+      "title": "Werkausschuss",
+      "date": "2025-03-27",
+      "startTime": "16:00",
+      "endTime": "16:16",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "173480",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=173480&type=do&smcmode=32832"
       }
     },
     {
