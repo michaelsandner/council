@@ -1,0 +1,45 @@
+{
+  "meetingId": "3445",
+  "announcement": {
+    "heading": "Sitzung des Sozial-, Bildungs- und Kulturausschusses",
+    "date": "2026-09-30",
+    "startTime": "17:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Bericht der Arbeitsgruppe Demenzfreundliche Kommune Langenzenn"
+      },
+      {
+        "number": "2.",
+        "title": "Nachbericht Trödelmarkt 2026 & Änderungen Trödelmarkt 2027"
+      },
+      {
+        "number": "3.",
+        "title": "Sachstandsbericht zum Interessensbekundungsverfahren des Familienstützpunktes im Landkreis Fürth"
+      },
+      {
+        "number": "4.",
+        "title": "Sachstandsbericht zum Seniorenkonzept"
+      },
+      {
+        "number": "5.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "5.1.",
+        "title": "Neue Bürgersprechstunde: Wohnungsnothilfe"
+      },
+      {
+        "number": "6.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "24. September 2026",
+    "signedBy": "Christian Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "187224"
+  }
+}

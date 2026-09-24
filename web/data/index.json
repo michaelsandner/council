@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:15:49.484393Z",
+  "generatedAt": "2026-09-24T22:28:41.205260Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -120,21 +120,39 @@
       "title": "Hauptausschuss",
       "date": "2026-09-30",
       "startTime": "18:30",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187222",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187222&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3445",
       "title": "Sozial-, Bildungs- und Kulturausschuss",
       "date": "2026-09-30",
       "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187224",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187224&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3444",
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2026-09-29",
       "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187249",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187249&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3443",

@@ -1,0 +1,57 @@
+{
+  "meetingId": "3446",
+  "announcement": {
+    "heading": "Sitzung des Hauptausschusses",
+    "date": "2026-09-30",
+    "startTime": "18:30",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "1.",
+        "title": "Bericht über die Finanzsituation im 1. Halbjahr 2026 (Kassenstatistik)"
+      },
+      {
+        "number": "2.",
+        "title": "Hundesteuer; hier: Rückblick, Ausblick"
+      },
+      {
+        "number": "3.",
+        "title": "Sportfreunde Laubendorf e. V.;hier: Zuschussabrechnung für die Umwandlung eines Rasenkleinspielfeldes in ein Kunstrasenspielfeld"
+      },
+      {
+        "number": "4.",
+        "title": "Freiwillige Feuerwehr Stadt Langenzenn; hier: Ersatzbeschaffung eines Einsatzleitwagens 1 (ELW1)"
+      },
+      {
+        "number": "5.",
+        "title": "Reparatur Granitwürfel am Waldfriedhof"
+      },
+      {
+        "number": "6.",
+        "title": "Ausnahmegenehmigung von der Friedhofs- und Bestattungssatzung"
+      },
+      {
+        "number": "7.",
+        "title": "Abschluss einer Dienstvereinbarung zur Einführung von Langzeitarbeitskonten"
+      },
+      {
+        "number": "8.",
+        "title": "Beantwortung der Fragen des Rechnungsprüfungsausschusses aufgrund dessen Prüfung der Zeiträume 2020 + 2021"
+      },
+      {
+        "number": "9.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "10.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "24. September 2026",
+    "signedBy": "Christian Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "187222"
+  }
+}
