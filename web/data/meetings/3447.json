@@ -1,0 +1,40 @@
+{
+  "meetingId": "3447",
+  "announcement": {
+    "heading": "Sitzung des Stadtrates",
+    "date": "2026-10-07",
+    "startTime": "18:00",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "agenda": [
+      {
+        "number": "4.",
+        "title": "Bekanntgabe der nicht öffentlichen Beschlüsse"
+      },
+      {
+        "number": "5.",
+        "title": "Seniorenrat Langenzenn; hier: Bestätigung der neugewählten Mitglieder"
+      },
+      {
+        "number": "6.",
+        "title": "Abschluss einer Dienstvereinbarung zur Einführung von Langzeitarbeitskonten"
+      },
+      {
+        "number": "7.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "8.",
+        "title": "Sonstiges öffentlich"
+      }
+    ],
+    "notes": [
+      "Der öffentliche Teil der Sitzung beginnt ca 18:30Uhr."
+    ],
+    "closingNote": "Die hier fehlenden Tagesordnungspunkte werden in nichtöffentlicher Sitzung behandelt.",
+    "issuedOn": "1. Oktober 2026",
+    "signedBy": "Christian Ell, Erster Bürgermeister"
+  },
+  "sources": {
+    "announcement": "187451"
+  }
+}
