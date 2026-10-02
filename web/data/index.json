@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:15:31.691513Z",
+  "generatedAt": "2026-10-02T23:02:01.239636Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -74,6 +74,18 @@
       "location": "Finanzverwaltung, Sozialraum 2. Stock, Friedrich-Ebert-Straße 7, Langenzenn"
     },
     {
+      "id": "2026-11-10-stadtrat-langenzenn",
+      "title": "Stadtrat Langenzenn",
+      "date": "2026-11-10",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+    },
+    {
+      "id": "2026-10-28-stadtrat-langenzenn",
+      "title": "Stadtrat Langenzenn",
+      "date": "2026-10-28",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+    },
+    {
       "id": "3450",
       "title": "Hauptausschuss",
       "date": "2026-10-21",
@@ -98,8 +110,14 @@
       "id": "3462",
       "title": "Stadtrat Langenzenn",
       "date": "2026-10-15",
-      "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "startTime": "17:30",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187597",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187597&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3434",
@@ -126,6 +144,7 @@
       "title": "Hauptausschuss",
       "date": "2026-09-30",
       "startTime": "18:30",
+      "endTime": "10:27",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187222",
@@ -139,6 +158,7 @@
       "title": "Sozial-, Bildungs- und Kulturausschuss",
       "date": "2026-09-30",
       "startTime": "17:00",
+      "endTime": "17:48",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187224",
@@ -240,20 +260,6 @@
       }
     },
     {
-      "id": "3460",
-      "title": "Hauptausschuss",
-      "date": "2026-07-15",
-      "startTime": "17:00",
-      "endTime": "18:08",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "185658",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=185658&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3437",
       "title": "Stadtrat Langenzenn",
       "date": "2026-07-15",
@@ -265,6 +271,20 @@
         "kind": "announcement",
         "label": "BMÖffentliche Bekanntmachung",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=185657&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3460",
+      "title": "Hauptausschuss",
+      "date": "2026-07-15",
+      "startTime": "17:00",
+      "endTime": "18:08",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "185658",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=185658&type=do&smcmode=32832"
       }
     },
     {
@@ -1290,26 +1310,6 @@
       }
     },
     {
-      "id": "3370",
-      "title": "Redaktionsausschuss",
-      "date": "2025-07-22",
-      "startTime": "10:30",
-      "endTime": "10:40",
-      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
-      "announcement": {
-        "id": "176888",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=176888&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "181461",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-BIS",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181461&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3308",
       "title": "Werkausschuss",
       "date": "2025-07-22",
@@ -1327,6 +1327,26 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=183587&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3370",
+      "title": "Redaktionsausschuss",
+      "date": "2025-07-22",
+      "startTime": "10:30",
+      "endTime": "10:40",
+      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+      "announcement": {
+        "id": "176888",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=176888&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "181461",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-BIS",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181461&type=do&smcmode=32832"
       }
     },
     {
@@ -1569,6 +1589,25 @@
       }
     },
     {
+      "id": "3359",
+      "title": "Redaktionsausschuss",
+      "date": "2025-06-24",
+      "startTime": "10:30",
+      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
+      "announcement": {
+        "id": "175836",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=175836&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "181447",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-BIS",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181447&type=do&smcmode=32832"
+      }
+    },
+    {
       "id": "3302",
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2025-06-24",
@@ -1586,25 +1625,6 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=178620&type=do&smcmode=32832"
-      }
-    },
-    {
-      "id": "3359",
-      "title": "Redaktionsausschuss",
-      "date": "2025-06-24",
-      "startTime": "10:30",
-      "location": "Rathaus, Friedrich-Ebert-Str. 7, Langenzenn, 1. Stock Besprechungszimmer W1.12",
-      "announcement": {
-        "id": "175836",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=175836&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "181447",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-BIS",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=181447&type=do&smcmode=32832"
       }
     },
     {
@@ -2026,6 +2046,20 @@
       }
     },
     {
+      "id": "3287",
+      "title": "Werkausschuss",
+      "date": "2025-03-27",
+      "startTime": "16:00",
+      "endTime": "16:16",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "173480",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=173480&type=do&smcmode=32832"
+      }
+    },
+    {
       "id": "3288",
       "title": "Hauptausschuss",
       "date": "2025-03-27",
@@ -2043,20 +2077,6 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-BIS",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=178596&type=do&smcmode=32832"
-      }
-    },
-    {
-      "id": "3287",
-      "title": "Werkausschuss",
-      "date": "2025-03-27",
-      "startTime": "16:00",
-      "endTime": "16:16",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "173480",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=173480&type=do&smcmode=32832"
       }
     },
     {
@@ -2556,26 +2576,6 @@
       }
     },
     {
-      "id": "3275",
-      "title": "Werkausschuss",
-      "date": "2024-07-24",
-      "startTime": "16:00",
-      "endTime": "16:49",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "167286",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=167286&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "171207",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=171207&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3276",
       "title": "Hauptausschuss",
       "date": "2024-07-24",
@@ -2593,6 +2593,26 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=170608&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3275",
+      "title": "Werkausschuss",
+      "date": "2024-07-24",
+      "startTime": "16:00",
+      "endTime": "16:49",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "167286",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=167286&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "171207",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=171207&type=do&smcmode=32832"
       }
     },
     {
