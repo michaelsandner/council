@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:02:01.239636Z",
+  "generatedAt": "2026-10-06T00:51:26.319634Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -60,18 +60,18 @@
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
     },
     {
+      "id": "3435",
+      "title": "Rechnungsprüfungsausschuss",
+      "date": "2026-11-17",
+      "startTime": "18:00",
+      "location": "Finanzverwaltung, Sozialraum 2. Stock, Friedrich-Ebert-Straße 7, Langenzenn"
+    },
+    {
       "id": "3451",
       "title": "Stadtrat Langenzenn",
       "date": "2026-11-11",
       "startTime": "18:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
-    },
-    {
-      "id": "3435",
-      "title": "Rechnungsprüfungsausschuss",
-      "date": "2026-11-10",
-      "startTime": "18:00",
-      "location": "Finanzverwaltung, Sozialraum 2. Stock, Friedrich-Ebert-Straße 7, Langenzenn"
     },
     {
       "id": "2026-11-10-stadtrat-langenzenn",
