@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:51:26.319634Z",
+  "generatedAt": "2026-10-08T23:46:46.489716Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -58,6 +58,12 @@
       "date": "2026-11-24",
       "startTime": "17:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+    },
+    {
+      "id": "3468",
+      "title": "Bürgerversammlung",
+      "date": "2026-11-17",
+      "startTime": "18:30"
     },
     {
       "id": "3435",
@@ -131,6 +137,7 @@
       "title": "Stadtrat Langenzenn",
       "date": "2026-10-07",
       "startTime": "18:00",
+      "endTime": "20:02",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187451",
@@ -3036,26 +3043,6 @@
       }
     },
     {
-      "id": "3202",
-      "title": "Hauptausschuss",
-      "date": "2024-01-25",
-      "startTime": "17:00",
-      "endTime": "18:36",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
-      "announcement": {
-        "id": "162533",
-        "kind": "announcement",
-        "label": "BMÖffentliche Bekanntmachung",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=162533&type=do&smcmode=32832"
-      },
-      "minutes": {
-        "id": "167740",
-        "kind": "minutes",
-        "label": "NÖNiederschrift -Bürgerinfo-",
-        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=167740&type=do&smcmode=32832"
-      }
-    },
-    {
       "id": "3173",
       "title": "Werkausschuss",
       "date": "2024-01-25",
@@ -3073,6 +3060,26 @@
         "kind": "minutes",
         "label": "NÖNiederschrift -Bürgerinfo-",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=163309&type=do&smcmode=32832"
+      }
+    },
+    {
+      "id": "3202",
+      "title": "Hauptausschuss",
+      "date": "2024-01-25",
+      "startTime": "17:00",
+      "endTime": "18:36",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "162533",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=162533&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "167740",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=167740&type=do&smcmode=32832"
       }
     },
     {
