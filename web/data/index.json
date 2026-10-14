@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:18:46.251789Z",
+  "generatedAt": "2026-10-14T22:21:11.564538Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -109,7 +109,13 @@
       "title": "Hauptausschuss",
       "date": "2026-10-21",
       "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187797",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187797&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3448",
