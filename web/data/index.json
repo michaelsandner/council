@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:55:49.909125Z",
+  "generatedAt": "2026-10-21T22:25:26.797746Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -122,6 +122,7 @@
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2026-10-20",
       "startTime": "17:00",
+      "endTime": "19:18",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187921",
