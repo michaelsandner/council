@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:25:26.797746Z",
+  "generatedAt": "2026-10-23T22:19:05.276811Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -86,16 +86,24 @@
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
     },
     {
-      "id": "2026-10-28-stadtrat-langenzenn",
+      "id": "3463",
       "title": "Stadtrat Langenzenn",
       "date": "2026-10-28",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "startTime": "17:00",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "187643",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=187643&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3449",
       "title": "Werkausschuss",
       "date": "2026-10-21",
-      "startTime": "18:15",
+      "startTime": "18:20",
+      "endTime": "21:23",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187799",
@@ -108,7 +116,8 @@
       "id": "3450",
       "title": "Hauptausschuss",
       "date": "2026-10-21",
-      "startTime": "17:00",
+      "startTime": "20:00",
+      "endTime": "18:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187797",
