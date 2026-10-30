@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:19:05.276811Z",
+  "generatedAt": "2026-10-30T23:01:08.248969Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -63,7 +63,8 @@
       "id": "3468",
       "title": "Bürgerversammlung",
       "date": "2026-11-19",
-      "startTime": "18:30"
+      "startTime": "19:00",
+      "location": "Seerose Horbach"
     },
     {
       "id": "3435",
@@ -90,6 +91,7 @@
       "title": "Stadtrat Langenzenn",
       "date": "2026-10-28",
       "startTime": "17:00",
+      "endTime": "18:33",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187643",
