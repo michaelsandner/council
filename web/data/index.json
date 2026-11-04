@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:38:50.901696Z",
+  "generatedAt": "2026-11-04T00:00:38.649384Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -413,6 +413,12 @@
         "kind": "announcement",
         "label": "BMÖffentliche Bekanntmachung",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=184228&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "186289",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=186289&type=do&smcmode=32832"
       }
     },
     {
