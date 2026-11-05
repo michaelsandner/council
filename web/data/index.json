@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:00:38.649384Z",
+  "generatedAt": "2026-11-05T00:25:07.097821Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -77,8 +77,14 @@
       "id": "3451",
       "title": "Stadtrat Langenzenn",
       "date": "2026-11-11",
-      "startTime": "18:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "startTime": "17:00",
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "188228",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188228&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3467",
