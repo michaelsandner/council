@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:25:07.097821Z",
+  "generatedAt": "2026-11-18T01:39:24.276560Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -39,15 +39,15 @@
       "location": "Finanzverwaltung, Sozialraum 2. Stock, Friedrich-Ebert-Straße 7, Langenzenn"
     },
     {
-      "id": "3454",
-      "title": "Hauptausschuss",
+      "id": "3453",
+      "title": "Sozial-, Bildungs- und Kulturausschuss",
       "date": "2026-11-25",
-      "startTime": "18:00",
+      "startTime": "19:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
     },
     {
-      "id": "3453",
-      "title": "Sozial-, Bildungs- und Kulturausschuss",
+      "id": "3454",
+      "title": "Hauptausschuss",
       "date": "2026-11-25",
       "startTime": "17:00",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
@@ -71,6 +71,7 @@
       "title": "Rechnungsprüfungsausschuss",
       "date": "2026-11-17",
       "startTime": "18:00",
+      "endTime": "19:45",
       "location": "Finanzverwaltung, Sozialraum 2. Stock, Friedrich-Ebert-Straße 7, Langenzenn"
     },
     {
@@ -405,6 +406,12 @@
         "kind": "announcement",
         "label": "BMÖffentliche Bekanntmachung",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=184586&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "188439",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188439&type=do&smcmode=32832"
       }
     },
     {
@@ -543,6 +550,12 @@
         "kind": "announcement",
         "label": "BMÖffentliche Bekanntmachung",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=182949&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "188438",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188438&type=do&smcmode=32832"
       }
     },
     {
@@ -627,6 +640,12 @@
         "kind": "announcement",
         "label": "BMÖffentliche Bekanntmachung",
         "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=182256&type=do&smcmode=32832"
+      },
+      "minutes": {
+        "id": "188431",
+        "kind": "minutes",
+        "label": "NÖNiederschrift -Bürgerinfo-",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188431&type=do&smcmode=32832"
       }
     },
     {

@@ -95,7 +95,326 @@
     "issuedOn": "19. März 2026",
     "signedBy": "Habel, Erster Bürgermeister"
   },
+  "minutes": {
+    "heading": "67. Sitzung des Bau-, Umwelt- und Verkehrsausschusses",
+    "sessionNumber": 67,
+    "date": "2026-03-24",
+    "startTime": "16:00",
+    "endTime": "19:40",
+    "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+    "present": [
+      {
+        "role": "Stellvertretender Vorsitzender",
+        "members": [
+          {
+            "name": "Durlak, Manfred",
+            "note": "Vertretung für Ersten Bürgermeister Habel"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Ritter, Margit"
+          },
+          {
+            "name": "Schendzielorz-Kostopoulos, Jutta"
+          },
+          {
+            "name": "Schlager, Anni"
+          },
+          {
+            "name": "Schramm, Alexander"
+          },
+          {
+            "name": "Vogel, Oliver"
+          }
+        ]
+      },
+      {
+        "role": "Stellvertreter",
+        "members": [
+          {
+            "name": "Plevka, Melanie, Zweite Bürgermeisterin",
+            "note": "für Stadträtin Franz"
+          },
+          {
+            "name": "Roscher, Klaus",
+            "note": "für Stadtrat Sieber, bis TOP 10.7.1"
+          }
+        ]
+      },
+      {
+        "role": "Zuhörer aus dem Stadtrat",
+        "members": [
+          {
+            "name": "Gawehn, Michael"
+          },
+          {
+            "name": "Schwämmlein, Gerd"
+          }
+        ]
+      }
+    ],
+    "absent": [
+      {
+        "role": "Erster Bürgermeister",
+        "members": [
+          {
+            "name": "Habel, Jürgen"
+          }
+        ]
+      },
+      {
+        "role": "Ausschussmitglieder",
+        "members": [
+          {
+            "name": "Franz, Irene"
+          },
+          {
+            "name": "Sieber, Christian"
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "number": "2.",
+        "title": "Beschlussfassungen zu Ortsbesichtigungen",
+        "facts": "Die Örtlichkeit wurde unter Tagesordnungspunkt 1. in nichtöffentlicher Sitzung besichtigt.\n\nDie Beratung und Abstimmung erfolgen in öffentlicher Sitzung.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss beschließt dem Antrag nicht stattzugeben. Die Nutzung der städtischen Fläche für die dauerhafte Aufstellung von Mülltonnenboxen vor dem Anwesen Prinzregentenplatz 6 wird abgelehnt. Die Entfernung von städtischen Schildern und Kabeln auf privater Grundstücksfläche ist zu veranlassen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.",
+        "title": "Baugesuche und Anträge auf Vorbescheid"
+      },
+      {
+        "number": "3.1.",
+        "title": "Antrag auf Neubau eines Einfamilienwohnhauses mit Doppelgarage auf dem Grundstück Am Druidenranken 1",
+        "facts": "Antrag auf Neubau eines Einfamilienwohnhauses mit Doppelgarage und Antrag auf Befreiung von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform der Garage auf dem Grundstück Flur-Nr. 553/3, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen gem. § 36 BauGB, soweit dieses für das Vorhaben erforderlich ist.\n\nDie Befreiung/Ausnahme von den Festsetzungen des Bebauungsplanes hinsichtlich der Dachform der Garage wird erteilt.\n\nFür den Fall jedoch, dass die Genehmigungsbehörde das Vorhaben als ein solches nach § 31 Abs. 3 oder § 246e BauGB einstuft, wird die Zustimmung nach § 36a BauGB nicht erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.2.",
+        "title": "Antrag zur Errichtung eines Einfamilienhauses mit Carport auf dem Grundstück Am Druidenranken 8",
+        "facts": "Antrag zur Errichtung eines Einfamilienhauses mit Carport auf dem Grundstück Flur-Nr. 553/11, Gemarkung Keidenzell.\n\nDie Verwaltung teilt mit, dass das beantragte Bauvorhaben nicht den Festsetzungen des Bebauungsplanes Nr. 53 „Stinzendorf Südwest“ entspricht.\n\nIm Bebauungsplan ist festgesetzt, dass Kniestöcke grundsätzlich ausgeschlossen sind. Ausnahmsweise können diese bis zu einer Höhe von maximal 1,0 m zugelassen werden, gemessen von der Oberkante der Rohdecke bis zum Schnittpunkt der Außenwand mit der Dachhaut. Eine Ausnahme kann zugelassen werden, wenn aufgrund der Gebäudebreite und der Dachneigung die maximal zulässige Firsthöhe noch nicht erreicht wird.\n\nIm vorliegenden Fall wird eine Befreiung für eine Kniestockhöhe von 2,455 m beantragt und damit die zulässige maximale Höhe deutlich überschritten.\n\nDarüber hinaus wird eine Befreiung hinsichtlich der Einfriedung beantragt. Nach den Festsetzungen des Bebauungsplanes dürfen Mauern (einschließlich Gabionenwände) als Einfriedungen pro Grundstück eine Länge von maximal 10 m nicht überschreiten. Im vorliegenden Bauvorhaben ist jedoch die Errichtung einer Stützwand mit einer Höhe von 1,60 m über eine Länge von ca. 52 m vorgesehen, verbunden mit einer entsprechenden Geländeauffüllung.\n\nNach Rücksprache mit dem Landratsamt Fürth würden die beantragten Befreiungen die Grundzüge der Planung beeinträchtigen. Eine Befreiung kann daher – auch unter Berücksichtigung der topographischen Lage des Grundstücks – nicht befürwortet werden. Eine Baugenehmigung wäre in dieser Form nicht in Aussicht zu stellen.\n\nEine Umplanung, insbesondere hinsichtlich der Kniestockhöhe, erscheint zielführend, da vergleichbare Kniestockerhöhungen in der umliegenden Bebauung bislang ebenfalls nicht befürwortet bzw. genehmigt wurden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt nicht das gemeindliche Einvernehmen gem. § 36 BauGB.\n\nDie beantragten Befreiungen von den Festsetzungen des Bebauungsplanes hinsichtlich der Einfriedungslänge sowie der Kniestockhöhe werden nicht erteilt, da hierdurch die Grundzüge des Bebauungsplanes beeinträchtigt werden.\n\nFür den Fall jedoch, dass die Genehmigungsbehörde das Vorhaben als ein solches nach § 31 Abs. 3 oder § 246e BauGB einstuft, wird die Zustimmung nach § 36a BauGB nicht erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.3.",
+        "title": "Antrag zur Errichtung von drei Presenterfahnen auf dem Grundstück Mühlsteig 45",
+        "facts": "Antrag zur Errichtung von drei Presenterfahnen und Antrag auf Ausnahme von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe der Anlage auf dem Grundstück Flur-Nr. 981/23, Gemarkung Keidenzell.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen gem. § 36 BauGB.\n\nEine Ausnahme von den Festsetzungen der Werbeanlagensatzung der Stadt Langenzenn bezüglich der Größe der Anlage wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.4.",
+        "title": "Antrag zum Umbau einer Grenzgarage mit Flachdach und Begrünung auf dem Grundstück Oberfembacher Straße 4a",
+        "facts": "Antrag zum Umbau einer Grenzgarage mit Flachdach und Begrünung auf dem Grundstück Flur-Nr. 63, Gemarkung Kirchfembach.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen gem. § 36 BauGB.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.5.",
+        "title": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Interims-Kindertagesstätte in Modul-Containerbauweise auf dem Grundstück Fl.-Nr. 1016/9",
+        "facts": "Antrag auf Verlängerung der Baugenehmigung zur Errichtung einer Interims-Kindertagesstätte in Modul-Containerbauweise auf dem Grundstück Fl.-Nr. 1016/9.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt das gemeindliche Einvernehmen gem. § 36 BauGB.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.6.",
+        "title": "Bauvoranfrage zur Nutzungsänderung eines Fahrsilos in eine landwirtschaftliche Maschinenhalle und in eine Gewerbehalle auf dem Grundstück Nähe Leitenstraße",
+        "facts": "Die Verwaltung teilt mit, dass eine Bauvoranfrage zur Nutzungsänderung eines bestehenden Fahrsilos in eine landwirtschaftliche Maschinenhalle mit Satteldach auf dem Grundstück Flur- Nr. 1081/0, Gemarkung Laubendorf, eingereicht wurde.\n\nNach den vorgelegten Unterlagen soll das Gebäude zunächst als landwirtschaftliche Maschinenhalle genutzt werden. Darüber hinaus ist beabsichtigt, das Gebäude ggf. auch als gewerbliche Lagerhalle zu vermieten.\n\nDas Vorhaben liegt ggf. im bauplanungsrechtlichen Außenbereich und ist daher nach § 35 BauGB zu beurteilen.\n\nEine Nutzung als landwirtschaftliche Maschinenhalle kann gem. § 35 Abs. 1 Nr. 1 BauGB privilegiert zulässig sein, sofern ein landwirtschaftlicher Betrieb vorliegt und das Vorhaben diesem Betrieb dient.\n\nEine Nutzung als gewerbliche Lagerhalle stellt hingegen kein privilegiertes Vorhaben im Sinne des § 35 Abs. 1 BauGB dar. Eine entsprechende gewerbliche Nutzung wäre im Außenbereich regelmäßig bauplanungsrechtlich unzulässig, sofern öffentliche Belange beeinträchtigt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen nach § 36 BauGB zur Nutzungsänderung des bestehenden Fahrsilos in eine landwirtschaftliche Maschinenhalle in Aussicht, sofern im weiteren Verfahren durch die zuständige Genehmigungsbehörde die Privilegierung gem. § 35 Abs. 1 Nr. 1 BauGB nachgewiesen wird.\n\nFür eine Nutzung des Gebäudes als gewerbliche Lagerhalle wird das gemeindliche Einvernehmen nach § 36 BauGB nicht in Aussicht gestellt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.7.",
+        "title": "Bauvoranfrage zur Errichtung eines Bungalows auf dem Grundstück Nähe Forststraße",
+        "facts": "Bauvoranfrage zur Errichtung eines Bungalows auf dem Grundstück Flur-Nr. 1142, Gemarkung Keidenzell.\n\nDie Verwaltung teilt mit, dass für das betreffende Grundstück bereits im Jahr 2022 eine Bauvoranfrage zur Errichtung eines Einfamilienwohnhauses eingereicht und in der Bau-, Umwelt- und Verkehrsausschusssitzung vom 28.06.2022 behandelt wurde. Das gemeindliche Einvernehmen wurde seinerzeit in Aussicht gestellt.\n\nDas Landratsamt hatte die bauplanungsrechtliche Zulässigkeit gem. § 34 BauGB grundsätzlich bejaht, sofern die Erschließung des Grundstücks gesichert ist bzw. durch eine dingliche Sicherung in Form eines Geh-, Fahr- und Leitungsrechts gewährleistet wird. Die wegemäßige Erschließung war ursprünglich über die Ansbacher Straße vorgesehen.\n\nIn der nunmehr eingereichten Bauvoranfrage ist hingegen vorgesehen, die Erschließung über die Forststraße unter Inanspruchnahme des Vorderliegergrundstückes Forststraße 4 Flur-Nr. 1143/2 vorzunehmen, welches sich zwischenzeitlich im Eigentum des Bauherrn befindet.\n\nHierfür wäre ein Rückbau der bestehenden Garage erforderlich, um eine Zufahrtsmöglichkeit zu schaffen. Der hierdurch entfallende Stellplatz wäre auf dem Grundstück Forststraße 4 anderweitig nachzuweisen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen gem. § 36 BauGB in Aussicht.\n\nHinweis: Der durch den Rückbau der bestehenden Garage als Zufahrtsmöglichkeit entfallene Stellplatz für das Grundstück Forststraße 4 ist gemäß der Stellplatzsatzung der Stadt Langenzenn in geeigneter Weise anderweitig nachzuweisen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.8.",
+        "title": "Bauvoranfrage zur Errichtung einer Dachterrasse und einer Garage auf dem Grundstück Meisenweg 3",
+        "facts": "Bauvoranfrage zur Errichtung einer Dachterrasse und einer Garage auf dem Grundstück Flur-Nr. 1343/4, Gemarkung Langenzenn.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt das gemeindliche Einvernehmen gem. § 36 BauGB in Aussicht.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.9.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Verlegung der PV- Module (westseitige Ansicht) auf dem Grundstück Klosterstraße 3b",
+        "facts": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Verlegung der PV-Module (westseitige Ansicht) auf dem Grundstück Flur-Nr. 214/2, Gemarkung Langenzenn.\n\nZur städtebaulichen Beratung liegen der Verwaltung bereits zwei Stellungnahmen (01.07.24, 26.02.2026) vom Büro Projekt 4, Nürnberg, vor.\n\nHierzu wird u.a. folgendes mitgeteilt / empfohlen (Stellungnahme vom 26.02.2026):\n\nStellungnahme / Empfehlung\n\nIn unserer Stellungnahme vom 01.07.2024 sind wir bereits auf die Situation und Bedeutung der Lage des Gebäudes eingegangen. Die Inhalte dieser Stellungnahme sind Grundlage für die weiteren Aussagen aus städtebaulicher Sicht.\n\nFolgende Aspekte sind bei der Errichtung von Solaranlagen im Bereich des Sanierungsgebietes zu berücksichtigen:\n\n   Liegt ein Gebäude im Sanierungsgebiet, dann sind alle Maßnahmen am Gebäude genehmigungs-pflichtig und es gilt die Gestaltungssatzung. Alle Solaranlagen im Sanierungsgebiet sind abzustimmen.    Darüber hinaus ist bei Baudenkmälern und in Denkmalnähe die denkmalpflegerische Erlaubnis einzuholen.    Das Stadtbild ist so gering wie möglich zu beeinträchtigen. Solaranlagen sind vorrangig auf öffentlich nicht einsehbaren Nebenflächen und weniger einsehbaren Bereichen des Daches/ der Fassade anzubringen.    Das Erscheinungsbild des Gebäudes steht im Vordergrund. Die Solaranlage ist in der Dimensionierung so zu beschränken, dass ein ausgewogenes Gesamtbild der Dachfläche entsteht.    Die Solaranlagen sind in die Dachflächen gestalterisch zu integrieren.    Besondere Rücksichtnahme auf die ortsräumliche Situation, historische Strukturen und die unmittelbare Nachbarschaft. Maßgeblich ist das Gesamterscheinungsbild im Straßenraum.\n\nGrundsätzlich sind im Sanierungsgebiet folgende Gestaltungkriterien zu berücksichtigen:\n\n    Module matt, rahmenlos oder mit Rahmen in gleicher Farbe, nicht glänzend, nicht reflektierend, ohne sichtbare Binnenstrukturen     Verwendung einheitlicher Module (Format, Größe, Farbe)     Klare, geometrische Grundformen ausbilden (Rechtecke, Bänder); kein sägezahnartiges Aussparen und Abtreppen einzelner Module     Sichtbare Unterkonstruktion und Leitungsführung auf das Minimum reduzieren\n\nFazit      Das betroffene Gebäude befindet sich im Sanierungsgebiet, innerhalb des Ensemblebereiches und in unmittelbarer Nähe zu denkmalgeschützten Gebäuden. Die Klosteranlage befindet sich direkt gegenüber. Die Dachflächen sind öffentlich einsehbar. Die ortsräumliche Situation, die benachbarten historische Strukturen und die unmittelbare Nachbarschaft von Baudenkmälern erfordern eine besondere Rücksichtnahme. Maßgeblich ist das Gesamterscheinungsbild im Straßenraum.\n\n    Die vorhandenen Module können aufgrund der Rahmung und Binnenstruktur nicht verwendet werden (siehe vorab). Die vorgelegte Skizze mit Darstellung der Lage der Module ist nicht maßstäblich. Die Anzahl der Module ist nachvollziehbar, aber die Formate und tatsächliche Anordnung auf der Dachfläche lassen sich nicht nachvollziehen, da die dargestellten Module nicht den tatsächlichen Formaten der Module entsprechen. Um eine abschließende Stellungnahme vornehmen zu können, ist eine maßstabsgerechte Zeichnung vorzulegen.\n\nDie Verwaltung informiert, dass der Antragsteller bereits entsprechend unterrichtet wurde. Am 20.03.2026 fand hierzu eine Besprechung zwischen dem Antragsteller, dem Büro Projekt 4 sowie der Verwaltung statt. Dabei wurde dem Antragsteller mitgeteilt, dass die eingereichte Anordnung der Module sowie die gewählte Modulart nicht den geltenden Gestaltungsvorschriften entsprechen. Mögliche Lösungsansätze zur angepassten Anordnung wurden erörtert. Der Antragsteller beabsichtigt, die Planung zu überarbeiten und eine entsprechende Tektur einzureichen.\n\nVor diesem Hintergrund wird vorgeschlagen, den Antrag auf denkmalschutzrechtliche Erlaubnis abzulehnen. Zur Begründung wird unter anderem auf den kürzlich aufgestellten Solarrahmenplan der Stadt Langenzenn verwiesen, in dem die maßgeblichen Gestaltungskriterien festgelegt sind.\n\nAus Sicht der Verwaltung kann dem Antrag daher nicht zugestimmt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss erteilt hierzu nicht die Zustimmung, da die vorgelegte Planung den gestalterischen Anforderungen im Sanierungsgebiet „Altstadt Langenzenn“, den Vorgaben des Solarrahmenplans sowie den denkmalpflegerischen Belangen nicht entspricht.\n\nInsbesondere ist aufgrund der Lage im Ensemblebereich und der Einsehbarkeit der Dachflächen eine Beeinträchtigung des Orts- und Straßenbildes zu erwarten.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "3.10.",
+        "title": "Antrag auf denkmalschutzrechtliche Erlaubnis zur Kabelverlegung auf den Grundstücken Denkmalplatz/Friedrich-Ebert-Straße/Sanktustorstraße",
+        "facts": "Antrag auf denkmalschutzrechtlicher Erlaubnis zur Neuverlegung von Telekommunikationslinien zur Anbindung eines Mobilfunkmastes bei Langenzenn der Vodafone GmbH.\n\nBeantragt ist die Verlegung von:  3x PE-HD DA 50x4,6mm im gesteuerte Spülbohrverfahren,  Betroffene Flurstücke: 16, 32/11, 32/9, 32/13, 56, 32/14, 32/15, 37, 32/2, 364/8 Gemarkung Langenzenn  Oberflächlicher Eingriff: 2 Bohrgruben (ca. 1,5*2m) (Fl.-Nr. 32/13 u. Fl.-Nr. 32/2)  Ausführungszeit: 1. Quartal/2026",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss stellt fest, dass der Maßnahme zugestimmt werden kann.\n\nNach Beendigung der Maßnahme ist der ursprüngliche Zustand fachgerecht und vollständig wiederherzustellen. Die in dem Bereich vorhandenen Versorgungsleitungen (hier: u. a. Glasfaserkabel der Deutschen Telekom) sind im Rahmen der Durchführung der Maßnahme entsprechend zu berücksichtigen und dauerhaft vor Beeinträchtigungen zu sichern.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "4.",
+        "title": "Bauleitplanung"
+      },
+      {
+        "number": "4.1.",
+        "title": "Schulcampus Langenzenn; hier: Vorstellung der Vorentwürfe zur Aufstellung des Bebauungsplanes Nr. 89 „Schulcampus“ und zur 12. Änderung des Flächennutzungsplanes",
+        "facts": "In der Stadtratssitzung vom 18.03.2026 wurde die Aufstellung des Bebauungsplanes Nr. 89 „Schulcampus“ sowie die Anpassung des Aufstellungsbeschlusses zur 12. Änderung des Flächennutzungsplanes mit integriertem Landschaftsplan beschlossen. Zudem wurde der Aufhebungsbeschluss zur 2. Änderung des Bebauungsplan Nr. 61 „GE VII“ gefasst. Die Verwaltung wurde auch beauftragt die Vorentwürfe dieser Bauleitplanungen zur Kenntnisnahme in der nächsten Sitzung des Bau-, Umwelt- und Verkehrsausschusses vorzulegen, die mit Stand 19.03.2026 erarbeitet wurden.\n\nIm Bebauungsplan werden im Osten die Bereiche für den Schulcampus als Flächen für den Gemeinbedarf mit Zweckbestimmung „Schule“ festgesetzt. Die Festsetzungen wurden so gewählt, dass sie das derzeitige Konzept für den Neubau des Gymnasiums und einer Turnhalle im Norden ermöglichen und den baulichen Bestand im Süden für die Realschule absichern. Im Westen wird ein Sonstiges Sondergebiet nach § 12 BauNVO mit Zweckbestimmung „Hallenbad“ festgesetzt. Die dortigen Festsetzungen orientieren sich im Hinblick auf das Maß der baulichen Nutzung an den Festsetzungen des bisherigen BP Nr. 61 „GE VIII“ (Stand 1. Änderung), der durch den vorliegenden Bebauungsplan ja vollständig überplant wird. Eine Emissionskontingentierung ist für diesen Bereich aufgrund der geänderten Art der baulichen Nutzung nicht mehr erforderlich. Zudem werden die Verkehrsflächen gemäß der aktuellen Erschließungsplanung festgesetzt.\n\nDa sowohl die Hochbau- als auch die Freianlagenplanung für den Schulcampus noch nicht abgeschlossen sind, wird es zum Entwurf hin zu Anpassungen der Planung kommen. Insbesondere die grünordnerischen Festsetzungen stellen noch keinen abschließenden Stand dar.\n\nZudem werden derzeit noch Gutachten erarbeitet (u.a. artenschutzrechtliches Gutachten, Immissionsschutz), die im Entwurf Berücksichtigung finden werden. Nach Kenntnisnahme der Vorentwürfe könnten aber die frühzeitigen Beteiligungsschritte nach BauGB durchgeführt und Stellungnahmen eingeholt werden.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt den Vorentwurf der 12. Änderung des Flächennutzungsplanes mit integriertem Landschaftsplan sowie den Vorentwurf des Bebauungsplan Nr. 89 „Schulcampus“ zur Kenntnis und beschließt die frühzeitige Beteiligung gem. § 3 Abs. 1 BauGB durch die Verwaltung durchführen zu lassen.\n\nDie Verwaltung wird außerdem beauftragt, die Durchführung der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 1 BauGB sowie die Abstimmung mit den Nachbargemeinden nach § 2 Abs. 2 BauGB durchzuführen.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.",
+        "title": "Verkehrsangelegenheiten"
+      },
+      {
+        "number": "5.1.",
+        "title": "Aktuelle Baustellen/ Verkehrssperrungen",
+        "facts": "   Flurstraße 18b / Vollsperrung Fahrbahn/ Err. EFH, Rohbauarbeiten vom 02.02.- 10.04.2026\n\n   Aubweg an der Laubendorfer Brücke/ Aufgrabung Anschlusskabel Winterprovisorium / Sicherung Seitenraum, Fahrbahneinengung bis 31.03.26\n\n   Hindenburgstraße 44-46 / Sperrung Gehweg / Sanierung MFH / SN Baustelleneinrichtung, Baukran, Gerüst, bis 30.06.2026\n\n   Schießhausplatz, Sperrung Fahrbahn, Sperrung Gehweg, Sperrung Parkflächen / Umgestaltung Parkplatz Schießhausplatz - BA 2 (Teil 1 und 2) bis 30.04.2026\n\n   Reichenberger Straße (Parkplätze nähe Hallenbad) / Parkplatzsperrung / Lagerung von Baumaterial Glasfaserausbau bis 03.04.2026\n\n   Untere Ringstraße 20 / teilw. Sperrung Gehweg / Dachsanierung / SN Gerüst mit Tunnel von 13.02.-24.04.2026\n\n   Vollsperrung Bahnübergang Ziegenberg (BÜ km 6,067) Firmenzufahrt, Gleißbauarbeiten DB InfraGO vom 04.04.-10.04.2026\n\n   Reichenberger Straße, Karlsbader Straße / Abschnittsweise teilweise Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 02.03.-03.04.2026\n\n   Würzburger Straße 24 ggü / Sperrung Gehweg, Fahrbahneinengung/ Glasfasernetzausbau / 02.03.-03.04.2026\n\n   Werkstraße 10-13 / Halbseitige Sperrung Fahrbahn, Sperrung Gehweg, zeitweise Sperrung Parkflächen/ Tiefbauarbeiten Erneuerung Wasserleitung vom 23.3.- 30.04.2026\n\n   Diverse Straßen, Halbseitige Sperrung /Behebung Schäden an Beleuchtungsmasten vom 09.03.-20.03.2026\n\n   Gartenstraße 10/ Fahrbahneinengung Sperrung Gehweg / Störungsbeseitigung VKD bis 20.03.2026\n\n   Cadolzburger Weg 33 / Fahrbahneinengung/ Dachumdeckung/ SN Container, Kran, Baumaterial v. 11.03.-27.03.2026\n\n   Zollnerstraße/ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 17.04.2026\n\n   Flurstraße, Gartenstr. Gustav-Adolf-Str./ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 17.04.2026\n\n   Flurstraße, Cadolzburger Weg, Schäfersbuck/ Sperrung Gehweg, halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / 17.04.2026\n\n   Blumenstraße 8/ halbseitige Sperrung Fahrbahn / Austausch defektes Schieberkreuz Wasserversorgung vom 16.3.-23.3.2026\n\n   Falkenstraße 26/ Fahrbahneinengung / Aufstellung Container, Bauschuttmulde vom 16.03.-21.03.2026\n\n   Lilienstraße, Cadolzburger Weg/ halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / vom 18.03.-04.04.2026\n\n   Glogauer Straße, Hirschberger Straße/ halbseitige Sperrung Fahrbahn/ Glasfasernetzausbau / vom 16.03.-22.04.2026\n\n   Görlitzer Straße 23 Vollsperrung Fahrbahn/ Neubau EFH Anlieferung Garage mittels Kran am 23.03.2026",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "5.2.",
+        "title": "Antrag auf Zustimmung nach § 127 TKG für die Durchführung von Baumaßnahmen in Langenzenn und dem Ortsteil Laubendorf für die Verlegung eines Glasfaserkabels",
+        "facts": "Die Vodafone GmbH beabsichtigt im Auftrag der NGN Fiber Network GmbH & Co. KG die Durchführung einer Baumaßnahme in Langenzenn und den Ortsteil Laubendorf (Errichtung von neuen Glasfaserkabellinien).\n\nDie Zustimmung erfolgt nach dem Telekommunikationsgesetz entsprechend dem, der Vodafone GmbH zustehenden gesetzlichen Leitungsrecht (§ 127 TKG).\n\nDie Verlegung erfolgt ausschließlich auf öffentlichem Grund. Der betroffene Bereich ist im Lageplan markiert.\n\nDurch die Verwaltung wird darauf hingewiesen, dass\n\n- der Ausgangszustand vor Beginn der Maßnahme nach Abschluss wieder hergestellt werden muss.\n\n- ein Benutzungsentgelt nicht erhoben wird. - die diversen vorhandenen Versorgungsleitungen im Zuge der Baumaßnahme beachtet werden müssen.\n\nWeitere Auflagen, welche sich aus der fortschreitenden Planung des Entlastungskanals Nürnberger Straße ergeben, werden pauschal in der Zustimmung vermerkt. Vor Ausführungsbeginn wird es einen finalen Abstimmungstermin zwischen Stadt, IB Miller und Baufirma geben.\n\nHinweis zur Spartenabstimmung: Die Unterlagen wurden an die Stadtwerke weitergeleitet.\n\nDer Lageplan über die betroffenen Bereiche ist der Niederschrift als Anlage 1 beigefügt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis von der geplanten Maßnahme. Die Zustimmung wird erteilt.",
+        "vote": {
+          "summary": "einstimmig beschlossen",
+          "inFavour": 8,
+          "against": 0
+        }
+      },
+      {
+        "number": "5.3.",
+        "title": "Verkehrsplanung: hier: Verkehrsuntersuchung am Knotenpunkt Frankenstraße/Klaushofer Weg/Zollner Straße",
+        "facts": "Das Ingenieurbüro PSLV Planungsgesellschaft Stadt Land Verkehr GmbH hat (abzustimmende) Maßnahmenvorschläge der Knotenpunktgestaltung für den Verkehrsknotenpunkt Frankenstraße / Klaushofer Weg / Zollnerstraße ausgearbeitet.\n\nDie Varianten sind vorabzustimmen, sodass entschieden werden kann, welche Variante final in das Gutachten aufzunehmen ist.\n\nAlle Konstellationen wurden rein leistungstechnisch auf Machbarkeit geprüft.\n\nBislang liegen noch nicht alle Rückmeldungen der Fachbehörden vor, weshalb am 25.03.2026 ein gemeinsamer Ortstermin mit dem Landratsamt sowie der Polizei stattfinden soll.\n\nDie mit den Fachbehörden abgestimmten Varianten und das finale Gutachten werden dem Ausschuss in einer der nächsten Sitzungen vorgelegt.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.",
+        "title": "Mitteilungen öffentlich"
+      },
+      {
+        "number": "6.1.",
+        "title": "Generalsanierung Hallenbad; Bundesförderprogramm „Sanierung von Schwimmstätten“ im Frühjahr 2026; hier: Informationen des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen zum Projektaufruf",
+        "facts": "Am 20.03.2026 hat das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen die Informationen zum Bundesprogramm „Sanierung kommunaler Sportstätten“ Projektaufruf 2026 – Schwimmbäder veröffentlicht.\n\nHierbei gelten im Grunde die gleichen Rahmenbedingungen und Anforderungen wie beim bisherigen, allgemeinen Bundesprogramm „Sanierung kommunaler Sportstätten“, für das sich die Stadt Langenzenn im Januar 2026 mit dem Neubau des „Interkommunalen Hallenbad“ beworben hat.\n\nNachdem auch im Rahmen des „Schwimmbadprogramms“ Ersatzneubauten förderfähig sind, wären aus Sicht der Verwaltung sowohl eine Bewerbung mit einem interkommunalen Hallenbad (Neubau) am Schulcampus, als auch eine Bewerbung mit dem bisherigen Hallenbad (Sanierung) in der Reichenberger Straße denkbar.\n\nGleichzeitig könnten ab der zweiten Runde des Hauptprogramms „Sanierung kommunaler Sportstätten“ ebenfalls zwei Förderanträge eingereicht werden.\n\nVor diesem Hintergrund wäre für beide Varianten eine Fortschreibung der bisherigen Planungen zielführend, sofern beide Varianten durch den Stadtrat gewünscht sind. Eine erneute Beratung erfolgt in der kommenden Sitzung des Stadtrates.\n\nDie Projektskizzen für eine Teilnahme am Förderverfahren „Schwimmbäder“ wären bis 19.06.2026 einzureichen.",
+        "decision": "Der Bau-, Umwelt- und Verkehrsausschuss nimmt Kenntnis.\n\nDer Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "6.2.",
+        "title": "Schilf-Bewuchs am Dorfweiher Keidenzell",
+        "facts": "In der 63. Sitzung des Bau-, Umwelt- und Verkehrsausschusses am 25.11.2025 hat Stadträtin Franz berichtet, dass der Schilf-Bewuchs am und um den Dorfweiher in Keidenzell stark wuchert und überhandnimmt. Der Bewuchs geht wohl bereits auf angrenzende Äcker und Wege über. Sie hat darum gebeten, prüfen zu lassen, ob man das Schilf etwas zurücknehmen könnte.\n\nDie Zuständigkeit für eine solche Prüfung obliegt der Unteren Naturschutzbehörde (UNB) des Landratsamtes Fürth. Auf die Anfrage, ob im dortigen Bereich das Schilf zurückgenommen werden könne, antwortete die UNB mit folgender Stellungnahme:\n\nUnsere Fachkraft war am 12.02.2026 vor Ort. Bei dem festgestellten Schilfbestand handelt es sich um ein nach § 30 Abs. 2 Nr. 2 Bundesnaturschutzgesetz sowie Art. 23 Abs. 1 Nr. 1 Bayerisches Naturschutzgesetz geschütztes Röhrichtbiotop. Für dieses gilt der gesetzliche Biotopschutz. Danach ist es verboten, Handlungen vorzunehmen, die zu einer Zerstörung oder einer sonstigen erheblichen Beeinträchtigung des Biotops führen können. Darüber hinaus ist § 39 Abs. 5 Satz 1 Nr. 3 BNatSchG zu beachten. Demnach dürfen Röhrichte nur abschnittsweise und ausschließlich außerhalb der Brutschutzzeit (01.03. bis 30.09.) zurückgenommen werden.\n\nEine geringfügige, abschnittsweise Rücknahme des Schilfs (bis zu etwa einem Drittel) außerhalb der Brutschutzzeit, die nicht zu einer erheblichen Beeinträchtigung des Biotops führt, könnte im Einzelfall zugelassen werden. Eine solche Maßnahme ist jedoch vorab mit der unteren Naturschutzbehörde abzustimmen. Aus fachlicher Sicht besteht derzeit kein Anlass für eine Entfernung oder Rücknahme des Schilfbestandes. Weder ist ein Zuwachsen von Wegen (abgesehen von der Flurnummer 659) festzustellen, noch sind Beeinträchtigungen oder Nachteile für die Bewirtschaftung der angrenzenden Flächen erkennbar. Sofern eine weitergehende Rücknahme des Bestandes beabsichtigt ist, bedarf auch dies der vorherigen Abstimmung mit der unteren Naturschutzbehörde. In diesem Zusammenhang käme gegebenenfalls die Erteilung einer Ausnahme nach Art. 23 Abs. 3 Satz 1 BayNatSchG in Betracht. Die Entscheidung über eine Ausnahme erfolgt im Rahmen einer Ermessensentscheidung. Voraussetzung hierfür ist insbesondere das Vorliegen eines überwiegenden öffentlichen Interesses oder die Möglichkeit eines angemessenen Ausgleichs. Dem gesetzlichen Biotopschutz, der ebenfalls ein öffentliches Interesse darstellt, kommt dabei ein hoher Stellenwert zu. Eine Ausnahme kann daher nur erteilt werden, wenn das geltend gemachte öffentliche Interesse das Interesse am Erhalt des Biotops überwiegt und die Maßnahme erforderlich ist, das heißt, keine zumutbaren Alternativen bestehen. Ein alternativer möglicher Ausgleich wäre durch die Gemeinde vorzuschlagen und durch die untere Naturschutzbehörde zu prüfen. Voraussetzung hierfür ist jedoch zunächst die nachvollziehbare Darlegung der Erforderlichkeit der geplanten Maßnahme.\n\nHinsichtlich dem Erreichen der Flurnummer 663/0 über die Flurnummer 659/0 konnte konkret das überwiegende öffentliche Interesse nicht begründet werden, da die Betretung eines Grundstücks durch eine einzelne Person lediglich ein faktisches Einzelinteresse darstellt und daher das öffentliche Interesse dem ebenfalls öffentlichen Interesse am Biotopschutz nicht überwiegt. Auch die Voraussetzungen für eine naturschutzrechtliche Befreiung waren nicht erfüllt. Da die Notwendigkeit ebenfalls abzuwägen ist und eine zumutbare mögliche Alternative über das benachbarte Grundstück in öffentlichem Eigentum – auf dessen Luftbild auch bereits Fahrspuren zu erkennen sind - zu queren vorhanden war, hat die untere Naturschutzbehörde dies vorgeschlagen. Die Stadt Langenzenn erklärte sich dazu bereit, wurde aber nicht verpflichtet die Querung Ihres Grundstückes zulassen zu müssen.\n\nAnmerkung: für den als nicht ausgebauten Feld- und Wiesenweg gewidmeten Weg auf der Fl.-Nr. 659, welcher verschilft ist und weshalb die 663 nicht mehr darüber erreicht werden kann, wurde bereits im Herbst 2025 ein Schilfrückschnitt bei der UNB angefragt und mit der hier aufgeführten Begründung bereits im Vorfeld abgelehnt.\n\nÜber die Stellungnahme hinaus bietet die UNB bei Interesse einen Ortstermin an, um weiter bestehende Unklarheiten vor Ort klären zu können. Dieser Termin würde vom Naturamt koordiniert werden.",
+        "decision": "Der Ausschuss nimmt Kenntnis."
+      },
+      {
+        "number": "7.",
+        "title": "Sonstiges öffentlich"
+      },
+      {
+        "number": "7.1.",
+        "title": "Widerrechtliche Ablagerung im Bereich des Spielplatzes in Lohe",
+        "facts": "Stadträtin Plevka weist darauf hin, dass die öffentliche Grünfläche neben dem Spielplatz in Lohe weiterhin als Abstellplatz für einen Lkw genutzt wird und zudem zahlreiche Scherben dort verstreut liegen.\n\nDie Verwaltung teilt mit, dass das Aufstellen von Bauzäunen bereits veranlasst wurde und auch der Eigentümer entsprechend angeschrieben ist. Da es sich um eine Ordnungswidrigkeit handelt, werden sowohl sicherheitsrechtliche als auch öffentlich-rechtliche Maßnahmen ergriffen."
+      },
+      {
+        "number": "7.2.",
+        "title": "Sitzbank am Spielplatz in Lohe",
+        "facts": "Stadträtin Plevka bittet um Prüfung, ob die bestehende Sitzbank neben dem Spielplatz in Lohe versetzt werden kann, da der Zugang für viele Bürgerinnen und Bürger sehr beschwerlich ist.\n\nStadtrat Durlak schlägt eine Ortsbesichtigung in einer der nächsten Ausschusssitzungen vor."
+      },
+      {
+        "number": "7.3.",
+        "title": "Unzureichender Hochwasserablauf an der Zennwiese, Nähe Gymnasium",
+        "facts": "Stadträtin Plevka merkt an, dass beim letzten Hochwasser unterhalb des Gymnasiums das Wasser sehr lange stand und nicht gut ablaufen konnte.\n\nDie Verwaltung informiert, dass Erstmaßnahmen durch den Ersten Bürgermeister bereits angewiesen worden sind."
+      },
+      {
+        "number": "7.4.",
+        "title": "Familien-Stützpunkt; hier: Bewerbungsfrist",
+        "facts": "Stadträtin Ritter möchte daran erinnern, dass die Bewerbungsfrist für einen Familien-Stützpunkt in Kürze ablaufen wird.\n\nDie Verwaltung gibt dies intern an die zuständige Stelle weiter."
+      },
+      {
+        "number": "7.5.",
+        "title": "FFH-Gebiet - Aufnahme der Maßnahme in neue Pachtverträge",
+        "facts": "Stadträtin Ritter erkundigt sich nach dem Sachstand bzgl. der Aufnahme der Maßnahmen aus dem Managementplanes in neu abzuschließende Pachtverträge für Flächen des betreffenden FFH-Gebietes. Dies war bereits Bestandteil einer Ausschusssitzung im November 2025.\n\nDie Verwaltung teilt mit, dass das Naturamt dies weiterhin in Bearbeitung hat. Sobald nähere Informationen vorliegen, werden diese dem Ausschuss mitgeteilt."
+      },
+      {
+        "number": "7.6.",
+        "title": "Baumpflegearbeiten Würzburger Straße / Ecke Wiesenweg",
+        "facts": "Stadträtin Schendzielorz-Kostopoulos weist daraufhin, dass einige Bäume an der Würzburger Straße, Ecke Wiesenweg, zurückgeschnitten werden sollten, da sie in öffentliche Verkehrsflächen und Privatgrundstücke hineinragen.\n\nDie Verwaltung teilt mit, dass der Pflegerückschnitt bereits beauftragt wurde und zeitnah erfolgen wird."
+      },
+      {
+        "number": "7.7.",
+        "title": "Stadtfriedhof; |hier: Gießwasser",
+        "facts": "Stadtrat O. Vogel bemängelt, dass am Stadtfriedhof im oberen Teil das Wasser für die Grabpflege noch nicht aufgedreht worden ist.\n\nDie Information wird an die Stadtwerke weitergegeben."
+      },
+      {
+        "number": "7.8.",
+        "title": "Waldfriedhof; |hier: Antrag auf Vergrößerung der Baumbestattungen",
+        "facts": "Stadtrat O. Vogel stellt einen Antrag zur Vergrößerung der Baumbestattungen am Waldfriedhof. Derzeit sind nur noch 28 Bestattungen möglich. Zudem soll künftig darauf geachtet werden, dass bei Baumbestattungen keine Rohre mehr in den Urnengräbern verwendet werden sollten.\n\nStadtrat O. Vogel schlägt vor, anstelle der bislang verwendeten Würfel künftig Tafeln bzw. Platten mit den persönlichen Daten der Verstorbenen zu nutzen, wie es in anderen Gemeinden bereits praktiziert wird\n\nDie Verwaltung wird die Angelegenheit an die Friedhofsverwaltung weiterleiten."
+      },
+      {
+        "number": "7.9.",
+        "title": "Geschmückte Osterbrunnen der Außenorte",
+        "facts": "Stadträtin Schlager bemängelt, dass im kommenden Mitteilungsblatt nur der geschmückte Osterbrunnen am Martin-Luther-Platz abgebildet wird. Auch in den Außenorten gibt es Osterbrunnen, die mit viel Engagement der Bürger geschmückt werden. Sie bittet darum künftig auch die geschmückten Osterbrunnen der Außenorte im Mitteilungsblatt zu veröffentlichen.\n\nDie Verwaltung gibt die Bitte an das Kulturamt weiter"
+      }
+    ]
+  },
   "sources": {
-    "announcement": "182949"
+    "announcement": "182949",
+    "minutes": "188438"
   }
 }
