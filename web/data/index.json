@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:16:30.709219Z",
+  "generatedAt": "2026-11-20T01:19:33.910560Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -43,24 +43,42 @@
       "title": "Sozial-, Bildungs- und Kulturausschuss",
       "date": "2026-11-25",
       "startTime": "19:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "188552",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188552&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3454",
       "title": "Hauptausschuss",
       "date": "2026-11-25",
       "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "188554",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188554&type=do&smcmode=32832"
+      }
     },
     {
       "id": "3452",
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2026-11-24",
       "startTime": "17:00",
-      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
+      "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
+      "announcement": {
+        "id": "188550",
+        "kind": "announcement",
+        "label": "BMÖffentliche Bekanntmachung",
+        "sourceUrl": "https://www.buergerinfo-langenzenn.de/getfile.php?id=188550&type=do&smcmode=32832"
+      }
     },
     {
-      "id": "3468",
+      "id": "2026-11-19-b-rgerversammlung",
       "title": "Bürgerversammlung",
       "date": "2026-11-19",
       "startTime": "19:00",
