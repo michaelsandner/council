@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:19:33.910560Z",
+  "generatedAt": "2026-11-24T04:19:28.916135Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -111,6 +111,7 @@
       "title": "Stadtrat Langenzenn",
       "date": "2026-11-10",
       "startTime": "17:00",
+      "endTime": "18:37",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1"
     },
     {
@@ -145,8 +146,8 @@
       "id": "3450",
       "title": "Hauptausschuss",
       "date": "2026-10-21",
-      "startTime": "20:00",
-      "endTime": "18:00",
+      "startTime": "17:00",
+      "endTime": "18:20",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187797",
@@ -174,6 +175,7 @@
       "title": "Stadtrat Langenzenn",
       "date": "2026-10-15",
       "startTime": "17:30",
+      "endTime": "18:24",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187597",
@@ -208,7 +210,7 @@
       "title": "Hauptausschuss",
       "date": "2026-09-30",
       "startTime": "18:30",
-      "endTime": "10:27",
+      "endTime": "20:27",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "187222",
