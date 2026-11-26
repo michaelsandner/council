@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:19:28.916135Z",
+  "generatedAt": "2026-11-26T02:16:12.813972Z",
   "source": "https://www.buergerinfo-langenzenn.de",
   "parserVersion": 4,
   "meetings": [
@@ -69,6 +69,7 @@
       "title": "Bau-, Umwelt- und Verkehrsausschuss",
       "date": "2026-11-24",
       "startTime": "17:00",
+      "endTime": "19:49",
       "location": "Sitzungssaal des Alten Rathauses in Langenzenn, Prinzregentenplatz 1",
       "announcement": {
         "id": "188550",
@@ -82,6 +83,7 @@
       "title": "Bürgerversammlung",
       "date": "2026-11-19",
       "startTime": "19:00",
+      "endTime": "20:30",
       "location": "Seerose Horbach"
     },
     {
